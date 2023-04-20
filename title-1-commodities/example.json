@@ -1,0 +1,60 @@
+{
+  "Alabama": [
+    {
+      "years": "2018-2022",
+      "totalPaymentInDollars": "90951662.35",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": "20394631.98"
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": "27636357.08"
+            }
+          ],
+          "totalPaymentInDollars": "27636357.08"
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "totalPaymentInDollars": "27636357.08"
+        },
+        {
+          "programName": "Dairy Margin Coverage Program (DMC)",
+          "subPrograms": [],
+          "totalPaymentInDollars": "27636357.08"
+        },
+        {
+          "programName": "Disaster Assistance",
+          "subPrograms": [
+            {
+              "subProgramName": "Tree Assistance Program (TAP)",
+              "paymentInDollars": "20394631.98"
+            },
+            {
+              "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
+              "paymentInDollars": "27636357.08"
+            },
+            {
+              "subProgramName": "Livestock Forage Disaster Program (LFP)",
+              "paymentInDollars": "27636357.08"
+            },
+            {
+              "subProgramName": "Livestock Indemnity Program (LIP)",
+              "paymentInDollars": "27636357.08"
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": "27636357.08"
+            }
+          ],
+          "totalPaymentInDollars": "27636357.08"
+        }
+      ]
+    }
+  ]
+}

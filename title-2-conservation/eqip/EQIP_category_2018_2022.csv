@@ -1,0 +1,1978 @@
+﻿Pay_year,state_code,State,category_code,category_code_num,category_name,payments
+2018,1,Alabama,4 Conservation planning assessment,4,Conservation planning assessment,70692.11
+2018,1,Alabama,6 Other 1 - planning,6,Other 1 - planning,61704.73
+2018,1,Alabama,7 Structural,7,Structural,4078781.4
+2018,1,Alabama,8 Land management,8,Land management,6255685.64
+2018,1,Alabama,9 Vegetative,9,Vegetative,1970500.76
+2018,1,Alabama,10 Forest management,10,Forest management,4444296.21
+2018,1,Alabama,12 Soil remediation,12,Soil remediation,5156.21
+2018,1,Alabama,13 Other 2 - improvement,13,Other 2 - improvement,1120090.06
+2018,2,Alaska,7 Structural,7,Structural,1925884.61
+2018,2,Alaska,8 Land management,8,Land management,2597273.89
+2018,2,Alaska,9 Vegetative,9,Vegetative,145844.62
+2018,2,Alaska,10 Forest management,10,Forest management,2079772.68
+2018,2,Alaska,12 Soil remediation,12,Soil remediation,9772.63
+2018,2,Alaska,13 Other 2 - improvement,13,Other 2 - improvement,4636.96
+2018,4,Arizona,7 Structural,7,Structural,6295323.97
+2018,4,Arizona,8 Land management,8,Land management,4824596.18
+2018,4,Arizona,9 Vegetative,9,Vegetative,34188.56
+2018,4,Arizona,10 Forest management,10,Forest management,1109537.35
+2018,4,Arizona,12 Soil remediation,12,Soil remediation,5367.3
+2018,4,Arizona,13 Other 2 - improvement,13,Other 2 - improvement,69172.4
+2018,5,Arkansas,6 Other 1 - planning,6,Other 1 - planning,306475.56
+2018,5,Arkansas,7 Structural,7,Structural,21778636.86
+2018,5,Arkansas,8 Land management,8,Land management,9386104.6
+2018,5,Arkansas,9 Vegetative,9,Vegetative,2935794.08
+2018,5,Arkansas,10 Forest management,10,Forest management,1542040.57
+2018,5,Arkansas,12 Soil remediation,12,Soil remediation,1610751.89
+2018,5,Arkansas,13 Other 2 - improvement,13,Other 2 - improvement,2436966.98
+2018,6,California,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,42503.38
+2018,6,California,4 Conservation planning assessment,4,Conservation planning assessment,292766.62
+2018,6,California,6 Other 1 - planning,6,Other 1 - planning,64420.85
+2018,6,California,7 Structural,7,Structural,68922083.54
+2018,6,California,8 Land management,8,Land management,7709577.4
+2018,6,California,9 Vegetative,9,Vegetative,585954.95
+2018,6,California,10 Forest management,10,Forest management,10114216.68
+2018,6,California,12 Soil remediation,12,Soil remediation,384748.64
+2018,6,California,13 Other 2 - improvement,13,Other 2 - improvement,2194314.9
+2018,8,Colorado,4 Conservation planning assessment,4,Conservation planning assessment,8929.78
+2018,8,Colorado,6 Other 1 - planning,6,Other 1 - planning,22435.53
+2018,8,Colorado,7 Structural,7,Structural,20510579.17
+2018,8,Colorado,8 Land management,8,Land management,3247434.92
+2018,8,Colorado,9 Vegetative,9,Vegetative,1735912.6
+2018,8,Colorado,10 Forest management,10,Forest management,2645260.02
+2018,8,Colorado,12 Soil remediation,12,Soil remediation,79061.06
+2018,8,Colorado,13 Other 2 - improvement,13,Other 2 - improvement,303169.54
+2018,9,Connecticut,4 Conservation planning assessment,4,Conservation planning assessment,55160.42
+2018,9,Connecticut,6 Other 1 - planning,6,Other 1 - planning,49782.16
+2018,9,Connecticut,7 Structural,7,Structural,840288.74
+2018,9,Connecticut,8 Land management,8,Land management,687430.46
+2018,9,Connecticut,9 Vegetative,9,Vegetative,197600.36
+2018,9,Connecticut,10 Forest management,10,Forest management,254322.59
+2018,9,Connecticut,12 Soil remediation,12,Soil remediation,199.63
+2018,9,Connecticut,13 Other 2 - improvement,13,Other 2 - improvement,391683.87
+2018,10,Delaware,6 Other 1 - planning,6,Other 1 - planning,166787.56
+2018,10,Delaware,7 Structural,7,Structural,4133242.22
+2018,10,Delaware,8 Land management,8,Land management,1425706.84
+2018,10,Delaware,9 Vegetative,9,Vegetative,1278384.8
+2018,10,Delaware,10 Forest management,10,Forest management,61244.04
+2018,10,Delaware,12 Soil remediation,12,Soil remediation,271402.85
+2018,10,Delaware,13 Other 2 - improvement,13,Other 2 - improvement,383563.81
+2018,12,Florida,4 Conservation planning assessment,4,Conservation planning assessment,8691.21
+2018,12,Florida,6 Other 1 - planning,6,Other 1 - planning,20950.59
+2018,12,Florida,7 Structural,7,Structural,4190899.15
+2018,12,Florida,8 Land management,8,Land management,4597732.77
+2018,12,Florida,9 Vegetative,9,Vegetative,1201597.32
+2018,12,Florida,10 Forest management,10,Forest management,1799905.32
+2018,12,Florida,12 Soil remediation,12,Soil remediation,100166.21
+2018,12,Florida,13 Other 2 - improvement,13,Other 2 - improvement,1088537.26
+2018,13,Georgia,6 Other 1 - planning,6,Other 1 - planning,143222.97
+2018,13,Georgia,7 Structural,7,Structural,11510930.8
+2018,13,Georgia,8 Land management,8,Land management,5847836.85
+2018,13,Georgia,9 Vegetative,9,Vegetative,2979434.92
+2018,13,Georgia,10 Forest management,10,Forest management,7008162.64
+2018,13,Georgia,12 Soil remediation,12,Soil remediation,156758.09
+2018,13,Georgia,13 Other 2 - improvement,13,Other 2 - improvement,1202254.12
+2018,15,Hawaii,6 Other 1 - planning,6,Other 1 - planning,21332.15
+2018,15,Hawaii,7 Structural,7,Structural,987646.78
+2018,15,Hawaii,8 Land management,8,Land management,2559816.31
+2018,15,Hawaii,9 Vegetative,9,Vegetative,171895.72
+2018,15,Hawaii,10 Forest management,10,Forest management,395765.48
+2018,15,Hawaii,12 Soil remediation,12,Soil remediation,737.47
+2018,15,Hawaii,13 Other 2 - improvement,13,Other 2 - improvement,6122.13
+2018,16,Idaho,6 Other 1 - planning,6,Other 1 - planning,48743.47
+2018,16,Idaho,7 Structural,7,Structural,8011831.07
+2018,16,Idaho,8 Land management,8,Land management,2120473.89
+2018,16,Idaho,9 Vegetative,9,Vegetative,871921.72
+2018,16,Idaho,10 Forest management,10,Forest management,671710.4
+2018,16,Idaho,12 Soil remediation,12,Soil remediation,476072.97
+2018,16,Idaho,13 Other 2 - improvement,13,Other 2 - improvement,269257.91
+2018,17,Illinois,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,1672.43
+2018,17,Illinois,4 Conservation planning assessment,4,Conservation planning assessment,136026.51
+2018,17,Illinois,6 Other 1 - planning,6,Other 1 - planning,110255.82
+2018,17,Illinois,7 Structural,7,Structural,7025248.14
+2018,17,Illinois,8 Land management,8,Land management,2032943.7
+2018,17,Illinois,9 Vegetative,9,Vegetative,1244617.76
+2018,17,Illinois,10 Forest management,10,Forest management,241546.39
+2018,17,Illinois,12 Soil remediation,12,Soil remediation,39662.05
+2018,17,Illinois,13 Other 2 - improvement,13,Other 2 - improvement,63006.47
+2018,18,Indiana,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,102979.85
+2018,18,Indiana,4 Conservation planning assessment,4,Conservation planning assessment,205875.06
+2018,18,Indiana,6 Other 1 - planning,6,Other 1 - planning,217129.06
+2018,18,Indiana,7 Structural,7,Structural,6029436.32
+2018,18,Indiana,8 Land management,8,Land management,2771600.98
+2018,18,Indiana,9 Vegetative,9,Vegetative,8386688.48
+2018,18,Indiana,10 Forest management,10,Forest management,1008549.07
+2018,18,Indiana,12 Soil remediation,12,Soil remediation,841316.23
+2018,18,Indiana,13 Other 2 - improvement,13,Other 2 - improvement,307368.65
+2018,19,Iowa,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,45968.58
+2018,19,Iowa,4 Conservation planning assessment,4,Conservation planning assessment,105492.34
+2018,19,Iowa,6 Other 1 - planning,6,Other 1 - planning,95452.72
+2018,19,Iowa,7 Structural,7,Structural,7879508.23
+2018,19,Iowa,8 Land management,8,Land management,2455856.66
+2018,19,Iowa,9 Vegetative,9,Vegetative,5080183.81
+2018,19,Iowa,10 Forest management,10,Forest management,71440.6
+2018,19,Iowa,12 Soil remediation,12,Soil remediation,319317.79
+2018,19,Iowa,13 Other 2 - improvement,13,Other 2 - improvement,1450278.61
+2018,20,Kansas,6 Other 1 - planning,6,Other 1 - planning,4457.61
+2018,20,Kansas,7 Structural,7,Structural,14267722.62
+2018,20,Kansas,8 Land management,8,Land management,3989229.3
+2018,20,Kansas,9 Vegetative,9,Vegetative,6195599.73
+2018,20,Kansas,10 Forest management,10,Forest management,863366.17
+2018,20,Kansas,12 Soil remediation,12,Soil remediation,248628.82
+2018,20,Kansas,13 Other 2 - improvement,13,Other 2 - improvement,66109.06
+2018,21,Kentucky,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,5745.65
+2018,21,Kentucky,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,8250.63
+2018,21,Kentucky,4 Conservation planning assessment,4,Conservation planning assessment,75913.51
+2018,21,Kentucky,6 Other 1 - planning,6,Other 1 - planning,179715.24
+2018,21,Kentucky,7 Structural,7,Structural,4728956.32
+2018,21,Kentucky,8 Land management,8,Land management,2887365.53
+2018,21,Kentucky,9 Vegetative,9,Vegetative,1546810.06
+2018,21,Kentucky,10 Forest management,10,Forest management,762261.75
+2018,21,Kentucky,12 Soil remediation,12,Soil remediation,43708.2
+2018,21,Kentucky,13 Other 2 - improvement,13,Other 2 - improvement,1004684.5
+2018,22,Louisiana,6 Other 1 - planning,6,Other 1 - planning,14946.81
+2018,22,Louisiana,7 Structural,7,Structural,5518920.51
+2018,22,Louisiana,8 Land management,8,Land management,7190531.58
+2018,22,Louisiana,9 Vegetative,9,Vegetative,3316949.8
+2018,22,Louisiana,10 Forest management,10,Forest management,1505553.12
+2018,22,Louisiana,12 Soil remediation,12,Soil remediation,161209.31
+2018,22,Louisiana,13 Other 2 - improvement,13,Other 2 - improvement,368097.3
+2018,23,Maine,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2730.24
+2018,23,Maine,4 Conservation planning assessment,4,Conservation planning assessment,285362.47
+2018,23,Maine,6 Other 1 - planning,6,Other 1 - planning,270018.65
+2018,23,Maine,7 Structural,7,Structural,5804013.13
+2018,23,Maine,8 Land management,8,Land management,2243094.97
+2018,23,Maine,9 Vegetative,9,Vegetative,562947.06
+2018,23,Maine,10 Forest management,10,Forest management,612430.84
+2018,23,Maine,12 Soil remediation,12,Soil remediation,33300.58
+2018,23,Maine,13 Other 2 - improvement,13,Other 2 - improvement,116901.49
+2018,24,Maryland,4 Conservation planning assessment,4,Conservation planning assessment,17951.45
+2018,24,Maryland,6 Other 1 - planning,6,Other 1 - planning,41451.63
+2018,24,Maryland,7 Structural,7,Structural,4093587.92
+2018,24,Maryland,8 Land management,8,Land management,3324070.61
+2018,24,Maryland,9 Vegetative,9,Vegetative,290559.33
+2018,24,Maryland,10 Forest management,10,Forest management,125324.05
+2018,24,Maryland,12 Soil remediation,12,Soil remediation,251613.71
+2018,24,Maryland,13 Other 2 - improvement,13,Other 2 - improvement,503599.65
+2018,25,Massachusetts,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,448.8
+2018,25,Massachusetts,4 Conservation planning assessment,4,Conservation planning assessment,30504.37
+2018,25,Massachusetts,6 Other 1 - planning,6,Other 1 - planning,78236.39
+2018,25,Massachusetts,7 Structural,7,Structural,2396204.75
+2018,25,Massachusetts,8 Land management,8,Land management,715298.48
+2018,25,Massachusetts,9 Vegetative,9,Vegetative,405390.38
+2018,25,Massachusetts,10 Forest management,10,Forest management,146665
+2018,25,Massachusetts,12 Soil remediation,12,Soil remediation,25393.54
+2018,25,Massachusetts,13 Other 2 - improvement,13,Other 2 - improvement,358589.32
+2018,26,Michigan,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,12284.09
+2018,26,Michigan,4 Conservation planning assessment,4,Conservation planning assessment,244963.02
+2018,26,Michigan,6 Other 1 - planning,6,Other 1 - planning,515168
+2018,26,Michigan,7 Structural,7,Structural,5532670.1
+2018,26,Michigan,8 Land management,8,Land management,1637861.78
+2018,26,Michigan,9 Vegetative,9,Vegetative,2463035.81
+2018,26,Michigan,10 Forest management,10,Forest management,454571.34
+2018,26,Michigan,12 Soil remediation,12,Soil remediation,199092.98
+2018,26,Michigan,13 Other 2 - improvement,13,Other 2 - improvement,927371.03
+2018,27,Minnesota,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,35269.36
+2018,27,Minnesota,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,4084.24
+2018,27,Minnesota,4 Conservation planning assessment,4,Conservation planning assessment,261567.17
+2018,27,Minnesota,6 Other 1 - planning,6,Other 1 - planning,197668.16
+2018,27,Minnesota,7 Structural,7,Structural,8305808.27
+2018,27,Minnesota,8 Land management,8,Land management,3370822.78
+2018,27,Minnesota,9 Vegetative,9,Vegetative,7036615.34
+2018,27,Minnesota,10 Forest management,10,Forest management,382411.69
+2018,27,Minnesota,12 Soil remediation,12,Soil remediation,239640.61
+2018,27,Minnesota,13 Other 2 - improvement,13,Other 2 - improvement,175438.6
+2018,28,Mississippi,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,37556.76
+2018,28,Mississippi,6 Other 1 - planning,6,Other 1 - planning,235234.83
+2018,28,Mississippi,7 Structural,7,Structural,19386447.55
+2018,28,Mississippi,8 Land management,8,Land management,14229190.32
+2018,28,Mississippi,9 Vegetative,9,Vegetative,3257320.18
+2018,28,Mississippi,10 Forest management,10,Forest management,2277141.8
+2018,28,Mississippi,12 Soil remediation,12,Soil remediation,134474.58
+2018,28,Mississippi,13 Other 2 - improvement,13,Other 2 - improvement,1841111.95
+2018,29,Missouri,4 Conservation planning assessment,4,Conservation planning assessment,242949.76
+2018,29,Missouri,6 Other 1 - planning,6,Other 1 - planning,251855.85
+2018,29,Missouri,7 Structural,7,Structural,10562471.78
+2018,29,Missouri,8 Land management,8,Land management,3962737.83
+2018,29,Missouri,9 Vegetative,9,Vegetative,6188590.5
+2018,29,Missouri,10 Forest management,10,Forest management,691653.07
+2018,29,Missouri,12 Soil remediation,12,Soil remediation,52104.18
+2018,29,Missouri,13 Other 2 - improvement,13,Other 2 - improvement,1710715.1
+2018,30,Montana,6 Other 1 - planning,6,Other 1 - planning,21015.73
+2018,30,Montana,7 Structural,7,Structural,7433489.11
+2018,30,Montana,8 Land management,8,Land management,4824400.89
+2018,30,Montana,9 Vegetative,9,Vegetative,938257.99
+2018,30,Montana,10 Forest management,10,Forest management,1355867.74
+2018,30,Montana,12 Soil remediation,12,Soil remediation,77394.85
+2018,30,Montana,13 Other 2 - improvement,13,Other 2 - improvement,82147.22
+2018,31,Nebraska,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2754.38
+2018,31,Nebraska,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,19249.03
+2018,31,Nebraska,4 Conservation planning assessment,4,Conservation planning assessment,34948.82
+2018,31,Nebraska,6 Other 1 - planning,6,Other 1 - planning,4266.43
+2018,31,Nebraska,7 Structural,7,Structural,13501673.66
+2018,31,Nebraska,8 Land management,8,Land management,3208697.6
+2018,31,Nebraska,9 Vegetative,9,Vegetative,5621622.23
+2018,31,Nebraska,10 Forest management,10,Forest management,429802.79
+2018,31,Nebraska,12 Soil remediation,12,Soil remediation,82454.83
+2018,31,Nebraska,13 Other 2 - improvement,13,Other 2 - improvement,225821.22
+2018,32,Nevada,7 Structural,7,Structural,6419851.7
+2018,32,Nevada,8 Land management,8,Land management,1125396.01
+2018,32,Nevada,9 Vegetative,9,Vegetative,6617.44
+2018,32,Nevada,10 Forest management,10,Forest management,150723.39
+2018,32,Nevada,13 Other 2 - improvement,13,Other 2 - improvement,6202.2
+2018,33,New Hampshire,4 Conservation planning assessment,4,Conservation planning assessment,19463.64
+2018,33,New Hampshire,6 Other 1 - planning,6,Other 1 - planning,112874.49
+2018,33,New Hampshire,7 Structural,7,Structural,1183899.19
+2018,33,New Hampshire,8 Land management,8,Land management,1610819.13
+2018,33,New Hampshire,9 Vegetative,9,Vegetative,660877.4
+2018,33,New Hampshire,10 Forest management,10,Forest management,572382.37
+2018,33,New Hampshire,12 Soil remediation,12,Soil remediation,35532.86
+2018,33,New Hampshire,13 Other 2 - improvement,13,Other 2 - improvement,52304.35
+2018,34,New Jersey,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,35835.04
+2018,34,New Jersey,4 Conservation planning assessment,4,Conservation planning assessment,21499.11
+2018,34,New Jersey,6 Other 1 - planning,6,Other 1 - planning,121951.73
+2018,34,New Jersey,7 Structural,7,Structural,2020191.94
+2018,34,New Jersey,8 Land management,8,Land management,640005.62
+2018,34,New Jersey,9 Vegetative,9,Vegetative,822193.5
+2018,34,New Jersey,10 Forest management,10,Forest management,62036.93
+2018,34,New Jersey,12 Soil remediation,12,Soil remediation,42390.8
+2018,34,New Jersey,13 Other 2 - improvement,13,Other 2 - improvement,33780.99
+2018,35,New Mexico,4 Conservation planning assessment,4,Conservation planning assessment,13925.62
+2018,35,New Mexico,7 Structural,7,Structural,12298220.3
+2018,35,New Mexico,8 Land management,8,Land management,4925523.21
+2018,35,New Mexico,9 Vegetative,9,Vegetative,2624539.17
+2018,35,New Mexico,10 Forest management,10,Forest management,3328805.88
+2018,35,New Mexico,12 Soil remediation,12,Soil remediation,48070.09
+2018,35,New Mexico,13 Other 2 - improvement,13,Other 2 - improvement,18317.54
+2018,36,New York,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2844
+2018,36,New York,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,6578.21
+2018,36,New York,4 Conservation planning assessment,4,Conservation planning assessment,114330.05
+2018,36,New York,6 Other 1 - planning,6,Other 1 - planning,105322.76
+2018,36,New York,7 Structural,7,Structural,7016438.93
+2018,36,New York,8 Land management,8,Land management,1856910.5
+2018,36,New York,9 Vegetative,9,Vegetative,479230.92
+2018,36,New York,10 Forest management,10,Forest management,507288.1
+2018,36,New York,12 Soil remediation,12,Soil remediation,53222.38
+2018,36,New York,13 Other 2 - improvement,13,Other 2 - improvement,295165.18
+2018,37,North Carolina,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,3412.8
+2018,37,North Carolina,4 Conservation planning assessment,4,Conservation planning assessment,28547.2
+2018,37,North Carolina,6 Other 1 - planning,6,Other 1 - planning,142262.17
+2018,37,North Carolina,7 Structural,7,Structural,9497472.86
+2018,37,North Carolina,8 Land management,8,Land management,1410424.09
+2018,37,North Carolina,9 Vegetative,9,Vegetative,2319242.27
+2018,37,North Carolina,10 Forest management,10,Forest management,747895.97
+2018,37,North Carolina,12 Soil remediation,12,Soil remediation,150410.12
+2018,37,North Carolina,13 Other 2 - improvement,13,Other 2 - improvement,654984.09
+2018,38,North Dakota,4 Conservation planning assessment,4,Conservation planning assessment,31118.96
+2018,38,North Dakota,6 Other 1 - planning,6,Other 1 - planning,6051.31
+2018,38,North Dakota,7 Structural,7,Structural,6468338.35
+2018,38,North Dakota,8 Land management,8,Land management,3866983.07
+2018,38,North Dakota,9 Vegetative,9,Vegetative,3477175.85
+2018,38,North Dakota,10 Forest management,10,Forest management,307256.57
+2018,38,North Dakota,12 Soil remediation,12,Soil remediation,1220750.77
+2018,38,North Dakota,13 Other 2 - improvement,13,Other 2 - improvement,139947.49
+2018,39,Ohio,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,231980.22
+2018,39,Ohio,4 Conservation planning assessment,4,Conservation planning assessment,155932.56
+2018,39,Ohio,6 Other 1 - planning,6,Other 1 - planning,171429.21
+2018,39,Ohio,7 Structural,7,Structural,8223707.95
+2018,39,Ohio,8 Land management,8,Land management,2435793.6
+2018,39,Ohio,9 Vegetative,9,Vegetative,4738965.83
+2018,39,Ohio,10 Forest management,10,Forest management,225579.42
+2018,39,Ohio,12 Soil remediation,12,Soil remediation,177305
+2018,39,Ohio,13 Other 2 - improvement,13,Other 2 - improvement,225763.97
+2018,40,Oklahoma,6 Other 1 - planning,6,Other 1 - planning,32037.2
+2018,40,Oklahoma,7 Structural,7,Structural,3372052.81
+2018,40,Oklahoma,8 Land management,8,Land management,4897080.56
+2018,40,Oklahoma,9 Vegetative,9,Vegetative,6110769.24
+2018,40,Oklahoma,10 Forest management,10,Forest management,909331.22
+2018,40,Oklahoma,12 Soil remediation,12,Soil remediation,217355.95
+2018,40,Oklahoma,13 Other 2 - improvement,13,Other 2 - improvement,120474.28
+2018,41,Oregon,4 Conservation planning assessment,4,Conservation planning assessment,15323.49
+2018,41,Oregon,6 Other 1 - planning,6,Other 1 - planning,41280.02
+2018,41,Oregon,7 Structural,7,Structural,5301687.54
+2018,41,Oregon,8 Land management,8,Land management,3947578.15
+2018,41,Oregon,9 Vegetative,9,Vegetative,198217.63
+2018,41,Oregon,10 Forest management,10,Forest management,5123683.46
+2018,41,Oregon,12 Soil remediation,12,Soil remediation,211872.4
+2018,41,Oregon,13 Other 2 - improvement,13,Other 2 - improvement,121161.09
+2018,42,Pennsylvania,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,431.34
+2018,42,Pennsylvania,4 Conservation planning assessment,4,Conservation planning assessment,111105.68
+2018,42,Pennsylvania,6 Other 1 - planning,6,Other 1 - planning,122073.67
+2018,42,Pennsylvania,7 Structural,7,Structural,9253175.81
+2018,42,Pennsylvania,8 Land management,8,Land management,3716071.51
+2018,42,Pennsylvania,9 Vegetative,9,Vegetative,1407876.36
+2018,42,Pennsylvania,10 Forest management,10,Forest management,441142.38
+2018,42,Pennsylvania,12 Soil remediation,12,Soil remediation,90462.46
+2018,42,Pennsylvania,13 Other 2 - improvement,13,Other 2 - improvement,391323.85
+2018,44,Rhode Island,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2047.68
+2018,44,Rhode Island,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,2985.38
+2018,44,Rhode Island,4 Conservation planning assessment,4,Conservation planning assessment,5450.6
+2018,44,Rhode Island,6 Other 1 - planning,6,Other 1 - planning,68568.77
+2018,44,Rhode Island,7 Structural,7,Structural,595704.36
+2018,44,Rhode Island,8 Land management,8,Land management,844245.67
+2018,44,Rhode Island,9 Vegetative,9,Vegetative,31896.99
+2018,44,Rhode Island,10 Forest management,10,Forest management,234414.27
+2018,44,Rhode Island,13 Other 2 - improvement,13,Other 2 - improvement,6855
+2018,45,South Carolina,4 Conservation planning assessment,4,Conservation planning assessment,288080.21
+2018,45,South Carolina,6 Other 1 - planning,6,Other 1 - planning,155685.16
+2018,45,South Carolina,7 Structural,7,Structural,6983570.24
+2018,45,South Carolina,8 Land management,8,Land management,3553298.17
+2018,45,South Carolina,9 Vegetative,9,Vegetative,2527759
+2018,45,South Carolina,10 Forest management,10,Forest management,3325096.02
+2018,45,South Carolina,12 Soil remediation,12,Soil remediation,119566.02
+2018,45,South Carolina,13 Other 2 - improvement,13,Other 2 - improvement,1109669.52
+2018,46,South Dakota,7 Structural,7,Structural,8015522.7
+2018,46,South Dakota,8 Land management,8,Land management,3786914.42
+2018,46,South Dakota,9 Vegetative,9,Vegetative,1494923.26
+2018,46,South Dakota,10 Forest management,10,Forest management,205070.25
+2018,46,South Dakota,12 Soil remediation,12,Soil remediation,108051.68
+2018,46,South Dakota,13 Other 2 - improvement,13,Other 2 - improvement,126159.35
+2018,47,Tennessee,4 Conservation planning assessment,4,Conservation planning assessment,62742.87
+2018,47,Tennessee,6 Other 1 - planning,6,Other 1 - planning,128346.74
+2018,47,Tennessee,7 Structural,7,Structural,7887075.26
+2018,47,Tennessee,8 Land management,8,Land management,4962781.05
+2018,47,Tennessee,9 Vegetative,9,Vegetative,11416233.72
+2018,47,Tennessee,10 Forest management,10,Forest management,649123.24
+2018,47,Tennessee,12 Soil remediation,12,Soil remediation,406.92
+2018,47,Tennessee,13 Other 2 - improvement,13,Other 2 - improvement,132832.98
+2018,48,Texas,4 Conservation planning assessment,4,Conservation planning assessment,19376.52
+2018,48,Texas,6 Other 1 - planning,6,Other 1 - planning,13548.41
+2018,48,Texas,7 Structural,7,Structural,32473354.46
+2018,48,Texas,8 Land management,8,Land management,34572638.69
+2018,48,Texas,9 Vegetative,9,Vegetative,7714804.73
+2018,48,Texas,10 Forest management,10,Forest management,6585003.76
+2018,48,Texas,12 Soil remediation,12,Soil remediation,1074194.84
+2018,48,Texas,13 Other 2 - improvement,13,Other 2 - improvement,324989.14
+2018,49,Utah,4 Conservation planning assessment,4,Conservation planning assessment,9219.6
+2018,49,Utah,6 Other 1 - planning,6,Other 1 - planning,17830.01
+2018,49,Utah,7 Structural,7,Structural,15089305.63
+2018,49,Utah,8 Land management,8,Land management,3916773.13
+2018,49,Utah,9 Vegetative,9,Vegetative,297654.18
+2018,49,Utah,10 Forest management,10,Forest management,2666212.76
+2018,49,Utah,12 Soil remediation,12,Soil remediation,32644.2
+2018,49,Utah,13 Other 2 - improvement,13,Other 2 - improvement,416123.79
+2018,50,Vermont,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,100991.65
+2018,50,Vermont,4 Conservation planning assessment,4,Conservation planning assessment,28356.79
+2018,50,Vermont,6 Other 1 - planning,6,Other 1 - planning,233670.73
+2018,50,Vermont,7 Structural,7,Structural,4246004.95
+2018,50,Vermont,8 Land management,8,Land management,1815961.9
+2018,50,Vermont,9 Vegetative,9,Vegetative,2387304.85
+2018,50,Vermont,10 Forest management,10,Forest management,138320.17
+2018,50,Vermont,12 Soil remediation,12,Soil remediation,187620.53
+2018,50,Vermont,13 Other 2 - improvement,13,Other 2 - improvement,16831.45
+2018,51,Virginia,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,19362.15
+2018,51,Virginia,6 Other 1 - planning,6,Other 1 - planning,173846.19
+2018,51,Virginia,7 Structural,7,Structural,9536526.33
+2018,51,Virginia,8 Land management,8,Land management,4780218.2
+2018,51,Virginia,9 Vegetative,9,Vegetative,3333675.1
+2018,51,Virginia,10 Forest management,10,Forest management,545630.74
+2018,51,Virginia,12 Soil remediation,12,Soil remediation,690924.9
+2018,51,Virginia,13 Other 2 - improvement,13,Other 2 - improvement,76094.72
+2018,53,Washington,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,5920
+2018,53,Washington,4 Conservation planning assessment,4,Conservation planning assessment,57875.07
+2018,53,Washington,6 Other 1 - planning,6,Other 1 - planning,124323.35
+2018,53,Washington,7 Structural,7,Structural,7529585.82
+2018,53,Washington,8 Land management,8,Land management,1129300.49
+2018,53,Washington,9 Vegetative,9,Vegetative,211026.84
+2018,53,Washington,10 Forest management,10,Forest management,1851333.52
+2018,53,Washington,12 Soil remediation,12,Soil remediation,2410254.64
+2018,53,Washington,13 Other 2 - improvement,13,Other 2 - improvement,129276.33
+2018,54,West Virginia,4 Conservation planning assessment,4,Conservation planning assessment,147652.82
+2018,54,West Virginia,6 Other 1 - planning,6,Other 1 - planning,30204.88
+2018,54,West Virginia,7 Structural,7,Structural,3696282.87
+2018,54,West Virginia,8 Land management,8,Land management,2244089.76
+2018,54,West Virginia,9 Vegetative,9,Vegetative,523649.86
+2018,54,West Virginia,10 Forest management,10,Forest management,209254.37
+2018,54,West Virginia,12 Soil remediation,12,Soil remediation,9907.41
+2018,54,West Virginia,13 Other 2 - improvement,13,Other 2 - improvement,140195.51
+2018,55,Wisconsin,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,29150.5
+2018,55,Wisconsin,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,38107.85
+2018,55,Wisconsin,4 Conservation planning assessment,4,Conservation planning assessment,443716.81
+2018,55,Wisconsin,6 Other 1 - planning,6,Other 1 - planning,270805.55
+2018,55,Wisconsin,7 Structural,7,Structural,9988853.18
+2018,55,Wisconsin,8 Land management,8,Land management,4686648.42
+2018,55,Wisconsin,9 Vegetative,9,Vegetative,4682226.78
+2018,55,Wisconsin,10 Forest management,10,Forest management,404582.43
+2018,55,Wisconsin,12 Soil remediation,12,Soil remediation,121828.14
+2018,55,Wisconsin,13 Other 2 - improvement,13,Other 2 - improvement,1538391.33
+2018,56,Wyoming,4 Conservation planning assessment,4,Conservation planning assessment,9415.5
+2018,56,Wyoming,7 Structural,7,Structural,7168946.89
+2018,56,Wyoming,8 Land management,8,Land management,1974797.21
+2018,56,Wyoming,9 Vegetative,9,Vegetative,272006.47
+2018,56,Wyoming,10 Forest management,10,Forest management,369239.66
+2018,56,Wyoming,12 Soil remediation,12,Soil remediation,34511.07
+2018,56,Wyoming,13 Other 2 - improvement,13,Other 2 - improvement,5066.22
+2019,1,Alabama,4 Conservation planning assessment,4,Conservation planning assessment,65209.85
+2019,1,Alabama,6 Other 1 - planning,6,Other 1 - planning,47784.16
+2019,1,Alabama,7 Structural,7,Structural,4821093.42
+2019,1,Alabama,8 Land management,8,Land management,6298832.24
+2019,1,Alabama,9 Vegetative,9,Vegetative,2001522.24
+2019,1,Alabama,10 Forest management,10,Forest management,5670209.22
+2019,1,Alabama,13 Other 2 - improvement,13,Other 2 - improvement,1122776.78
+2019,2,Alaska,6 Other 1 - planning,6,Other 1 - planning,6027.41
+2019,2,Alaska,7 Structural,7,Structural,1299661.05
+2019,2,Alaska,8 Land management,8,Land management,1000180.65
+2019,2,Alaska,9 Vegetative,9,Vegetative,135471.81
+2019,2,Alaska,10 Forest management,10,Forest management,3393162.67
+2019,2,Alaska,12 Soil remediation,12,Soil remediation,9772.63
+2019,2,Alaska,13 Other 2 - improvement,13,Other 2 - improvement,8851.23
+2019,4,Arizona,7 Structural,7,Structural,5253284.44
+2019,4,Arizona,8 Land management,8,Land management,5067766.02
+2019,4,Arizona,9 Vegetative,9,Vegetative,41380.35
+2019,4,Arizona,10 Forest management,10,Forest management,978948.85
+2019,4,Arizona,12 Soil remediation,12,Soil remediation,4471.55
+2019,4,Arizona,13 Other 2 - improvement,13,Other 2 - improvement,106980.89
+2019,5,Arkansas,6 Other 1 - planning,6,Other 1 - planning,244204.11
+2019,5,Arkansas,7 Structural,7,Structural,15316924.76
+2019,5,Arkansas,8 Land management,8,Land management,7003372.25
+2019,5,Arkansas,9 Vegetative,9,Vegetative,2452358.48
+2019,5,Arkansas,10 Forest management,10,Forest management,1348268.08
+2019,5,Arkansas,12 Soil remediation,12,Soil remediation,898915.79
+2019,5,Arkansas,13 Other 2 - improvement,13,Other 2 - improvement,2643600.98
+2019,6,California,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,10238.4
+2019,6,California,4 Conservation planning assessment,4,Conservation planning assessment,213153.18
+2019,6,California,6 Other 1 - planning,6,Other 1 - planning,43089.56
+2019,6,California,7 Structural,7,Structural,56858139.09
+2019,6,California,8 Land management,8,Land management,7973376.1
+2019,6,California,9 Vegetative,9,Vegetative,784531.96
+2019,6,California,10 Forest management,10,Forest management,9296554.34
+2019,6,California,12 Soil remediation,12,Soil remediation,73962.59
+2019,6,California,13 Other 2 - improvement,13,Other 2 - improvement,1414313.18
+2019,8,Colorado,6 Other 1 - planning,6,Other 1 - planning,29966.9
+2019,8,Colorado,7 Structural,7,Structural,18023174.18
+2019,8,Colorado,8 Land management,8,Land management,2206732.74
+2019,8,Colorado,9 Vegetative,9,Vegetative,1658596.27
+2019,8,Colorado,10 Forest management,10,Forest management,3068606.83
+2019,8,Colorado,12 Soil remediation,12,Soil remediation,59884.46
+2019,8,Colorado,13 Other 2 - improvement,13,Other 2 - improvement,507363.8
+2019,9,Connecticut,4 Conservation planning assessment,4,Conservation planning assessment,33944.25
+2019,9,Connecticut,6 Other 1 - planning,6,Other 1 - planning,46480.08
+2019,9,Connecticut,7 Structural,7,Structural,2133468.78
+2019,9,Connecticut,8 Land management,8,Land management,705742.24
+2019,9,Connecticut,9 Vegetative,9,Vegetative,125330.64
+2019,9,Connecticut,10 Forest management,10,Forest management,295467.12
+2019,9,Connecticut,13 Other 2 - improvement,13,Other 2 - improvement,410195.94
+2019,10,Delaware,6 Other 1 - planning,6,Other 1 - planning,88921.21
+2019,10,Delaware,7 Structural,7,Structural,2840742.59
+2019,10,Delaware,8 Land management,8,Land management,1348807.53
+2019,10,Delaware,9 Vegetative,9,Vegetative,1685654.89
+2019,10,Delaware,10 Forest management,10,Forest management,17763.7
+2019,10,Delaware,12 Soil remediation,12,Soil remediation,233752.74
+2019,10,Delaware,13 Other 2 - improvement,13,Other 2 - improvement,354201.08
+2019,12,Florida,4 Conservation planning assessment,4,Conservation planning assessment,25614.85
+2019,12,Florida,6 Other 1 - planning,6,Other 1 - planning,36784.06
+2019,12,Florida,7 Structural,7,Structural,6059287.7
+2019,12,Florida,8 Land management,8,Land management,5022523.36
+2019,12,Florida,9 Vegetative,9,Vegetative,1079664.09
+2019,12,Florida,10 Forest management,10,Forest management,2091713.85
+2019,12,Florida,12 Soil remediation,12,Soil remediation,278760.68
+2019,12,Florida,13 Other 2 - improvement,13,Other 2 - improvement,678125.44
+2019,13,Georgia,4 Conservation planning assessment,4,Conservation planning assessment,2897.21
+2019,13,Georgia,6 Other 1 - planning,6,Other 1 - planning,206780.65
+2019,13,Georgia,7 Structural,7,Structural,15186298.55
+2019,13,Georgia,8 Land management,8,Land management,5484206.87
+2019,13,Georgia,9 Vegetative,9,Vegetative,2514778.65
+2019,13,Georgia,10 Forest management,10,Forest management,7625196.74
+2019,13,Georgia,12 Soil remediation,12,Soil remediation,143130.26
+2019,13,Georgia,13 Other 2 - improvement,13,Other 2 - improvement,2917259.25
+2019,15,Hawaii,6 Other 1 - planning,6,Other 1 - planning,18423.54
+2019,15,Hawaii,7 Structural,7,Structural,828579.97
+2019,15,Hawaii,8 Land management,8,Land management,2504592.63
+2019,15,Hawaii,9 Vegetative,9,Vegetative,261685.84
+2019,15,Hawaii,10 Forest management,10,Forest management,655120.18
+2019,15,Hawaii,12 Soil remediation,12,Soil remediation,1681
+2019,16,Idaho,6 Other 1 - planning,6,Other 1 - planning,44691.24
+2019,16,Idaho,7 Structural,7,Structural,14097670.49
+2019,16,Idaho,8 Land management,8,Land management,2337132.95
+2019,16,Idaho,9 Vegetative,9,Vegetative,942657.44
+2019,16,Idaho,10 Forest management,10,Forest management,1080435.63
+2019,16,Idaho,12 Soil remediation,12,Soil remediation,416321.89
+2019,16,Idaho,13 Other 2 - improvement,13,Other 2 - improvement,393529.63
+2019,17,Illinois,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,10155.83
+2019,17,Illinois,4 Conservation planning assessment,4,Conservation planning assessment,168063.39
+2019,17,Illinois,6 Other 1 - planning,6,Other 1 - planning,150151.29
+2019,17,Illinois,7 Structural,7,Structural,5525442.01
+2019,17,Illinois,8 Land management,8,Land management,1779342.71
+2019,17,Illinois,9 Vegetative,9,Vegetative,1346636.12
+2019,17,Illinois,10 Forest management,10,Forest management,187114.96
+2019,17,Illinois,12 Soil remediation,12,Soil remediation,57459.92
+2019,17,Illinois,13 Other 2 - improvement,13,Other 2 - improvement,135548.23
+2019,18,Indiana,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,161172.96
+2019,18,Indiana,4 Conservation planning assessment,4,Conservation planning assessment,174874.21
+2019,18,Indiana,6 Other 1 - planning,6,Other 1 - planning,321216.83
+2019,18,Indiana,7 Structural,7,Structural,5217725.5
+2019,18,Indiana,8 Land management,8,Land management,3036830.28
+2019,18,Indiana,9 Vegetative,9,Vegetative,8825322.44
+2019,18,Indiana,10 Forest management,10,Forest management,836613
+2019,18,Indiana,12 Soil remediation,12,Soil remediation,648773.85
+2019,18,Indiana,13 Other 2 - improvement,13,Other 2 - improvement,307162.28
+2019,19,Iowa,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,67549.49
+2019,19,Iowa,4 Conservation planning assessment,4,Conservation planning assessment,105017.46
+2019,19,Iowa,6 Other 1 - planning,6,Other 1 - planning,119166.79
+2019,19,Iowa,7 Structural,7,Structural,10793813.26
+2019,19,Iowa,8 Land management,8,Land management,3050463.36
+2019,19,Iowa,9 Vegetative,9,Vegetative,7152655.11
+2019,19,Iowa,10 Forest management,10,Forest management,135048.81
+2019,19,Iowa,12 Soil remediation,12,Soil remediation,412045.9
+2019,19,Iowa,13 Other 2 - improvement,13,Other 2 - improvement,1476066.71
+2019,20,Kansas,6 Other 1 - planning,6,Other 1 - planning,8305.64
+2019,20,Kansas,7 Structural,7,Structural,12793030.16
+2019,20,Kansas,8 Land management,8,Land management,3770206.47
+2019,20,Kansas,9 Vegetative,9,Vegetative,5573434.01
+2019,20,Kansas,10 Forest management,10,Forest management,738645.57
+2019,20,Kansas,12 Soil remediation,12,Soil remediation,313413.04
+2019,20,Kansas,13 Other 2 - improvement,13,Other 2 - improvement,33745.47
+2019,21,Kentucky,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,7927.89
+2019,21,Kentucky,4 Conservation planning assessment,4,Conservation planning assessment,118908.54
+2019,21,Kentucky,6 Other 1 - planning,6,Other 1 - planning,151740.65
+2019,21,Kentucky,7 Structural,7,Structural,4559067.08
+2019,21,Kentucky,8 Land management,8,Land management,3087708.24
+2019,21,Kentucky,9 Vegetative,9,Vegetative,2342994.94
+2019,21,Kentucky,10 Forest management,10,Forest management,932316.21
+2019,21,Kentucky,12 Soil remediation,12,Soil remediation,60981.75
+2019,21,Kentucky,13 Other 2 - improvement,13,Other 2 - improvement,481521.72
+2019,22,Louisiana,6 Other 1 - planning,6,Other 1 - planning,14518.13
+2019,22,Louisiana,7 Structural,7,Structural,4628955.63
+2019,22,Louisiana,8 Land management,8,Land management,5441468.35
+2019,22,Louisiana,9 Vegetative,9,Vegetative,3684082.87
+2019,22,Louisiana,10 Forest management,10,Forest management,1286997.39
+2019,22,Louisiana,12 Soil remediation,12,Soil remediation,281343.83
+2019,22,Louisiana,13 Other 2 - improvement,13,Other 2 - improvement,331246.65
+2019,23,Maine,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2355.03
+2019,23,Maine,4 Conservation planning assessment,4,Conservation planning assessment,394114.43
+2019,23,Maine,6 Other 1 - planning,6,Other 1 - planning,310312.04
+2019,23,Maine,7 Structural,7,Structural,4954546.32
+2019,23,Maine,8 Land management,8,Land management,1674203.94
+2019,23,Maine,9 Vegetative,9,Vegetative,747393.84
+2019,23,Maine,10 Forest management,10,Forest management,585189.06
+2019,23,Maine,12 Soil remediation,12,Soil remediation,22576.09
+2019,23,Maine,13 Other 2 - improvement,13,Other 2 - improvement,226231.17
+2019,24,Maryland,4 Conservation planning assessment,4,Conservation planning assessment,12527.34
+2019,24,Maryland,6 Other 1 - planning,6,Other 1 - planning,21611.3
+2019,24,Maryland,7 Structural,7,Structural,3702587.05
+2019,24,Maryland,8 Land management,8,Land management,2741515.02
+2019,24,Maryland,9 Vegetative,9,Vegetative,352566.73
+2019,24,Maryland,10 Forest management,10,Forest management,80219.61
+2019,24,Maryland,12 Soil remediation,12,Soil remediation,227597.92
+2019,24,Maryland,13 Other 2 - improvement,13,Other 2 - improvement,1210305.08
+2019,25,Massachusetts,4 Conservation planning assessment,4,Conservation planning assessment,45015.6
+2019,25,Massachusetts,6 Other 1 - planning,6,Other 1 - planning,34521.13
+2019,25,Massachusetts,7 Structural,7,Structural,1973955.74
+2019,25,Massachusetts,8 Land management,8,Land management,892599.48
+2019,25,Massachusetts,9 Vegetative,9,Vegetative,351121.95
+2019,25,Massachusetts,10 Forest management,10,Forest management,164836.94
+2019,25,Massachusetts,12 Soil remediation,12,Soil remediation,103184.05
+2019,25,Massachusetts,13 Other 2 - improvement,13,Other 2 - improvement,266621.75
+2019,26,Michigan,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,8359.83
+2019,26,Michigan,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,7957.23
+2019,26,Michigan,4 Conservation planning assessment,4,Conservation planning assessment,240578.64
+2019,26,Michigan,6 Other 1 - planning,6,Other 1 - planning,392738.53
+2019,26,Michigan,7 Structural,7,Structural,6276688.48
+2019,26,Michigan,8 Land management,8,Land management,1414094.77
+2019,26,Michigan,9 Vegetative,9,Vegetative,5933145.21
+2019,26,Michigan,10 Forest management,10,Forest management,630707.02
+2019,26,Michigan,12 Soil remediation,12,Soil remediation,141867.73
+2019,26,Michigan,13 Other 2 - improvement,13,Other 2 - improvement,804716.1
+2019,27,Minnesota,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,15013.33
+2019,27,Minnesota,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,4847.1
+2019,27,Minnesota,4 Conservation planning assessment,4,Conservation planning assessment,240984.03
+2019,27,Minnesota,6 Other 1 - planning,6,Other 1 - planning,144287.14
+2019,27,Minnesota,7 Structural,7,Structural,9516850.47
+2019,27,Minnesota,8 Land management,8,Land management,2892499.73
+2019,27,Minnesota,9 Vegetative,9,Vegetative,7407452.55
+2019,27,Minnesota,10 Forest management,10,Forest management,583933.88
+2019,27,Minnesota,12 Soil remediation,12,Soil remediation,216884.6
+2019,27,Minnesota,13 Other 2 - improvement,13,Other 2 - improvement,240185.43
+2019,28,Mississippi,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,282080.73
+2019,28,Mississippi,4 Conservation planning assessment,4,Conservation planning assessment,13162.05
+2019,28,Mississippi,6 Other 1 - planning,6,Other 1 - planning,424099.57
+2019,28,Mississippi,7 Structural,7,Structural,16142050.1
+2019,28,Mississippi,8 Land management,8,Land management,14210839.58
+2019,28,Mississippi,9 Vegetative,9,Vegetative,2536252.81
+2019,28,Mississippi,10 Forest management,10,Forest management,2699117.84
+2019,28,Mississippi,12 Soil remediation,12,Soil remediation,116756.34
+2019,28,Mississippi,13 Other 2 - improvement,13,Other 2 - improvement,5212845.02
+2019,29,Missouri,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,9174.64
+2019,29,Missouri,4 Conservation planning assessment,4,Conservation planning assessment,300271.74
+2019,29,Missouri,6 Other 1 - planning,6,Other 1 - planning,212001.87
+2019,29,Missouri,7 Structural,7,Structural,8479232.71
+2019,29,Missouri,8 Land management,8,Land management,3756905.6
+2019,29,Missouri,9 Vegetative,9,Vegetative,10719565
+2019,29,Missouri,10 Forest management,10,Forest management,516615.71
+2019,29,Missouri,12 Soil remediation,12,Soil remediation,36793.23
+2019,29,Missouri,13 Other 2 - improvement,13,Other 2 - improvement,1854076.51
+2019,30,Montana,6 Other 1 - planning,6,Other 1 - planning,34000.56
+2019,30,Montana,7 Structural,7,Structural,9373526.53
+2019,30,Montana,8 Land management,8,Land management,5198596.17
+2019,30,Montana,9 Vegetative,9,Vegetative,1326898.02
+2019,30,Montana,10 Forest management,10,Forest management,2007754.69
+2019,30,Montana,12 Soil remediation,12,Soil remediation,63720.33
+2019,30,Montana,13 Other 2 - improvement,13,Other 2 - improvement,80989.4
+2019,31,Nebraska,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,28211.14
+2019,31,Nebraska,4 Conservation planning assessment,4,Conservation planning assessment,296284.72
+2019,31,Nebraska,6 Other 1 - planning,6,Other 1 - planning,8855.26
+2019,31,Nebraska,7 Structural,7,Structural,11710489.5
+2019,31,Nebraska,8 Land management,8,Land management,2820798.96
+2019,31,Nebraska,9 Vegetative,9,Vegetative,5329632.39
+2019,31,Nebraska,10 Forest management,10,Forest management,434252.68
+2019,31,Nebraska,12 Soil remediation,12,Soil remediation,90726.61
+2019,31,Nebraska,13 Other 2 - improvement,13,Other 2 - improvement,250478.22
+2019,32,Nevada,6 Other 1 - planning,6,Other 1 - planning,5175.15
+2019,32,Nevada,7 Structural,7,Structural,6700690.85
+2019,32,Nevada,8 Land management,8,Land management,692808.36
+2019,32,Nevada,9 Vegetative,9,Vegetative,11672.1
+2019,32,Nevada,10 Forest management,10,Forest management,202973.95
+2019,32,Nevada,13 Other 2 - improvement,13,Other 2 - improvement,20715.99
+2019,33,New Hampshire,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,12533.44
+2019,33,New Hampshire,4 Conservation planning assessment,4,Conservation planning assessment,39611.11
+2019,33,New Hampshire,6 Other 1 - planning,6,Other 1 - planning,131005.77
+2019,33,New Hampshire,7 Structural,7,Structural,1160641.3
+2019,33,New Hampshire,8 Land management,8,Land management,1106253.76
+2019,33,New Hampshire,9 Vegetative,9,Vegetative,517103.47
+2019,33,New Hampshire,10 Forest management,10,Forest management,475732.5
+2019,33,New Hampshire,12 Soil remediation,12,Soil remediation,31644.49
+2019,33,New Hampshire,13 Other 2 - improvement,13,Other 2 - improvement,16707.52
+2019,34,New Jersey,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,29686.37
+2019,34,New Jersey,4 Conservation planning assessment,4,Conservation planning assessment,27811.91
+2019,34,New Jersey,6 Other 1 - planning,6,Other 1 - planning,150910.72
+2019,34,New Jersey,7 Structural,7,Structural,1277994.29
+2019,34,New Jersey,8 Land management,8,Land management,783495.31
+2019,34,New Jersey,9 Vegetative,9,Vegetative,802652.82
+2019,34,New Jersey,10 Forest management,10,Forest management,76457.76
+2019,34,New Jersey,12 Soil remediation,12,Soil remediation,60274.66
+2019,34,New Jersey,13 Other 2 - improvement,13,Other 2 - improvement,158340.35
+2019,35,New Mexico,4 Conservation planning assessment,4,Conservation planning assessment,9929.8
+2019,35,New Mexico,6 Other 1 - planning,6,Other 1 - planning,1607.31
+2019,35,New Mexico,7 Structural,7,Structural,11386129.98
+2019,35,New Mexico,8 Land management,8,Land management,5383334.81
+2019,35,New Mexico,9 Vegetative,9,Vegetative,3458236.01
+2019,35,New Mexico,10 Forest management,10,Forest management,1604029.99
+2019,35,New Mexico,12 Soil remediation,12,Soil remediation,32372.68
+2019,35,New Mexico,13 Other 2 - improvement,13,Other 2 - improvement,12945.3
+2019,36,New York,4 Conservation planning assessment,4,Conservation planning assessment,165086.17
+2019,36,New York,6 Other 1 - planning,6,Other 1 - planning,84192.87
+2019,36,New York,7 Structural,7,Structural,6242932
+2019,36,New York,8 Land management,8,Land management,1261581.43
+2019,36,New York,9 Vegetative,9,Vegetative,263887.68
+2019,36,New York,10 Forest management,10,Forest management,336622.72
+2019,36,New York,12 Soil remediation,12,Soil remediation,48564.18
+2019,36,New York,13 Other 2 - improvement,13,Other 2 - improvement,570970.07
+2019,37,North Carolina,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2119.53
+2019,37,North Carolina,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,2077.33
+2019,37,North Carolina,4 Conservation planning assessment,4,Conservation planning assessment,47246.64
+2019,37,North Carolina,6 Other 1 - planning,6,Other 1 - planning,94239.65
+2019,37,North Carolina,7 Structural,7,Structural,11567058.21
+2019,37,North Carolina,8 Land management,8,Land management,1510474.48
+2019,37,North Carolina,9 Vegetative,9,Vegetative,1727825.29
+2019,37,North Carolina,10 Forest management,10,Forest management,1037673.58
+2019,37,North Carolina,12 Soil remediation,12,Soil remediation,113025.22
+2019,37,North Carolina,13 Other 2 - improvement,13,Other 2 - improvement,1927191.7
+2019,38,North Dakota,4 Conservation planning assessment,4,Conservation planning assessment,23144.99
+2019,38,North Dakota,6 Other 1 - planning,6,Other 1 - planning,4349.32
+2019,38,North Dakota,7 Structural,7,Structural,7012503.19
+2019,38,North Dakota,8 Land management,8,Land management,2844244.52
+2019,38,North Dakota,9 Vegetative,9,Vegetative,3070710.71
+2019,38,North Dakota,10 Forest management,10,Forest management,345516.26
+2019,38,North Dakota,12 Soil remediation,12,Soil remediation,1181715.28
+2019,38,North Dakota,13 Other 2 - improvement,13,Other 2 - improvement,150511.33
+2019,39,Ohio,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,224063.63
+2019,39,Ohio,4 Conservation planning assessment,4,Conservation planning assessment,97005.72
+2019,39,Ohio,6 Other 1 - planning,6,Other 1 - planning,108917.81
+2019,39,Ohio,7 Structural,7,Structural,8403593.74
+2019,39,Ohio,8 Land management,8,Land management,2540715.47
+2019,39,Ohio,9 Vegetative,9,Vegetative,6849737.57
+2019,39,Ohio,10 Forest management,10,Forest management,329981.02
+2019,39,Ohio,12 Soil remediation,12,Soil remediation,139619.23
+2019,39,Ohio,13 Other 2 - improvement,13,Other 2 - improvement,179247.21
+2019,40,Oklahoma,6 Other 1 - planning,6,Other 1 - planning,11053.62
+2019,40,Oklahoma,7 Structural,7,Structural,4936419.27
+2019,40,Oklahoma,8 Land management,8,Land management,5030305.77
+2019,40,Oklahoma,9 Vegetative,9,Vegetative,6815608.28
+2019,40,Oklahoma,10 Forest management,10,Forest management,1547239.54
+2019,40,Oklahoma,12 Soil remediation,12,Soil remediation,158981.05
+2019,40,Oklahoma,13 Other 2 - improvement,13,Other 2 - improvement,527738.73
+2019,41,Oregon,4 Conservation planning assessment,4,Conservation planning assessment,26842.64
+2019,41,Oregon,6 Other 1 - planning,6,Other 1 - planning,82621.28
+2019,41,Oregon,7 Structural,7,Structural,6927856.1
+2019,41,Oregon,8 Land management,8,Land management,4972752.36
+2019,41,Oregon,9 Vegetative,9,Vegetative,1482181.34
+2019,41,Oregon,10 Forest management,10,Forest management,6257488.16
+2019,41,Oregon,12 Soil remediation,12,Soil remediation,176806.35
+2019,41,Oregon,13 Other 2 - improvement,13,Other 2 - improvement,213362.42
+2019,42,Pennsylvania,4 Conservation planning assessment,4,Conservation planning assessment,169396.26
+2019,42,Pennsylvania,6 Other 1 - planning,6,Other 1 - planning,142383.95
+2019,42,Pennsylvania,7 Structural,7,Structural,9668752.65
+2019,42,Pennsylvania,8 Land management,8,Land management,4184233.88
+2019,42,Pennsylvania,9 Vegetative,9,Vegetative,1546695.06
+2019,42,Pennsylvania,10 Forest management,10,Forest management,695426.9
+2019,42,Pennsylvania,12 Soil remediation,12,Soil remediation,75868
+2019,42,Pennsylvania,13 Other 2 - improvement,13,Other 2 - improvement,497823.41
+2019,44,Rhode Island,6 Other 1 - planning,6,Other 1 - planning,48587.22
+2019,44,Rhode Island,7 Structural,7,Structural,317232.26
+2019,44,Rhode Island,8 Land management,8,Land management,846169.69
+2019,44,Rhode Island,9 Vegetative,9,Vegetative,39560.78
+2019,44,Rhode Island,10 Forest management,10,Forest management,223092.35
+2019,44,Rhode Island,13 Other 2 - improvement,13,Other 2 - improvement,30149.88
+2019,45,South Carolina,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2993.68
+2019,45,South Carolina,4 Conservation planning assessment,4,Conservation planning assessment,168020.01
+2019,45,South Carolina,6 Other 1 - planning,6,Other 1 - planning,114068.58
+2019,45,South Carolina,7 Structural,7,Structural,6644662.61
+2019,45,South Carolina,8 Land management,8,Land management,3454248.94
+2019,45,South Carolina,9 Vegetative,9,Vegetative,2382777.39
+2019,45,South Carolina,10 Forest management,10,Forest management,4207518.97
+2019,45,South Carolina,12 Soil remediation,12,Soil remediation,99319.01
+2019,45,South Carolina,13 Other 2 - improvement,13,Other 2 - improvement,3392900.17
+2019,46,South Dakota,6 Other 1 - planning,6,Other 1 - planning,9254.62
+2019,46,South Dakota,7 Structural,7,Structural,5994812.58
+2019,46,South Dakota,8 Land management,8,Land management,3647063.5
+2019,46,South Dakota,9 Vegetative,9,Vegetative,2105451.03
+2019,46,South Dakota,10 Forest management,10,Forest management,340390.74
+2019,46,South Dakota,12 Soil remediation,12,Soil remediation,81613.83
+2019,46,South Dakota,13 Other 2 - improvement,13,Other 2 - improvement,229176.86
+2019,47,Tennessee,4 Conservation planning assessment,4,Conservation planning assessment,85253.75
+2019,47,Tennessee,6 Other 1 - planning,6,Other 1 - planning,165854.77
+2019,47,Tennessee,7 Structural,7,Structural,7513819.87
+2019,47,Tennessee,8 Land management,8,Land management,4666948.78
+2019,47,Tennessee,9 Vegetative,9,Vegetative,11617185.37
+2019,47,Tennessee,10 Forest management,10,Forest management,707722.68
+2019,47,Tennessee,12 Soil remediation,12,Soil remediation,65.6
+2019,47,Tennessee,13 Other 2 - improvement,13,Other 2 - improvement,105216.15
+2019,48,Texas,6 Other 1 - planning,6,Other 1 - planning,20955.97
+2019,48,Texas,7 Structural,7,Structural,35957505.28
+2019,48,Texas,8 Land management,8,Land management,41546237.47
+2019,48,Texas,9 Vegetative,9,Vegetative,8550658.1
+2019,48,Texas,10 Forest management,10,Forest management,9774850.3
+2019,48,Texas,12 Soil remediation,12,Soil remediation,904790.27
+2019,48,Texas,13 Other 2 - improvement,13,Other 2 - improvement,293876.01
+2019,49,Utah,6 Other 1 - planning,6,Other 1 - planning,5162.62
+2019,49,Utah,7 Structural,7,Structural,12304817.62
+2019,49,Utah,8 Land management,8,Land management,3834584.78
+2019,49,Utah,9 Vegetative,9,Vegetative,392790.28
+2019,49,Utah,10 Forest management,10,Forest management,1779400.32
+2019,49,Utah,12 Soil remediation,12,Soil remediation,10501.21
+2019,49,Utah,13 Other 2 - improvement,13,Other 2 - improvement,308433.67
+2019,50,Vermont,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,80563.05
+2019,50,Vermont,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,279.05
+2019,50,Vermont,6 Other 1 - planning,6,Other 1 - planning,202654.64
+2019,50,Vermont,7 Structural,7,Structural,4085325.96
+2019,50,Vermont,8 Land management,8,Land management,1755018.59
+2019,50,Vermont,9 Vegetative,9,Vegetative,2005548.81
+2019,50,Vermont,10 Forest management,10,Forest management,190738.27
+2019,50,Vermont,12 Soil remediation,12,Soil remediation,243606.19
+2019,50,Vermont,13 Other 2 - improvement,13,Other 2 - improvement,256298.46
+2019,51,Virginia,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,20041.72
+2019,51,Virginia,6 Other 1 - planning,6,Other 1 - planning,83043.01
+2019,51,Virginia,7 Structural,7,Structural,9269940.4
+2019,51,Virginia,8 Land management,8,Land management,5099151.41
+2019,51,Virginia,9 Vegetative,9,Vegetative,3310359.6
+2019,51,Virginia,10 Forest management,10,Forest management,438001.07
+2019,51,Virginia,12 Soil remediation,12,Soil remediation,845267.49
+2019,51,Virginia,13 Other 2 - improvement,13,Other 2 - improvement,60320.9
+2019,53,Washington,4 Conservation planning assessment,4,Conservation planning assessment,140435.85
+2019,53,Washington,6 Other 1 - planning,6,Other 1 - planning,125755.4
+2019,53,Washington,7 Structural,7,Structural,5440010.08
+2019,53,Washington,8 Land management,8,Land management,1928771.97
+2019,53,Washington,9 Vegetative,9,Vegetative,229776.36
+2019,53,Washington,10 Forest management,10,Forest management,2278097.84
+2019,53,Washington,12 Soil remediation,12,Soil remediation,2091970.98
+2019,53,Washington,13 Other 2 - improvement,13,Other 2 - improvement,458986.24
+2019,54,West Virginia,4 Conservation planning assessment,4,Conservation planning assessment,222054.67
+2019,54,West Virginia,6 Other 1 - planning,6,Other 1 - planning,23751.05
+2019,54,West Virginia,7 Structural,7,Structural,4133466
+2019,54,West Virginia,8 Land management,8,Land management,2119739.28
+2019,54,West Virginia,9 Vegetative,9,Vegetative,445038.26
+2019,54,West Virginia,10 Forest management,10,Forest management,302499.31
+2019,54,West Virginia,13 Other 2 - improvement,13,Other 2 - improvement,215063.76
+2019,55,Wisconsin,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,28153.61
+2019,55,Wisconsin,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,40327.98
+2019,55,Wisconsin,4 Conservation planning assessment,4,Conservation planning assessment,287052.95
+2019,55,Wisconsin,6 Other 1 - planning,6,Other 1 - planning,275085.95
+2019,55,Wisconsin,7 Structural,7,Structural,8339099.69
+2019,55,Wisconsin,8 Land management,8,Land management,4752333.53
+2019,55,Wisconsin,9 Vegetative,9,Vegetative,6676892.52
+2019,55,Wisconsin,10 Forest management,10,Forest management,409240.96
+2019,55,Wisconsin,12 Soil remediation,12,Soil remediation,242655.23
+2019,55,Wisconsin,13 Other 2 - improvement,13,Other 2 - improvement,1095338.28
+2019,56,Wyoming,4 Conservation planning assessment,4,Conservation planning assessment,9745.87
+2019,56,Wyoming,7 Structural,7,Structural,7048332.97
+2019,56,Wyoming,8 Land management,8,Land management,2027180.12
+2019,56,Wyoming,9 Vegetative,9,Vegetative,474585.47
+2019,56,Wyoming,10 Forest management,10,Forest management,435454.49
+2019,56,Wyoming,12 Soil remediation,12,Soil remediation,23488.58
+2019,56,Wyoming,13 Other 2 - improvement,13,Other 2 - improvement,42606.87
+2020,1,Alabama,4 Conservation planning assessment,4,Conservation planning assessment,8204.73
+2020,1,Alabama,6 Other 1 - planning,6,Other 1 - planning,47882.01
+2020,1,Alabama,7 Structural,7,Structural,4394990.66
+2020,1,Alabama,8 Land management,8,Land management,6016884.91
+2020,1,Alabama,9 Vegetative,9,Vegetative,2376797.44
+2020,1,Alabama,10 Forest management,10,Forest management,6036767.1
+2020,1,Alabama,12 Soil remediation,12,Soil remediation,4872.5
+2020,1,Alabama,13 Other 2 - improvement,13,Other 2 - improvement,414399.32
+2020,2,Alaska,7 Structural,7,Structural,957727.22
+2020,2,Alaska,8 Land management,8,Land management,3815917.83
+2020,2,Alaska,9 Vegetative,9,Vegetative,129128.84
+2020,2,Alaska,10 Forest management,10,Forest management,2582432.32
+2020,2,Alaska,12 Soil remediation,12,Soil remediation,8472.98
+2020,2,Alaska,13 Other 2 - improvement,13,Other 2 - improvement,1534.58
+2020,4,Arizona,7 Structural,7,Structural,5544595.14
+2020,4,Arizona,8 Land management,8,Land management,4471817.34
+2020,4,Arizona,9 Vegetative,9,Vegetative,15846.8
+2020,4,Arizona,10 Forest management,10,Forest management,2002363.35
+2020,4,Arizona,12 Soil remediation,12,Soil remediation,4413.53
+2020,4,Arizona,13 Other 2 - improvement,13,Other 2 - improvement,214570.14
+2020,5,Arkansas,6 Other 1 - planning,6,Other 1 - planning,184584.76
+2020,5,Arkansas,7 Structural,7,Structural,15207873.43
+2020,5,Arkansas,8 Land management,8,Land management,7919833.38
+2020,5,Arkansas,9 Vegetative,9,Vegetative,2928345.35
+2020,5,Arkansas,10 Forest management,10,Forest management,1553293.19
+2020,5,Arkansas,12 Soil remediation,12,Soil remediation,700275.41
+2020,5,Arkansas,13 Other 2 - improvement,13,Other 2 - improvement,2169510.64
+2020,6,California,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2119.53
+2020,6,California,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,535.77
+2020,6,California,4 Conservation planning assessment,4,Conservation planning assessment,147817.29
+2020,6,California,6 Other 1 - planning,6,Other 1 - planning,12267.73
+2020,6,California,7 Structural,7,Structural,54028376.91
+2020,6,California,8 Land management,8,Land management,8137331.9
+2020,6,California,9 Vegetative,9,Vegetative,573198.74
+2020,6,California,10 Forest management,10,Forest management,9971277.16
+2020,6,California,12 Soil remediation,12,Soil remediation,33844.79
+2020,6,California,13 Other 2 - improvement,13,Other 2 - improvement,1563416.98
+2020,8,Colorado,4 Conservation planning assessment,4,Conservation planning assessment,7127.8
+2020,8,Colorado,6 Other 1 - planning,6,Other 1 - planning,59823.49
+2020,8,Colorado,7 Structural,7,Structural,21464186.55
+2020,8,Colorado,8 Land management,8,Land management,2617944.92
+2020,8,Colorado,9 Vegetative,9,Vegetative,2324145.71
+2020,8,Colorado,10 Forest management,10,Forest management,5535050.87
+2020,8,Colorado,12 Soil remediation,12,Soil remediation,221144.42
+2020,8,Colorado,13 Other 2 - improvement,13,Other 2 - improvement,555794.32
+2020,9,Connecticut,4 Conservation planning assessment,4,Conservation planning assessment,15641.38
+2020,9,Connecticut,6 Other 1 - planning,6,Other 1 - planning,38592.7
+2020,9,Connecticut,7 Structural,7,Structural,1275349.03
+2020,9,Connecticut,8 Land management,8,Land management,597633.39
+2020,9,Connecticut,9 Vegetative,9,Vegetative,191442.35
+2020,9,Connecticut,10 Forest management,10,Forest management,443777.51
+2020,9,Connecticut,13 Other 2 - improvement,13,Other 2 - improvement,309775.59
+2020,10,Delaware,6 Other 1 - planning,6,Other 1 - planning,159950.46
+2020,10,Delaware,7 Structural,7,Structural,2523852.32
+2020,10,Delaware,8 Land management,8,Land management,807004.93
+2020,10,Delaware,9 Vegetative,9,Vegetative,1253586.59
+2020,10,Delaware,10 Forest management,10,Forest management,13261.66
+2020,10,Delaware,12 Soil remediation,12,Soil remediation,168127.72
+2020,10,Delaware,13 Other 2 - improvement,13,Other 2 - improvement,232990.19
+2020,12,Florida,4 Conservation planning assessment,4,Conservation planning assessment,18651.46
+2020,12,Florida,6 Other 1 - planning,6,Other 1 - planning,63330.2
+2020,12,Florida,7 Structural,7,Structural,6148813.31
+2020,12,Florida,8 Land management,8,Land management,4909658.39
+2020,12,Florida,9 Vegetative,9,Vegetative,1664485.82
+2020,12,Florida,10 Forest management,10,Forest management,2222724.7
+2020,12,Florida,12 Soil remediation,12,Soil remediation,238395.54
+2020,12,Florida,13 Other 2 - improvement,13,Other 2 - improvement,305130.8
+2020,13,Georgia,6 Other 1 - planning,6,Other 1 - planning,218480.78
+2020,13,Georgia,7 Structural,7,Structural,15263298.26
+2020,13,Georgia,8 Land management,8,Land management,5045435.25
+2020,13,Georgia,9 Vegetative,9,Vegetative,2579098.47
+2020,13,Georgia,10 Forest management,10,Forest management,12255448.6
+2020,13,Georgia,12 Soil remediation,12,Soil remediation,189495.49
+2020,13,Georgia,13 Other 2 - improvement,13,Other 2 - improvement,1085615.53
+2020,15,Hawaii,6 Other 1 - planning,6,Other 1 - planning,19432.85
+2020,15,Hawaii,7 Structural,7,Structural,1708413.13
+2020,15,Hawaii,8 Land management,8,Land management,2604509.82
+2020,15,Hawaii,9 Vegetative,9,Vegetative,354545.75
+2020,15,Hawaii,10 Forest management,10,Forest management,754163.74
+2020,15,Hawaii,12 Soil remediation,12,Soil remediation,798.01
+2020,16,Idaho,6 Other 1 - planning,6,Other 1 - planning,36965.85
+2020,16,Idaho,7 Structural,7,Structural,8689891.9
+2020,16,Idaho,8 Land management,8,Land management,3392716.63
+2020,16,Idaho,9 Vegetative,9,Vegetative,1004340.16
+2020,16,Idaho,10 Forest management,10,Forest management,803245.44
+2020,16,Idaho,12 Soil remediation,12,Soil remediation,464214.35
+2020,16,Idaho,13 Other 2 - improvement,13,Other 2 - improvement,204453.11
+2020,17,Illinois,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,31922.8
+2020,17,Illinois,4 Conservation planning assessment,4,Conservation planning assessment,128734.61
+2020,17,Illinois,6 Other 1 - planning,6,Other 1 - planning,133499.17
+2020,17,Illinois,7 Structural,7,Structural,6300356.14
+2020,17,Illinois,8 Land management,8,Land management,1833537.07
+2020,17,Illinois,9 Vegetative,9,Vegetative,1428591.06
+2020,17,Illinois,10 Forest management,10,Forest management,119911.59
+2020,17,Illinois,12 Soil remediation,12,Soil remediation,81704.89
+2020,17,Illinois,13 Other 2 - improvement,13,Other 2 - improvement,235082.36
+2020,18,Indiana,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,139188.27
+2020,18,Indiana,4 Conservation planning assessment,4,Conservation planning assessment,140197.66
+2020,18,Indiana,6 Other 1 - planning,6,Other 1 - planning,319964.08
+2020,18,Indiana,7 Structural,7,Structural,7388818.69
+2020,18,Indiana,8 Land management,8,Land management,3619523.19
+2020,18,Indiana,9 Vegetative,9,Vegetative,9335453.04
+2020,18,Indiana,10 Forest management,10,Forest management,626012.96
+2020,18,Indiana,12 Soil remediation,12,Soil remediation,600730.25
+2020,18,Indiana,13 Other 2 - improvement,13,Other 2 - improvement,238280.07
+2020,19,Iowa,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,57358.99
+2020,19,Iowa,4 Conservation planning assessment,4,Conservation planning assessment,149219.17
+2020,19,Iowa,6 Other 1 - planning,6,Other 1 - planning,121100.95
+2020,19,Iowa,7 Structural,7,Structural,11045878.79
+2020,19,Iowa,8 Land management,8,Land management,3445725.71
+2020,19,Iowa,9 Vegetative,9,Vegetative,7969076.46
+2020,19,Iowa,10 Forest management,10,Forest management,197626.19
+2020,19,Iowa,12 Soil remediation,12,Soil remediation,453382.08
+2020,19,Iowa,13 Other 2 - improvement,13,Other 2 - improvement,1183844.96
+2020,20,Kansas,6 Other 1 - planning,6,Other 1 - planning,9444.68
+2020,20,Kansas,7 Structural,7,Structural,14697877.15
+2020,20,Kansas,8 Land management,8,Land management,4490944.42
+2020,20,Kansas,9 Vegetative,9,Vegetative,6720314.98
+2020,20,Kansas,10 Forest management,10,Forest management,705506.2
+2020,20,Kansas,12 Soil remediation,12,Soil remediation,364607.35
+2020,20,Kansas,13 Other 2 - improvement,13,Other 2 - improvement,16289.83
+2020,21,Kentucky,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2394.95
+2020,21,Kentucky,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,2347.26
+2020,21,Kentucky,4 Conservation planning assessment,4,Conservation planning assessment,104194.57
+2020,21,Kentucky,6 Other 1 - planning,6,Other 1 - planning,127467.06
+2020,21,Kentucky,7 Structural,7,Structural,4057294.69
+2020,21,Kentucky,8 Land management,8,Land management,3357137.6
+2020,21,Kentucky,9 Vegetative,9,Vegetative,2617239.96
+2020,21,Kentucky,10 Forest management,10,Forest management,898885.1
+2020,21,Kentucky,12 Soil remediation,12,Soil remediation,45244.68
+2020,21,Kentucky,13 Other 2 - improvement,13,Other 2 - improvement,486505.64
+2020,22,Louisiana,6 Other 1 - planning,6,Other 1 - planning,11736.71
+2020,22,Louisiana,7 Structural,7,Structural,6056866.5
+2020,22,Louisiana,8 Land management,8,Land management,6597762.01
+2020,22,Louisiana,9 Vegetative,9,Vegetative,4928011.08
+2020,22,Louisiana,10 Forest management,10,Forest management,1017902.4
+2020,22,Louisiana,12 Soil remediation,12,Soil remediation,160700.9
+2020,22,Louisiana,13 Other 2 - improvement,13,Other 2 - improvement,99508.23
+2020,23,Maine,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,5348.71
+2020,23,Maine,4 Conservation planning assessment,4,Conservation planning assessment,148998.26
+2020,23,Maine,6 Other 1 - planning,6,Other 1 - planning,266886.92
+2020,23,Maine,7 Structural,7,Structural,6052294.55
+2020,23,Maine,8 Land management,8,Land management,2230711.52
+2020,23,Maine,9 Vegetative,9,Vegetative,627997.89
+2020,23,Maine,10 Forest management,10,Forest management,845720.94
+2020,23,Maine,12 Soil remediation,12,Soil remediation,41905.69
+2020,23,Maine,13 Other 2 - improvement,13,Other 2 - improvement,125007.76
+2020,24,Maryland,4 Conservation planning assessment,4,Conservation planning assessment,17195.7
+2020,24,Maryland,6 Other 1 - planning,6,Other 1 - planning,60799.8
+2020,24,Maryland,7 Structural,7,Structural,4236770.12
+2020,24,Maryland,8 Land management,8,Land management,3722177.75
+2020,24,Maryland,9 Vegetative,9,Vegetative,419403.79
+2020,24,Maryland,10 Forest management,10,Forest management,105590.37
+2020,24,Maryland,12 Soil remediation,12,Soil remediation,183258.67
+2020,24,Maryland,13 Other 2 - improvement,13,Other 2 - improvement,1439248.28
+2020,25,Massachusetts,4 Conservation planning assessment,4,Conservation planning assessment,68904.45
+2020,25,Massachusetts,6 Other 1 - planning,6,Other 1 - planning,25014.83
+2020,25,Massachusetts,7 Structural,7,Structural,993894.62
+2020,25,Massachusetts,8 Land management,8,Land management,639123.84
+2020,25,Massachusetts,9 Vegetative,9,Vegetative,339495.23
+2020,25,Massachusetts,10 Forest management,10,Forest management,90150.32
+2020,25,Massachusetts,12 Soil remediation,12,Soil remediation,102240.8
+2020,25,Massachusetts,13 Other 2 - improvement,13,Other 2 - improvement,228875.72
+2020,26,Michigan,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,16165.88
+2020,26,Michigan,4 Conservation planning assessment,4,Conservation planning assessment,139894.24
+2020,26,Michigan,6 Other 1 - planning,6,Other 1 - planning,458931.68
+2020,26,Michigan,7 Structural,7,Structural,7010176.51
+2020,26,Michigan,8 Land management,8,Land management,1753761.17
+2020,26,Michigan,9 Vegetative,9,Vegetative,9082881.63
+2020,26,Michigan,10 Forest management,10,Forest management,659858.65
+2020,26,Michigan,12 Soil remediation,12,Soil remediation,195600.55
+2020,26,Michigan,13 Other 2 - improvement,13,Other 2 - improvement,467340.15
+2020,27,Minnesota,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,42485.38
+2020,27,Minnesota,4 Conservation planning assessment,4,Conservation planning assessment,285710.43
+2020,27,Minnesota,6 Other 1 - planning,6,Other 1 - planning,163383.67
+2020,27,Minnesota,7 Structural,7,Structural,8551647.64
+2020,27,Minnesota,8 Land management,8,Land management,2859006.97
+2020,27,Minnesota,9 Vegetative,9,Vegetative,7339582.22
+2020,27,Minnesota,10 Forest management,10,Forest management,576361.42
+2020,27,Minnesota,12 Soil remediation,12,Soil remediation,422398.77
+2020,27,Minnesota,13 Other 2 - improvement,13,Other 2 - improvement,370672.65
+2020,28,Mississippi,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,151552.23
+2020,28,Mississippi,4 Conservation planning assessment,4,Conservation planning assessment,12160.1
+2020,28,Mississippi,6 Other 1 - planning,6,Other 1 - planning,235402.39
+2020,28,Mississippi,7 Structural,7,Structural,16055224.7
+2020,28,Mississippi,8 Land management,8,Land management,12772330.74
+2020,28,Mississippi,9 Vegetative,9,Vegetative,3090076.3
+2020,28,Mississippi,10 Forest management,10,Forest management,2964590.13
+2020,28,Mississippi,12 Soil remediation,12,Soil remediation,62327.12
+2020,28,Mississippi,13 Other 2 - improvement,13,Other 2 - improvement,1643132.35
+2020,29,Missouri,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,4981.49
+2020,29,Missouri,4 Conservation planning assessment,4,Conservation planning assessment,170172.43
+2020,29,Missouri,6 Other 1 - planning,6,Other 1 - planning,107239.55
+2020,29,Missouri,7 Structural,7,Structural,11618668.17
+2020,29,Missouri,8 Land management,8,Land management,4613157.99
+2020,29,Missouri,9 Vegetative,9,Vegetative,9793370.6
+2020,29,Missouri,10 Forest management,10,Forest management,517961.85
+2020,29,Missouri,12 Soil remediation,12,Soil remediation,32245
+2020,29,Missouri,13 Other 2 - improvement,13,Other 2 - improvement,1371179.32
+2020,30,Montana,6 Other 1 - planning,6,Other 1 - planning,7835.3
+2020,30,Montana,7 Structural,7,Structural,9905711.56
+2020,30,Montana,8 Land management,8,Land management,4035734.17
+2020,30,Montana,9 Vegetative,9,Vegetative,2010737.09
+2020,30,Montana,10 Forest management,10,Forest management,2124838.17
+2020,30,Montana,12 Soil remediation,12,Soil remediation,141291.15
+2020,30,Montana,13 Other 2 - improvement,13,Other 2 - improvement,134659.99
+2020,31,Nebraska,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,4191.16
+2020,31,Nebraska,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,3390.18
+2020,31,Nebraska,4 Conservation planning assessment,4,Conservation planning assessment,252668.03
+2020,31,Nebraska,6 Other 1 - planning,6,Other 1 - planning,19834.35
+2020,31,Nebraska,7 Structural,7,Structural,11451587.95
+2020,31,Nebraska,8 Land management,8,Land management,3770400.67
+2020,31,Nebraska,9 Vegetative,9,Vegetative,6473829.67
+2020,31,Nebraska,10 Forest management,10,Forest management,470361.46
+2020,31,Nebraska,12 Soil remediation,12,Soil remediation,110380.66
+2020,31,Nebraska,13 Other 2 - improvement,13,Other 2 - improvement,321233.49
+2020,32,Nevada,7 Structural,7,Structural,3963082.66
+2020,32,Nevada,8 Land management,8,Land management,695212.82
+2020,32,Nevada,9 Vegetative,9,Vegetative,7848.08
+2020,32,Nevada,10 Forest management,10,Forest management,138967.58
+2020,33,New Hampshire,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,4239.06
+2020,33,New Hampshire,4 Conservation planning assessment,4,Conservation planning assessment,40296.96
+2020,33,New Hampshire,6 Other 1 - planning,6,Other 1 - planning,145537.66
+2020,33,New Hampshire,7 Structural,7,Structural,942562.3
+2020,33,New Hampshire,8 Land management,8,Land management,1534308.21
+2020,33,New Hampshire,9 Vegetative,9,Vegetative,532816.33
+2020,33,New Hampshire,10 Forest management,10,Forest management,394091.52
+2020,33,New Hampshire,12 Soil remediation,12,Soil remediation,24754.5
+2020,33,New Hampshire,13 Other 2 - improvement,13,Other 2 - improvement,5313.88
+2020,34,New Jersey,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,3592.42
+2020,34,New Jersey,4 Conservation planning assessment,4,Conservation planning assessment,28541.49
+2020,34,New Jersey,6 Other 1 - planning,6,Other 1 - planning,82704.92
+2020,34,New Jersey,7 Structural,7,Structural,1679751.15
+2020,34,New Jersey,8 Land management,8,Land management,733510.75
+2020,34,New Jersey,9 Vegetative,9,Vegetative,1016563.64
+2020,34,New Jersey,10 Forest management,10,Forest management,195881.77
+2020,34,New Jersey,12 Soil remediation,12,Soil remediation,70349.32
+2020,34,New Jersey,13 Other 2 - improvement,13,Other 2 - improvement,37373.27
+2020,35,New Mexico,4 Conservation planning assessment,4,Conservation planning assessment,7643.8
+2020,35,New Mexico,7 Structural,7,Structural,9751447.61
+2020,35,New Mexico,8 Land management,8,Land management,3603140.7
+2020,35,New Mexico,9 Vegetative,9,Vegetative,1681062.35
+2020,35,New Mexico,10 Forest management,10,Forest management,2213668.77
+2020,35,New Mexico,12 Soil remediation,12,Soil remediation,10642.28
+2020,35,New Mexico,13 Other 2 - improvement,13,Other 2 - improvement,61604.62
+2020,36,New York,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,12118.43
+2020,36,New York,4 Conservation planning assessment,4,Conservation planning assessment,82204.26
+2020,36,New York,6 Other 1 - planning,6,Other 1 - planning,76768.33
+2020,36,New York,7 Structural,7,Structural,7532033.09
+2020,36,New York,8 Land management,8,Land management,2782266.22
+2020,36,New York,9 Vegetative,9,Vegetative,253484.75
+2020,36,New York,10 Forest management,10,Forest management,464013.98
+2020,36,New York,12 Soil remediation,12,Soil remediation,38136.6
+2020,36,New York,13 Other 2 - improvement,13,Other 2 - improvement,356857.98
+2020,37,North Carolina,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,4154.66
+2020,37,North Carolina,4 Conservation planning assessment,4,Conservation planning assessment,24256.15
+2020,37,North Carolina,6 Other 1 - planning,6,Other 1 - planning,134275.37
+2020,37,North Carolina,7 Structural,7,Structural,11238911.18
+2020,37,North Carolina,8 Land management,8,Land management,1701924.87
+2020,37,North Carolina,9 Vegetative,9,Vegetative,1651776.86
+2020,37,North Carolina,10 Forest management,10,Forest management,1291929.04
+2020,37,North Carolina,12 Soil remediation,12,Soil remediation,90163.33
+2020,37,North Carolina,13 Other 2 - improvement,13,Other 2 - improvement,497588.01
+2020,38,North Dakota,4 Conservation planning assessment,4,Conservation planning assessment,8204.73
+2020,38,North Dakota,6 Other 1 - planning,6,Other 1 - planning,5493.87
+2020,38,North Dakota,7 Structural,7,Structural,6318150.28
+2020,38,North Dakota,8 Land management,8,Land management,2595817.51
+2020,38,North Dakota,9 Vegetative,9,Vegetative,2685483.42
+2020,38,North Dakota,10 Forest management,10,Forest management,90766.47
+2020,38,North Dakota,12 Soil remediation,12,Soil remediation,1226281.48
+2020,38,North Dakota,13 Other 2 - improvement,13,Other 2 - improvement,48549.39
+2020,39,Ohio,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,221015.81
+2020,39,Ohio,4 Conservation planning assessment,4,Conservation planning assessment,32039.42
+2020,39,Ohio,6 Other 1 - planning,6,Other 1 - planning,173732.44
+2020,39,Ohio,7 Structural,7,Structural,9698184.37
+2020,39,Ohio,8 Land management,8,Land management,3332233.9
+2020,39,Ohio,9 Vegetative,9,Vegetative,8954677.86
+2020,39,Ohio,10 Forest management,10,Forest management,342291.43
+2020,39,Ohio,12 Soil remediation,12,Soil remediation,217763.93
+2020,39,Ohio,13 Other 2 - improvement,13,Other 2 - improvement,146607.62
+2020,40,Oklahoma,6 Other 1 - planning,6,Other 1 - planning,2583.52
+2020,40,Oklahoma,7 Structural,7,Structural,3499975.32
+2020,40,Oklahoma,8 Land management,8,Land management,4379888.58
+2020,40,Oklahoma,9 Vegetative,9,Vegetative,7152018.02
+2020,40,Oklahoma,10 Forest management,10,Forest management,2035565.77
+2020,40,Oklahoma,12 Soil remediation,12,Soil remediation,129033.55
+2020,40,Oklahoma,13 Other 2 - improvement,13,Other 2 - improvement,907822.46
+2020,41,Oregon,4 Conservation planning assessment,4,Conservation planning assessment,36470.92
+2020,41,Oregon,6 Other 1 - planning,6,Other 1 - planning,53582.83
+2020,41,Oregon,7 Structural,7,Structural,5803950.92
+2020,41,Oregon,8 Land management,8,Land management,5166830.26
+2020,41,Oregon,9 Vegetative,9,Vegetative,189747.7
+2020,41,Oregon,10 Forest management,10,Forest management,9145553.16
+2020,41,Oregon,12 Soil remediation,12,Soil remediation,22653.87
+2020,41,Oregon,13 Other 2 - improvement,13,Other 2 - improvement,118642.11
+2020,42,Pennsylvania,4 Conservation planning assessment,4,Conservation planning assessment,101859.23
+2020,42,Pennsylvania,6 Other 1 - planning,6,Other 1 - planning,70095.86
+2020,42,Pennsylvania,7 Structural,7,Structural,11338433.88
+2020,42,Pennsylvania,8 Land management,8,Land management,5411741.34
+2020,42,Pennsylvania,9 Vegetative,9,Vegetative,1799388.99
+2020,42,Pennsylvania,10 Forest management,10,Forest management,830725.92
+2020,42,Pennsylvania,12 Soil remediation,12,Soil remediation,57510.88
+2020,42,Pennsylvania,13 Other 2 - improvement,13,Other 2 - improvement,182991.77
+2020,44,Rhode Island,4 Conservation planning assessment,4,Conservation planning assessment,57786.6
+2020,44,Rhode Island,6 Other 1 - planning,6,Other 1 - planning,30799.44
+2020,44,Rhode Island,7 Structural,7,Structural,639679.58
+2020,44,Rhode Island,8 Land management,8,Land management,918149.69
+2020,44,Rhode Island,9 Vegetative,9,Vegetative,44742.25
+2020,44,Rhode Island,10 Forest management,10,Forest management,289467.23
+2020,44,Rhode Island,13 Other 2 - improvement,13,Other 2 - improvement,15630
+2020,45,South Carolina,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,4191.16
+2020,45,South Carolina,4 Conservation planning assessment,4,Conservation planning assessment,171822.25
+2020,45,South Carolina,6 Other 1 - planning,6,Other 1 - planning,153539.88
+2020,45,South Carolina,7 Structural,7,Structural,5840343.03
+2020,45,South Carolina,8 Land management,8,Land management,3682765.1
+2020,45,South Carolina,9 Vegetative,9,Vegetative,2663335.05
+2020,45,South Carolina,10 Forest management,10,Forest management,4094293.52
+2020,45,South Carolina,12 Soil remediation,12,Soil remediation,157388.75
+2020,45,South Carolina,13 Other 2 - improvement,13,Other 2 - improvement,2716387.86
+2020,46,South Dakota,7 Structural,7,Structural,5246030.89
+2020,46,South Dakota,8 Land management,8,Land management,2872890.89
+2020,46,South Dakota,9 Vegetative,9,Vegetative,3217927.92
+2020,46,South Dakota,10 Forest management,10,Forest management,257183.57
+2020,46,South Dakota,12 Soil remediation,12,Soil remediation,192157.84
+2020,46,South Dakota,13 Other 2 - improvement,13,Other 2 - improvement,340252.41
+2020,47,Tennessee,4 Conservation planning assessment,4,Conservation planning assessment,91334.09
+2020,47,Tennessee,6 Other 1 - planning,6,Other 1 - planning,247861.44
+2020,47,Tennessee,7 Structural,7,Structural,8457065.46
+2020,47,Tennessee,8 Land management,8,Land management,4985631.23
+2020,47,Tennessee,9 Vegetative,9,Vegetative,10549026.5
+2020,47,Tennessee,10 Forest management,10,Forest management,1147120.48
+2020,47,Tennessee,12 Soil remediation,12,Soil remediation,829.76
+2020,47,Tennessee,13 Other 2 - improvement,13,Other 2 - improvement,628952.78
+2020,48,Texas,4 Conservation planning assessment,4,Conservation planning assessment,9911.05
+2020,48,Texas,6 Other 1 - planning,6,Other 1 - planning,31918.55
+2020,48,Texas,7 Structural,7,Structural,27192547.74
+2020,48,Texas,8 Land management,8,Land management,43325627.81
+2020,48,Texas,9 Vegetative,9,Vegetative,7341138.66
+2020,48,Texas,10 Forest management,10,Forest management,7954341.46
+2020,48,Texas,12 Soil remediation,12,Soil remediation,760837.98
+2020,48,Texas,13 Other 2 - improvement,13,Other 2 - improvement,463430.59
+2020,49,Utah,4 Conservation planning assessment,4,Conservation planning assessment,9623.97
+2020,49,Utah,6 Other 1 - planning,6,Other 1 - planning,7309.56
+2020,49,Utah,7 Structural,7,Structural,13068227.22
+2020,49,Utah,8 Land management,8,Land management,4768685.18
+2020,49,Utah,9 Vegetative,9,Vegetative,291435.57
+2020,49,Utah,10 Forest management,10,Forest management,1222459.51
+2020,49,Utah,12 Soil remediation,12,Soil remediation,21969.53
+2020,49,Utah,13 Other 2 - improvement,13,Other 2 - improvement,297186.65
+2020,50,Vermont,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,48201.97
+2020,50,Vermont,6 Other 1 - planning,6,Other 1 - planning,119674.38
+2020,50,Vermont,7 Structural,7,Structural,5371396.96
+2020,50,Vermont,8 Land management,8,Land management,1774556.85
+2020,50,Vermont,9 Vegetative,9,Vegetative,1576520.11
+2020,50,Vermont,10 Forest management,10,Forest management,131619.69
+2020,50,Vermont,12 Soil remediation,12,Soil remediation,87568.62
+2020,50,Vermont,13 Other 2 - improvement,13,Other 2 - improvement,61371.03
+2020,51,Virginia,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2993.68
+2020,51,Virginia,6 Other 1 - planning,6,Other 1 - planning,158625.92
+2020,51,Virginia,7 Structural,7,Structural,8376647.68
+2020,51,Virginia,8 Land management,8,Land management,5642859.07
+2020,51,Virginia,9 Vegetative,9,Vegetative,3604228.97
+2020,51,Virginia,10 Forest management,10,Forest management,445387.82
+2020,51,Virginia,12 Soil remediation,12,Soil remediation,1160282.91
+2020,51,Virginia,13 Other 2 - improvement,13,Other 2 - improvement,72243.78
+2020,53,Washington,4 Conservation planning assessment,4,Conservation planning assessment,148247.65
+2020,53,Washington,6 Other 1 - planning,6,Other 1 - planning,132862.26
+2020,53,Washington,7 Structural,7,Structural,8193322.48
+2020,53,Washington,8 Land management,8,Land management,1516932.46
+2020,53,Washington,9 Vegetative,9,Vegetative,328925.38
+2020,53,Washington,10 Forest management,10,Forest management,2036096.55
+2020,53,Washington,12 Soil remediation,12,Soil remediation,1873226.64
+2020,53,Washington,13 Other 2 - improvement,13,Other 2 - improvement,113099.45
+2020,54,West Virginia,4 Conservation planning assessment,4,Conservation planning assessment,285227.37
+2020,54,West Virginia,6 Other 1 - planning,6,Other 1 - planning,37736.13
+2020,54,West Virginia,7 Structural,7,Structural,4158684.16
+2020,54,West Virginia,8 Land management,8,Land management,2011168.01
+2020,54,West Virginia,9 Vegetative,9,Vegetative,352471.62
+2020,54,West Virginia,10 Forest management,10,Forest management,260551.69
+2020,54,West Virginia,13 Other 2 - improvement,13,Other 2 - improvement,188742.88
+2020,55,Wisconsin,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,18261.47
+2020,55,Wisconsin,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,60950.95
+2020,55,Wisconsin,4 Conservation planning assessment,4,Conservation planning assessment,232852.13
+2020,55,Wisconsin,6 Other 1 - planning,6,Other 1 - planning,371596.86
+2020,55,Wisconsin,7 Structural,7,Structural,12898082.21
+2020,55,Wisconsin,8 Land management,8,Land management,4811005.76
+2020,55,Wisconsin,9 Vegetative,9,Vegetative,6211595.67
+2020,55,Wisconsin,10 Forest management,10,Forest management,415180.63
+2020,55,Wisconsin,12 Soil remediation,12,Soil remediation,337658.43
+2020,55,Wisconsin,13 Other 2 - improvement,13,Other 2 - improvement,1996347.84
+2020,56,Wyoming,7 Structural,7,Structural,8165370.03
+2020,56,Wyoming,8 Land management,8,Land management,2318215.28
+2020,56,Wyoming,9 Vegetative,9,Vegetative,467908.36
+2020,56,Wyoming,10 Forest management,10,Forest management,420115.38
+2020,56,Wyoming,12 Soil remediation,12,Soil remediation,24392.74
+2020,56,Wyoming,13 Other 2 - improvement,13,Other 2 - improvement,107052.08
+2021,1,Alabama,6 Other 1 - planning,6,Other 1 - planning,60445.36
+2021,1,Alabama,7 Structural,7,Structural,5214075.28
+2021,1,Alabama,8 Land management,8,Land management,6047604.23
+2021,1,Alabama,9 Vegetative,9,Vegetative,3949239.02
+2021,1,Alabama,10 Forest management,10,Forest management,5718562.33
+2021,1,Alabama,12 Soil remediation,12,Soil remediation,15290.63
+2021,1,Alabama,13 Other 2 - improvement,13,Other 2 - improvement,751368.58
+2021,2,Alaska,6 Other 1 - planning,6,Other 1 - planning,8999.49
+2021,2,Alaska,7 Structural,7,Structural,877868.44
+2021,2,Alaska,8 Land management,8,Land management,5369042.1
+2021,2,Alaska,9 Vegetative,9,Vegetative,165300.61
+2021,2,Alaska,10 Forest management,10,Forest management,2770172.14
+2021,2,Alaska,13 Other 2 - improvement,13,Other 2 - improvement,4057.69
+2021,4,Arizona,6 Other 1 - planning,6,Other 1 - planning,1803.12
+2021,4,Arizona,7 Structural,7,Structural,4899356.66
+2021,4,Arizona,8 Land management,8,Land management,2490891.67
+2021,4,Arizona,9 Vegetative,9,Vegetative,34815.4
+2021,4,Arizona,10 Forest management,10,Forest management,2252165.03
+2021,4,Arizona,12 Soil remediation,12,Soil remediation,6309.35
+2021,4,Arizona,13 Other 2 - improvement,13,Other 2 - improvement,295521.26
+2021,5,Arkansas,6 Other 1 - planning,6,Other 1 - planning,258486.04
+2021,5,Arkansas,7 Structural,7,Structural,15259016.38
+2021,5,Arkansas,8 Land management,8,Land management,8205167.8
+2021,5,Arkansas,9 Vegetative,9,Vegetative,3197079.58
+2021,5,Arkansas,10 Forest management,10,Forest management,1309165.59
+2021,5,Arkansas,12 Soil remediation,12,Soil remediation,342929.86
+2021,5,Arkansas,13 Other 2 - improvement,13,Other 2 - improvement,2248761.3
+2021,6,California,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2155.45
+2021,6,California,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,544.85
+2021,6,California,4 Conservation planning assessment,4,Conservation planning assessment,322544.37
+2021,6,California,6 Other 1 - planning,6,Other 1 - planning,54641.07
+2021,6,California,7 Structural,7,Structural,56867584.02
+2021,6,California,8 Land management,8,Land management,6475376.18
+2021,6,California,9 Vegetative,9,Vegetative,533544.88
+2021,6,California,10 Forest management,10,Forest management,8257780.03
+2021,6,California,12 Soil remediation,12,Soil remediation,26073.13
+2021,6,California,13 Other 2 - improvement,13,Other 2 - improvement,1761360.96
+2021,8,Colorado,6 Other 1 - planning,6,Other 1 - planning,35213.45
+2021,8,Colorado,7 Structural,7,Structural,17614262.56
+2021,8,Colorado,8 Land management,8,Land management,1896824.09
+2021,8,Colorado,9 Vegetative,9,Vegetative,2692540.26
+2021,8,Colorado,10 Forest management,10,Forest management,5191618.32
+2021,8,Colorado,12 Soil remediation,12,Soil remediation,160772.98
+2021,8,Colorado,13 Other 2 - improvement,13,Other 2 - improvement,637569.83
+2021,9,Connecticut,4 Conservation planning assessment,4,Conservation planning assessment,12213.43
+2021,9,Connecticut,6 Other 1 - planning,6,Other 1 - planning,32705.68
+2021,9,Connecticut,7 Structural,7,Structural,2015815.2
+2021,9,Connecticut,8 Land management,8,Land management,881751.03
+2021,9,Connecticut,9 Vegetative,9,Vegetative,150567.29
+2021,9,Connecticut,10 Forest management,10,Forest management,337620.19
+2021,9,Connecticut,12 Soil remediation,12,Soil remediation,20198.75
+2021,9,Connecticut,13 Other 2 - improvement,13,Other 2 - improvement,425580.39
+2021,10,Delaware,6 Other 1 - planning,6,Other 1 - planning,65445.98
+2021,10,Delaware,7 Structural,7,Structural,3270851.06
+2021,10,Delaware,8 Land management,8,Land management,1157693.32
+2021,10,Delaware,9 Vegetative,9,Vegetative,543995.05
+2021,10,Delaware,10 Forest management,10,Forest management,64755.56
+2021,10,Delaware,12 Soil remediation,12,Soil remediation,183575.54
+2021,10,Delaware,13 Other 2 - improvement,13,Other 2 - improvement,282971.03
+2021,12,Florida,4 Conservation planning assessment,4,Conservation planning assessment,2383.8
+2021,12,Florida,6 Other 1 - planning,6,Other 1 - planning,55306.5
+2021,12,Florida,7 Structural,7,Structural,5002396.13
+2021,12,Florida,8 Land management,8,Land management,8204497.08
+2021,12,Florida,9 Vegetative,9,Vegetative,2542788.62
+2021,12,Florida,10 Forest management,10,Forest management,3258023.66
+2021,12,Florida,12 Soil remediation,12,Soil remediation,206723.49
+2021,12,Florida,13 Other 2 - improvement,13,Other 2 - improvement,159452.04
+2021,13,Georgia,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,817.28
+2021,13,Georgia,4 Conservation planning assessment,4,Conservation planning assessment,3060.9
+2021,13,Georgia,6 Other 1 - planning,6,Other 1 - planning,205548.3
+2021,13,Georgia,7 Structural,7,Structural,19545751.07
+2021,13,Georgia,8 Land management,8,Land management,4866756.42
+2021,13,Georgia,9 Vegetative,9,Vegetative,2105106.34
+2021,13,Georgia,10 Forest management,10,Forest management,11251791.89
+2021,13,Georgia,12 Soil remediation,12,Soil remediation,216452.56
+2021,13,Georgia,13 Other 2 - improvement,13,Other 2 - improvement,1072617.62
+2021,15,Hawaii,6 Other 1 - planning,6,Other 1 - planning,3742.48
+2021,15,Hawaii,7 Structural,7,Structural,1930491.2
+2021,15,Hawaii,8 Land management,8,Land management,2240083.51
+2021,15,Hawaii,9 Vegetative,9,Vegetative,316891.79
+2021,15,Hawaii,10 Forest management,10,Forest management,2126084.54
+2021,15,Hawaii,13 Other 2 - improvement,13,Other 2 - improvement,4820.97
+2021,16,Idaho,6 Other 1 - planning,6,Other 1 - planning,64985.59
+2021,16,Idaho,7 Structural,7,Structural,7729088.45
+2021,16,Idaho,8 Land management,8,Land management,3006735.02
+2021,16,Idaho,9 Vegetative,9,Vegetative,1037355.94
+2021,16,Idaho,10 Forest management,10,Forest management,1557357.83
+2021,16,Idaho,12 Soil remediation,12,Soil remediation,489455
+2021,16,Idaho,13 Other 2 - improvement,13,Other 2 - improvement,152047.34
+2021,17,Illinois,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,68274.46
+2021,17,Illinois,4 Conservation planning assessment,4,Conservation planning assessment,143199.99
+2021,17,Illinois,6 Other 1 - planning,6,Other 1 - planning,224030.26
+2021,17,Illinois,7 Structural,7,Structural,7924569.84
+2021,17,Illinois,8 Land management,8,Land management,2283923.31
+2021,17,Illinois,9 Vegetative,9,Vegetative,1720819.14
+2021,17,Illinois,10 Forest management,10,Forest management,93683.88
+2021,17,Illinois,12 Soil remediation,12,Soil remediation,128743.53
+2021,17,Illinois,13 Other 2 - improvement,13,Other 2 - improvement,328409.75
+2021,18,Indiana,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,216205.19
+2021,18,Indiana,4 Conservation planning assessment,4,Conservation planning assessment,264251.78
+2021,18,Indiana,6 Other 1 - planning,6,Other 1 - planning,359632.64
+2021,18,Indiana,7 Structural,7,Structural,8131022.93
+2021,18,Indiana,8 Land management,8,Land management,3332949.39
+2021,18,Indiana,9 Vegetative,9,Vegetative,7646021.11
+2021,18,Indiana,10 Forest management,10,Forest management,645504.89
+2021,18,Indiana,12 Soil remediation,12,Soil remediation,594636.44
+2021,18,Indiana,13 Other 2 - improvement,13,Other 2 - improvement,308809.6
+2021,19,Iowa,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,40577.19
+2021,19,Iowa,4 Conservation planning assessment,4,Conservation planning assessment,103197.35
+2021,19,Iowa,6 Other 1 - planning,6,Other 1 - planning,91630.39
+2021,19,Iowa,7 Structural,7,Structural,12669298.06
+2021,19,Iowa,8 Land management,8,Land management,4312480.72
+2021,19,Iowa,9 Vegetative,9,Vegetative,10512548.81
+2021,19,Iowa,10 Forest management,10,Forest management,253285.6
+2021,19,Iowa,12 Soil remediation,12,Soil remediation,702822.16
+2021,19,Iowa,13 Other 2 - improvement,13,Other 2 - improvement,526382.64
+2021,20,Kansas,6 Other 1 - planning,6,Other 1 - planning,8971.07
+2021,20,Kansas,7 Structural,7,Structural,10911053.76
+2021,20,Kansas,8 Land management,8,Land management,5485359.8
+2021,20,Kansas,9 Vegetative,9,Vegetative,5641876.91
+2021,20,Kansas,10 Forest management,10,Forest management,605095.15
+2021,20,Kansas,12 Soil remediation,12,Soil remediation,513441.55
+2021,20,Kansas,13 Other 2 - improvement,13,Other 2 - improvement,36384.22
+2021,21,Kentucky,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,9708
+2021,21,Kentucky,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,6372.3
+2021,21,Kentucky,4 Conservation planning assessment,4,Conservation planning assessment,139847.71
+2021,21,Kentucky,6 Other 1 - planning,6,Other 1 - planning,171867.41
+2021,21,Kentucky,7 Structural,7,Structural,5389559.52
+2021,21,Kentucky,8 Land management,8,Land management,4325186.6
+2021,21,Kentucky,9 Vegetative,9,Vegetative,3073373.72
+2021,21,Kentucky,10 Forest management,10,Forest management,767222.54
+2021,21,Kentucky,12 Soil remediation,12,Soil remediation,34617.83
+2021,21,Kentucky,13 Other 2 - improvement,13,Other 2 - improvement,851377.85
+2021,22,Louisiana,6 Other 1 - planning,6,Other 1 - planning,5666.95
+2021,22,Louisiana,7 Structural,7,Structural,4243802.34
+2021,22,Louisiana,8 Land management,8,Land management,5978643.42
+2021,22,Louisiana,9 Vegetative,9,Vegetative,5082362.3
+2021,22,Louisiana,10 Forest management,10,Forest management,1561080.91
+2021,22,Louisiana,12 Soil remediation,12,Soil remediation,87221.58
+2021,22,Louisiana,13 Other 2 - improvement,13,Other 2 - improvement,281699.48
+2021,23,Maine,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2184.3
+2021,23,Maine,4 Conservation planning assessment,4,Conservation planning assessment,166327.26
+2021,23,Maine,6 Other 1 - planning,6,Other 1 - planning,406123.77
+2021,23,Maine,7 Structural,7,Structural,5230766.41
+2021,23,Maine,8 Land management,8,Land management,2179128.02
+2021,23,Maine,9 Vegetative,9,Vegetative,630470.02
+2021,23,Maine,10 Forest management,10,Forest management,972107.4
+2021,23,Maine,12 Soil remediation,12,Soil remediation,12690.46
+2021,23,Maine,13 Other 2 - improvement,13,Other 2 - improvement,154947
+2021,24,Maryland,4 Conservation planning assessment,4,Conservation planning assessment,54755.65
+2021,24,Maryland,6 Other 1 - planning,6,Other 1 - planning,32088.89
+2021,24,Maryland,7 Structural,7,Structural,3594529.2
+2021,24,Maryland,8 Land management,8,Land management,4182754.08
+2021,24,Maryland,9 Vegetative,9,Vegetative,296070.82
+2021,24,Maryland,10 Forest management,10,Forest management,151924.08
+2021,24,Maryland,12 Soil remediation,12,Soil remediation,139622.58
+2021,24,Maryland,13 Other 2 - improvement,13,Other 2 - improvement,795361.66
+2021,25,Massachusetts,4 Conservation planning assessment,4,Conservation planning assessment,90276.11
+2021,25,Massachusetts,6 Other 1 - planning,6,Other 1 - planning,40233.35
+2021,25,Massachusetts,7 Structural,7,Structural,1600734.85
+2021,25,Massachusetts,8 Land management,8,Land management,718311.08
+2021,25,Massachusetts,9 Vegetative,9,Vegetative,314252.76
+2021,25,Massachusetts,10 Forest management,10,Forest management,148495.72
+2021,25,Massachusetts,12 Soil remediation,12,Soil remediation,68779.51
+2021,25,Massachusetts,13 Other 2 - improvement,13,Other 2 - improvement,397656.04
+2021,26,Michigan,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,10841.36
+2021,26,Michigan,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,3845.93
+2021,26,Michigan,4 Conservation planning assessment,4,Conservation planning assessment,100802.79
+2021,26,Michigan,6 Other 1 - planning,6,Other 1 - planning,596461.85
+2021,26,Michigan,7 Structural,7,Structural,4364471.3
+2021,26,Michigan,8 Land management,8,Land management,1318305.46
+2021,26,Michigan,9 Vegetative,9,Vegetative,4086433.23
+2021,26,Michigan,10 Forest management,10,Forest management,606188.3
+2021,26,Michigan,12 Soil remediation,12,Soil remediation,237618.4
+2021,26,Michigan,13 Other 2 - improvement,13,Other 2 - improvement,388765.53
+2021,27,Minnesota,4 Conservation planning assessment,4,Conservation planning assessment,145644.38
+2021,27,Minnesota,6 Other 1 - planning,6,Other 1 - planning,57311.85
+2021,27,Minnesota,7 Structural,7,Structural,7692347.01
+2021,27,Minnesota,8 Land management,8,Land management,3486465.57
+2021,27,Minnesota,9 Vegetative,9,Vegetative,4992618.53
+2021,27,Minnesota,10 Forest management,10,Forest management,655969.32
+2021,27,Minnesota,12 Soil remediation,12,Soil remediation,572789.51
+2021,27,Minnesota,13 Other 2 - improvement,13,Other 2 - improvement,82020.9
+2021,28,Mississippi,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,46183.77
+2021,28,Mississippi,4 Conservation planning assessment,4,Conservation planning assessment,41765.77
+2021,28,Mississippi,6 Other 1 - planning,6,Other 1 - planning,232561.15
+2021,28,Mississippi,7 Structural,7,Structural,19110822.86
+2021,28,Mississippi,8 Land management,8,Land management,12662272.54
+2021,28,Mississippi,9 Vegetative,9,Vegetative,2891423.76
+2021,28,Mississippi,10 Forest management,10,Forest management,3320402.24
+2021,28,Mississippi,11 Soil testing,11,Soil testing,390.92
+2021,28,Mississippi,12 Soil remediation,12,Soil remediation,128918.36
+2021,28,Mississippi,13 Other 2 - improvement,13,Other 2 - improvement,1676191.48
+2021,29,Missouri,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,9465.3
+2021,29,Missouri,4 Conservation planning assessment,4,Conservation planning assessment,78243.15
+2021,29,Missouri,6 Other 1 - planning,6,Other 1 - planning,320938.09
+2021,29,Missouri,7 Structural,7,Structural,11100974.24
+2021,29,Missouri,8 Land management,8,Land management,3990390.65
+2021,29,Missouri,9 Vegetative,9,Vegetative,11428689.42
+2021,29,Missouri,10 Forest management,10,Forest management,677015.03
+2021,29,Missouri,12 Soil remediation,12,Soil remediation,54608.12
+2021,29,Missouri,13 Other 2 - improvement,13,Other 2 - improvement,2138093.94
+2021,30,Montana,6 Other 1 - planning,6,Other 1 - planning,14117.14
+2021,30,Montana,7 Structural,7,Structural,10462483.1
+2021,30,Montana,8 Land management,8,Land management,5677204.43
+2021,30,Montana,9 Vegetative,9,Vegetative,2694495.73
+2021,30,Montana,10 Forest management,10,Forest management,2997445.08
+2021,30,Montana,12 Soil remediation,12,Soil remediation,184689.4
+2021,30,Montana,13 Other 2 - improvement,13,Other 2 - improvement,162623
+2021,31,Nebraska,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,17204.03
+2021,31,Nebraska,4 Conservation planning assessment,4,Conservation planning assessment,159325.27
+2021,31,Nebraska,6 Other 1 - planning,6,Other 1 - planning,6674.07
+2021,31,Nebraska,7 Structural,7,Structural,12422079.55
+2021,31,Nebraska,8 Land management,8,Land management,3813615.5
+2021,31,Nebraska,9 Vegetative,9,Vegetative,4971459.46
+2021,31,Nebraska,10 Forest management,10,Forest management,382439.84
+2021,31,Nebraska,12 Soil remediation,12,Soil remediation,174747.23
+2021,31,Nebraska,13 Other 2 - improvement,13,Other 2 - improvement,349539.61
+2021,32,Nevada,6 Other 1 - planning,6,Other 1 - planning,3033.83
+2021,32,Nevada,7 Structural,7,Structural,3965826.26
+2021,32,Nevada,8 Land management,8,Land management,728362.95
+2021,32,Nevada,9 Vegetative,9,Vegetative,5450.6
+2021,32,Nevada,10 Forest management,10,Forest management,91451.24
+2021,32,Nevada,13 Other 2 - improvement,13,Other 2 - improvement,3506.61
+2021,33,New Hampshire,4 Conservation planning assessment,4,Conservation planning assessment,7405.85
+2021,33,New Hampshire,6 Other 1 - planning,6,Other 1 - planning,199449.69
+2021,33,New Hampshire,7 Structural,7,Structural,1042355.08
+2021,33,New Hampshire,8 Land management,8,Land management,2361425.43
+2021,33,New Hampshire,9 Vegetative,9,Vegetative,541021.12
+2021,33,New Hampshire,10 Forest management,10,Forest management,361146.17
+2021,33,New Hampshire,12 Soil remediation,12,Soil remediation,31037.19
+2021,33,New Hampshire,13 Other 2 - improvement,13,Other 2 - improvement,24751.28
+2021,34,New Jersey,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,3640.5
+2021,34,New Jersey,4 Conservation planning assessment,4,Conservation planning assessment,39451.19
+2021,34,New Jersey,6 Other 1 - planning,6,Other 1 - planning,98191.89
+2021,34,New Jersey,7 Structural,7,Structural,1456672.73
+2021,34,New Jersey,8 Land management,8,Land management,600967.01
+2021,34,New Jersey,9 Vegetative,9,Vegetative,970198.14
+2021,34,New Jersey,10 Forest management,10,Forest management,218780.98
+2021,34,New Jersey,12 Soil remediation,12,Soil remediation,82854.54
+2021,34,New Jersey,13 Other 2 - improvement,13,Other 2 - improvement,125930.75
+2021,35,New Mexico,4 Conservation planning assessment,4,Conservation planning assessment,9782.94
+2021,35,New Mexico,7 Structural,7,Structural,11881771.46
+2021,35,New Mexico,8 Land management,8,Land management,3572395.32
+2021,35,New Mexico,9 Vegetative,9,Vegetative,628918.26
+2021,35,New Mexico,10 Forest management,10,Forest management,1954730.12
+2021,35,New Mexico,12 Soil remediation,12,Soil remediation,5535.95
+2021,35,New Mexico,13 Other 2 - improvement,13,Other 2 - improvement,54349.73
+2021,36,New York,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,5096.7
+2021,36,New York,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,2115.72
+2021,36,New York,4 Conservation planning assessment,4,Conservation planning assessment,79228.14
+2021,36,New York,6 Other 1 - planning,6,Other 1 - planning,64961.39
+2021,36,New York,7 Structural,7,Structural,10641963.5
+2021,36,New York,8 Land management,8,Land management,2177455.11
+2021,36,New York,9 Vegetative,9,Vegetative,329760.92
+2021,36,New York,10 Forest management,10,Forest management,264979.67
+2021,36,New York,12 Soil remediation,12,Soil remediation,9978.61
+2021,36,New York,13 Other 2 - improvement,13,Other 2 - improvement,255068.03
+2021,37,North Carolina,4 Conservation planning assessment,4,Conservation planning assessment,49411.57
+2021,37,North Carolina,6 Other 1 - planning,6,Other 1 - planning,58466.89
+2021,37,North Carolina,7 Structural,7,Structural,11860212.89
+2021,37,North Carolina,8 Land management,8,Land management,1466130.7
+2021,37,North Carolina,9 Vegetative,9,Vegetative,1501438.21
+2021,37,North Carolina,10 Forest management,10,Forest management,1219262.09
+2021,37,North Carolina,12 Soil remediation,12,Soil remediation,83840.94
+2021,37,North Carolina,13 Other 2 - improvement,13,Other 2 - improvement,738898.02
+2021,38,North Dakota,4 Conservation planning assessment,4,Conservation planning assessment,69839.38
+2021,38,North Dakota,7 Structural,7,Structural,7499528.08
+2021,38,North Dakota,8 Land management,8,Land management,2780318.11
+2021,38,North Dakota,9 Vegetative,9,Vegetative,2908309.35
+2021,38,North Dakota,10 Forest management,10,Forest management,136209.58
+2021,38,North Dakota,12 Soil remediation,12,Soil remediation,1648830.32
+2021,38,North Dakota,13 Other 2 - improvement,13,Other 2 - improvement,36504.87
+2021,39,Ohio,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,445467.94
+2021,39,Ohio,4 Conservation planning assessment,4,Conservation planning assessment,65107.14
+2021,39,Ohio,6 Other 1 - planning,6,Other 1 - planning,503110.58
+2021,39,Ohio,7 Structural,7,Structural,10634135
+2021,39,Ohio,8 Land management,8,Land management,4173821.61
+2021,39,Ohio,9 Vegetative,9,Vegetative,5215450.92
+2021,39,Ohio,10 Forest management,10,Forest management,507907.44
+2021,39,Ohio,12 Soil remediation,12,Soil remediation,280905.84
+2021,39,Ohio,13 Other 2 - improvement,13,Other 2 - improvement,69887.44
+2021,40,Oklahoma,7 Structural,7,Structural,5949058.93
+2021,40,Oklahoma,8 Land management,8,Land management,4632500.65
+2021,40,Oklahoma,9 Vegetative,9,Vegetative,8788972.1
+2021,40,Oklahoma,10 Forest management,10,Forest management,1687967.03
+2021,40,Oklahoma,12 Soil remediation,12,Soil remediation,146616.29
+2021,40,Oklahoma,13 Other 2 - improvement,13,Other 2 - improvement,86927.44
+2021,41,Oregon,4 Conservation planning assessment,4,Conservation planning assessment,146247.82
+2021,41,Oregon,6 Other 1 - planning,6,Other 1 - planning,74026.43
+2021,41,Oregon,7 Structural,7,Structural,6327920.8
+2021,41,Oregon,8 Land management,8,Land management,3941012.64
+2021,41,Oregon,9 Vegetative,9,Vegetative,195027.43
+2021,41,Oregon,10 Forest management,10,Forest management,7022476.17
+2021,41,Oregon,12 Soil remediation,12,Soil remediation,30342.05
+2021,41,Oregon,13 Other 2 - improvement,13,Other 2 - improvement,51023.52
+2021,42,Pennsylvania,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,3640.5
+2021,42,Pennsylvania,4 Conservation planning assessment,4,Conservation planning assessment,72951.45
+2021,42,Pennsylvania,6 Other 1 - planning,6,Other 1 - planning,77644.07
+2021,42,Pennsylvania,7 Structural,7,Structural,7553310.25
+2021,42,Pennsylvania,8 Land management,8,Land management,4220688.05
+2021,42,Pennsylvania,9 Vegetative,9,Vegetative,1490673.73
+2021,42,Pennsylvania,10 Forest management,10,Forest management,371563.61
+2021,42,Pennsylvania,12 Soil remediation,12,Soil remediation,59056.04
+2021,42,Pennsylvania,13 Other 2 - improvement,13,Other 2 - improvement,214181.31
+2021,44,Rhode Island,4 Conservation planning assessment,4,Conservation planning assessment,13143.33
+2021,44,Rhode Island,6 Other 1 - planning,6,Other 1 - planning,58295.48
+2021,44,Rhode Island,7 Structural,7,Structural,457694.29
+2021,44,Rhode Island,8 Land management,8,Land management,1481687.19
+2021,44,Rhode Island,9 Vegetative,9,Vegetative,40959.5
+2021,44,Rhode Island,10 Forest management,10,Forest management,203940.45
+2021,44,Rhode Island,13 Other 2 - improvement,13,Other 2 - improvement,5904.89
+2021,45,South Carolina,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,9077.21
+2021,45,South Carolina,4 Conservation planning assessment,4,Conservation planning assessment,238180.63
+2021,45,South Carolina,6 Other 1 - planning,6,Other 1 - planning,186264.2
+2021,45,South Carolina,7 Structural,7,Structural,6538756.19
+2021,45,South Carolina,8 Land management,8,Land management,3915445.04
+2021,45,South Carolina,9 Vegetative,9,Vegetative,2098927.13
+2021,45,South Carolina,10 Forest management,10,Forest management,4554528.75
+2021,45,South Carolina,12 Soil remediation,12,Soil remediation,307859.87
+2021,45,South Carolina,13 Other 2 - improvement,13,Other 2 - improvement,6901356.09
+2021,46,South Dakota,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2184.3
+2021,46,South Dakota,6 Other 1 - planning,6,Other 1 - planning,4596.62
+2021,46,South Dakota,7 Structural,7,Structural,9816253.6
+2021,46,South Dakota,8 Land management,8,Land management,3652464.52
+2021,46,South Dakota,9 Vegetative,9,Vegetative,1720163.85
+2021,46,South Dakota,10 Forest management,10,Forest management,191938
+2021,46,South Dakota,12 Soil remediation,12,Soil remediation,307421.11
+2021,46,South Dakota,13 Other 2 - improvement,13,Other 2 - improvement,307573.98
+2021,47,Tennessee,4 Conservation planning assessment,4,Conservation planning assessment,110005.48
+2021,47,Tennessee,6 Other 1 - planning,6,Other 1 - planning,216551.31
+2021,47,Tennessee,7 Structural,7,Structural,9283343.77
+2021,47,Tennessee,8 Land management,8,Land management,5918667.35
+2021,47,Tennessee,9 Vegetative,9,Vegetative,8808567.13
+2021,47,Tennessee,10 Forest management,10,Forest management,687150.41
+2021,47,Tennessee,13 Other 2 - improvement,13,Other 2 - improvement,395297.87
+2021,48,Texas,4 Conservation planning assessment,4,Conservation planning assessment,11739.53
+2021,48,Texas,6 Other 1 - planning,6,Other 1 - planning,38801.24
+2021,48,Texas,7 Structural,7,Structural,30261784.18
+2021,48,Texas,8 Land management,8,Land management,41524804.92
+2021,48,Texas,9 Vegetative,9,Vegetative,6226541.2
+2021,48,Texas,10 Forest management,10,Forest management,7223600.88
+2021,48,Texas,12 Soil remediation,12,Soil remediation,659201.89
+2021,48,Texas,13 Other 2 - improvement,13,Other 2 - improvement,686335.59
+2021,49,Utah,4 Conservation planning assessment,4,Conservation planning assessment,6171.54
+2021,49,Utah,6 Other 1 - planning,6,Other 1 - planning,22297.38
+2021,49,Utah,7 Structural,7,Structural,14950806.18
+2021,49,Utah,8 Land management,8,Land management,4820292.89
+2021,49,Utah,9 Vegetative,9,Vegetative,286479.12
+2021,49,Utah,10 Forest management,10,Forest management,1794795.78
+2021,49,Utah,12 Soil remediation,12,Soil remediation,61035.92
+2021,49,Utah,13 Other 2 - improvement,13,Other 2 - improvement,346864.81
+2021,50,Vermont,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,10492.68
+2021,50,Vermont,6 Other 1 - planning,6,Other 1 - planning,255898.73
+2021,50,Vermont,7 Structural,7,Structural,3427283.77
+2021,50,Vermont,8 Land management,8,Land management,1748445.27
+2021,50,Vermont,9 Vegetative,9,Vegetative,1607837.95
+2021,50,Vermont,10 Forest management,10,Forest management,131259.93
+2021,50,Vermont,12 Soil remediation,12,Soil remediation,72558.33
+2021,50,Vermont,13 Other 2 - improvement,13,Other 2 - improvement,44164.82
+2021,51,Virginia,6 Other 1 - planning,6,Other 1 - planning,101272.34
+2021,51,Virginia,7 Structural,7,Structural,6069033.73
+2021,51,Virginia,8 Land management,8,Land management,4984345.57
+2021,51,Virginia,9 Vegetative,9,Vegetative,2965408.63
+2021,51,Virginia,10 Forest management,10,Forest management,559210.74
+2021,51,Virginia,12 Soil remediation,12,Soil remediation,706816.41
+2021,53,Washington,4 Conservation planning assessment,4,Conservation planning assessment,36837.6
+2021,53,Washington,6 Other 1 - planning,6,Other 1 - planning,97317.14
+2021,53,Washington,7 Structural,7,Structural,7198951.06
+2021,53,Washington,8 Land management,8,Land management,2250464.83
+2021,53,Washington,9 Vegetative,9,Vegetative,643444.92
+2021,53,Washington,10 Forest management,10,Forest management,1467093.32
+2021,53,Washington,12 Soil remediation,12,Soil remediation,1865731.43
+2021,53,Washington,13 Other 2 - improvement,13,Other 2 - improvement,28595.33
+2021,54,West Virginia,4 Conservation planning assessment,4,Conservation planning assessment,404838.66
+2021,54,West Virginia,6 Other 1 - planning,6,Other 1 - planning,61309.65
+2021,54,West Virginia,7 Structural,7,Structural,2415107.93
+2021,54,West Virginia,8 Land management,8,Land management,1463043.48
+2021,54,West Virginia,9 Vegetative,9,Vegetative,215537.46
+2021,54,West Virginia,10 Forest management,10,Forest management,224639.28
+2021,54,West Virginia,13 Other 2 - improvement,13,Other 2 - improvement,259436.39
+2021,55,Wisconsin,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,24628.82
+2021,55,Wisconsin,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,28300.08
+2021,55,Wisconsin,4 Conservation planning assessment,4,Conservation planning assessment,361558.32
+2021,55,Wisconsin,6 Other 1 - planning,6,Other 1 - planning,401223.86
+2021,55,Wisconsin,7 Structural,7,Structural,10508263.14
+2021,55,Wisconsin,8 Land management,8,Land management,5341362.4
+2021,55,Wisconsin,9 Vegetative,9,Vegetative,7879227.74
+2021,55,Wisconsin,10 Forest management,10,Forest management,2823203.31
+2021,55,Wisconsin,12 Soil remediation,12,Soil remediation,778376.48
+2021,55,Wisconsin,13 Other 2 - improvement,13,Other 2 - improvement,1850450.6
+2021,56,Wyoming,4 Conservation planning assessment,4,Conservation planning assessment,48689.82
+2021,56,Wyoming,6 Other 1 - planning,6,Other 1 - planning,3640.32
+2021,56,Wyoming,7 Structural,7,Structural,7191137.05
+2021,56,Wyoming,8 Land management,8,Land management,2872789.76
+2021,56,Wyoming,9 Vegetative,9,Vegetative,528939.9
+2021,56,Wyoming,10 Forest management,10,Forest management,854577.55
+2021,56,Wyoming,12 Soil remediation,12,Soil remediation,15398.44
+2021,56,Wyoming,13 Other 2 - improvement,13,Other 2 - improvement,236963.94
+2022,1,Alabama,4 Conservation planning assessment,4,Conservation planning assessment,9911.05
+2022,1,Alabama,6 Other 1 - planning,6,Other 1 - planning,18056.7
+2022,1,Alabama,7 Structural,7,Structural,1885691.22
+2022,1,Alabama,8 Land management,8,Land management,3017350.06
+2022,1,Alabama,9 Vegetative,9,Vegetative,900014.58
+2022,1,Alabama,10 Forest management,10,Forest management,5604646.9
+2022,1,Alabama,13 Other 2 - improvement,13,Other 2 - improvement,424272.71
+2022,2,Alaska,6 Other 1 - planning,6,Other 1 - planning,6023.16
+2022,2,Alaska,7 Structural,7,Structural,226091.15
+2022,2,Alaska,8 Land management,8,Land management,1687650.81
+2022,2,Alaska,9 Vegetative,9,Vegetative,27448.4
+2022,2,Alaska,10 Forest management,10,Forest management,2464996.78
+2022,2,Alaska,13 Other 2 - improvement,13,Other 2 - improvement,1811.71
+2022,4,Arizona,7 Structural,7,Structural,1911872.34
+2022,4,Arizona,8 Land management,8,Land management,1880912.94
+2022,4,Arizona,9 Vegetative,9,Vegetative,17751.03
+2022,4,Arizona,10 Forest management,10,Forest management,476416.79
+2022,4,Arizona,13 Other 2 - improvement,13,Other 2 - improvement,9008.89
+2022,5,Arkansas,6 Other 1 - planning,6,Other 1 - planning,90523.5
+2022,5,Arkansas,7 Structural,7,Structural,10009534.45
+2022,5,Arkansas,8 Land management,8,Land management,4516369.88
+2022,5,Arkansas,9 Vegetative,9,Vegetative,2345149.92
+2022,5,Arkansas,10 Forest management,10,Forest management,1256031.24
+2022,5,Arkansas,12 Soil remediation,12,Soil remediation,272601.74
+2022,5,Arkansas,13 Other 2 - improvement,13,Other 2 - improvement,1231231.26
+2022,6,California,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,4368.6
+2022,6,California,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,823.61
+2022,6,California,4 Conservation planning assessment,4,Conservation planning assessment,73942.98
+2022,6,California,6 Other 1 - planning,6,Other 1 - planning,29451.63
+2022,6,California,7 Structural,7,Structural,24198410.88
+2022,6,California,8 Land management,8,Land management,3967902.61
+2022,6,California,9 Vegetative,9,Vegetative,344800.52
+2022,6,California,10 Forest management,10,Forest management,4329535.27
+2022,6,California,12 Soil remediation,12,Soil remediation,427301.37
+2022,6,California,13 Other 2 - improvement,13,Other 2 - improvement,1331228.13
+2022,8,Colorado,6 Other 1 - planning,6,Other 1 - planning,9128.32
+2022,8,Colorado,7 Structural,7,Structural,7762306.65
+2022,8,Colorado,8 Land management,8,Land management,1537304.4
+2022,8,Colorado,9 Vegetative,9,Vegetative,1606244.77
+2022,8,Colorado,10 Forest management,10,Forest management,3173813.85
+2022,8,Colorado,12 Soil remediation,12,Soil remediation,219550.55
+2022,8,Colorado,13 Other 2 - improvement,13,Other 2 - improvement,199792.12
+2022,9,Connecticut,6 Other 1 - planning,6,Other 1 - planning,18474.63
+2022,9,Connecticut,7 Structural,7,Structural,848663.74
+2022,9,Connecticut,8 Land management,8,Land management,237033.12
+2022,9,Connecticut,9 Vegetative,9,Vegetative,108666.23
+2022,9,Connecticut,10 Forest management,10,Forest management,91685.83
+2022,9,Connecticut,13 Other 2 - improvement,13,Other 2 - improvement,219005.2
+2022,10,Delaware,6 Other 1 - planning,6,Other 1 - planning,98332.53
+2022,10,Delaware,7 Structural,7,Structural,3718382.46
+2022,10,Delaware,8 Land management,8,Land management,548640.52
+2022,10,Delaware,9 Vegetative,9,Vegetative,45080.04
+2022,10,Delaware,10 Forest management,10,Forest management,330.68
+2022,10,Delaware,12 Soil remediation,12,Soil remediation,73252.28
+2022,10,Delaware,13 Other 2 - improvement,13,Other 2 - improvement,209003.85
+2022,12,Florida,4 Conservation planning assessment,4,Conservation planning assessment,7540.92
+2022,12,Florida,6 Other 1 - planning,6,Other 1 - planning,21082.43
+2022,12,Florida,7 Structural,7,Structural,2911916.02
+2022,12,Florida,8 Land management,8,Land management,2739794.71
+2022,12,Florida,9 Vegetative,9,Vegetative,1045813.39
+2022,12,Florida,10 Forest management,10,Forest management,2877597.46
+2022,12,Florida,12 Soil remediation,12,Soil remediation,8167.33
+2022,12,Florida,13 Other 2 - improvement,13,Other 2 - improvement,37738.09
+2022,13,Georgia,6 Other 1 - planning,6,Other 1 - planning,24245.22
+2022,13,Georgia,7 Structural,7,Structural,13800486.08
+2022,13,Georgia,8 Land management,8,Land management,2498194.99
+2022,13,Georgia,9 Vegetative,9,Vegetative,966287.43
+2022,13,Georgia,10 Forest management,10,Forest management,6996351.25
+2022,13,Georgia,12 Soil remediation,12,Soil remediation,11393.71
+2022,13,Georgia,13 Other 2 - improvement,13,Other 2 - improvement,1050519.08
+2022,15,Hawaii,7 Structural,7,Structural,582735.07
+2022,15,Hawaii,8 Land management,8,Land management,1404766.88
+2022,15,Hawaii,9 Vegetative,9,Vegetative,63249.22
+2022,15,Hawaii,10 Forest management,10,Forest management,1105185.48
+2022,16,Idaho,6 Other 1 - planning,6,Other 1 - planning,27086.3
+2022,16,Idaho,7 Structural,7,Structural,4193346.74
+2022,16,Idaho,8 Land management,8,Land management,1341643.38
+2022,16,Idaho,9 Vegetative,9,Vegetative,450328.78
+2022,16,Idaho,10 Forest management,10,Forest management,409022.7
+2022,16,Idaho,12 Soil remediation,12,Soil remediation,237342.89
+2022,16,Idaho,13 Other 2 - improvement,13,Other 2 - improvement,22878.15
+2022,17,Illinois,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,2890.44
+2022,17,Illinois,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,39987
+2022,17,Illinois,4 Conservation planning assessment,4,Conservation planning assessment,78932.87
+2022,17,Illinois,6 Other 1 - planning,6,Other 1 - planning,95525.83
+2022,17,Illinois,7 Structural,7,Structural,3720551.73
+2022,17,Illinois,8 Land management,8,Land management,1207136.67
+2022,17,Illinois,9 Vegetative,9,Vegetative,857063.33
+2022,17,Illinois,10 Forest management,10,Forest management,76151.62
+2022,17,Illinois,12 Soil remediation,12,Soil remediation,31041.85
+2022,17,Illinois,13 Other 2 - improvement,13,Other 2 - improvement,83419.85
+2022,18,Indiana,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,62100.7
+2022,18,Indiana,4 Conservation planning assessment,4,Conservation planning assessment,130526.51
+2022,18,Indiana,6 Other 1 - planning,6,Other 1 - planning,99714.42
+2022,18,Indiana,7 Structural,7,Structural,4771726.88
+2022,18,Indiana,8 Land management,8,Land management,1807274.71
+2022,18,Indiana,9 Vegetative,9,Vegetative,4343099.02
+2022,18,Indiana,10 Forest management,10,Forest management,353270.69
+2022,18,Indiana,12 Soil remediation,12,Soil remediation,141418.6
+2022,18,Indiana,13 Other 2 - improvement,13,Other 2 - improvement,122120.39
+2022,19,Iowa,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,15889.41
+2022,19,Iowa,4 Conservation planning assessment,4,Conservation planning assessment,80411.43
+2022,19,Iowa,6 Other 1 - planning,6,Other 1 - planning,40816.72
+2022,19,Iowa,7 Structural,7,Structural,6480609.3
+2022,19,Iowa,8 Land management,8,Land management,2116234.15
+2022,19,Iowa,9 Vegetative,9,Vegetative,6673744.11
+2022,19,Iowa,10 Forest management,10,Forest management,93391.34
+2022,19,Iowa,12 Soil remediation,12,Soil remediation,106845.91
+2022,19,Iowa,13 Other 2 - improvement,13,Other 2 - improvement,430145.25
+2022,20,Kansas,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,11990.78
+2022,20,Kansas,6 Other 1 - planning,6,Other 1 - planning,2370.9
+2022,20,Kansas,7 Structural,7,Structural,6101440.95
+2022,20,Kansas,8 Land management,8,Land management,2826376.19
+2022,20,Kansas,9 Vegetative,9,Vegetative,5054893.23
+2022,20,Kansas,10 Forest management,10,Forest management,221538.11
+2022,20,Kansas,12 Soil remediation,12,Soil remediation,725175.54
+2022,20,Kansas,13 Other 2 - improvement,13,Other 2 - improvement,464314.32
+2022,21,Kentucky,4 Conservation planning assessment,4,Conservation planning assessment,43437.71
+2022,21,Kentucky,6 Other 1 - planning,6,Other 1 - planning,62495.23
+2022,21,Kentucky,7 Structural,7,Structural,3177251.37
+2022,21,Kentucky,8 Land management,8,Land management,2181940.03
+2022,21,Kentucky,9 Vegetative,9,Vegetative,2905123.15
+2022,21,Kentucky,10 Forest management,10,Forest management,472172.8
+2022,21,Kentucky,12 Soil remediation,12,Soil remediation,3427.92
+2022,21,Kentucky,13 Other 2 - improvement,13,Other 2 - improvement,528218.15
+2022,22,Louisiana,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,2350.8
+2022,22,Louisiana,6 Other 1 - planning,6,Other 1 - planning,4834.78
+2022,22,Louisiana,7 Structural,7,Structural,3497712.42
+2022,22,Louisiana,8 Land management,8,Land management,4338897.72
+2022,22,Louisiana,9 Vegetative,9,Vegetative,4864526.73
+2022,22,Louisiana,10 Forest management,10,Forest management,910956.75
+2022,22,Louisiana,12 Soil remediation,12,Soil remediation,161822.41
+2022,22,Louisiana,13 Other 2 - improvement,13,Other 2 - improvement,27263.04
+2022,23,Maine,4 Conservation planning assessment,4,Conservation planning assessment,100392.75
+2022,23,Maine,6 Other 1 - planning,6,Other 1 - planning,175121.64
+2022,23,Maine,7 Structural,7,Structural,3565351.55
+2022,23,Maine,8 Land management,8,Land management,1834601.94
+2022,23,Maine,9 Vegetative,9,Vegetative,346046.08
+2022,23,Maine,10 Forest management,10,Forest management,432090.89
+2022,23,Maine,12 Soil remediation,12,Soil remediation,21696.31
+2022,23,Maine,13 Other 2 - improvement,13,Other 2 - improvement,54081.5
+2022,24,Maryland,6 Other 1 - planning,6,Other 1 - planning,13284.79
+2022,24,Maryland,7 Structural,7,Structural,2178697.11
+2022,24,Maryland,8 Land management,8,Land management,1383152.16
+2022,24,Maryland,9 Vegetative,9,Vegetative,121306.11
+2022,24,Maryland,10 Forest management,10,Forest management,63315.74
+2022,24,Maryland,12 Soil remediation,12,Soil remediation,65416.28
+2022,24,Maryland,13 Other 2 - improvement,13,Other 2 - improvement,454615.89
+2022,25,Massachusetts,4 Conservation planning assessment,4,Conservation planning assessment,22176.9
+2022,25,Massachusetts,6 Other 1 - planning,6,Other 1 - planning,24474.86
+2022,25,Massachusetts,7 Structural,7,Structural,690095.81
+2022,25,Massachusetts,8 Land management,8,Land management,440258.88
+2022,25,Massachusetts,9 Vegetative,9,Vegetative,76696.32
+2022,25,Massachusetts,10 Forest management,10,Forest management,63155.19
+2022,25,Massachusetts,12 Soil remediation,12,Soil remediation,59907.65
+2022,25,Massachusetts,13 Other 2 - improvement,13,Other 2 - improvement,232642.37
+2022,26,Michigan,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,11366.83
+2022,26,Michigan,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,4201.2
+2022,26,Michigan,4 Conservation planning assessment,4,Conservation planning assessment,41101.08
+2022,26,Michigan,6 Other 1 - planning,6,Other 1 - planning,325155
+2022,26,Michigan,7 Structural,7,Structural,4989886.12
+2022,26,Michigan,8 Land management,8,Land management,592576.33
+2022,26,Michigan,9 Vegetative,9,Vegetative,2815642.39
+2022,26,Michigan,10 Forest management,10,Forest management,377699.84
+2022,26,Michigan,12 Soil remediation,12,Soil remediation,30775.02
+2022,26,Michigan,13 Other 2 - improvement,13,Other 2 - improvement,281566.65
+2022,27,Minnesota,4 Conservation planning assessment,4,Conservation planning assessment,91874.17
+2022,27,Minnesota,6 Other 1 - planning,6,Other 1 - planning,14658.48
+2022,27,Minnesota,7 Structural,7,Structural,7635286.09
+2022,27,Minnesota,8 Land management,8,Land management,2403754.63
+2022,27,Minnesota,9 Vegetative,9,Vegetative,2868910.31
+2022,27,Minnesota,10 Forest management,10,Forest management,249296.12
+2022,27,Minnesota,12 Soil remediation,12,Soil remediation,46070.13
+2022,27,Minnesota,13 Other 2 - improvement,13,Other 2 - improvement,702424.05
+2022,28,Mississippi,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,28274.55
+2022,28,Mississippi,3 Soil health,3,Soil health,4412.86
+2022,28,Mississippi,4 Conservation planning assessment,4,Conservation planning assessment,4771.55
+2022,28,Mississippi,6 Other 1 - planning,6,Other 1 - planning,83064.53
+2022,28,Mississippi,7 Structural,7,Structural,10591263.09
+2022,28,Mississippi,8 Land management,8,Land management,6051711.68
+2022,28,Mississippi,9 Vegetative,9,Vegetative,2364516.31
+2022,28,Mississippi,10 Forest management,10,Forest management,2983626.02
+2022,28,Mississippi,11 Soil testing,11,Soil testing,390.92
+2022,28,Mississippi,12 Soil remediation,12,Soil remediation,64588.86
+2022,28,Mississippi,13 Other 2 - improvement,13,Other 2 - improvement,400356.52
+2022,29,Missouri,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,9675.98
+2022,29,Missouri,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,343.17
+2022,29,Missouri,4 Conservation planning assessment,4,Conservation planning assessment,72837.27
+2022,29,Missouri,6 Other 1 - planning,6,Other 1 - planning,233891.63
+2022,29,Missouri,7 Structural,7,Structural,6981232.11
+2022,29,Missouri,8 Land management,8,Land management,2125946.09
+2022,29,Missouri,9 Vegetative,9,Vegetative,7650754.54
+2022,29,Missouri,10 Forest management,10,Forest management,347960.33
+2022,29,Missouri,12 Soil remediation,12,Soil remediation,13836.54
+2022,29,Missouri,13 Other 2 - improvement,13,Other 2 - improvement,919027.93
+2022,30,Montana,7 Structural,7,Structural,4288102.86
+2022,30,Montana,8 Land management,8,Land management,3231784.91
+2022,30,Montana,9 Vegetative,9,Vegetative,997056.09
+2022,30,Montana,10 Forest management,10,Forest management,1407457.88
+2022,30,Montana,12 Soil remediation,12,Soil remediation,92921.21
+2022,30,Montana,13 Other 2 - improvement,13,Other 2 - improvement,69480.47
+2022,31,Nebraska,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,12994.7
+2022,31,Nebraska,4 Conservation planning assessment,4,Conservation planning assessment,92175.57
+2022,31,Nebraska,6 Other 1 - planning,6,Other 1 - planning,5119.2
+2022,31,Nebraska,7 Structural,7,Structural,7089439.31
+2022,31,Nebraska,8 Land management,8,Land management,2426747.32
+2022,31,Nebraska,9 Vegetative,9,Vegetative,2394374.19
+2022,31,Nebraska,10 Forest management,10,Forest management,238143.47
+2022,31,Nebraska,12 Soil remediation,12,Soil remediation,30168.05
+2022,31,Nebraska,13 Other 2 - improvement,13,Other 2 - improvement,202147.38
+2022,32,Nevada,7 Structural,7,Structural,935507.51
+2022,32,Nevada,8 Land management,8,Land management,574308.21
+2022,32,Nevada,9 Vegetative,9,Vegetative,200846.07
+2022,32,Nevada,10 Forest management,10,Forest management,8144.41
+2022,32,Nevada,13 Other 2 - improvement,13,Other 2 - improvement,6395.36
+2022,33,New Hampshire,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,12377.7
+2022,33,New Hampshire,6 Other 1 - planning,6,Other 1 - planning,81974.61
+2022,33,New Hampshire,7 Structural,7,Structural,259479.36
+2022,33,New Hampshire,8 Land management,8,Land management,870472.96
+2022,33,New Hampshire,9 Vegetative,9,Vegetative,332338.64
+2022,33,New Hampshire,10 Forest management,10,Forest management,217358.57
+2022,33,New Hampshire,12 Soil remediation,12,Soil remediation,23722.41
+2022,33,New Hampshire,13 Other 2 - improvement,13,Other 2 - improvement,3226.12
+2022,34,New Jersey,4 Conservation planning assessment,4,Conservation planning assessment,23171.91
+2022,34,New Jersey,6 Other 1 - planning,6,Other 1 - planning,80234.55
+2022,34,New Jersey,7 Structural,7,Structural,579718.7
+2022,34,New Jersey,8 Land management,8,Land management,209508.65
+2022,34,New Jersey,9 Vegetative,9,Vegetative,925517.19
+2022,34,New Jersey,10 Forest management,10,Forest management,94811.19
+2022,34,New Jersey,12 Soil remediation,12,Soil remediation,10914.31
+2022,34,New Jersey,13 Other 2 - improvement,13,Other 2 - improvement,161261.76
+2022,35,New Mexico,7 Structural,7,Structural,5547124.53
+2022,35,New Mexico,8 Land management,8,Land management,2250526.44
+2022,35,New Mexico,9 Vegetative,9,Vegetative,57914.98
+2022,35,New Mexico,10 Forest management,10,Forest management,780782.99
+2022,35,New Mexico,12 Soil remediation,12,Soil remediation,364.82
+2022,35,New Mexico,13 Other 2 - improvement,13,Other 2 - improvement,13296.57
+2022,36,New York,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,2115.72
+2022,36,New York,4 Conservation planning assessment,4,Conservation planning assessment,45151.11
+2022,36,New York,6 Other 1 - planning,6,Other 1 - planning,25168.92
+2022,36,New York,7 Structural,7,Structural,5254769.48
+2022,36,New York,8 Land management,8,Land management,1305905.13
+2022,36,New York,9 Vegetative,9,Vegetative,139115.85
+2022,36,New York,10 Forest management,10,Forest management,174279.93
+2022,36,New York,12 Soil remediation,12,Soil remediation,2211.89
+2022,36,New York,13 Other 2 - improvement,13,Other 2 - improvement,136594.86
+2022,37,North Carolina,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,3033.75
+2022,37,North Carolina,4 Conservation planning assessment,4,Conservation planning assessment,55220
+2022,37,North Carolina,6 Other 1 - planning,6,Other 1 - planning,39398.67
+2022,37,North Carolina,7 Structural,7,Structural,11199672.38
+2022,37,North Carolina,8 Land management,8,Land management,1028991.87
+2022,37,North Carolina,9 Vegetative,9,Vegetative,841646.35
+2022,37,North Carolina,10 Forest management,10,Forest management,1242488.32
+2022,37,North Carolina,12 Soil remediation,12,Soil remediation,16022.69
+2022,37,North Carolina,13 Other 2 - improvement,13,Other 2 - improvement,177099.86
+2022,38,North Dakota,7 Structural,7,Structural,3158871.72
+2022,38,North Dakota,8 Land management,8,Land management,1432384.48
+2022,38,North Dakota,9 Vegetative,9,Vegetative,1413226.88
+2022,38,North Dakota,10 Forest management,10,Forest management,16707
+2022,38,North Dakota,12 Soil remediation,12,Soil remediation,323922.13
+2022,38,North Dakota,13 Other 2 - improvement,13,Other 2 - improvement,11961.75
+2022,39,Ohio,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,140071.83
+2022,39,Ohio,4 Conservation planning assessment,4,Conservation planning assessment,4713.3
+2022,39,Ohio,6 Other 1 - planning,6,Other 1 - planning,132159.51
+2022,39,Ohio,7 Structural,7,Structural,9244954.2
+2022,39,Ohio,8 Land management,8,Land management,1908133.37
+2022,39,Ohio,9 Vegetative,9,Vegetative,3370725.34
+2022,39,Ohio,10 Forest management,10,Forest management,172479.78
+2022,39,Ohio,12 Soil remediation,12,Soil remediation,116602.43
+2022,39,Ohio,13 Other 2 - improvement,13,Other 2 - improvement,101713.47
+2022,40,Oklahoma,6 Other 1 - planning,6,Other 1 - planning,4552.18
+2022,40,Oklahoma,7 Structural,7,Structural,3115122.69
+2022,40,Oklahoma,8 Land management,8,Land management,1762340.87
+2022,40,Oklahoma,9 Vegetative,9,Vegetative,1454500.37
+2022,40,Oklahoma,10 Forest management,10,Forest management,531325.76
+2022,40,Oklahoma,12 Soil remediation,12,Soil remediation,127199.11
+2022,40,Oklahoma,13 Other 2 - improvement,13,Other 2 - improvement,50891.68
+2022,41,Oregon,4 Conservation planning assessment,4,Conservation planning assessment,46471.25
+2022,41,Oregon,6 Other 1 - planning,6,Other 1 - planning,62470.17
+2022,41,Oregon,7 Structural,7,Structural,3357266.18
+2022,41,Oregon,8 Land management,8,Land management,2188250.65
+2022,41,Oregon,9 Vegetative,9,Vegetative,75673.54
+2022,41,Oregon,10 Forest management,10,Forest management,3799733.1
+2022,41,Oregon,12 Soil remediation,12,Soil remediation,16872.84
+2022,41,Oregon,13 Other 2 - improvement,13,Other 2 - improvement,64325.21
+2022,42,Pennsylvania,4 Conservation planning assessment,4,Conservation planning assessment,50517.04
+2022,42,Pennsylvania,6 Other 1 - planning,6,Other 1 - planning,94665.59
+2022,42,Pennsylvania,7 Structural,7,Structural,7702344.19
+2022,42,Pennsylvania,8 Land management,8,Land management,2486584.96
+2022,42,Pennsylvania,9 Vegetative,9,Vegetative,914388.93
+2022,42,Pennsylvania,10 Forest management,10,Forest management,241075.31
+2022,42,Pennsylvania,12 Soil remediation,12,Soil remediation,3257.12
+2022,42,Pennsylvania,13 Other 2 - improvement,13,Other 2 - improvement,83005.37
+2022,44,Rhode Island,6 Other 1 - planning,6,Other 1 - planning,42722.85
+2022,44,Rhode Island,7 Structural,7,Structural,299935.08
+2022,44,Rhode Island,8 Land management,8,Land management,1131533.24
+2022,44,Rhode Island,9 Vegetative,9,Vegetative,14929.19
+2022,44,Rhode Island,10 Forest management,10,Forest management,97479.71
+2022,45,South Carolina,4 Conservation planning assessment,4,Conservation planning assessment,63168.39
+2022,45,South Carolina,6 Other 1 - planning,6,Other 1 - planning,157870.46
+2022,45,South Carolina,7 Structural,7,Structural,3678907.83
+2022,45,South Carolina,8 Land management,8,Land management,1875377.75
+2022,45,South Carolina,9 Vegetative,9,Vegetative,1513335.1
+2022,45,South Carolina,10 Forest management,10,Forest management,2766679.98
+2022,45,South Carolina,12 Soil remediation,12,Soil remediation,46428.62
+2022,45,South Carolina,13 Other 2 - improvement,13,Other 2 - improvement,2710935.11
+2022,46,South Dakota,7 Structural,7,Structural,5345172.45
+2022,46,South Dakota,8 Land management,8,Land management,2237069.53
+2022,46,South Dakota,9 Vegetative,9,Vegetative,782592
+2022,46,South Dakota,10 Forest management,10,Forest management,125969.82
+2022,46,South Dakota,12 Soil remediation,12,Soil remediation,214947.39
+2022,46,South Dakota,13 Other 2 - improvement,13,Other 2 - improvement,289710.6
+2022,47,Tennessee,4 Conservation planning assessment,4,Conservation planning assessment,51920.87
+2022,47,Tennessee,6 Other 1 - planning,6,Other 1 - planning,91269.59
+2022,47,Tennessee,7 Structural,7,Structural,4655279.34
+2022,47,Tennessee,8 Land management,8,Land management,2932543.59
+2022,47,Tennessee,9 Vegetative,9,Vegetative,6348497.51
+2022,47,Tennessee,10 Forest management,10,Forest management,449807.37
+2022,47,Tennessee,13 Other 2 - improvement,13,Other 2 - improvement,50223.52
+2022,48,Texas,6 Other 1 - planning,6,Other 1 - planning,23844.08
+2022,48,Texas,7 Structural,7,Structural,11540742.58
+2022,48,Texas,8 Land management,8,Land management,17599713.6
+2022,48,Texas,9 Vegetative,9,Vegetative,1971454.25
+2022,48,Texas,10 Forest management,10,Forest management,3088280.59
+2022,48,Texas,12 Soil remediation,12,Soil remediation,280014.07
+2022,48,Texas,13 Other 2 - improvement,13,Other 2 - improvement,285205.27
+2022,49,Utah,6 Other 1 - planning,6,Other 1 - planning,2370.9
+2022,49,Utah,7 Structural,7,Structural,5369846.58
+2022,49,Utah,8 Land management,8,Land management,1844326.66
+2022,49,Utah,9 Vegetative,9,Vegetative,68083.61
+2022,49,Utah,10 Forest management,10,Forest management,986223.82
+2022,49,Utah,11 Soil testing,11,Soil testing,298.78
+2022,49,Utah,12 Soil remediation,12,Soil remediation,7538.17
+2022,49,Utah,13 Other 2 - improvement,13,Other 2 - improvement,117489.73
+2022,50,Vermont,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,5157.38
+2022,50,Vermont,6 Other 1 - planning,6,Other 1 - planning,165429.8
+2022,50,Vermont,7 Structural,7,Structural,1976339.61
+2022,50,Vermont,8 Land management,8,Land management,1087205.85
+2022,50,Vermont,9 Vegetative,9,Vegetative,639881.98
+2022,50,Vermont,10 Forest management,10,Forest management,35798.11
+2022,50,Vermont,11 Soil testing,11,Soil testing,1942.07
+2022,50,Vermont,12 Soil remediation,12,Soil remediation,3991.67
+2022,50,Vermont,13 Other 2 - improvement,13,Other 2 - improvement,40687.64
+2022,51,Virginia,6 Other 1 - planning,6,Other 1 - planning,60106.07
+2022,51,Virginia,7 Structural,7,Structural,4183773.92
+2022,51,Virginia,8 Land management,8,Land management,2675473.83
+2022,51,Virginia,9 Vegetative,9,Vegetative,1327751.24
+2022,51,Virginia,10 Forest management,10,Forest management,242150.02
+2022,51,Virginia,12 Soil remediation,12,Soil remediation,190259.48
+2022,51,Virginia,13 Other 2 - improvement,13,Other 2 - improvement,7158.09
+2022,53,Washington,4 Conservation planning assessment,4,Conservation planning assessment,27925.7
+2022,53,Washington,6 Other 1 - planning,6,Other 1 - planning,37136.1
+2022,53,Washington,7 Structural,7,Structural,2594501.04
+2022,53,Washington,8 Land management,8,Land management,3837930.81
+2022,53,Washington,9 Vegetative,9,Vegetative,1038362.89
+2022,53,Washington,10 Forest management,10,Forest management,1518054.77
+2022,53,Washington,12 Soil remediation,12,Soil remediation,2352910.93
+2022,53,Washington,13 Other 2 - improvement,13,Other 2 - improvement,36795.4
+2022,54,West Virginia,4 Conservation planning assessment,4,Conservation planning assessment,156516.88
+2022,54,West Virginia,6 Other 1 - planning,6,Other 1 - planning,26321.39
+2022,54,West Virginia,7 Structural,7,Structural,1062624.16
+2022,54,West Virginia,8 Land management,8,Land management,919618.64
+2022,54,West Virginia,9 Vegetative,9,Vegetative,54681.41
+2022,54,West Virginia,10 Forest management,10,Forest management,164954.14
+2022,54,West Virginia,13 Other 2 - improvement,13,Other 2 - improvement,49604.13
+2022,55,Wisconsin,1 Comprehensive Nutrient Mgt.,1,Comprehensive Nutrient Mgt.,5419.58
+2022,55,Wisconsin,2 Resource-conserving crop rotation,2,Resource-conserving crop rotation,14338.32
+2022,55,Wisconsin,4 Conservation planning assessment,4,Conservation planning assessment,130370.62
+2022,55,Wisconsin,6 Other 1 - planning,6,Other 1 - planning,137719.55
+2022,55,Wisconsin,7 Structural,7,Structural,8293972.05
+2022,55,Wisconsin,8 Land management,8,Land management,2675491.73
+2022,55,Wisconsin,9 Vegetative,9,Vegetative,4927656.97
+2022,55,Wisconsin,10 Forest management,10,Forest management,362897.26
+2022,55,Wisconsin,12 Soil remediation,12,Soil remediation,95591.16
+2022,55,Wisconsin,13 Other 2 - improvement,13,Other 2 - improvement,415644.29
+2022,56,Wyoming,7 Structural,7,Structural,3918307.03
+2022,56,Wyoming,8 Land management,8,Land management,1437592.59
+2022,56,Wyoming,9 Vegetative,9,Vegetative,82177.54
+2022,56,Wyoming,10 Forest management,10,Forest management,257939.39
+2022,56,Wyoming,13 Other 2 - improvement,13,Other 2 - improvement,100311.69
