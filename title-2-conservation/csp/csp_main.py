@@ -11,12 +11,10 @@ class CSPDataParser:
         self.csv_filepath = csv_filepath
 
         self.statute_and_practice_categories_mapping = {
-            "(6)(A) Practices": ["Structural", "Land management", "Vegetative", "Forest management",
-                                 "Soil testing", "Soil remediation", "Other improvement"],
-            "(6)(B) Practices": ["Comprehensive Nutrient Mgt.", "Resource-conserving crop rotation",
-                                 "Soil health", "Conservation planning assessment", "Other planning"],
-            "2014 CSP": ["Pastureland", "Cropland", "Pastured Cropland", "Rangeland", "NIPF"],
-            "Other": ["Bundles", "Other Payments", "EAP"]
+            "2018 CSP Practices": ["Structural", "Land management", "Vegetative", "Forest management", "Soil testing",
+                                   "Soil remediation", "Other improvement"],
+            "2014 CSP Eligible Land": ["Pastureland", "Cropland", "Pastured Cropland", "Rangeland", "NIPF"],
+            "Other": ["Bundles", "EAP"]
         }
 
         self.processed_data_dict = dict()
@@ -87,12 +85,12 @@ class CSPDataParser:
                     "years": str(year),
                     "statutes": [
                         {
-                            "statuteName": "(6)(A) Practices",
+                            "statuteName": "2018 CSP Practices",
                             "practiceCategories": [
                             ]
                         },
                         {
-                            "statuteName": "2014 CSP",
+                            "statuteName": "2014 CSP Eligible Land",
                             "practiceCategories": [
                             ]
                         },
@@ -148,12 +146,12 @@ class CSPDataParser:
                     "years": str(self.start_year) + "-" + str(self.end_year),
                     "statutes": [
                         {
-                            "statuteName": "(6)(A) Practices",
+                            "statuteName": "2018 CSP Practices",
                             "practiceCategories": [
                             ]
                         },
                         {
-                            "statuteName": "2014 CSP",
+                            "statuteName": "2014 CSP Eligible Land",
                             "practiceCategories": [
                             ]
                         },
@@ -240,13 +238,13 @@ class CSPDataParser:
                     "years": str(self.start_year) + "-" + str(self.end_year),
                     "statutes": [
                         {
-                            "statuteName": "(6)(A) Practices",
+                            "statuteName": "2018 CSP Practices",
                             "statutePaymentInDollars": 0.0,
                             "practiceCategories": [
                             ]
                         },
                         {
-                            "statuteName": "2014 CSP",
+                            "statuteName": "2014 CSP Eligible Land",
                             "statutePaymentInDollars": 0.0,
                             "practiceCategories": [
                             ]
@@ -317,13 +315,13 @@ class CSPDataParser:
             statutes_data = {
                 "statutes": [
                     {
-                        "statuteName": "(6)(A) Practices",
+                        "statuteName": "2018 CSP Practices",
                         "practiceCategories": [
 
                         ]
                     },
                     {
-                        "statuteName": "2014 CSP",
+                        "statuteName": "2014 CSP Eligible Land",
                         "practiceCategories": [
 
                         ]
@@ -337,8 +335,8 @@ class CSPDataParser:
                 ]
             }
             total_for_statute = {
-                "(6)(A) Practices": 0.0,
-                "2014 CSP": 0.0,
+                "2018 CSP Practices": 0.0,
+                "2014 CSP Eligible Land": 0.0,
                 "Other": 0.0
             }
 

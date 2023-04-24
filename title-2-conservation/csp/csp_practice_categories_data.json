@@ -1,7 +1,7 @@
 {
     "statutes": [
         {
-            "statuteName": "(6)(A) Practices",
+            "statuteName": "2018 CSP Practices",
             "practiceCategories": [
                 {
                     "practiceCategoryName": "Other improvement",
@@ -38,7 +38,7 @@
             "totalPaymentInPercentage": 21.1
         },
         {
-            "statuteName": "2014 CSP",
+            "statuteName": "2014 CSP Eligible Land",
             "practiceCategories": [
                 {
                     "practiceCategoryName": "Cropland",
