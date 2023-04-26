@@ -1,90 +1,88 @@
 {
     "statutes": [
         {
-            "statuteName": "2018 CSP Practices",
+            "statuteName": "2018 Practices",
             "practiceCategories": [
-                {
-                    "practiceCategoryName": "Other improvement",
-                    "totalPaymentInDollars": 296099744.0,
-                    "totalPaymentInPercentage": 35.69
-                },
                 {
                     "practiceCategoryName": "Land management",
                     "totalPaymentInDollars": 288840407.0,
-                    "totalPaymentInPercentage": 34.81
+                    "totalPaymentInPercentage": 33.64
+                },
+                {
+                    "practiceCategoryName": "Other improvement",
+                    "totalPaymentInDollars": 189894403.0,
+                    "totalPaymentInPercentage": 22.12
+                },
+                {
+                    "practiceCategoryName": "Existing activity payments",
+                    "totalPaymentInDollars": 124060057.0,
+                    "totalPaymentInPercentage": 14.45
                 },
                 {
                     "practiceCategoryName": "Vegetative",
                     "totalPaymentInDollars": 114325867.0,
-                    "totalPaymentInPercentage": 13.78
+                    "totalPaymentInPercentage": 13.31
                 },
                 {
                     "practiceCategoryName": "Forest management",
                     "totalPaymentInDollars": 82980588.0,
-                    "totalPaymentInPercentage": 10.0
+                    "totalPaymentInPercentage": 9.66
                 },
                 {
                     "practiceCategoryName": "Soil remediation",
                     "totalPaymentInDollars": 26570809.0,
-                    "totalPaymentInPercentage": 3.2
+                    "totalPaymentInPercentage": 3.09
                 },
                 {
                     "practiceCategoryName": "Structural",
                     "totalPaymentInDollars": 20852431.0,
-                    "totalPaymentInPercentage": 2.51
-                }
-            ],
-            "totalPaymentInDollars": 829669846.0,
-            "totalPaymentInPercentage": 21.1
-        },
-        {
-            "statuteName": "2014 CSP Eligible Land",
-            "practiceCategories": [
-                {
-                    "practiceCategoryName": "Cropland",
-                    "totalPaymentInDollars": 2286711795.0,
-                    "totalPaymentInPercentage": 77.07
-                },
-                {
-                    "practiceCategoryName": "Rangeland",
-                    "totalPaymentInDollars": 349383707.0,
-                    "totalPaymentInPercentage": 11.77
-                },
-                {
-                    "practiceCategoryName": "Pastureland",
-                    "totalPaymentInDollars": 201823173.0,
-                    "totalPaymentInPercentage": 6.8
-                },
-                {
-                    "practiceCategoryName": "NIPF",
-                    "totalPaymentInDollars": 94022176.0,
-                    "totalPaymentInPercentage": 3.17
-                },
-                {
-                    "practiceCategoryName": "Pastured Cropland",
-                    "totalPaymentInDollars": 35232083.0,
-                    "totalPaymentInPercentage": 1.19
-                }
-            ],
-            "totalPaymentInDollars": 2967172934.0,
-            "totalPaymentInPercentage": 75.46
-        },
-        {
-            "statuteName": "Other",
-            "practiceCategories": [
-                {
-                    "practiceCategoryName": "EAP",
-                    "totalPaymentInDollars": 124060057.0,
-                    "totalPaymentInPercentage": 91.77
+                    "totalPaymentInPercentage": 2.43
                 },
                 {
                     "practiceCategoryName": "Bundles",
                     "totalPaymentInDollars": 11125700.0,
-                    "totalPaymentInPercentage": 8.23
+                    "totalPaymentInPercentage": 1.3
                 }
             ],
-            "totalPaymentInDollars": 135185757.0,
-            "totalPaymentInPercentage": 3.44
+            "totalPaymentInDollars": 858650262.0,
+            "totalPaymentInPercentage": 21.84
+        },
+        {
+            "statuteName": "2014 Eligible Land",
+            "practiceCategories": [
+                {
+                    "practiceCategoryName": "Cropland",
+                    "totalPaymentInDollars": 2286711795.0,
+                    "totalPaymentInPercentage": 74.4
+                },
+                {
+                    "practiceCategoryName": "Rangeland",
+                    "totalPaymentInDollars": 349383707.0,
+                    "totalPaymentInPercentage": 11.37
+                },
+                {
+                    "practiceCategoryName": "Pastureland",
+                    "totalPaymentInDollars": 201823173.0,
+                    "totalPaymentInPercentage": 6.57
+                },
+                {
+                    "practiceCategoryName": "Other: supplemental, adjustment & other",
+                    "totalPaymentInDollars": 106205341.0,
+                    "totalPaymentInPercentage": 3.46
+                },
+                {
+                    "practiceCategoryName": "Non-industrial private forestland",
+                    "totalPaymentInDollars": 94022176.0,
+                    "totalPaymentInPercentage": 3.06
+                },
+                {
+                    "practiceCategoryName": "Pastured cropland",
+                    "totalPaymentInDollars": 35232083.0,
+                    "totalPaymentInPercentage": 1.15
+                }
+            ],
+            "totalPaymentInDollars": 3073378275.0,
+            "totalPaymentInPercentage": 78.16
         }
     ]
 }
