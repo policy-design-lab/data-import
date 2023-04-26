@@ -11,12 +11,10 @@ class CSPDataParser:
         self.csv_filepath = csv_filepath
 
         self.statute_and_practice_categories_mapping = {
-            "(6)(A) Practices": ["Structural", "Land management", "Vegetative", "Forest management",
-                                 "Soil testing", "Soil remediation", "Other improvement"],
-            "(6)(B) Practices": ["Comprehensive Nutrient Mgt.", "Resource-conserving crop rotation",
-                                 "Soil health", "Conservation planning assessment", "Other planning"],
-            "2014 CSP": ["Pastureland", "Cropland", "Pastured Cropland", "Rangeland", "NIPF"],
-            "Other": ["Bundles", "Other Payments", "EAP"]
+            "2018 Practices": ["Structural", "Land management", "Vegetative", "Forest management", "Soil testing",
+                               "Soil remediation", "Other improvement", "Existing activity payments", "Bundles"],
+            "2014 Eligible Land": ["Pastureland", "Cropland", "Pastured cropland", "Rangeland",
+                                   "Non-industrial private forestland", "Other: supplemental, adjustment & other"],
         }
 
         self.processed_data_dict = dict()
@@ -58,7 +56,11 @@ class CSPDataParser:
             "Forest management (6(A)(iv))": "Forest management",
             "Vegetative (6(A)(iii))": "Vegetative",
             "Soil remediation (6(A)(vi))": "Soil remediation",
-            "Other (6(A)(vii))": "Other improvement"
+            "Other (6(A)(vii))": "Other improvement",
+            "NIPF": "Non-industrial private forestland",
+            "2014 Other Practices": "Other: supplemental, adjustment & other",
+            "Existing Activity Payments": "Existing activity payments",
+            "Pastured Cropland": "Pastured cropland"
         })
 
         # Rename column names to make it more uniform
@@ -87,17 +89,12 @@ class CSPDataParser:
                     "years": str(year),
                     "statutes": [
                         {
-                            "statuteName": "(6)(A) Practices",
+                            "statuteName": "2018 Practices",
                             "practiceCategories": [
                             ]
                         },
                         {
-                            "statuteName": "2014 CSP",
-                            "practiceCategories": [
-                            ]
-                        },
-                        {
-                            "statuteName": "Other",
+                            "statuteName": "2014 Eligible Land",
                             "practiceCategories": [
                             ]
                         }
@@ -148,17 +145,12 @@ class CSPDataParser:
                     "years": str(self.start_year) + "-" + str(self.end_year),
                     "statutes": [
                         {
-                            "statuteName": "(6)(A) Practices",
+                            "statuteName": "2018 Practices",
                             "practiceCategories": [
                             ]
                         },
                         {
-                            "statuteName": "2014 CSP",
-                            "practiceCategories": [
-                            ]
-                        },
-                        {
-                            "statuteName": "Other",
+                            "statuteName": "2014 Eligible Land",
                             "practiceCategories": [
                             ]
                         }
@@ -240,19 +232,13 @@ class CSPDataParser:
                     "years": str(self.start_year) + "-" + str(self.end_year),
                     "statutes": [
                         {
-                            "statuteName": "(6)(A) Practices",
+                            "statuteName": "2018 Practices",
                             "statutePaymentInDollars": 0.0,
                             "practiceCategories": [
                             ]
                         },
                         {
-                            "statuteName": "2014 CSP",
-                            "statutePaymentInDollars": 0.0,
-                            "practiceCategories": [
-                            ]
-                        },
-                        {
-                            "statuteName": "Other",
+                            "statuteName": "2014 Eligible Land",
                             "statutePaymentInDollars": 0.0,
                             "practiceCategories": [
                             ]
@@ -317,19 +303,13 @@ class CSPDataParser:
             statutes_data = {
                 "statutes": [
                     {
-                        "statuteName": "(6)(A) Practices",
+                        "statuteName": "2018 Practices",
                         "practiceCategories": [
 
                         ]
                     },
                     {
-                        "statuteName": "2014 CSP",
-                        "practiceCategories": [
-
-                        ]
-                    },
-                    {
-                        "statuteName": "Other",
+                        "statuteName": "2014 Eligible Land",
                         "practiceCategories": [
 
                         ]
@@ -337,9 +317,8 @@ class CSPDataParser:
                 ]
             }
             total_for_statute = {
-                "(6)(A) Practices": 0.0,
-                "2014 CSP": 0.0,
-                "Other": 0.0
+                "2018 Practices": 0.0,
+                "2014 Eligible Land": 0.0
             }
 
             for statute in statutes_data["statutes"]:
