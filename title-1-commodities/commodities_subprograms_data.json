@@ -46,6 +46,16 @@
           "subProgramName": "Tree Assistance Program (TAP)",
           "totalPaymentInDollars": 48013966.47,
           "totalPaymentInPercentage": 2.55
+        },
+        {
+          "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
+          "totalPaymentInDollars": 0.0,
+          "totalPaymentInPercentage": 0.0
+        },
+        {
+          "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+          "totalPaymentInDollars": 0.0,
+          "totalPaymentInPercentage": 0.0
         }
       ],
       "totalPaymentInDollars": 1881068230.17,
