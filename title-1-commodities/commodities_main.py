@@ -377,7 +377,7 @@ class CommoditiesDataParser:
 
         # 3. Generate practice categories data for the donut chart
         if True:
-            programs_data = {
+            self.programs_data_dict = {
                 "programs": [
                     {
                         "programName": "Agriculture Risk Coverage (ARC)",
@@ -408,7 +408,7 @@ class CommoditiesDataParser:
                 "Disaster Assistance": 0.0
             }
 
-            for program in programs_data["programs"]:
+            for program in self.programs_data_dict["programs"]:
                 if len(self.programs_subprograms_mapping[program["programName"]]) > 0:
                     for program_subprogram_name in self.programs_subprograms_mapping[program["programName"]]:
                         if program_subprogram_name in total_payments_by_program_at_national_level["payments"]:
@@ -419,7 +419,13 @@ class CommoditiesDataParser:
                                 "totalPaymentInDollars": subprogram_payment,
                             }
                             total_for_program[program["programName"]] += subprogram_payment
-                            program["subPrograms"].append(entry_dict)
+                        # When subprogram is not existing in the actual data
+                        else:
+                            entry_dict = {
+                                "practiceCategoryName": program_subprogram_name,
+                                "totalPaymentInDollars": 0.0,
+                            }
+                        program["subPrograms"].append(entry_dict)
                 else:
                     program_subprogram_name = program["programName"]
                     if program_subprogram_name in total_payments_by_program_at_national_level["payments"]:
@@ -427,7 +433,7 @@ class CommoditiesDataParser:
                             total_payments_by_program_at_national_level["payments"][program_subprogram_name], 2)
                         total_for_program[program["programName"]] += subprogram_payment
 
-            for program in programs_data["programs"]:
+            for program in self.programs_data_dict["programs"]:
                 for subprogram in program["subPrograms"]:
                     subprogram["totalPaymentInPercentage"] = round(
                         subprogram["totalPaymentInDollars"] / total_for_program[
@@ -439,9 +445,7 @@ class CommoditiesDataParser:
 
             # Write processed_data_dict as JSON data
             with open("commodities_subprograms_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(programs_data, indent=2))
-
-        print(payments_by_program_by_state_for_year)
+                output_json_file.write(json.dumps(self.programs_data_dict, indent=2))
 
 
 if __name__ == '__main__':
