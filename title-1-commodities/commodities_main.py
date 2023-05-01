@@ -1,7 +1,6 @@
-import pandas as pd
 import json
 
-from operator import itemgetter, attrgetter
+import pandas as pd
 from deepmerge import always_merger
 
 
