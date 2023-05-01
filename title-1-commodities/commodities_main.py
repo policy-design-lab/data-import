@@ -421,7 +421,7 @@ class CommoditiesDataParser:
                         # When subprogram is not existing in the actual data
                         else:
                             entry_dict = {
-                                "practiceCategoryName": program_subprogram_name,
+                                "subProgramName": program_subprogram_name,
                                 "totalPaymentInDollars": 0.0,
                             }
                         program["subPrograms"].append(entry_dict)
