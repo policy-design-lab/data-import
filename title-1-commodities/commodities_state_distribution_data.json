@@ -46,7 +46,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 330333470.92,
+          "programPaymentInDollars": 370252263.97,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -61,6 +61,12 @@
               "paymentInPercentageWithinState": 0.86
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 39918793.05,
+              "paymentInPercentageNationwide": 16.21,
+              "paymentInPercentageWithinState": 0.6
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 12837117.61,
               "paymentInPercentageNationwide": 7.65,
@@ -71,11 +77,6 @@
               "paymentInDollars": 751857.33,
               "paymentInPercentageNationwide": 1.57,
               "paymentInPercentageWithinState": 0.01
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -130,7 +131,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 32441666.29,
+          "programPaymentInDollars": 34798202.29,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -145,6 +146,12 @@
               "paymentInPercentageWithinState": 0.06
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 2356536.0,
+              "paymentInPercentageNationwide": 0.96,
+              "paymentInPercentageWithinState": 0.04
+            },
+            {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 2287836.0,
               "paymentInPercentageNationwide": 0.34,
@@ -154,11 +161,6 @@
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 24433.61,
               "paymentInPercentageNationwide": 0.05,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -214,13 +216,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 1173574.94,
+          "programPaymentInDollars": 1337990.94,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 989033.0,
               "paymentInPercentageNationwide": 0.15,
               "paymentInPercentageWithinState": 0.02
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 164416.0,
+              "paymentInPercentageNationwide": 0.07,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -238,11 +246,6 @@
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 79670.94,
               "paymentInPercentageNationwide": 0.17,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -299,7 +302,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 84971897.1,
+          "programPaymentInDollars": 86449478.16,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -321,8 +324,9 @@
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
+              "paymentInDollars": 1477581.06,
+              "paymentInPercentageNationwide": 0.6,
+              "paymentInPercentageWithinState": 0.03
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -382,8 +386,14 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 11227711.2,
+          "programPaymentInDollars": 21018401.2,
           "subPrograms": [
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 9790690.0,
+              "paymentInPercentageNationwide": 3.97,
+              "paymentInPercentageWithinState": 0.2
+            },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 7345431.96,
@@ -406,11 +416,6 @@
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 107422.0,
               "paymentInPercentageNationwide": 0.22,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -466,7 +471,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 58834943.49,
+          "programPaymentInDollars": 65093766.34,
           "subPrograms": [
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -481,6 +486,12 @@
               "paymentInPercentageWithinState": 0.55
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 6258822.85,
+              "paymentInPercentageNationwide": 2.54,
+              "paymentInPercentageWithinState": 0.13
+            },
+            {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 3432338.8,
               "paymentInPercentageNationwide": 0.51,
@@ -490,11 +501,6 @@
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 48499.0,
               "paymentInPercentageNationwide": 0.1,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -550,7 +556,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 133375043.35,
+          "programPaymentInDollars": 144085840.05,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -565,15 +571,16 @@
               "paymentInPercentageWithinState": 0.37
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 10710796.7,
+              "paymentInPercentageNationwide": 4.35,
+              "paymentInPercentageWithinState": 0.24
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 2972974.0,
               "paymentInPercentageNationwide": 1.77,
               "paymentInPercentageWithinState": 0.07
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -633,7 +640,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 230350464.77,
+          "programPaymentInDollars": 242973088.65,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -655,8 +662,9 @@
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
+              "paymentInDollars": 12622623.88,
+              "paymentInPercentageNationwide": 5.12,
+              "paymentInPercentageWithinState": 0.35
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -716,13 +724,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 78079011.52,
+          "programPaymentInDollars": 103456343.07,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 51043279.76,
               "paymentInPercentageNationwide": 3.07,
               "paymentInPercentageWithinState": 1.54
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 25377331.55,
+              "paymentInPercentageNationwide": 10.3,
+              "paymentInPercentageWithinState": 0.77
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -741,11 +755,6 @@
               "paymentInDollars": 4329569.98,
               "paymentInPercentageNationwide": 2.58,
               "paymentInPercentageWithinState": 0.13
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -800,7 +809,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 113088944.28,
+          "programPaymentInDollars": 113848119.28,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -821,14 +830,15 @@
               "paymentInPercentageWithinState": 0.05
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 759175.0,
+              "paymentInPercentageNationwide": 0.31,
+              "paymentInPercentageWithinState": 0.02
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 9134.59,
               "paymentInPercentageNationwide": 0.02,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -884,7 +894,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 54697811.81,
+          "programPaymentInDollars": 58047794.81,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -899,6 +909,12 @@
               "paymentInPercentageWithinState": 0.35
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 3349983.0,
+              "paymentInPercentageNationwide": 1.36,
+              "paymentInPercentageWithinState": 0.11
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 3265294.0,
               "paymentInPercentageNationwide": 1.95,
@@ -908,11 +924,6 @@
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 19293.0,
               "paymentInPercentageNationwide": 0.04,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -968,7 +979,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 3131763.36,
+          "programPaymentInDollars": 3305538.36,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -983,6 +994,12 @@
               "paymentInPercentageWithinState": 0.02
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 173775.0,
+              "paymentInPercentageNationwide": 0.07,
+              "paymentInPercentageWithinState": 0.01
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 29152.36,
               "paymentInPercentageNationwide": 0.06,
@@ -990,11 +1007,6 @@
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -1051,13 +1063,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 12355796.57,
+          "programPaymentInDollars": 12894472.44,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 11744075.29,
               "paymentInPercentageNationwide": 1.73,
               "paymentInPercentageWithinState": 0.47
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 538675.87,
+              "paymentInPercentageNationwide": 0.22,
+              "paymentInPercentageWithinState": 0.02
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -1075,11 +1093,6 @@
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 257.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -1135,13 +1148,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 12895285.46,
+          "programPaymentInDollars": 14575897.46,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 11213139.0,
               "paymentInPercentageNationwide": 1.66,
               "paymentInPercentageWithinState": 0.46
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 1680612.0,
+              "paymentInPercentageNationwide": 0.68,
+              "paymentInPercentageWithinState": 0.07
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -1159,11 +1178,6 @@
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 78582.46,
               "paymentInPercentageNationwide": 0.16,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -1220,8 +1234,14 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 26189620.21,
+          "programPaymentInDollars": 43088858.19,
           "subPrograms": [
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 16899237.98,
+              "paymentInPercentageNationwide": 6.86,
+              "paymentInPercentageWithinState": 0.75
+            },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 11539334.41,
@@ -1245,11 +1265,6 @@
               "paymentInDollars": 1257523.0,
               "paymentInPercentageNationwide": 0.75,
               "paymentInPercentageWithinState": 0.06
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -1305,7 +1320,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 241499531.1,
+          "programPaymentInDollars": 243496014.1,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1326,15 +1341,16 @@
               "paymentInPercentageWithinState": 0.26
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 1996483.0,
+              "paymentInPercentageNationwide": 0.81,
+              "paymentInPercentageWithinState": 0.09
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 115151.11,
               "paymentInPercentageNationwide": 0.24,
               "paymentInPercentageWithinState": 0.01
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -1389,7 +1405,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 181518115.62,
+          "programPaymentInDollars": 188577291.37,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1411,8 +1427,9 @@
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
+              "paymentInDollars": 7059175.75,
+              "paymentInPercentageNationwide": 2.87,
+              "paymentInPercentageWithinState": 0.38
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1472,13 +1489,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 7897143.72,
+          "programPaymentInDollars": 11712282.72,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 6591876.6,
               "paymentInPercentageNationwide": 0.97,
               "paymentInPercentageWithinState": 0.4
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 3815139.0,
+              "paymentInPercentageNationwide": 1.55,
+              "paymentInPercentageWithinState": 0.23
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1494,11 +1517,6 @@
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -1555,7 +1573,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 9362626.11,
+          "programPaymentInDollars": 10557060.11,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1570,6 +1588,12 @@
               "paymentInPercentageWithinState": 0.1
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 1194434.0,
+              "paymentInPercentageNationwide": 0.48,
+              "paymentInPercentageWithinState": 0.07
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 925138.0,
               "paymentInPercentageNationwide": 0.55,
@@ -1579,11 +1603,6 @@
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 1565.76,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -1639,7 +1658,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 33098936.85,
+          "programPaymentInDollars": 35664145.85,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1654,6 +1673,12 @@
               "paymentInPercentageWithinState": 0.21
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 2565209.0,
+              "paymentInPercentageNationwide": 1.04,
+              "paymentInPercentageWithinState": 0.18
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 2326671.84,
               "paymentInPercentageNationwide": 1.39,
@@ -1664,11 +1689,6 @@
               "paymentInDollars": 104051.95,
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 0.01
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -1723,8 +1743,14 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 5261553.9,
+          "programPaymentInDollars": 12997606.9,
           "subPrograms": [
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 7736053.0,
+              "paymentInPercentageNationwide": 3.14,
+              "paymentInPercentageWithinState": 0.57
+            },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 3706217.86,
@@ -1747,11 +1773,6 @@
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 36345.4,
               "paymentInPercentageNationwide": 0.08,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -1807,7 +1828,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 134744563.29,
+          "programPaymentInDollars": 137044676.29,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1828,15 +1849,16 @@
               "paymentInPercentageWithinState": 0.2
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 2300113.0,
+              "paymentInPercentageNationwide": 0.93,
+              "paymentInPercentageWithinState": 0.19
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 135435.99,
               "paymentInPercentageNationwide": 0.28,
               "paymentInPercentageWithinState": 0.01
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -1891,7 +1913,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 6450241.31,
+          "programPaymentInDollars": 6660891.79,
           "subPrograms": [
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -1912,14 +1934,15 @@
               "paymentInPercentageWithinState": 0.07
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 210650.48,
+              "paymentInPercentageNationwide": 0.09,
+              "paymentInPercentageWithinState": 0.02
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 6829.0,
               "paymentInPercentageNationwide": 0.01,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -1975,7 +1998,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 19400877.51,
+          "programPaymentInDollars": 23886077.5,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1990,6 +2013,12 @@
               "paymentInPercentageWithinState": 0.58
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 4485199.99,
+              "paymentInPercentageNationwide": 1.82,
+              "paymentInPercentageWithinState": 0.38
+            },
+            {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 4337504.0,
               "paymentInPercentageNationwide": 0.64,
@@ -2000,11 +2029,6 @@
               "paymentInDollars": 460955.13,
               "paymentInPercentageNationwide": 0.96,
               "paymentInPercentageWithinState": 0.04
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -2059,13 +2083,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 16320810.11,
+          "programPaymentInDollars": 23543195.11,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 10846552.55,
               "paymentInPercentageNationwide": 0.65,
               "paymentInPercentageWithinState": 0.96
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 7222385.0,
+              "paymentInPercentageNationwide": 2.93,
+              "paymentInPercentageWithinState": 0.64
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2084,11 +2114,6 @@
               "paymentInDollars": 111740.0,
               "paymentInPercentageNationwide": 0.23,
               "paymentInPercentageWithinState": 0.01
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -2143,7 +2168,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 6951408.99,
+          "programPaymentInDollars": 7138126.99,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2171,8 +2196,9 @@
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
+              "paymentInDollars": 186718.0,
+              "paymentInPercentageNationwide": 0.08,
+              "paymentInPercentageWithinState": 0.02
             }
           ]
         }
@@ -2226,8 +2252,14 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 68933010.57,
+          "programPaymentInDollars": 106476787.1,
           "subPrograms": [
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 37543776.53,
+              "paymentInPercentageNationwide": 15.24,
+              "paymentInPercentageWithinState": 3.71
+            },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 34043074.12,
@@ -2251,11 +2283,6 @@
               "paymentInDollars": 732464.0,
               "paymentInPercentageNationwide": 0.44,
               "paymentInPercentageWithinState": 0.07
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -2309,7 +2336,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 62490186.49,
+          "programPaymentInDollars": 62571774.49,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2330,14 +2357,15 @@
               "paymentInPercentageWithinState": 0.04
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 81588.0,
+              "paymentInPercentageNationwide": 0.03,
+              "paymentInPercentageWithinState": 0.01
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 21246.53,
               "paymentInPercentageNationwide": 0.04,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -2393,13 +2421,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 11232368.78,
+          "programPaymentInDollars": 12902402.98,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 10473841.0,
               "paymentInPercentageNationwide": 1.55,
               "paymentInPercentageWithinState": 1.2
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 1670034.2,
+              "paymentInPercentageNationwide": 0.68,
+              "paymentInPercentageWithinState": 0.19
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -2417,11 +2451,6 @@
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 3750.95,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -2477,8 +2506,14 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 2425705.8,
+          "programPaymentInDollars": 4819951.8,
           "subPrograms": [
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 2394246.0,
+              "paymentInPercentageNationwide": 0.97,
+              "paymentInPercentageWithinState": 0.31
+            },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 1986714.0,
@@ -2501,11 +2536,6 @@
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 732.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -2561,13 +2591,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 78823606.31,
+          "programPaymentInDollars": 88624176.41,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 65873977.87,
               "paymentInPercentageNationwide": 3.96,
               "paymentInPercentageWithinState": 9.44
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 9800570.1,
+              "paymentInPercentageNationwide": 3.98,
+              "paymentInPercentageWithinState": 1.4
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2586,11 +2622,6 @@
               "paymentInDollars": 800167.44,
               "paymentInPercentageNationwide": 1.67,
               "paymentInPercentageWithinState": 0.11
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -2645,13 +2676,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 13995668.59,
+          "programPaymentInDollars": 14663928.59,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 13511080.41,
               "paymentInPercentageNationwide": 2.0,
               "paymentInPercentageWithinState": 2.12
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 668260.0,
+              "paymentInPercentageNationwide": 0.27,
+              "paymentInPercentageWithinState": 0.11
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -2669,11 +2706,6 @@
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 2976.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -2730,7 +2762,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 177439808.16,
+          "programPaymentInDollars": 178260535.78,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2751,15 +2783,16 @@
               "paymentInPercentageWithinState": 0.43
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 820727.62,
+              "paymentInPercentageNationwide": 0.33,
+              "paymentInPercentageWithinState": 0.14
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 31415.09,
               "paymentInPercentageNationwide": 0.07,
               "paymentInPercentageWithinState": 0.01
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -2813,7 +2846,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 15497067.59,
+          "programPaymentInDollars": 15684465.59,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2834,15 +2867,16 @@
               "paymentInPercentageWithinState": 0.07
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 187398.0,
+              "paymentInPercentageNationwide": 0.08,
+              "paymentInPercentageWithinState": 0.04
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 43134.0,
               "paymentInPercentageNationwide": 0.09,
               "paymentInPercentageWithinState": 0.01
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
@@ -2897,13 +2931,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 38841654.59,
+          "programPaymentInDollars": 43221838.22,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 37755357.32,
               "paymentInPercentageNationwide": 2.27,
               "paymentInPercentageWithinState": 9.35
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 4380183.63,
+              "paymentInPercentageNationwide": 1.78,
+              "paymentInPercentageWithinState": 1.09
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2916,11 +2956,6 @@
               "paymentInDollars": 21936.0,
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 0.01
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -2980,7 +3015,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 85482563.04,
+          "programPaymentInDollars": 91429576.04,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2995,15 +3030,16 @@
               "paymentInPercentageWithinState": 4.85
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 5947013.0,
+              "paymentInPercentageNationwide": 2.41,
+              "paymentInPercentageWithinState": 1.8
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 3828725.0,
               "paymentInPercentageNationwide": 2.28,
               "paymentInPercentageWithinState": 1.16
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3062,7 +3098,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 8168083.85,
+          "programPaymentInDollars": 8223312.85,
           "subPrograms": [
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3083,14 +3119,15 @@
               "paymentInPercentageWithinState": 0.17
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 55229.0,
+              "paymentInPercentageNationwide": 0.02,
+              "paymentInPercentageWithinState": 0.02
+            },
+            {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 8357.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -3145,7 +3182,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 85141812.0,
+          "programPaymentInDollars": 89365514.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3160,15 +3197,16 @@
               "paymentInPercentageWithinState": 3.4
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 4223702.0,
+              "paymentInPercentageNationwide": 1.71,
+              "paymentInPercentageWithinState": 1.29
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 848648.0,
               "paymentInPercentageNationwide": 0.51,
               "paymentInPercentageWithinState": 0.26
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3249,12 +3287,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "subProgramName": "Livestock Forage Disaster Program (LFP)",
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3311,8 +3349,14 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 648104.12,
+          "programPaymentInDollars": 978730.12,
           "subPrograms": [
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 330626.0,
+              "paymentInPercentageNationwide": 0.13,
+              "paymentInPercentageWithinState": 0.22
+            },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 336464.42,
@@ -3335,11 +3379,6 @@
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 6552.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -3395,8 +3434,14 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 291063.0,
+          "programPaymentInDollars": 843454.0,
           "subPrograms": [
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 552391.0,
+              "paymentInPercentageNationwide": 0.22,
+              "paymentInPercentageWithinState": 0.39
+            },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 284307.0,
@@ -3410,17 +3455,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "subProgramName": "Livestock Forage Disaster Program (LFP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "subProgramName": "Tree Assistance Program (TAP)",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3491,7 +3531,7 @@
               "paymentInPercentageWithinState": 0.01
             },
             {
-              "subProgramName": "Livestock Forage Disaster Program (LFP)",
+              "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -3501,7 +3541,7 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "subProgramName": "Tree Assistance Program (TAP)",
+              "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3558,13 +3598,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 6362621.6,
+          "programPaymentInDollars": 7244570.6,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 6267630.0,
               "paymentInPercentageNationwide": 0.93,
               "paymentInPercentageWithinState": 5.6
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 881949.0,
+              "paymentInPercentageNationwide": 0.36,
+              "paymentInPercentageWithinState": 0.79
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3580,11 +3626,6 @@
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3656,17 +3697,17 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "subProgramName": "Livestock Forage Disaster Program (LFP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3722,7 +3763,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 28148828.3,
+          "programPaymentInDollars": 28695926.3,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3737,15 +3778,16 @@
               "paymentInPercentageWithinState": 2.34
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 547098.0,
+              "paymentInPercentageNationwide": 0.22,
+              "paymentInPercentageWithinState": 0.54
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 79990.0,
               "paymentInPercentageNationwide": 0.05,
               "paymentInPercentageWithinState": 0.08
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3789,12 +3831,12 @@
           "programPaymentInDollars": 0.0,
           "subPrograms": [
             {
-              "subProgramName": "Dairy Margin Coverage Program (DMC)",
+              "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
+              "subProgramName": "Dairy Margin Coverage Program (DMC)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3802,7 +3844,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 21032547.88,
+          "programPaymentInDollars": 21210373.88,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3830,8 +3872,9 @@
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
+              "paymentInDollars": 177826.0,
+              "paymentInPercentageNationwide": 0.07,
+              "paymentInPercentageWithinState": 0.2
             }
           ]
         }
@@ -3885,8 +3928,14 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 2391965.12,
+          "programPaymentInDollars": 6679937.12,
           "subPrograms": [
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 4287972.0,
+              "paymentInPercentageNationwide": 1.74,
+              "paymentInPercentageWithinState": 5.72
+            },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 1929281.25,
@@ -3907,11 +3956,6 @@
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3968,7 +4012,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 1144982.0,
+          "programPaymentInDollars": 1732171.96,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3977,23 +4021,24 @@
               "paymentInPercentageWithinState": 0.8
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 587189.96,
+              "paymentInPercentageNationwide": 0.24,
+              "paymentInPercentageWithinState": 0.75
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 519672.0,
               "paymentInPercentageNationwide": 0.31,
               "paymentInPercentageWithinState": 0.66
             },
             {
-              "subProgramName": "Livestock Forage Disaster Program (LFP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "subProgramName": "Tree Assistance Program (TAP)",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "subProgramName": "Livestock Forage Disaster Program (LFP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -4050,13 +4095,19 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 1081609.0,
+          "programPaymentInDollars": 1362692.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
               "paymentInDollars": 972886.0,
               "paymentInPercentageNationwide": 0.14,
               "paymentInPercentageWithinState": 2.39
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 281083.0,
+              "paymentInPercentageNationwide": 0.11,
+              "paymentInPercentageWithinState": 0.69
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4074,11 +4125,6 @@
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 1697.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -4133,7 +4179,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 928795.83,
+          "programPaymentInDollars": 971969.83,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4148,6 +4194,12 @@
               "paymentInPercentageWithinState": 0.33
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 43174.0,
+              "paymentInPercentageNationwide": 0.02,
+              "paymentInPercentageWithinState": 0.18
+            },
+            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 10048.83,
               "paymentInPercentageNationwide": 0.02,
@@ -4157,11 +4209,6 @@
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 329.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
           ]
@@ -4216,7 +4263,7 @@
         },
         {
           "programName": "Disaster Assistance",
-          "programPaymentInDollars": 868673.31,
+          "programPaymentInDollars": 878504.31,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4237,15 +4284,16 @@
               "paymentInPercentageWithinState": 0.19
             },
             {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "paymentInDollars": 9831.0,
+              "paymentInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.08
+            },
+            {
               "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 4599.0,
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 0.04
-            },
-            {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
             }
           ]
         }

@@ -46,31 +46,31 @@
         {
           "subProgramName": "Livestock Forage Disaster Program (LFP)",
           "totalPaymentInDollars": 1665253047.94,
-          "totalPaymentInPercentage": 65.09
+          "totalPaymentInPercentage": 59.38
         },
         {
           "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
           "totalPaymentInDollars": 677203282.89,
-          "totalPaymentInPercentage": 26.47
+          "totalPaymentInPercentage": 24.15
+        },
+        {
+          "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+          "totalPaymentInDollars": 246322478.2,
+          "totalPaymentInPercentage": 8.78
         },
         {
           "subProgramName": "Livestock Indemnity Program (LIP)",
           "totalPaymentInDollars": 167801215.76,
-          "totalPaymentInPercentage": 6.56
+          "totalPaymentInPercentage": 5.98
         },
         {
           "subProgramName": "Tree Assistance Program (TAP)",
           "totalPaymentInDollars": 48013966.47,
-          "totalPaymentInPercentage": 1.88
-        },
-        {
-          "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-          "totalPaymentInDollars": 0.0,
-          "totalPaymentInPercentage": 0.0
+          "totalPaymentInPercentage": 1.71
         }
       ],
-      "totalPaymentInDollars": 2558271513.06,
-      "totalPaymentInPercentage": 3.0
+      "totalPaymentInDollars": 2804593991.26,
+      "totalPaymentInPercentage": 3.28
     }
   ]
 }

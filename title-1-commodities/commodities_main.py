@@ -62,7 +62,7 @@ class CommoditiesDataParser:
             "NAP": "Noninsured Crop Disaster Assistance Program (NAP)",
             "LFP": "Livestock Forage Disaster Program (LFP)",
             "LIP": "Livestock Indemnity Program (LIP)",
-            "ELAP": "Emergency Assistance for Livestock,Honeybees, and Farm-Raised Fish (ELAP)",
+            "ELAP": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
             "Ad Hoc": "Ad hoc or Supplemental",
             "MFP": "Market Facilitation Program (MFP)",
             "CFAP": "Coronavirus Food Assistance Program (CFAP)",

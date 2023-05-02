@@ -41,7 +41,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 37715.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -60,10 +60,10 @@
               "paymentInDollars": 9952.0
             }
           ],
-          "programPaymentInDollars": 47121651.02
+          "programPaymentInDollars": 47159366.02
         }
       ],
-      "totalPaymentInDollars": 68867888.66
+      "totalPaymentInDollars": 68905603.66
     },
     {
       "years": "2019",
@@ -106,7 +106,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 512.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -125,10 +125,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1988939.13
+          "programPaymentInDollars": 1989451.13
         }
       ],
-      "totalPaymentInDollars": 4723587.11
+      "totalPaymentInDollars": 4724099.11
     },
     {
       "years": "2020",
@@ -171,7 +171,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 27667.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -190,10 +190,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 13039279.42
+          "programPaymentInDollars": 13066946.42
         }
       ],
-      "totalPaymentInDollars": 14384702.47
+      "totalPaymentInDollars": 14412369.47
     },
     {
       "years": "2021",
@@ -236,7 +236,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 12238.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -255,10 +255,10 @@
               "paymentInDollars": 1671.22
             }
           ],
-          "programPaymentInDollars": 233824.22
+          "programPaymentInDollars": 246062.22
         }
       ],
-      "totalPaymentInDollars": 4269217.19
+      "totalPaymentInDollars": 4281455.19
     },
     {
       "years": "2022",
@@ -301,7 +301,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3456.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -320,10 +320,10 @@
               "paymentInDollars": 9623.31
             }
           ],
-          "programPaymentInDollars": 106492.7
+          "programPaymentInDollars": 109948.7
         }
       ],
-      "totalPaymentInDollars": 965861.39
+      "totalPaymentInDollars": 969317.39
     },
     {
       "years": "2018-2022",
@@ -366,7 +366,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 81588.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -385,10 +385,10 @@
               "paymentInDollars": 21246.53
             }
           ],
-          "programPaymentInDollars": 62490186.49
+          "programPaymentInDollars": 62571774.49
         }
       ],
-      "totalPaymentInDollars": 93211256.82
+      "totalPaymentInDollars": 93292844.82
     }
   ],
   "Alaska": [
@@ -825,7 +825,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 876300.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -844,10 +844,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 7811019.79
+          "programPaymentInDollars": 8687319.79
         }
       ],
-      "totalPaymentInDollars": 8130200.79
+      "totalPaymentInDollars": 9006500.79
     },
     {
       "years": "2019",
@@ -890,7 +890,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1135517.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -909,10 +909,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 5519198.81
+          "programPaymentInDollars": 6654715.81
         }
       ],
-      "totalPaymentInDollars": 7179350.74
+      "totalPaymentInDollars": 8314867.74
     },
     {
       "years": "2020",
@@ -955,7 +955,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 389998.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -974,10 +974,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 5157358.75
+          "programPaymentInDollars": 5547356.75
         }
       ],
-      "totalPaymentInDollars": 5855407.17
+      "totalPaymentInDollars": 6245405.17
     },
     {
       "years": "2021",
@@ -1020,7 +1020,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1601320.63
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1039,10 +1039,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 18864256.2
+          "programPaymentInDollars": 20465576.83
         }
       ],
-      "totalPaymentInDollars": 23473191.85
+      "totalPaymentInDollars": 25074512.48
     },
     {
       "years": "2022",
@@ -1085,7 +1085,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 377048.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1104,10 +1104,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1489821.04
+          "programPaymentInDollars": 1866869.04
         }
       ],
-      "totalPaymentInDollars": 3146402.38
+      "totalPaymentInDollars": 3523450.38
     },
     {
       "years": "2018-2022",
@@ -1150,7 +1150,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 4380183.63
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1169,10 +1169,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 38841654.59
+          "programPaymentInDollars": 43221838.22
         }
       ],
-      "totalPaymentInDollars": 47784552.93
+      "totalPaymentInDollars": 52164736.56
     }
   ],
   "Arkansas": [
@@ -1217,7 +1217,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1283682.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1236,10 +1236,10 @@
               "paymentInDollars": 13452.0
             }
           ],
-          "programPaymentInDollars": 20621269.25
+          "programPaymentInDollars": 21904951.25
         }
       ],
-      "totalPaymentInDollars": 100972824.01
+      "totalPaymentInDollars": 102256506.01
     },
     {
       "years": "2019",
@@ -1282,7 +1282,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 538291.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1301,10 +1301,10 @@
               "paymentInDollars": 5841.0
             }
           ],
-          "programPaymentInDollars": 17956561.03
+          "programPaymentInDollars": 18494852.03
         }
       ],
-      "totalPaymentInDollars": 39018396.72
+      "totalPaymentInDollars": 39556687.72
     },
     {
       "years": "2020",
@@ -1347,7 +1347,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1082568.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1366,10 +1366,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 3360046.48
+          "programPaymentInDollars": 4442614.48
         }
       ],
-      "totalPaymentInDollars": 15707518.73
+      "totalPaymentInDollars": 16790086.73
     },
     {
       "years": "2021",
@@ -1412,7 +1412,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 445442.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1431,10 +1431,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 11362117.95
+          "programPaymentInDollars": 11807559.95
         }
       ],
-      "totalPaymentInDollars": 31082665.29
+      "totalPaymentInDollars": 31528107.29
     },
     {
       "years": "2022",
@@ -1542,7 +1542,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3349983.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1561,10 +1561,10 @@
               "paymentInDollars": 19293.0
             }
           ],
-          "programPaymentInDollars": 54697811.81
+          "programPaymentInDollars": 58047794.81
         }
       ],
-      "totalPaymentInDollars": 190970725.24
+      "totalPaymentInDollars": 194320708.24
     }
   ],
   "California": [
@@ -1609,7 +1609,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 6073892.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1628,10 +1628,10 @@
               "paymentInDollars": 1665332.0
             }
           ],
-          "programPaymentInDollars": 13420058.57
+          "programPaymentInDollars": 19493950.57
         }
       ],
-      "totalPaymentInDollars": 56568611.85
+      "totalPaymentInDollars": 62642503.85
     },
     {
       "years": "2019",
@@ -1674,7 +1674,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 5927772.62
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1693,10 +1693,10 @@
               "paymentInDollars": 3026707.02
             }
           ],
-          "programPaymentInDollars": 10357493.86
+          "programPaymentInDollars": 16285266.48
         }
       ],
-      "totalPaymentInDollars": 43512526.16
+      "totalPaymentInDollars": 49440298.78
     },
     {
       "years": "2020",
@@ -1739,7 +1739,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2068344.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1758,10 +1758,10 @@
               "paymentInDollars": 2662522.14
             }
           ],
-          "programPaymentInDollars": 8037999.14
+          "programPaymentInDollars": 10106343.14
         }
       ],
-      "totalPaymentInDollars": 29115991.15
+      "totalPaymentInDollars": 31184335.15
     },
     {
       "years": "2021",
@@ -1804,7 +1804,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 9854917.05
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1823,10 +1823,10 @@
               "paymentInDollars": 2043924.52
             }
           ],
-          "programPaymentInDollars": 35273708.42
+          "programPaymentInDollars": 45128625.47
         }
       ],
-      "totalPaymentInDollars": 114771336.17
+      "totalPaymentInDollars": 124626253.22
     },
     {
       "years": "2022",
@@ -1869,7 +1869,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1452405.88
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1888,10 +1888,10 @@
               "paymentInDollars": 637782.06
             }
           ],
-          "programPaymentInDollars": 10989751.53
+          "programPaymentInDollars": 12442157.41
         }
       ],
-      "totalPaymentInDollars": 44162922.92
+      "totalPaymentInDollars": 45615328.8
     },
     {
       "years": "2018-2022",
@@ -1934,7 +1934,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 25377331.55
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1953,10 +1953,10 @@
               "paymentInDollars": 10036267.74
             }
           ],
-          "programPaymentInDollars": 78079011.52
+          "programPaymentInDollars": 103456343.07
         }
       ],
-      "totalPaymentInDollars": 288131388.25
+      "totalPaymentInDollars": 313508719.8
     }
   ],
   "Colorado": [
@@ -2001,7 +2001,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 710292.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2020,10 +2020,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 20379549.85
+          "programPaymentInDollars": 21089841.85
         }
       ],
-      "totalPaymentInDollars": 68644404.04
+      "totalPaymentInDollars": 69354696.04
     },
     {
       "years": "2019",
@@ -2066,7 +2066,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 766170.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2085,10 +2085,10 @@
               "paymentInDollars": 133980.0
             }
           ],
-          "programPaymentInDollars": 29456684.72
+          "programPaymentInDollars": 30222854.72
         }
       ],
-      "totalPaymentInDollars": 41452136.65
+      "totalPaymentInDollars": 42218306.65
     },
     {
       "years": "2020",
@@ -2131,7 +2131,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 117984.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2150,10 +2150,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 19893221.6
+          "programPaymentInDollars": 20011205.6
         }
       ],
-      "totalPaymentInDollars": 39948739.23
+      "totalPaymentInDollars": 40066723.23
     },
     {
       "years": "2021",
@@ -2196,7 +2196,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 523483.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2215,10 +2215,10 @@
               "paymentInDollars": 1455.99
             }
           ],
-          "programPaymentInDollars": 49189321.14
+          "programPaymentInDollars": 49712804.14
         }
       ],
-      "totalPaymentInDollars": 61750916.72
+      "totalPaymentInDollars": 62274399.72
     },
     {
       "years": "2022",
@@ -2261,7 +2261,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 182184.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2280,10 +2280,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 15825785.98
+          "programPaymentInDollars": 16007969.98
         }
       ],
-      "totalPaymentInDollars": 23052666.53
+      "totalPaymentInDollars": 23234850.53
     },
     {
       "years": "2018-2022",
@@ -2326,7 +2326,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2300113.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2345,10 +2345,10 @@
               "paymentInDollars": 135435.99
             }
           ],
-          "programPaymentInDollars": 134744563.29
+          "programPaymentInDollars": 137044676.29
         }
       ],
-      "totalPaymentInDollars": 234848863.17
+      "totalPaymentInDollars": 237148976.17
     }
   ],
   "Connecticut": [
@@ -2393,7 +2393,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 90985.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2412,10 +2412,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 47552.0
+          "programPaymentInDollars": 138537.0
         }
       ],
-      "totalPaymentInDollars": 1371326.0
+      "totalPaymentInDollars": 1462311.0
     },
     {
       "years": "2019",
@@ -2458,7 +2458,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 61491.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2477,10 +2477,10 @@
               "paymentInDollars": 12555.0
             }
           ],
-          "programPaymentInDollars": 436125.0
+          "programPaymentInDollars": 497616.0
         }
       ],
-      "totalPaymentInDollars": 1471055.67
+      "totalPaymentInDollars": 1532546.67
     },
     {
       "years": "2020",
@@ -2523,7 +2523,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 93548.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2542,10 +2542,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 152128.0
+          "programPaymentInDollars": 245676.0
         }
       ],
-      "totalPaymentInDollars": 552847.77
+      "totalPaymentInDollars": 646395.77
     },
     {
       "years": "2021",
@@ -2588,7 +2588,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 35059.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2607,10 +2607,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 136094.0
+          "programPaymentInDollars": 171153.0
         }
       ],
-      "totalPaymentInDollars": 2623979.21
+      "totalPaymentInDollars": 2659038.21
     },
     {
       "years": "2022",
@@ -2718,7 +2718,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 281083.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2737,10 +2737,10 @@
               "paymentInDollars": 12555.0
             }
           ],
-          "programPaymentInDollars": 1081609.0
+          "programPaymentInDollars": 1362692.0
         }
       ],
-      "totalPaymentInDollars": 7521097.73
+      "totalPaymentInDollars": 7802180.73
     }
   ],
   "Delaware": [
@@ -3177,7 +3177,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 8741846.64
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3196,10 +3196,10 @@
               "paymentInDollars": 6214239.0
             }
           ],
-          "programPaymentInDollars": 30833410.75
+          "programPaymentInDollars": 39575257.39
         }
       ],
-      "totalPaymentInDollars": 33617749.75
+      "totalPaymentInDollars": 42359596.39
     },
     {
       "years": "2019",
@@ -3242,7 +3242,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 6104023.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3261,10 +3261,10 @@
               "paymentInDollars": 8494289.12
             }
           ],
-          "programPaymentInDollars": 16692523.84
+          "programPaymentInDollars": 22796546.84
         }
       ],
-      "totalPaymentInDollars": 18610568.1
+      "totalPaymentInDollars": 24714591.1
     },
     {
       "years": "2020",
@@ -3307,7 +3307,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 12877607.89
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3326,10 +3326,10 @@
               "paymentInDollars": 4191779.95
             }
           ],
-          "programPaymentInDollars": 12201341.97
+          "programPaymentInDollars": 25078949.86
         }
       ],
-      "totalPaymentInDollars": 13280915.16
+      "totalPaymentInDollars": 26158523.05
     },
     {
       "years": "2021",
@@ -3372,7 +3372,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 8892891.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3391,10 +3391,10 @@
               "paymentInDollars": 3909754.01
             }
           ],
-          "programPaymentInDollars": 6475539.24
+          "programPaymentInDollars": 15368430.24
         }
       ],
-      "totalPaymentInDollars": 10257878.66
+      "totalPaymentInDollars": 19150769.66
     },
     {
       "years": "2022",
@@ -3437,7 +3437,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 927408.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3456,10 +3456,10 @@
               "paymentInDollars": 516119.76
             }
           ],
-          "programPaymentInDollars": 2730194.77
+          "programPaymentInDollars": 3657602.77
         }
       ],
-      "totalPaymentInDollars": 4572109.13
+      "totalPaymentInDollars": 5499517.13
     },
     {
       "years": "2018-2022",
@@ -3502,7 +3502,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 37543776.53
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3521,10 +3521,10 @@
               "paymentInDollars": 23326181.84
             }
           ],
-          "programPaymentInDollars": 68933010.57
+          "programPaymentInDollars": 106476787.1
         }
       ],
-      "totalPaymentInDollars": 80339220.8
+      "totalPaymentInDollars": 117882997.33
     }
   ],
   "Georgia": [
@@ -3569,7 +3569,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3108285.27
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3588,10 +3588,10 @@
               "paymentInDollars": 266194.0
             }
           ],
-          "programPaymentInDollars": 5433382.58
+          "programPaymentInDollars": 8541667.85
         }
       ],
-      "totalPaymentInDollars": 43278347.98
+      "totalPaymentInDollars": 46386633.25
     },
     {
       "years": "2019",
@@ -3634,7 +3634,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2927158.54
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3653,10 +3653,10 @@
               "paymentInDollars": 314116.24
             }
           ],
-          "programPaymentInDollars": 4616353.74
+          "programPaymentInDollars": 7543512.28
         }
       ],
-      "totalPaymentInDollars": 15353694.87
+      "totalPaymentInDollars": 18280853.41
     },
     {
       "years": "2020",
@@ -3699,7 +3699,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 6096876.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3718,10 +3718,10 @@
               "paymentInDollars": 1550390.84
             }
           ],
-          "programPaymentInDollars": 13435040.66
+          "programPaymentInDollars": 19531916.66
         }
       ],
-      "totalPaymentInDollars": 30416713.96
+      "totalPaymentInDollars": 36513589.96
     },
     {
       "years": "2021",
@@ -3764,7 +3764,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 4763828.17
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3783,10 +3783,10 @@
               "paymentInDollars": 837864.1
             }
           ],
-          "programPaymentInDollars": 2343796.35
+          "programPaymentInDollars": 7107624.52
         }
       ],
-      "totalPaymentInDollars": 11218421.05
+      "totalPaymentInDollars": 15982249.22
     },
     {
       "years": "2022",
@@ -3829,7 +3829,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3090.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3848,10 +3848,10 @@
               "paymentInDollars": 2202.88
             }
           ],
-          "programPaymentInDollars": 361046.88
+          "programPaymentInDollars": 364136.88
         }
       ],
-      "totalPaymentInDollars": 3508575.05
+      "totalPaymentInDollars": 3511665.05
     },
     {
       "years": "2018-2022",
@@ -3894,7 +3894,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 16899237.98
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3913,10 +3913,10 @@
               "paymentInDollars": 2970768.06
             }
           ],
-          "programPaymentInDollars": 26189620.21
+          "programPaymentInDollars": 43088858.19
         }
       ],
-      "totalPaymentInDollars": 103775752.91
+      "totalPaymentInDollars": 120674990.89
     }
   ],
   "Hawaii": [
@@ -3961,7 +3961,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 61076.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3980,10 +3980,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 6294833.0
+          "programPaymentInDollars": 6355909.0
         }
       ],
-      "totalPaymentInDollars": 6294833.0
+      "totalPaymentInDollars": 6355909.0
     },
     {
       "years": "2019",
@@ -4026,7 +4026,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 116750.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4045,10 +4045,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 3218640.0
+          "programPaymentInDollars": 3335390.0
         }
       ],
-      "totalPaymentInDollars": 3218640.0
+      "totalPaymentInDollars": 3335390.0
     },
     {
       "years": "2020",
@@ -4286,7 +4286,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 177826.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4305,10 +4305,10 @@
               "paymentInDollars": 220076.88
             }
           ],
-          "programPaymentInDollars": 21032547.88
+          "programPaymentInDollars": 21210373.88
         }
       ],
-      "totalPaymentInDollars": 21032547.88
+      "totalPaymentInDollars": 21210373.88
     }
   ],
   "Idaho": [
@@ -4353,7 +4353,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1946432.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4372,10 +4372,10 @@
               "paymentInDollars": 111740.0
             }
           ],
-          "programPaymentInDollars": 2360721.86
+          "programPaymentInDollars": 4307153.86
         }
       ],
-      "totalPaymentInDollars": 30981747.74
+      "totalPaymentInDollars": 32928179.74
     },
     {
       "years": "2019",
@@ -4418,7 +4418,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2321470.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4437,10 +4437,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1282972.63
+          "programPaymentInDollars": 3604442.63
         }
       ],
-      "totalPaymentInDollars": 28080464.19
+      "totalPaymentInDollars": 30401934.19
     },
     {
       "years": "2020",
@@ -4483,7 +4483,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1549099.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4502,10 +4502,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 2237678.56
+          "programPaymentInDollars": 3786777.56
         }
       ],
-      "totalPaymentInDollars": 9081260.08
+      "totalPaymentInDollars": 10630359.08
     },
     {
       "years": "2021",
@@ -4548,7 +4548,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1358943.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4567,10 +4567,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 4176740.06
+          "programPaymentInDollars": 5535683.06
         }
       ],
-      "totalPaymentInDollars": 21555926.3
+      "totalPaymentInDollars": 22914869.3
     },
     {
       "years": "2022",
@@ -4613,7 +4613,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 46441.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4632,10 +4632,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 6262697.0
+          "programPaymentInDollars": 6309138.0
         }
       ],
-      "totalPaymentInDollars": 13990597.46
+      "totalPaymentInDollars": 14037038.46
     },
     {
       "years": "2018-2022",
@@ -4678,7 +4678,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 7222385.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4697,10 +4697,10 @@
               "paymentInDollars": 111740.0
             }
           ],
-          "programPaymentInDollars": 16320810.11
+          "programPaymentInDollars": 23543195.11
         }
       ],
-      "totalPaymentInDollars": 103689995.77
+      "totalPaymentInDollars": 110912380.77
     }
   ],
   "Illinois": [
@@ -4745,7 +4745,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 97501.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4764,10 +4764,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 61088.0
+          "programPaymentInDollars": 158589.0
         }
       ],
-      "totalPaymentInDollars": 359990959.81
+      "totalPaymentInDollars": 360088460.81
     },
     {
       "years": "2019",
@@ -4810,7 +4810,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 49205.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4829,10 +4829,10 @@
               "paymentInDollars": 69753.0
             }
           ],
-          "programPaymentInDollars": 263046.0
+          "programPaymentInDollars": 312251.0
         }
       ],
-      "totalPaymentInDollars": 47216296.24
+      "totalPaymentInDollars": 47265501.24
     },
     {
       "years": "2020",
@@ -4875,7 +4875,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 11275.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4894,10 +4894,10 @@
               "paymentInDollars": 8116.38
             }
           ],
-          "programPaymentInDollars": 373779.38
+          "programPaymentInDollars": 385054.38
         }
       ],
-      "totalPaymentInDollars": 9001293.01
+      "totalPaymentInDollars": 9012568.01
     },
     {
       "years": "2021",
@@ -4940,7 +4940,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 6435.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4959,10 +4959,10 @@
               "paymentInDollars": 682.22
             }
           ],
-          "programPaymentInDollars": 305778.22
+          "programPaymentInDollars": 312213.22
         }
       ],
-      "totalPaymentInDollars": 223734062.81
+      "totalPaymentInDollars": 223740497.81
     },
     {
       "years": "2022",
@@ -5070,7 +5070,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 164416.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5089,10 +5089,10 @@
               "paymentInDollars": 79670.94
             }
           ],
-          "programPaymentInDollars": 1173574.94
+          "programPaymentInDollars": 1337990.94
         }
       ],
-      "totalPaymentInDollars": 650977604.35
+      "totalPaymentInDollars": 651142020.35
     }
   ],
   "Indiana": [
@@ -5137,7 +5137,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 63027.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5156,10 +5156,10 @@
               "paymentInDollars": 14787.0
             }
           ],
-          "programPaymentInDollars": 568502.0
+          "programPaymentInDollars": 631529.0
         }
       ],
-      "totalPaymentInDollars": 289149103.9
+      "totalPaymentInDollars": 289212130.9
     },
     {
       "years": "2019",
@@ -5202,7 +5202,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 85410.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5221,10 +5221,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 597467.0
+          "programPaymentInDollars": 682877.0
         }
       ],
-      "totalPaymentInDollars": 53982277.9
+      "totalPaymentInDollars": 54067687.9
     },
     {
       "years": "2020",
@@ -5267,7 +5267,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 12916.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5286,10 +5286,10 @@
               "paymentInDollars": 13774.36
             }
           ],
-          "programPaymentInDollars": 1139203.36
+          "programPaymentInDollars": 1152119.36
         }
       ],
-      "totalPaymentInDollars": 7721842.42
+      "totalPaymentInDollars": 7734758.42
     },
     {
       "years": "2021",
@@ -5332,7 +5332,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 12422.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5351,10 +5351,10 @@
               "paymentInDollars": 591.0
             }
           ],
-          "programPaymentInDollars": 583096.0
+          "programPaymentInDollars": 595518.0
         }
       ],
-      "totalPaymentInDollars": 130514830.0
+      "totalPaymentInDollars": 130527252.0
     },
     {
       "years": "2022",
@@ -5462,7 +5462,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 173775.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5481,10 +5481,10 @@
               "paymentInDollars": 29152.36
             }
           ],
-          "programPaymentInDollars": 3131763.36
+          "programPaymentInDollars": 3305538.36
         }
       ],
-      "totalPaymentInDollars": 488760109.45
+      "totalPaymentInDollars": 488933884.45
     }
   ],
   "Iowa": [
@@ -5529,7 +5529,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 636972.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5548,10 +5548,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 15587893.72
+          "programPaymentInDollars": 16224865.72
         }
       ],
-      "totalPaymentInDollars": 241422980.52
+      "totalPaymentInDollars": 242059952.52
     },
     {
       "years": "2019",
@@ -5594,7 +5594,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 746243.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5613,10 +5613,10 @@
               "paymentInDollars": 16285.0
             }
           ],
-          "programPaymentInDollars": 5327385.0
+          "programPaymentInDollars": 6073628.0
         }
       ],
-      "totalPaymentInDollars": 47084192.55
+      "totalPaymentInDollars": 47830435.55
     },
     {
       "years": "2020",
@@ -5659,7 +5659,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 448278.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5678,10 +5678,10 @@
               "paymentInDollars": 5633.63
             }
           ],
-          "programPaymentInDollars": 758563.63
+          "programPaymentInDollars": 1206841.63
         }
       ],
-      "totalPaymentInDollars": 49412438.41
+      "totalPaymentInDollars": 49860716.41
     },
     {
       "years": "2021",
@@ -5724,7 +5724,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 418772.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5743,10 +5743,10 @@
               "paymentInDollars": 2514.98
             }
           ],
-          "programPaymentInDollars": 9013208.94
+          "programPaymentInDollars": 9431980.94
         }
       ],
-      "totalPaymentInDollars": 99090261.99
+      "totalPaymentInDollars": 99509033.99
     },
     {
       "years": "2022",
@@ -5789,7 +5789,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 106271.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5808,10 +5808,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1754615.0
+          "programPaymentInDollars": 1860886.0
         }
       ],
-      "totalPaymentInDollars": 24924559.75
+      "totalPaymentInDollars": 25030830.75
     },
     {
       "years": "2018-2022",
@@ -5854,7 +5854,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2356536.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5873,10 +5873,10 @@
               "paymentInDollars": 24433.61
             }
           ],
-          "programPaymentInDollars": 32441666.29
+          "programPaymentInDollars": 34798202.29
         }
       ],
-      "totalPaymentInDollars": 461934433.22
+      "totalPaymentInDollars": 464290969.22
     }
   ],
   "Kansas": [
@@ -5921,7 +5921,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 397316.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -5940,10 +5940,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 30113116.42
+          "programPaymentInDollars": 30510432.42
         }
       ],
-      "totalPaymentInDollars": 249809608.69
+      "totalPaymentInDollars": 250206924.69
     },
     {
       "years": "2019",
@@ -5986,7 +5986,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 644389.06
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6005,10 +6005,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 39845186.6
+          "programPaymentInDollars": 40489575.66
         }
       ],
-      "totalPaymentInDollars": 189184088.6
+      "totalPaymentInDollars": 189828477.66
     },
     {
       "years": "2020",
@@ -6051,7 +6051,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 238453.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6070,10 +6070,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 8690357.02
+          "programPaymentInDollars": 8928810.02
         }
       ],
-      "totalPaymentInDollars": 135231755.95
+      "totalPaymentInDollars": 135470208.95
     },
     {
       "years": "2021",
@@ -6116,7 +6116,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 151740.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6135,10 +6135,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 5703625.06
+          "programPaymentInDollars": 5855365.06
         }
       ],
-      "totalPaymentInDollars": 43869541.87
+      "totalPaymentInDollars": 44021281.87
     },
     {
       "years": "2022",
@@ -6181,7 +6181,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 45683.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6200,10 +6200,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 619612.0
+          "programPaymentInDollars": 665295.0
         }
       ],
-      "totalPaymentInDollars": 11099785.46
+      "totalPaymentInDollars": 11145468.46
     },
     {
       "years": "2018-2022",
@@ -6246,7 +6246,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1477581.06
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6265,10 +6265,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 84971897.1
+          "programPaymentInDollars": 86449478.16
         }
       ],
-      "totalPaymentInDollars": 629194780.57
+      "totalPaymentInDollars": 630672361.63
     }
   ],
   "Kentucky": [
@@ -6313,7 +6313,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 55646.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6332,10 +6332,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 2478985.5
+          "programPaymentInDollars": 2534631.5
         }
       ],
-      "totalPaymentInDollars": 88953226.38
+      "totalPaymentInDollars": 89008872.38
     },
     {
       "years": "2019",
@@ -6378,7 +6378,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 40591.48
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6397,10 +6397,10 @@
               "paymentInDollars": 6829.0
             }
           ],
-          "programPaymentInDollars": 1812612.51
+          "programPaymentInDollars": 1853203.99
         }
       ],
-      "totalPaymentInDollars": 13478925.56
+      "totalPaymentInDollars": 13519517.04
     },
     {
       "years": "2020",
@@ -6443,7 +6443,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 78587.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6462,10 +6462,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1381497.3
+          "programPaymentInDollars": 1460084.3
         }
       ],
-      "totalPaymentInDollars": 11203964.18
+      "totalPaymentInDollars": 11282551.18
     },
     {
       "years": "2021",
@@ -6508,7 +6508,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 8989.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6527,10 +6527,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 647204.0
+          "programPaymentInDollars": 656193.0
         }
       ],
-      "totalPaymentInDollars": 28891113.35
+      "totalPaymentInDollars": 28900102.35
     },
     {
       "years": "2022",
@@ -6573,7 +6573,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 26837.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6592,10 +6592,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 129942.0
+          "programPaymentInDollars": 156779.0
         }
       ],
-      "totalPaymentInDollars": 4294897.41
+      "totalPaymentInDollars": 4321734.41
     },
     {
       "years": "2018-2022",
@@ -6638,7 +6638,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 210650.48
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6657,10 +6657,10 @@
               "paymentInDollars": 6829.0
             }
           ],
-          "programPaymentInDollars": 6450241.31
+          "programPaymentInDollars": 6660891.79
         }
       ],
-      "totalPaymentInDollars": 146822126.88
+      "totalPaymentInDollars": 147032777.36
     }
   ],
   "Louisiana": [
@@ -6705,7 +6705,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 882359.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6724,10 +6724,10 @@
               "paymentInDollars": 12380.0
             }
           ],
-          "programPaymentInDollars": 1162375.75
+          "programPaymentInDollars": 2044734.75
         }
       ],
-      "totalPaymentInDollars": 60442687.32
+      "totalPaymentInDollars": 61325046.32
     },
     {
       "years": "2019",
@@ -6770,7 +6770,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1537114.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6789,10 +6789,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 3215004.11
+          "programPaymentInDollars": 4752118.11
         }
       ],
-      "totalPaymentInDollars": 11407236.66
+      "totalPaymentInDollars": 12944350.66
     },
     {
       "years": "2020",
@@ -6835,7 +6835,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2159324.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6854,10 +6854,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 252937.64
+          "programPaymentInDollars": 2412261.64
         }
       ],
-      "totalPaymentInDollars": 9955719.31
+      "totalPaymentInDollars": 12115043.31
     },
     {
       "years": "2021",
@@ -6900,7 +6900,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2128280.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6919,10 +6919,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 500458.0
+          "programPaymentInDollars": 2628738.0
         }
       ],
-      "totalPaymentInDollars": 15489217.03
+      "totalPaymentInDollars": 17617497.03
     },
     {
       "years": "2022",
@@ -6965,7 +6965,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1028976.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -6984,10 +6984,10 @@
               "paymentInDollars": 23965.4
             }
           ],
-          "programPaymentInDollars": 130778.4
+          "programPaymentInDollars": 1159754.4
         }
       ],
-      "totalPaymentInDollars": 2006335.67
+      "totalPaymentInDollars": 3035311.67
     },
     {
       "years": "2018-2022",
@@ -7030,7 +7030,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 7736053.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -7049,10 +7049,10 @@
               "paymentInDollars": 36345.4
             }
           ],
-          "programPaymentInDollars": 5261553.9
+          "programPaymentInDollars": 12997606.9
         }
       ],
-      "totalPaymentInDollars": 99301195.99
+      "totalPaymentInDollars": 107037248.99
     }
   ],
   "Maine": [
@@ -7097,7 +7097,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 165320.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -7116,10 +7116,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 82530.0
+          "programPaymentInDollars": 247850.0
         }
       ],
-      "totalPaymentInDollars": 3658294.0
+      "totalPaymentInDollars": 3823614.0
     },
     {
       "years": "2019",
@@ -7162,7 +7162,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 78095.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -7181,10 +7181,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 131252.0
+          "programPaymentInDollars": 209347.0
         }
       ],
-      "totalPaymentInDollars": 3468893.47
+      "totalPaymentInDollars": 3546988.47
     },
     {
       "years": "2020",
@@ -7227,7 +7227,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 42767.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -7246,10 +7246,10 @@
               "paymentInDollars": 9480.1
             }
           ],
-          "programPaymentInDollars": 51042.1
+          "programPaymentInDollars": 93809.1
         }
       ],
-      "totalPaymentInDollars": 748004.76
+      "totalPaymentInDollars": 790771.76
     },
     {
       "years": "2021",
@@ -7292,7 +7292,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 44444.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -7311,10 +7311,10 @@
               "paymentInDollars": 7239.6
             }
           ],
-          "programPaymentInDollars": 360818.02
+          "programPaymentInDollars": 405262.02
         }
       ],
-      "totalPaymentInDollars": 6122460.08
+      "totalPaymentInDollars": 6166904.08
     },
     {
       "years": "2022",
@@ -7422,7 +7422,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 330626.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -7441,10 +7441,10 @@
               "paymentInDollars": 16719.7
             }
           ],
-          "programPaymentInDollars": 648104.12
+          "programPaymentInDollars": 978730.12
         }
       ],
-      "totalPaymentInDollars": 16760635.64
+      "totalPaymentInDollars": 17091261.64
     }
   ],
   "Maryland": [
@@ -7881,7 +7881,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 383702.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -7900,10 +7900,10 @@
               "paymentInDollars": 27458.0
             }
           ],
-          "programPaymentInDollars": 467685.0
+          "programPaymentInDollars": 851387.0
         }
       ],
-      "totalPaymentInDollars": 2236598.69
+      "totalPaymentInDollars": 2620300.69
     },
     {
       "years": "2019",
@@ -7946,7 +7946,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 418217.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -7965,10 +7965,10 @@
               "paymentInDollars": 51346.0
             }
           ],
-          "programPaymentInDollars": 783747.0
+          "programPaymentInDollars": 1201964.0
         }
       ],
-      "totalPaymentInDollars": 1888591.64
+      "totalPaymentInDollars": 2306808.64
     },
     {
       "years": "2020",
@@ -8011,7 +8011,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1680219.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8030,10 +8030,10 @@
               "paymentInDollars": 101848.0
             }
           ],
-          "programPaymentInDollars": 175745.0
+          "programPaymentInDollars": 1855964.0
         }
       ],
-      "totalPaymentInDollars": 1064778.89
+      "totalPaymentInDollars": 2744997.89
     },
     {
       "years": "2021",
@@ -8076,7 +8076,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 851556.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8095,10 +8095,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 592280.12
+          "programPaymentInDollars": 1443836.12
         }
       ],
-      "totalPaymentInDollars": 3299629.26
+      "totalPaymentInDollars": 4151185.26
     },
     {
       "years": "2022",
@@ -8141,7 +8141,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 954278.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8160,10 +8160,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 372508.0
+          "programPaymentInDollars": 1326786.0
         }
       ],
-      "totalPaymentInDollars": 1726328.0
+      "totalPaymentInDollars": 2680606.0
     },
     {
       "years": "2018-2022",
@@ -8206,7 +8206,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 4287972.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8225,10 +8225,10 @@
               "paymentInDollars": 180652.0
             }
           ],
-          "programPaymentInDollars": 2391965.12
+          "programPaymentInDollars": 6679937.12
         }
       ],
-      "totalPaymentInDollars": 10215926.48
+      "totalPaymentInDollars": 14503898.48
     }
   ],
   "Michigan": [
@@ -8273,7 +8273,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 218841.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8292,10 +8292,10 @@
               "paymentInDollars": 179934.24
             }
           ],
-          "programPaymentInDollars": 1787771.24
+          "programPaymentInDollars": 2006612.24
         }
       ],
-      "totalPaymentInDollars": 162317960.55
+      "totalPaymentInDollars": 162536801.55
     },
     {
       "years": "2019",
@@ -8338,7 +8338,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 531204.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8357,10 +8357,10 @@
               "paymentInDollars": 79506.0
             }
           ],
-          "programPaymentInDollars": 1207833.0
+          "programPaymentInDollars": 1739037.0
         }
       ],
-      "totalPaymentInDollars": 75856604.96
+      "totalPaymentInDollars": 76387808.96
     },
     {
       "years": "2020",
@@ -8403,7 +8403,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2190842.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8422,10 +8422,10 @@
               "paymentInDollars": 371734.78
             }
           ],
-          "programPaymentInDollars": 2555230.78
+          "programPaymentInDollars": 4746072.78
         }
       ],
-      "totalPaymentInDollars": 23753033.14
+      "totalPaymentInDollars": 25943875.14
     },
     {
       "years": "2021",
@@ -8468,7 +8468,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 871833.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8487,10 +8487,10 @@
               "paymentInDollars": 538154.45
             }
           ],
-          "programPaymentInDollars": 1744305.05
+          "programPaymentInDollars": 2616138.05
         }
       ],
-      "totalPaymentInDollars": 82569831.54
+      "totalPaymentInDollars": 83441664.54
     },
     {
       "years": "2022",
@@ -8533,7 +8533,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2419.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8552,10 +8552,10 @@
               "paymentInDollars": 36716.65
             }
           ],
-          "programPaymentInDollars": 602003.65
+          "programPaymentInDollars": 604422.65
         }
       ],
-      "totalPaymentInDollars": 19436775.01
+      "totalPaymentInDollars": 19439194.01
     },
     {
       "years": "2018-2022",
@@ -8598,7 +8598,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3815139.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8617,10 +8617,10 @@
               "paymentInDollars": 1206046.12
             }
           ],
-          "programPaymentInDollars": 7897143.72
+          "programPaymentInDollars": 11712282.72
         }
       ],
-      "totalPaymentInDollars": 363934205.2
+      "totalPaymentInDollars": 367749344.2
     }
   ],
   "Minnesota": [
@@ -8665,7 +8665,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2256895.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8684,10 +8684,10 @@
               "paymentInDollars": 107422.0
             }
           ],
-          "programPaymentInDollars": 568782.55
+          "programPaymentInDollars": 2825677.55
         }
       ],
-      "totalPaymentInDollars": 229241054.3
+      "totalPaymentInDollars": 231497949.3
     },
     {
       "years": "2019",
@@ -8730,7 +8730,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2173702.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8749,10 +8749,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1656549.0
+          "programPaymentInDollars": 3830251.0
         }
       ],
-      "totalPaymentInDollars": 57513355.97
+      "totalPaymentInDollars": 59687057.97
     },
     {
       "years": "2020",
@@ -8795,7 +8795,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2660248.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8814,10 +8814,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1265761.72
+          "programPaymentInDollars": 3926009.72
         }
       ],
-      "totalPaymentInDollars": 79602869.79
+      "totalPaymentInDollars": 82263117.79
     },
     {
       "years": "2021",
@@ -8860,7 +8860,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2410977.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8879,10 +8879,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 2422471.96
+          "programPaymentInDollars": 4833448.96
         }
       ],
-      "totalPaymentInDollars": 292005589.02
+      "totalPaymentInDollars": 294416566.02
     },
     {
       "years": "2022",
@@ -8925,7 +8925,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 288868.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -8944,10 +8944,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 5314145.97
+          "programPaymentInDollars": 5603013.97
         }
       ],
-      "totalPaymentInDollars": 43312450.75
+      "totalPaymentInDollars": 43601318.75
     },
     {
       "years": "2018-2022",
@@ -8990,7 +8990,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 9790690.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9009,10 +9009,10 @@
               "paymentInDollars": 107422.0
             }
           ],
-          "programPaymentInDollars": 11227711.2
+          "programPaymentInDollars": 21018401.2
         }
       ],
-      "totalPaymentInDollars": 701675319.83
+      "totalPaymentInDollars": 711466009.83
     }
   ],
   "Mississippi": [
@@ -9057,7 +9057,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 200490.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9076,10 +9076,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 2963768.6
+          "programPaymentInDollars": 3164258.6
         }
       ],
-      "totalPaymentInDollars": 69309892.56
+      "totalPaymentInDollars": 69510382.56
     },
     {
       "years": "2019",
@@ -9122,7 +9122,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 394396.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9141,10 +9141,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 2884357.0
+          "programPaymentInDollars": 3278753.0
         }
       ],
-      "totalPaymentInDollars": 9266497.64
+      "totalPaymentInDollars": 9660893.64
     },
     {
       "years": "2020",
@@ -9187,7 +9187,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 184885.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9206,10 +9206,10 @@
               "paymentInDollars": 140.0
             }
           ],
-          "programPaymentInDollars": 1948722.84
+          "programPaymentInDollars": 2133607.84
         }
       ],
-      "totalPaymentInDollars": 8257490.14
+      "totalPaymentInDollars": 8442375.14
     },
     {
       "years": "2021",
@@ -9252,7 +9252,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 414663.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9271,10 +9271,10 @@
               "paymentInDollars": 1425.76
             }
           ],
-          "programPaymentInDollars": 865503.67
+          "programPaymentInDollars": 1280166.67
         }
       ],
-      "totalPaymentInDollars": 17897742.54
+      "totalPaymentInDollars": 18312405.54
     },
     {
       "years": "2022",
@@ -9382,7 +9382,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1194434.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9401,10 +9401,10 @@
               "paymentInDollars": 1565.76
             }
           ],
-          "programPaymentInDollars": 9362626.11
+          "programPaymentInDollars": 10557060.11
         }
       ],
-      "totalPaymentInDollars": 106713850.66
+      "totalPaymentInDollars": 107908284.66
     }
   ],
   "Missouri": [
@@ -9449,7 +9449,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 300682.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9468,10 +9468,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 35474239.61
+          "programPaymentInDollars": 35774921.61
         }
       ],
-      "totalPaymentInDollars": 124300738.71
+      "totalPaymentInDollars": 124601420.71
     },
     {
       "years": "2019",
@@ -9514,7 +9514,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 192548.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9533,10 +9533,10 @@
               "paymentInDollars": 641.0
             }
           ],
-          "programPaymentInDollars": 55490480.71
+          "programPaymentInDollars": 55683028.71
         }
       ],
-      "totalPaymentInDollars": 67168186.52
+      "totalPaymentInDollars": 67360734.52
     },
     {
       "years": "2020",
@@ -9579,7 +9579,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 58215.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9598,10 +9598,10 @@
               "paymentInDollars": 844.2
             }
           ],
-          "programPaymentInDollars": 1582732.56
+          "programPaymentInDollars": 1640947.56
         }
       ],
-      "totalPaymentInDollars": 67904027.88
+      "totalPaymentInDollars": 67962242.88
     },
     {
       "years": "2021",
@@ -9644,7 +9644,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 131163.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9663,10 +9663,10 @@
               "paymentInDollars": 7649.39
             }
           ],
-          "programPaymentInDollars": 20259143.4
+          "programPaymentInDollars": 20390306.4
         }
       ],
-      "totalPaymentInDollars": 78478859.33
+      "totalPaymentInDollars": 78610022.33
     },
     {
       "years": "2022",
@@ -9709,7 +9709,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 76567.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9728,10 +9728,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 282348.0
+          "programPaymentInDollars": 358915.0
         }
       ],
-      "totalPaymentInDollars": 7814832.58
+      "totalPaymentInDollars": 7891399.58
     },
     {
       "years": "2018-2022",
@@ -9774,7 +9774,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 759175.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9793,10 +9793,10 @@
               "paymentInDollars": 9134.59
             }
           ],
-          "programPaymentInDollars": 113088944.28
+          "programPaymentInDollars": 113848119.28
         }
       ],
-      "totalPaymentInDollars": 345666645.02
+      "totalPaymentInDollars": 346425820.02
     }
   ],
   "Montana": [
@@ -9841,7 +9841,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 701309.75
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9860,10 +9860,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 88684574.48
+          "programPaymentInDollars": 89385884.23
         }
       ],
-      "totalPaymentInDollars": 118849374.86
+      "totalPaymentInDollars": 119550684.61
     },
     {
       "years": "2019",
@@ -9906,7 +9906,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2387853.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9925,10 +9925,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 13995936.28
+          "programPaymentInDollars": 16383789.28
         }
       ],
-      "totalPaymentInDollars": 47190300.03
+      "totalPaymentInDollars": 49578153.03
     },
     {
       "years": "2020",
@@ -9971,7 +9971,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1018780.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -9990,10 +9990,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 9002294.55
+          "programPaymentInDollars": 10021074.55
         }
       ],
-      "totalPaymentInDollars": 23476959.34
+      "totalPaymentInDollars": 24495739.34
     },
     {
       "years": "2021",
@@ -10036,7 +10036,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1189954.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10055,10 +10055,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 35207114.74
+          "programPaymentInDollars": 36397068.74
         }
       ],
-      "totalPaymentInDollars": 39636569.51
+      "totalPaymentInDollars": 40826523.51
     },
     {
       "years": "2022",
@@ -10101,7 +10101,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1761279.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10120,10 +10120,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 34628195.57
+          "programPaymentInDollars": 36389474.57
         }
       ],
-      "totalPaymentInDollars": 36512484.55
+      "totalPaymentInDollars": 38273763.55
     },
     {
       "years": "2018-2022",
@@ -10166,7 +10166,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 7059175.75
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10185,10 +10185,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 181518115.62
+          "programPaymentInDollars": 188577291.37
         }
       ],
-      "totalPaymentInDollars": 265665688.29
+      "totalPaymentInDollars": 272724864.04
     }
   ],
   "Nebraska": [
@@ -10233,7 +10233,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 616622.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10252,10 +10252,10 @@
               "paymentInDollars": 48499.0
             }
           ],
-          "programPaymentInDollars": 1592592.7
+          "programPaymentInDollars": 2209214.7
         }
       ],
-      "totalPaymentInDollars": 575444407.8
+      "totalPaymentInDollars": 576061029.8
     },
     {
       "years": "2019",
@@ -10298,7 +10298,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1137047.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10317,10 +10317,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 8409507.9
+          "programPaymentInDollars": 9546554.9
         }
       ],
-      "totalPaymentInDollars": 78433770.24
+      "totalPaymentInDollars": 79570817.24
     },
     {
       "years": "2020",
@@ -10363,7 +10363,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2696646.85
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10382,10 +10382,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 20174934.21
+          "programPaymentInDollars": 22871581.06
         }
       ],
-      "totalPaymentInDollars": 38412320.46
+      "totalPaymentInDollars": 41108967.31
     },
     {
       "years": "2021",
@@ -10428,7 +10428,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1739632.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10447,10 +10447,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 23211785.68
+          "programPaymentInDollars": 24951417.68
         }
       ],
-      "totalPaymentInDollars": 43542353.08
+      "totalPaymentInDollars": 45281985.08
     },
     {
       "years": "2022",
@@ -10493,7 +10493,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 68875.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10512,10 +10512,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 5446123.0
+          "programPaymentInDollars": 5514998.0
         }
       ],
-      "totalPaymentInDollars": 10825231.66
+      "totalPaymentInDollars": 10894106.66
     },
     {
       "years": "2018-2022",
@@ -10558,7 +10558,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 6258822.85
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10577,10 +10577,10 @@
               "paymentInDollars": 48499.0
             }
           ],
-          "programPaymentInDollars": 58834943.49
+          "programPaymentInDollars": 65093766.34
         }
       ],
-      "totalPaymentInDollars": 746658083.24
+      "totalPaymentInDollars": 752916906.09
     }
   ],
   "Nevada": [
@@ -10625,7 +10625,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 363462.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10644,10 +10644,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 737577.0
+          "programPaymentInDollars": 1101039.0
         }
       ],
-      "totalPaymentInDollars": 1239049.0
+      "totalPaymentInDollars": 1602511.0
     },
     {
       "years": "2019",
@@ -10690,7 +10690,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 110145.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10709,10 +10709,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 2943633.96
+          "programPaymentInDollars": 3053778.96
         }
       ],
-      "totalPaymentInDollars": 3382664.27
+      "totalPaymentInDollars": 3492809.27
     },
     {
       "years": "2020",
@@ -10755,7 +10755,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 16481.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10774,10 +10774,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 3115259.84
+          "programPaymentInDollars": 3131740.84
         }
       ],
-      "totalPaymentInDollars": 3830224.79
+      "totalPaymentInDollars": 3846705.79
     },
     {
       "years": "2021",
@@ -10820,7 +10820,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 45200.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10839,10 +10839,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 18879499.0
+          "programPaymentInDollars": 18924699.0
         }
       ],
-      "totalPaymentInDollars": 20501140.01
+      "totalPaymentInDollars": 20546340.01
     },
     {
       "years": "2022",
@@ -10885,7 +10885,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 11810.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10904,10 +10904,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 2472858.5
+          "programPaymentInDollars": 2484668.5
         }
       ],
-      "totalPaymentInDollars": 3147388.27
+      "totalPaymentInDollars": 3159198.27
     },
     {
       "years": "2018-2022",
@@ -10950,7 +10950,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 547098.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -10969,10 +10969,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 28148828.3
+          "programPaymentInDollars": 28695926.3
         }
       ],
-      "totalPaymentInDollars": 32100466.34
+      "totalPaymentInDollars": 32647564.34
     }
   ],
   "New Hampshire": [
@@ -11017,7 +11017,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2707.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11036,10 +11036,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 72279.0
+          "programPaymentInDollars": 74986.0
         }
       ],
-      "totalPaymentInDollars": 1475661.0
+      "totalPaymentInDollars": 1478368.0
     },
     {
       "years": "2019",
@@ -11082,7 +11082,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 4520.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11101,10 +11101,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 196446.0
+          "programPaymentInDollars": 200966.0
         }
       ],
-      "totalPaymentInDollars": 1231528.76
+      "totalPaymentInDollars": 1236048.76
     },
     {
       "years": "2020",
@@ -11147,7 +11147,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1926.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11166,10 +11166,10 @@
               "paymentInDollars": 8212.0
             }
           ],
-          "programPaymentInDollars": 278723.0
+          "programPaymentInDollars": 280649.0
         }
       ],
-      "totalPaymentInDollars": 584065.84
+      "totalPaymentInDollars": 585991.84
     },
     {
       "years": "2021",
@@ -11212,7 +11212,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 34021.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11231,10 +11231,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 359219.0
+          "programPaymentInDollars": 393240.0
         }
       ],
-      "totalPaymentInDollars": 2711073.04
+      "totalPaymentInDollars": 2745094.04
     },
     {
       "years": "2022",
@@ -11342,7 +11342,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 43174.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11361,10 +11361,10 @@
               "paymentInDollars": 10048.83
             }
           ],
-          "programPaymentInDollars": 928795.83
+          "programPaymentInDollars": 971969.83
         }
       ],
-      "totalPaymentInDollars": 7175095.99
+      "totalPaymentInDollars": 7218269.99
     }
   ],
   "New Jersey": [
@@ -11409,7 +11409,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 159408.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11428,10 +11428,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1330994.0
+          "programPaymentInDollars": 1490402.0
         }
       ],
-      "totalPaymentInDollars": 6325961.22
+      "totalPaymentInDollars": 6485369.22
     },
     {
       "years": "2019",
@@ -11474,7 +11474,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 173080.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11493,10 +11493,10 @@
               "paymentInDollars": 20426.0
             }
           ],
-          "programPaymentInDollars": 1654253.0
+          "programPaymentInDollars": 1827333.0
         }
       ],
-      "totalPaymentInDollars": 2146785.72
+      "totalPaymentInDollars": 2319865.72
     },
     {
       "years": "2020",
@@ -11539,7 +11539,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 206148.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11558,10 +11558,10 @@
               "paymentInDollars": 21882.6
             }
           ],
-          "programPaymentInDollars": 1370615.6
+          "programPaymentInDollars": 1576763.6
         }
       ],
-      "totalPaymentInDollars": 2913742.46
+      "totalPaymentInDollars": 3119890.46
     },
     {
       "years": "2021",
@@ -11604,7 +11604,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 343313.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11623,10 +11623,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1566767.0
+          "programPaymentInDollars": 1910080.0
         }
       ],
-      "totalPaymentInDollars": 3836967.9
+      "totalPaymentInDollars": 4180280.9
     },
     {
       "years": "2022",
@@ -11734,7 +11734,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 881949.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11753,10 +11753,10 @@
               "paymentInDollars": 42308.6
             }
           ],
-          "programPaymentInDollars": 6362621.6
+          "programPaymentInDollars": 7244570.6
         }
       ],
-      "totalPaymentInDollars": 16147003.11
+      "totalPaymentInDollars": 17028952.11
     }
   ],
   "New Mexico": [
@@ -11801,7 +11801,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 21437.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11820,10 +11820,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 24011993.45
+          "programPaymentInDollars": 24033430.45
         }
       ],
-      "totalPaymentInDollars": 29340038.8
+      "totalPaymentInDollars": 29361475.8
     },
     {
       "years": "2019",
@@ -11866,7 +11866,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 227892.4
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11885,10 +11885,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 25115878.74
+          "programPaymentInDollars": 25343771.14
         }
       ],
-      "totalPaymentInDollars": 31096844.14
+      "totalPaymentInDollars": 31324736.54
     },
     {
       "years": "2020",
@@ -11931,7 +11931,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 115333.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -11950,10 +11950,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 39966613.73
+          "programPaymentInDollars": 40081946.73
         }
       ],
-      "totalPaymentInDollars": 42091876.23
+      "totalPaymentInDollars": 42207209.23
     },
     {
       "years": "2021",
@@ -11996,7 +11996,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 349799.22
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12015,10 +12015,10 @@
               "paymentInDollars": 31415.09
             }
           ],
-          "programPaymentInDollars": 81351327.43
+          "programPaymentInDollars": 81701126.65
         }
       ],
-      "totalPaymentInDollars": 90612874.76
+      "totalPaymentInDollars": 90962673.98
     },
     {
       "years": "2022",
@@ -12061,7 +12061,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 106266.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12080,10 +12080,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 6993994.81
+          "programPaymentInDollars": 7100260.81
         }
       ],
-      "totalPaymentInDollars": 10968469.18
+      "totalPaymentInDollars": 11074735.18
     },
     {
       "years": "2018-2022",
@@ -12126,7 +12126,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 820727.62
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12145,10 +12145,10 @@
               "paymentInDollars": 31415.09
             }
           ],
-          "programPaymentInDollars": 177439808.16
+          "programPaymentInDollars": 178260535.78
         }
       ],
-      "totalPaymentInDollars": 204110103.11
+      "totalPaymentInDollars": 204930830.73
     }
   ],
   "New York": [
@@ -12193,7 +12193,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 510983.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12212,10 +12212,10 @@
               "paymentInDollars": 341182.0
             }
           ],
-          "programPaymentInDollars": 4104505.0
+          "programPaymentInDollars": 4615488.0
         }
       ],
-      "totalPaymentInDollars": 74208532.44
+      "totalPaymentInDollars": 74719515.44
     },
     {
       "years": "2019",
@@ -12258,7 +12258,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 410711.2
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12277,10 +12277,10 @@
               "paymentInDollars": 124050.8
             }
           ],
-          "programPaymentInDollars": 3105632.8
+          "programPaymentInDollars": 3516344.0
         }
       ],
-      "totalPaymentInDollars": 35837732.86
+      "totalPaymentInDollars": 36248444.06
     },
     {
       "years": "2020",
@@ -12323,7 +12323,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 486285.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12342,10 +12342,10 @@
               "paymentInDollars": 157432.66
             }
           ],
-          "programPaymentInDollars": 1863707.61
+          "programPaymentInDollars": 2349992.61
         }
       ],
-      "totalPaymentInDollars": 14202323.12
+      "totalPaymentInDollars": 14688608.12
     },
     {
       "years": "2021",
@@ -12388,7 +12388,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 262055.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12407,10 +12407,10 @@
               "paymentInDollars": 46555.74
             }
           ],
-          "programPaymentInDollars": 1482767.74
+          "programPaymentInDollars": 1744822.74
         }
       ],
-      "totalPaymentInDollars": 75851064.34
+      "totalPaymentInDollars": 76113119.34
     },
     {
       "years": "2022",
@@ -12518,7 +12518,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1670034.2
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12537,10 +12537,10 @@
               "paymentInDollars": 671708.83
             }
           ],
-          "programPaymentInDollars": 11232368.78
+          "programPaymentInDollars": 12902402.98
         }
       ],
-      "totalPaymentInDollars": 236015793.83
+      "totalPaymentInDollars": 237685828.03
     }
   ],
   "North Carolina": [
@@ -12585,7 +12585,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 636413.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12604,10 +12604,10 @@
               "paymentInDollars": 395146.0
             }
           ],
-          "programPaymentInDollars": 4243839.19
+          "programPaymentInDollars": 4880252.19
         }
       ],
-      "totalPaymentInDollars": 69351606.6
+      "totalPaymentInDollars": 69988019.6
     },
     {
       "years": "2019",
@@ -12650,7 +12650,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1011128.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12669,10 +12669,10 @@
               "paymentInDollars": 1731248.29
             }
           ],
-          "programPaymentInDollars": 9539428.13
+          "programPaymentInDollars": 10550556.13
         }
       ],
-      "totalPaymentInDollars": 21760980.92
+      "totalPaymentInDollars": 22772108.92
     },
     {
       "years": "2020",
@@ -12715,7 +12715,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 283960.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12734,10 +12734,10 @@
               "paymentInDollars": 570064.63
             }
           ],
-          "programPaymentInDollars": 6811025.13
+          "programPaymentInDollars": 7094985.13
         }
       ],
-      "totalPaymentInDollars": 35883989.16
+      "totalPaymentInDollars": 36167949.16
     },
     {
       "years": "2021",
@@ -12780,7 +12780,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 428461.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12799,10 +12799,10 @@
               "paymentInDollars": 446404.47
             }
           ],
-          "programPaymentInDollars": 9087265.4
+          "programPaymentInDollars": 9515726.4
         }
       ],
-      "totalPaymentInDollars": 46460791.6
+      "totalPaymentInDollars": 46889252.6
     },
     {
       "years": "2022",
@@ -12845,7 +12845,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 205247.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12864,10 +12864,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 3417379.0
+          "programPaymentInDollars": 3622626.0
         }
       ],
-      "totalPaymentInDollars": 10581230.51
+      "totalPaymentInDollars": 10786477.51
     },
     {
       "years": "2018-2022",
@@ -12910,7 +12910,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2565209.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12929,10 +12929,10 @@
               "paymentInDollars": 3142863.39
             }
           ],
-          "programPaymentInDollars": 33098936.85
+          "programPaymentInDollars": 35664145.85
         }
       ],
-      "totalPaymentInDollars": 184038598.79
+      "totalPaymentInDollars": 186603807.79
     }
   ],
   "North Dakota": [
@@ -12977,7 +12977,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1527568.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -12996,10 +12996,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 62514610.0
+          "programPaymentInDollars": 64042178.0
         }
       ],
-      "totalPaymentInDollars": 253630749.2
+      "totalPaymentInDollars": 255158317.2
     },
     {
       "years": "2019",
@@ -13042,7 +13042,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1798181.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13061,10 +13061,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 7679098.0
+          "programPaymentInDollars": 9477279.0
         }
       ],
-      "totalPaymentInDollars": 161996223.98
+      "totalPaymentInDollars": 163794404.98
     },
     {
       "years": "2020",
@@ -13107,7 +13107,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3195526.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13126,10 +13126,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1890472.0
+          "programPaymentInDollars": 5085998.0
         }
       ],
-      "totalPaymentInDollars": 30642327.45
+      "totalPaymentInDollars": 33837853.45
     },
     {
       "years": "2021",
@@ -13172,7 +13172,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3395425.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13191,10 +13191,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 31138010.35
+          "programPaymentInDollars": 34533435.35
         }
       ],
-      "totalPaymentInDollars": 118000410.41
+      "totalPaymentInDollars": 121395835.41
     },
     {
       "years": "2022",
@@ -13237,7 +13237,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 794096.7
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13256,10 +13256,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 30152853.0
+          "programPaymentInDollars": 30946949.7
         }
       ],
-      "totalPaymentInDollars": 41735442.57
+      "totalPaymentInDollars": 42529539.27
     },
     {
       "years": "2018-2022",
@@ -13302,7 +13302,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 10710796.7
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13321,10 +13321,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 133375043.35
+          "programPaymentInDollars": 144085840.05
         }
       ],
-      "totalPaymentInDollars": 606005153.61
+      "totalPaymentInDollars": 616715950.31
     }
   ],
   "Ohio": [
@@ -13369,7 +13369,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 136471.87
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13388,10 +13388,10 @@
               "paymentInDollars": 96788.0
             }
           ],
-          "programPaymentInDollars": 1161364.39
+          "programPaymentInDollars": 1297836.26
         }
       ],
-      "totalPaymentInDollars": 282655905.83
+      "totalPaymentInDollars": 282792377.7
     },
     {
       "years": "2019",
@@ -13434,7 +13434,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 137367.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13453,10 +13453,10 @@
               "paymentInDollars": 12283.21
             }
           ],
-          "programPaymentInDollars": 2264928.21
+          "programPaymentInDollars": 2402295.21
         }
       ],
-      "totalPaymentInDollars": 71358104.93
+      "totalPaymentInDollars": 71495471.93
     },
     {
       "years": "2020",
@@ -13499,7 +13499,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 153261.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13518,10 +13518,10 @@
               "paymentInDollars": 46847.97
             }
           ],
-          "programPaymentInDollars": 6917311.87
+          "programPaymentInDollars": 7070572.87
         }
       ],
-      "totalPaymentInDollars": 16710244.63
+      "totalPaymentInDollars": 16863505.63
     },
     {
       "years": "2021",
@@ -13564,7 +13564,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 106782.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13583,10 +13583,10 @@
               "paymentInDollars": 50660.1
             }
           ],
-          "programPaymentInDollars": 1614094.1
+          "programPaymentInDollars": 1720876.1
         }
       ],
-      "totalPaymentInDollars": 127594688.63
+      "totalPaymentInDollars": 127701470.63
     },
     {
       "years": "2022",
@@ -13629,7 +13629,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 4794.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13648,10 +13648,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 398098.0
+          "programPaymentInDollars": 402892.0
         }
       ],
-      "totalPaymentInDollars": 19212832.33
+      "totalPaymentInDollars": 19217626.33
     },
     {
       "years": "2018-2022",
@@ -13694,7 +13694,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 538675.87
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13713,10 +13713,10 @@
               "paymentInDollars": 206579.28
             }
           ],
-          "programPaymentInDollars": 12355796.57
+          "programPaymentInDollars": 12894472.44
         }
       ],
-      "totalPaymentInDollars": 517531776.35
+      "totalPaymentInDollars": 518070452.22
     }
   ],
   "Oklahoma": [
@@ -13761,7 +13761,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 255897.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13780,10 +13780,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 82772987.05
+          "programPaymentInDollars": 83028884.05
         }
       ],
-      "totalPaymentInDollars": 118095202.41
+      "totalPaymentInDollars": 118351099.41
     },
     {
       "years": "2019",
@@ -13826,7 +13826,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 227822.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13845,10 +13845,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 66777314.15
+          "programPaymentInDollars": 67005136.15
         }
       ],
-      "totalPaymentInDollars": 94170705.85
+      "totalPaymentInDollars": 94398527.85
     },
     {
       "years": "2020",
@@ -13891,7 +13891,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1247922.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13910,10 +13910,10 @@
               "paymentInDollars": 111357.0
             }
           ],
-          "programPaymentInDollars": 21709296.35
+          "programPaymentInDollars": 22957218.35
         }
       ],
-      "totalPaymentInDollars": 74336663.95
+      "totalPaymentInDollars": 75584585.95
     },
     {
       "years": "2021",
@@ -13956,7 +13956,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 261938.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -13975,10 +13975,10 @@
               "paymentInDollars": 2419.31
             }
           ],
-          "programPaymentInDollars": 58794371.23
+          "programPaymentInDollars": 59056309.23
         }
       ],
-      "totalPaymentInDollars": 67697543.01
+      "totalPaymentInDollars": 67959481.01
     },
     {
       "years": "2022",
@@ -14021,7 +14021,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2904.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14040,10 +14040,10 @@
               "paymentInDollars": 1374.8
             }
           ],
-          "programPaymentInDollars": 11445562.32
+          "programPaymentInDollars": 11448466.32
         }
       ],
-      "totalPaymentInDollars": 15210363.53
+      "totalPaymentInDollars": 15213267.53
     },
     {
       "years": "2018-2022",
@@ -14086,7 +14086,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1996483.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14105,10 +14105,10 @@
               "paymentInDollars": 115151.11
             }
           ],
-          "programPaymentInDollars": 241499531.1
+          "programPaymentInDollars": 243496014.1
         }
       ],
-      "totalPaymentInDollars": 369510478.75
+      "totalPaymentInDollars": 371506961.75
     }
   ],
   "Oregon": [
@@ -14153,7 +14153,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1728183.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14172,10 +14172,10 @@
               "paymentInDollars": 356955.0
             }
           ],
-          "programPaymentInDollars": 3471331.69
+          "programPaymentInDollars": 5199514.69
         }
       ],
-      "totalPaymentInDollars": 35190581.37
+      "totalPaymentInDollars": 36918764.37
     },
     {
       "years": "2019",
@@ -14218,7 +14218,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2472033.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14237,10 +14237,10 @@
               "paymentInDollars": 117505.0
             }
           ],
-          "programPaymentInDollars": 23746484.0
+          "programPaymentInDollars": 26218517.0
         }
       ],
-      "totalPaymentInDollars": 36606376.66
+      "totalPaymentInDollars": 39078409.66
     },
     {
       "years": "2020",
@@ -14283,7 +14283,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2673418.1
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14302,10 +14302,10 @@
               "paymentInDollars": 86104.21
             }
           ],
-          "programPaymentInDollars": 6361305.09
+          "programPaymentInDollars": 9034723.19
         }
       ],
-      "totalPaymentInDollars": 10204101.77
+      "totalPaymentInDollars": 12877519.87
     },
     {
       "years": "2021",
@@ -14348,7 +14348,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1593796.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14367,10 +14367,10 @@
               "paymentInDollars": 186680.23
             }
           ],
-          "programPaymentInDollars": 35890311.95
+          "programPaymentInDollars": 37484107.95
         }
       ],
-      "totalPaymentInDollars": 45330087.06
+      "totalPaymentInDollars": 46923883.06
     },
     {
       "years": "2022",
@@ -14413,7 +14413,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1333140.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14432,10 +14432,10 @@
               "paymentInDollars": 52923.0
             }
           ],
-          "programPaymentInDollars": 9354173.58
+          "programPaymentInDollars": 10687313.58
         }
       ],
-      "totalPaymentInDollars": 13835565.52
+      "totalPaymentInDollars": 15168705.52
     },
     {
       "years": "2018-2022",
@@ -14478,7 +14478,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 9800570.1
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14497,10 +14497,10 @@
               "paymentInDollars": 800167.44
             }
           ],
-          "programPaymentInDollars": 78823606.31
+          "programPaymentInDollars": 88624176.41
         }
       ],
-      "totalPaymentInDollars": 141166712.38
+      "totalPaymentInDollars": 150967282.48
     }
   ],
   "Pennsylvania": [
@@ -14545,7 +14545,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 478510.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14564,10 +14564,10 @@
               "paymentInDollars": 8810.0
             }
           ],
-          "programPaymentInDollars": 422680.0
+          "programPaymentInDollars": 901190.0
         }
       ],
-      "totalPaymentInDollars": 58758692.38
+      "totalPaymentInDollars": 59237202.38
     },
     {
       "years": "2019",
@@ -14610,7 +14610,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 465476.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14629,10 +14629,10 @@
               "paymentInDollars": 91389.0
             }
           ],
-          "programPaymentInDollars": 742970.0
+          "programPaymentInDollars": 1208446.0
         }
       ],
-      "totalPaymentInDollars": 25393074.92
+      "totalPaymentInDollars": 25858550.92
     },
     {
       "years": "2020",
@@ -14675,7 +14675,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 809391.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14694,10 +14694,10 @@
               "paymentInDollars": 112017.49
             }
           ],
-          "programPaymentInDollars": 613688.49
+          "programPaymentInDollars": 1423079.49
         }
       ],
-      "totalPaymentInDollars": 20336093.63
+      "totalPaymentInDollars": 21145484.63
     },
     {
       "years": "2021",
@@ -14740,7 +14740,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 463335.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14759,10 +14759,10 @@
               "paymentInDollars": 46755.92
             }
           ],
-          "programPaymentInDollars": 448810.92
+          "programPaymentInDollars": 912145.92
         }
       ],
-      "totalPaymentInDollars": 59736046.95
+      "totalPaymentInDollars": 60199381.95
     },
     {
       "years": "2022",
@@ -14805,7 +14805,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 177534.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14824,10 +14824,10 @@
               "paymentInDollars": 31054.39
             }
           ],
-          "programPaymentInDollars": 197556.39
+          "programPaymentInDollars": 375090.39
         }
       ],
-      "totalPaymentInDollars": 31749626.42
+      "totalPaymentInDollars": 31927160.42
     },
     {
       "years": "2018-2022",
@@ -14870,7 +14870,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2394246.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14889,10 +14889,10 @@
               "paymentInDollars": 290026.8
             }
           ],
-          "programPaymentInDollars": 2425705.8
+          "programPaymentInDollars": 4819951.8
         }
       ],
-      "totalPaymentInDollars": 195973534.3
+      "totalPaymentInDollars": 198367780.3
     }
   ],
   "Puerto Rico": [
@@ -14937,7 +14937,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 7610.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -14956,10 +14956,10 @@
               "paymentInDollars": 310584.2
             }
           ],
-          "programPaymentInDollars": 6678992.99
+          "programPaymentInDollars": 6686602.99
         }
       ],
-      "totalPaymentInDollars": 7760194.25
+      "totalPaymentInDollars": 7767804.25
     },
     {
       "years": "2019",
@@ -15067,7 +15067,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 18687.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15086,10 +15086,10 @@
               "paymentInDollars": 7814.94
             }
           ],
-          "programPaymentInDollars": 434488.17
+          "programPaymentInDollars": 453175.17
         }
       ],
-      "totalPaymentInDollars": 4803070.37
+      "totalPaymentInDollars": 4821757.37
     },
     {
       "years": "2021",
@@ -15132,7 +15132,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 28932.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15151,10 +15151,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 47705.16
+          "programPaymentInDollars": 76637.16
         }
       ],
-      "totalPaymentInDollars": 7034028.15
+      "totalPaymentInDollars": 7062960.15
     },
     {
       "years": "2022",
@@ -15262,7 +15262,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 55229.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15281,10 +15281,10 @@
               "paymentInDollars": 535108.83
             }
           ],
-          "programPaymentInDollars": 8168083.85
+          "programPaymentInDollars": 8223312.85
         }
       ],
-      "totalPaymentInDollars": 25913090.76
+      "totalPaymentInDollars": 25968319.76
     }
   ],
   "Rhode Island": [
@@ -15329,7 +15329,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2212.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15348,10 +15348,10 @@
               "paymentInDollars": 1931.0
             }
           ],
-          "programPaymentInDollars": 91702.0
+          "programPaymentInDollars": 93914.0
         }
       ],
-      "totalPaymentInDollars": 166966.0
+      "totalPaymentInDollars": 169178.0
     },
     {
       "years": "2019",
@@ -15394,7 +15394,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 4109.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15413,10 +15413,10 @@
               "paymentInDollars": 358.0
             }
           ],
-          "programPaymentInDollars": 290354.0
+          "programPaymentInDollars": 294463.0
         }
       ],
-      "totalPaymentInDollars": 336005.18
+      "totalPaymentInDollars": 340114.18
     },
     {
       "years": "2020",
@@ -15459,7 +15459,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1711.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15478,10 +15478,10 @@
               "paymentInDollars": 7896.67
             }
           ],
-          "programPaymentInDollars": 234246.67
+          "programPaymentInDollars": 235957.67
         }
       ],
-      "totalPaymentInDollars": 292932.85
+      "totalPaymentInDollars": 294643.85
     },
     {
       "years": "2021",
@@ -15524,7 +15524,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1375.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15543,10 +15543,10 @@
               "paymentInDollars": 6131.39
             }
           ],
-          "programPaymentInDollars": 239284.39
+          "programPaymentInDollars": 240659.39
         }
       ],
-      "totalPaymentInDollars": 336848.46
+      "totalPaymentInDollars": 338223.46
     },
     {
       "years": "2022",
@@ -15589,7 +15589,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 424.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15608,10 +15608,10 @@
               "paymentInDollars": 6365.25
             }
           ],
-          "programPaymentInDollars": 13086.25
+          "programPaymentInDollars": 13510.25
         }
       ],
-      "totalPaymentInDollars": 72649.9
+      "totalPaymentInDollars": 73073.9
     },
     {
       "years": "2018-2022",
@@ -15654,7 +15654,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 9831.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15673,10 +15673,10 @@
               "paymentInDollars": 22682.31
             }
           ],
-          "programPaymentInDollars": 868673.31
+          "programPaymentInDollars": 878504.31
         }
       ],
-      "totalPaymentInDollars": 1205402.39
+      "totalPaymentInDollars": 1215233.39
     }
   ],
   "South Carolina": [
@@ -15721,7 +15721,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 19067.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15740,10 +15740,10 @@
               "paymentInDollars": 43134.0
             }
           ],
-          "programPaymentInDollars": 2243519.17
+          "programPaymentInDollars": 2262586.17
         }
       ],
-      "totalPaymentInDollars": 16506811.43
+      "totalPaymentInDollars": 16525878.43
     },
     {
       "years": "2019",
@@ -15786,7 +15786,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 65802.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15805,10 +15805,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1371312.0
+          "programPaymentInDollars": 1437114.0
         }
       ],
-      "totalPaymentInDollars": 5304461.23
+      "totalPaymentInDollars": 5370263.23
     },
     {
       "years": "2020",
@@ -15851,7 +15851,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 19946.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15870,10 +15870,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 9633213.0
+          "programPaymentInDollars": 9653159.0
         }
       ],
-      "totalPaymentInDollars": 14600856.07
+      "totalPaymentInDollars": 14620802.07
     },
     {
       "years": "2021",
@@ -15916,7 +15916,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 82583.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -15935,10 +15935,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1800187.42
+          "programPaymentInDollars": 1882770.42
         }
       ],
-      "totalPaymentInDollars": 16721158.18
+      "totalPaymentInDollars": 16803741.18
     },
     {
       "years": "2022",
@@ -16046,7 +16046,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 187398.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16065,10 +16065,10 @@
               "paymentInDollars": 43134.0
             }
           ],
-          "programPaymentInDollars": 15497067.59
+          "programPaymentInDollars": 15684465.59
         }
       ],
-      "totalPaymentInDollars": 54963996.44
+      "totalPaymentInDollars": 55151394.44
     }
   ],
   "South Dakota": [
@@ -16113,7 +16113,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1876659.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16132,10 +16132,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 97047177.96
+          "programPaymentInDollars": 98923836.96
         }
       ],
-      "totalPaymentInDollars": 295220519.86
+      "totalPaymentInDollars": 297097178.86
     },
     {
       "years": "2019",
@@ -16178,7 +16178,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2049053.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16197,10 +16197,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 16716713.0
+          "programPaymentInDollars": 18765766.0
         }
       ],
-      "totalPaymentInDollars": 176668554.73
+      "totalPaymentInDollars": 178717607.73
     },
     {
       "years": "2020",
@@ -16243,7 +16243,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3663338.88
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16262,10 +16262,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 11178270.0
+          "programPaymentInDollars": 14841608.88
         }
       ],
-      "totalPaymentInDollars": 55623652.78
+      "totalPaymentInDollars": 59286991.66
     },
     {
       "years": "2021",
@@ -16308,7 +16308,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2447701.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16327,10 +16327,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 51700234.98
+          "programPaymentInDollars": 54147935.98
         }
       ],
-      "totalPaymentInDollars": 220923542.17
+      "totalPaymentInDollars": 223371243.17
     },
     {
       "years": "2022",
@@ -16373,7 +16373,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2585872.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16392,10 +16392,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 53708068.83
+          "programPaymentInDollars": 56293940.83
         }
       ],
-      "totalPaymentInDollars": 62797384.22
+      "totalPaymentInDollars": 65383256.22
     },
     {
       "years": "2018-2022",
@@ -16438,7 +16438,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 12622623.88
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16457,10 +16457,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 230350464.77
+          "programPaymentInDollars": 242973088.65
         }
       ],
-      "totalPaymentInDollars": 811233653.76
+      "totalPaymentInDollars": 823856277.64
     }
   ],
   "Tennessee": [
@@ -16505,7 +16505,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 68112.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16524,10 +16524,10 @@
               "paymentInDollars": 237872.0
             }
           ],
-          "programPaymentInDollars": 725259.0
+          "programPaymentInDollars": 793371.0
         }
       ],
-      "totalPaymentInDollars": 65380582.3
+      "totalPaymentInDollars": 65448694.3
     },
     {
       "years": "2019",
@@ -16570,7 +16570,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 26612.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16589,10 +16589,10 @@
               "paymentInDollars": 438507.0
             }
           ],
-          "programPaymentInDollars": 1155750.0
+          "programPaymentInDollars": 1182362.0
         }
       ],
-      "totalPaymentInDollars": 12016459.15
+      "totalPaymentInDollars": 12043071.15
     },
     {
       "years": "2020",
@@ -16635,7 +16635,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 38610.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16654,10 +16654,10 @@
               "paymentInDollars": 551384.05
             }
           ],
-          "programPaymentInDollars": 3460767.05
+          "programPaymentInDollars": 3499377.05
         }
       ],
-      "totalPaymentInDollars": 12147018.11
+      "totalPaymentInDollars": 12185628.11
     },
     {
       "years": "2021",
@@ -16700,7 +16700,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 31476.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16719,10 +16719,10 @@
               "paymentInDollars": 426208.05
             }
           ],
-          "programPaymentInDollars": 983427.05
+          "programPaymentInDollars": 1014903.05
         }
       ],
-      "totalPaymentInDollars": 14320916.2
+      "totalPaymentInDollars": 14352392.2
     },
     {
       "years": "2022",
@@ -16765,7 +16765,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 21908.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16784,10 +16784,10 @@
               "paymentInDollars": 201040.89
             }
           ],
-          "programPaymentInDollars": 626205.89
+          "programPaymentInDollars": 648113.89
         }
       ],
-      "totalPaymentInDollars": 3466423.12
+      "totalPaymentInDollars": 3488331.12
     },
     {
       "years": "2018-2022",
@@ -16830,7 +16830,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 186718.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16849,10 +16849,10 @@
               "paymentInDollars": 1855011.99
             }
           ],
-          "programPaymentInDollars": 6951408.99
+          "programPaymentInDollars": 7138126.99
         }
       ],
-      "totalPaymentInDollars": 107331398.88
+      "totalPaymentInDollars": 107518116.88
     }
   ],
   "Texas": [
@@ -16897,7 +16897,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 5192661.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16916,10 +16916,10 @@
               "paymentInDollars": 149380.0
             }
           ],
-          "programPaymentInDollars": 56357381.5
+          "programPaymentInDollars": 61550042.5
         }
       ],
-      "totalPaymentInDollars": 146170419.49
+      "totalPaymentInDollars": 151363080.49
     },
     {
       "years": "2019",
@@ -16962,7 +16962,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2275718.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -16981,10 +16981,10 @@
               "paymentInDollars": 44035.0
             }
           ],
-          "programPaymentInDollars": 69987339.0
+          "programPaymentInDollars": 72263057.0
         }
       ],
-      "totalPaymentInDollars": 102923232.63
+      "totalPaymentInDollars": 105198950.63
     },
     {
       "years": "2020",
@@ -17027,7 +17027,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3203304.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17046,10 +17046,10 @@
               "paymentInDollars": 76254.58
             }
           ],
-          "programPaymentInDollars": 74473817.06
+          "programPaymentInDollars": 77677121.06
         }
       ],
-      "totalPaymentInDollars": 171496380.35
+      "totalPaymentInDollars": 174699684.35
     },
     {
       "years": "2021",
@@ -17092,7 +17092,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 25960516.05
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17111,10 +17111,10 @@
               "paymentInDollars": 448649.01
             }
           ],
-          "programPaymentInDollars": 107097285.65
+          "programPaymentInDollars": 133057801.7
         }
       ],
-      "totalPaymentInDollars": 136085442.7
+      "totalPaymentInDollars": 162045958.75
     },
     {
       "years": "2022",
@@ -17157,7 +17157,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 3286594.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17176,10 +17176,10 @@
               "paymentInDollars": 33538.74
             }
           ],
-          "programPaymentInDollars": 22417647.71
+          "programPaymentInDollars": 25704241.71
         }
       ],
-      "totalPaymentInDollars": 34994447.37
+      "totalPaymentInDollars": 38281041.37
     },
     {
       "years": "2018-2022",
@@ -17222,7 +17222,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 39918793.05
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17241,10 +17241,10 @@
               "paymentInDollars": 751857.33
             }
           ],
-          "programPaymentInDollars": 330333470.92
+          "programPaymentInDollars": 370252263.97
         }
       ],
-      "totalPaymentInDollars": 591669922.54
+      "totalPaymentInDollars": 631588715.59
     }
   ],
   "Utah": [
@@ -17289,7 +17289,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 529113.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17308,10 +17308,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 9931859.31
+          "programPaymentInDollars": 10460972.31
         }
       ],
-      "totalPaymentInDollars": 15829566.31
+      "totalPaymentInDollars": 16358679.31
     },
     {
       "years": "2019",
@@ -17354,7 +17354,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1015058.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17373,10 +17373,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 16887484.79
+          "programPaymentInDollars": 17902542.79
         }
       ],
-      "totalPaymentInDollars": 19685209.19
+      "totalPaymentInDollars": 20700267.19
     },
     {
       "years": "2020",
@@ -17419,7 +17419,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 731803.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17438,10 +17438,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 6138370.0
+          "programPaymentInDollars": 6870173.0
         }
       ],
-      "totalPaymentInDollars": 8492445.37
+      "totalPaymentInDollars": 9224248.37
     },
     {
       "years": "2021",
@@ -17484,7 +17484,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 911251.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17503,10 +17503,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 47291170.9
+          "programPaymentInDollars": 48202421.9
         }
       ],
-      "totalPaymentInDollars": 54742250.59
+      "totalPaymentInDollars": 55653501.59
     },
     {
       "years": "2022",
@@ -17549,7 +17549,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1036477.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17568,10 +17568,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 4892927.0
+          "programPaymentInDollars": 5929404.0
         }
       ],
-      "totalPaymentInDollars": 8421392.56
+      "totalPaymentInDollars": 9457869.56
     },
     {
       "years": "2018-2022",
@@ -17614,7 +17614,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 4223702.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17633,10 +17633,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 85141812.0
+          "programPaymentInDollars": 89365514.0
         }
       ],
-      "totalPaymentInDollars": 107170864.02
+      "totalPaymentInDollars": 111394566.02
     }
   ],
   "Vermont": [
@@ -17681,7 +17681,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 113026.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17700,10 +17700,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 219976.0
+          "programPaymentInDollars": 333002.0
         }
       ],
-      "totalPaymentInDollars": 7644085.78
+      "totalPaymentInDollars": 7757111.78
     },
     {
       "years": "2019",
@@ -17746,7 +17746,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 110281.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17765,10 +17765,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 32016.0
+          "programPaymentInDollars": 142297.0
         }
       ],
-      "totalPaymentInDollars": 7999989.11
+      "totalPaymentInDollars": 8110270.11
     },
     {
       "years": "2020",
@@ -17811,7 +17811,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 169981.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17830,10 +17830,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 13615.0
+          "programPaymentInDollars": 183596.0
         }
       ],
-      "totalPaymentInDollars": 2113613.84
+      "totalPaymentInDollars": 2283594.84
     },
     {
       "years": "2021",
@@ -17876,7 +17876,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 159103.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -17895,10 +17895,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 7086.0
+          "programPaymentInDollars": 166189.0
         }
       ],
-      "totalPaymentInDollars": 18198480.7
+      "totalPaymentInDollars": 18357583.7
     },
     {
       "years": "2022",
@@ -18006,7 +18006,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 552391.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18025,10 +18025,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 291063.0
+          "programPaymentInDollars": 843454.0
         }
       ],
-      "totalPaymentInDollars": 44679912.24
+      "totalPaymentInDollars": 45232303.24
     }
   ],
   "Virginia": [
@@ -18073,7 +18073,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 156812.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18092,10 +18092,10 @@
               "paymentInDollars": 58292.0
             }
           ],
-          "programPaymentInDollars": 801414.0
+          "programPaymentInDollars": 958226.0
         }
       ],
-      "totalPaymentInDollars": 30909628.22
+      "totalPaymentInDollars": 31066440.22
     },
     {
       "years": "2019",
@@ -18138,7 +18138,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 271773.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18157,10 +18157,10 @@
               "paymentInDollars": 158588.17
             }
           ],
-          "programPaymentInDollars": 1521745.17
+          "programPaymentInDollars": 1793518.17
         }
       ],
-      "totalPaymentInDollars": 16103617.9
+      "totalPaymentInDollars": 16375390.9
     },
     {
       "years": "2020",
@@ -18203,7 +18203,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 14614.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18222,10 +18222,10 @@
               "paymentInDollars": 47873.78
             }
           ],
-          "programPaymentInDollars": 2408296.69
+          "programPaymentInDollars": 2422910.69
         }
       ],
-      "totalPaymentInDollars": 9040778.66
+      "totalPaymentInDollars": 9055392.66
     },
     {
       "years": "2021",
@@ -18268,7 +18268,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 225061.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18287,10 +18287,10 @@
               "paymentInDollars": 50847.23
             }
           ],
-          "programPaymentInDollars": 4887165.73
+          "programPaymentInDollars": 5112226.73
         }
       ],
-      "totalPaymentInDollars": 23923555.85
+      "totalPaymentInDollars": 24148616.85
     },
     {
       "years": "2022",
@@ -18398,7 +18398,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 668260.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18417,10 +18417,10 @@
               "paymentInDollars": 315601.18
             }
           ],
-          "programPaymentInDollars": 13995668.59
+          "programPaymentInDollars": 14663928.59
         }
       ],
-      "totalPaymentInDollars": 94653290.71
+      "totalPaymentInDollars": 95321550.71
     }
   ],
   "Washington": [
@@ -18465,7 +18465,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 482650.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18484,10 +18484,10 @@
               "paymentInDollars": 42255.0
             }
           ],
-          "programPaymentInDollars": 1189730.0
+          "programPaymentInDollars": 1672380.0
         }
       ],
-      "totalPaymentInDollars": 90763303.53
+      "totalPaymentInDollars": 91245953.53
     },
     {
       "years": "2019",
@@ -18530,7 +18530,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 689150.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18549,10 +18549,10 @@
               "paymentInDollars": 143303.0
             }
           ],
-          "programPaymentInDollars": 2316465.6
+          "programPaymentInDollars": 3005615.6
         }
       ],
-      "totalPaymentInDollars": 36843485.29
+      "totalPaymentInDollars": 37532635.29
     },
     {
       "years": "2020",
@@ -18595,7 +18595,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1895638.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18614,10 +18614,10 @@
               "paymentInDollars": 65919.96
             }
           ],
-          "programPaymentInDollars": 6392314.74
+          "programPaymentInDollars": 8287952.74
         }
       ],
-      "totalPaymentInDollars": 12073633.86
+      "totalPaymentInDollars": 13969271.86
     },
     {
       "years": "2021",
@@ -18660,7 +18660,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1183457.99
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18679,10 +18679,10 @@
               "paymentInDollars": 209477.17
             }
           ],
-          "programPaymentInDollars": 5064592.17
+          "programPaymentInDollars": 6248050.16
         }
       ],
-      "totalPaymentInDollars": 20744606.78
+      "totalPaymentInDollars": 21928064.77
     },
     {
       "years": "2022",
@@ -18725,7 +18725,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 234304.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18744,10 +18744,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 4437775.0
+          "programPaymentInDollars": 4672079.0
         }
       ],
-      "totalPaymentInDollars": 11624419.4
+      "totalPaymentInDollars": 11858723.4
     },
     {
       "years": "2018-2022",
@@ -18790,7 +18790,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 4485199.99
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18809,10 +18809,10 @@
               "paymentInDollars": 460955.13
             }
           ],
-          "programPaymentInDollars": 19400877.51
+          "programPaymentInDollars": 23886077.5
         }
       ],
-      "totalPaymentInDollars": 172049448.86
+      "totalPaymentInDollars": 176534648.85
     }
   ],
   "West Virginia": [
@@ -18857,7 +18857,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 160425.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18876,10 +18876,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 335586.0
+          "programPaymentInDollars": 496011.0
         }
       ],
-      "totalPaymentInDollars": 3418398.0
+      "totalPaymentInDollars": 3578823.0
     },
     {
       "years": "2019",
@@ -18922,7 +18922,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 114054.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -18941,10 +18941,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 430048.0
+          "programPaymentInDollars": 544102.0
         }
       ],
-      "totalPaymentInDollars": 1254625.65
+      "totalPaymentInDollars": 1368679.65
     },
     {
       "years": "2020",
@@ -18987,7 +18987,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 147750.96
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19006,10 +19006,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 226986.0
+          "programPaymentInDollars": 374736.96
         }
       ],
-      "totalPaymentInDollars": 833342.0
+      "totalPaymentInDollars": 981092.96
     },
     {
       "years": "2021",
@@ -19052,7 +19052,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 146057.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19071,10 +19071,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 115905.0
+          "programPaymentInDollars": 261962.0
         }
       ],
-      "totalPaymentInDollars": 1187215.04
+      "totalPaymentInDollars": 1333272.04
     },
     {
       "years": "2022",
@@ -19117,7 +19117,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 18903.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19136,10 +19136,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 36457.0
+          "programPaymentInDollars": 55360.0
         }
       ],
-      "totalPaymentInDollars": 359622.58
+      "totalPaymentInDollars": 378525.58
     },
     {
       "years": "2018-2022",
@@ -19182,7 +19182,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 587189.96
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19201,10 +19201,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 1144982.0
+          "programPaymentInDollars": 1732171.96
         }
       ],
-      "totalPaymentInDollars": 7053203.27
+      "totalPaymentInDollars": 7640393.23
     }
   ],
   "Wisconsin": [
@@ -19249,7 +19249,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 503630.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19268,10 +19268,10 @@
               "paymentInDollars": 47316.0
             }
           ],
-          "programPaymentInDollars": 3500962.0
+          "programPaymentInDollars": 4004592.0
         }
       ],
-      "totalPaymentInDollars": 115653897.73
+      "totalPaymentInDollars": 116157527.73
     },
     {
       "years": "2019",
@@ -19314,7 +19314,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 687479.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19333,10 +19333,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 3057527.0
+          "programPaymentInDollars": 3745006.0
         }
       ],
-      "totalPaymentInDollars": 87546290.15
+      "totalPaymentInDollars": 88233769.15
     },
     {
       "years": "2020",
@@ -19379,7 +19379,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 263472.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19398,10 +19398,10 @@
               "paymentInDollars": 28352.18
             }
           ],
-          "programPaymentInDollars": 3864200.18
+          "programPaymentInDollars": 4127672.18
         }
       ],
-      "totalPaymentInDollars": 53166313.77
+      "totalPaymentInDollars": 53429785.77
     },
     {
       "years": "2021",
@@ -19444,7 +19444,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 218393.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19463,10 +19463,10 @@
               "paymentInDollars": 2914.28
             }
           ],
-          "programPaymentInDollars": 1792303.28
+          "programPaymentInDollars": 2010696.28
         }
       ],
-      "totalPaymentInDollars": 199851468.23
+      "totalPaymentInDollars": 200069861.23
     },
     {
       "years": "2022",
@@ -19509,7 +19509,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 7638.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19528,10 +19528,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 680293.0
+          "programPaymentInDollars": 687931.0
         }
       ],
-      "totalPaymentInDollars": 86019241.13
+      "totalPaymentInDollars": 86026879.13
     },
     {
       "years": "2018-2022",
@@ -19574,7 +19574,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1680612.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19593,10 +19593,10 @@
               "paymentInDollars": 78582.46
             }
           ],
-          "programPaymentInDollars": 12895285.46
+          "programPaymentInDollars": 14575897.46
         }
       ],
-      "totalPaymentInDollars": 542237211.01
+      "totalPaymentInDollars": 543917823.01
     }
   ],
   "Wyoming": [
@@ -19641,7 +19641,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 891580.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19660,10 +19660,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 4318689.83
+          "programPaymentInDollars": 5210269.83
         }
       ],
-      "totalPaymentInDollars": 7776740.14
+      "totalPaymentInDollars": 8668320.14
     },
     {
       "years": "2019",
@@ -19706,7 +19706,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 1205425.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19725,10 +19725,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 3585739.0
+          "programPaymentInDollars": 4791164.0
         }
       ],
-      "totalPaymentInDollars": 4144064.08
+      "totalPaymentInDollars": 5349489.08
     },
     {
       "years": "2020",
@@ -19771,7 +19771,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 2930862.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19790,10 +19790,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 3755356.27
+          "programPaymentInDollars": 6686218.27
         }
       ],
-      "totalPaymentInDollars": 3916644.74
+      "totalPaymentInDollars": 6847506.74
     },
     {
       "years": "2021",
@@ -19836,7 +19836,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 417234.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19855,10 +19855,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 55504319.84
+          "programPaymentInDollars": 55921553.84
         }
       ],
-      "totalPaymentInDollars": 56600501.26
+      "totalPaymentInDollars": 57017735.26
     },
     {
       "years": "2022",
@@ -19901,7 +19901,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 501912.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19920,10 +19920,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 18318458.1
+          "programPaymentInDollars": 18820370.1
         }
       ],
-      "totalPaymentInDollars": 18534388.23
+      "totalPaymentInDollars": 19036300.23
     },
     {
       "years": "2018-2022",
@@ -19966,7 +19966,7 @@
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0
+              "paymentInDollars": 5947013.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -19985,10 +19985,10 @@
               "paymentInDollars": 0
             }
           ],
-          "programPaymentInDollars": 85482563.04
+          "programPaymentInDollars": 91429576.04
         }
       ],
-      "totalPaymentInDollars": 90972338.45
+      "totalPaymentInDollars": 96919351.45
     }
   ]
 }
