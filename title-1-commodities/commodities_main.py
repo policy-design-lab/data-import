@@ -14,7 +14,7 @@ class CommoditiesDataParser:
             "Agriculture Risk Coverage (ARC)": ["Agriculture Risk Coverage County Option (ARC-CO)",
                                                 "Agriculture Risk Coverage Individual Coverage (ARC-IC)"],
             "Price Loss Coverage (PLC)": [],
-            "Dairy Margin Coverage Program (DMC)": [],
+            "Dairy": ["Dairy Margin Coverage Program (DMC)", "Dairy Indemnity Payment Program (DIPP)"],
             "Disaster Assistance": ["Tree Assistance Program (TAP)",
                                     "Noninsured Crop Disaster Assistance Program (NAP)",
                                     "Livestock Forage Disaster Program (LFP)", "Livestock Indemnity Program (LIP)",
@@ -32,9 +32,9 @@ class CommoditiesDataParser:
             if program_description in self.programs_subprograms_mapping[program_name]:
                 return program_name
 
-    def find_and_get_zero_subprogram_entries(self, program_name, practice_categories_list,
+    def find_and_get_zero_subprogram_entries(self, program_name, subprograms_list,
                                              for_percentage_json=False):
-        diff_list = list(set(self.programs_subprograms_mapping[program_name]) - set(practice_categories_list))
+        diff_list = list(set(self.programs_subprograms_mapping[program_name]) - set(subprograms_list))
         zero_subprogram_entries = []
         for entry in diff_list:
             if not for_percentage_json:
@@ -54,37 +54,24 @@ class CommoditiesDataParser:
         # Import CSV file into a Pandas DataFrame
         commodities_data = pd.read_csv(self.csv_filepath)
         commodities_data = commodities_data.replace({
-            "AGRICULTURAL RISK COVERAGE - INDIVIDUAL": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-            "AGRICULTURAL RISK COVERAGE PROG - COUNTY": "Agriculture Risk Coverage County Option (ARC-CO)",
-            "AGRICULTURAL RISK COVERAGE -COUNTY PILOT": "Agriculture Risk Coverage County Option (ARC-CO)",
-
-            "PRICE LOSS COVERAGE PROGRAM": "Price Loss Coverage (PLC)",
-
-            "DAIRY MARGIN COVERAGE PROGRAM": "Dairy Margin Coverage Program (DMC)",
-            "DAIRY MARGIN COVERAGE": "Dairy Margin Coverage Program (DMC)",
-            "MARGIN PROTECTION PROGRAM - DAIRY": "Dairy Margin Coverage Program (DMC)",
-            "MARGIN PROTECTION  - DAIRY": "Dairy Margin Coverage Program (DMC)",
-
-            "TREE ASSISTANCE PROGRAM": "Tree Assistance Program (TAP)",
-            "TREE ASSISTANCE PROGRAM - PECAN": "Tree Assistance Program (TAP)",
-
-            "LIVESTOCK FORAGE DISASTER  PROGRAM": "Livestock Forage Disaster Program (LFP)",
-            "LIVESTOCK FORAGE DISASTER PROGRAM": "Livestock Forage Disaster Program (LFP)",
-            "LIVESTOCK FORAGE PROGRAM": "Livestock Forage Disaster Program (LFP)",
-
-            "LIVESTOCK INDEMNITY PROGRAM": "Livestock Indemnity Program (LIP)",
-
-            "EMERGENCY ASSISTANCE LIVESTOCK, HONEYBEE, FISH":
-                "Emergency Assistance for Livestock,Honeybees, and Farm-Raised Fish (ELAP)",
-            "EMERG ASSIST LIVESTOCK BEES FISH (ELAP)":
-                "Emergency Assistance for Livestock,Honeybees, and Farm-Raised Fish (ELAP)",
-            "\"EMERGENCY ASSISTANCE LIVESTOCK, HONEYBEE, FISH\"":
-                "Emergency Assistance for Livestock,Honeybees, and Farm-Raised Fish (ELAP)",
+            "ARC-Ind": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+            "ARC-CO": "Agriculture Risk Coverage County Option (ARC-CO)",
+            "PLC": "Price Loss Coverage (PLC)",
+            "DMC": "Dairy Margin Coverage Program (DMC)",
+            "TAP": "Tree Assistance Program (TAP)",
+            "NAP": "Noninsured Crop Disaster Assistance Program (NAP)",
+            "LFP": "Livestock Forage Disaster Program (LFP)",
+            "LIP": "Livestock Indemnity Program (LIP)",
+            "ELAP": "Emergency Assistance for Livestock,Honeybees, and Farm-Raised Fish (ELAP)",
+            "Ad Hoc": "Ad hoc or Supplemental",
+            "MFP": "Market Facilitation Program (MFP)",
+            "CFAP": "Coronavirus Food Assistance Program (CFAP)",
+            "Dairy Indemnity": "Dairy Indemnity Payment Program (DIPP)"
         })
 
         # Rename column names to make it more uniform
         commodities_data.rename(columns={"fiscal_year": "pay_year",
-                                         "accounting_program_description": "program_description",
+                                         "category": "program_description",
                                          "amount": "payments"}, inplace=True)
 
         # Filter only relevant years' data
@@ -123,7 +110,7 @@ class CommoditiesDataParser:
                             "programPaymentInDollars": 0.0
                         },
                         {
-                            "programName": "Dairy Margin Coverage Program (DMC)",
+                            "programName": "Dairy",
                             "subPrograms": [
                             ],
                             "programPaymentInDollars": 0.0
@@ -197,7 +184,7 @@ class CommoditiesDataParser:
                             "programPaymentInDollars": 0.0
                         },
                         {
-                            "programName": "Dairy Margin Coverage Program (DMC)",
+                            "programName": "Dairy",
                             "subPrograms": [
                             ],
                             "programPaymentInDollars": 0.0
@@ -303,7 +290,7 @@ class CommoditiesDataParser:
                             ]
                         },
                         {
-                            "programName": "Dairy Margin Coverage Program (DMC)",
+                            "programName": "Dairy",
                             "programPaymentInDollars": 0.0,
                             "subPrograms": [
                             ]
@@ -389,7 +376,7 @@ class CommoditiesDataParser:
                         ]
                     },
                     {
-                        "programName": "Dairy Margin Coverage Program (DMC)",
+                        "programName": "Dairy",
                         "subPrograms": [
                         ]
                     },
@@ -403,7 +390,7 @@ class CommoditiesDataParser:
             total_for_program = {
                 "Agriculture Risk Coverage (ARC)": 0.0,
                 "Price Loss Coverage (PLC)": 0.0,
-                "Dairy Margin Coverage Program (DMC)": 0.0,
+                "Dairy": 0.0,
                 "Disaster Assistance": 0.0
             }
 
@@ -448,5 +435,5 @@ class CommoditiesDataParser:
 
 
 if __name__ == '__main__':
-    commodities_data_parser = CommoditiesDataParser(2018, 2022, "filtered_commodities_by_program.csv")
+    commodities_data_parser = CommoditiesDataParser(2018, 2022, "title_1_version_1.csv")
     commodities_data_parser.parse_and_process()
