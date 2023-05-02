@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - CSP data import program to update the category names and generate updated JSON files. [#4](https://github.com/policy-design-lab/data-import/issues/4)
+- Title 1 Commodities code and JSON files based on new CSV file. [#9](https://github.com/policy-design-lab/data-import/issues/9)
 
 ### Fixed
 
