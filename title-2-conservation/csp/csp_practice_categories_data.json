@@ -42,6 +42,11 @@
                     "practiceCategoryName": "Bundles",
                     "totalPaymentInDollars": 11125700.0,
                     "totalPaymentInPercentage": 1.3
+                },
+                {
+                    "practiceCategoryName": "Soil testing",
+                    "totalPaymentInDollars": 0.0,
+                    "totalPaymentInPercentage": 0.0
                 }
             ],
             "totalPaymentInDollars": 858650262.0,
