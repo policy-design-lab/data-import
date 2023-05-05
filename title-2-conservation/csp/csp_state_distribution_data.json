@@ -60,7 +60,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 18.86,
+                    "statutePaymentInPercentageNationwide": 7.4
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -102,7 +104,9 @@
                             "paymentInPercentageNationwide": 0.07,
                             "paymentInPercentageWithinState": 0.02
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 81.14,
+                    "statutePaymentInPercentageNationwide": 8.89
                 }
             ],
             "totalPaymentInPercentageNationwide": 8.56,
@@ -170,7 +174,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 18.31,
+                    "statutePaymentInPercentageNationwide": 6.34
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -211,7 +217,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 81.69,
+                    "statutePaymentInPercentageNationwide": 7.9
                 }
             ],
             "totalPaymentInPercentageNationwide": 7.56,
@@ -279,7 +287,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 29.07,
+                    "statutePaymentInPercentageNationwide": 9.93
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -320,7 +330,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 70.93,
+                    "statutePaymentInPercentageNationwide": 6.77
                 }
             ],
             "totalPaymentInPercentageNationwide": 7.46,
@@ -388,7 +400,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 45.74,
+                    "statutePaymentInPercentageNationwide": 15.09
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -429,7 +443,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 54.26,
+                    "statutePaymentInPercentageNationwide": 5.0
                 }
             ],
             "totalPaymentInPercentageNationwide": 7.2,
@@ -487,16 +503,18 @@
                             "paymentInPercentageWithinState": 0.06
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 17.66,
+                    "statutePaymentInPercentageNationwide": 5.63
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -538,7 +556,9 @@
                             "paymentInPercentageNationwide": 0.02,
                             "paymentInPercentageWithinState": 0.01
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 82.34,
+                    "statutePaymentInPercentageNationwide": 7.34
                 }
             ],
             "totalPaymentInPercentageNationwide": 6.97,
@@ -606,7 +626,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 18.06,
+                    "statutePaymentInPercentageNationwide": 4.74
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -648,7 +670,9 @@
                             "paymentInPercentageNationwide": 0.09,
                             "paymentInPercentageWithinState": 0.04
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 81.94,
+                    "statutePaymentInPercentageNationwide": 6.01
                 }
             ],
             "totalPaymentInPercentageNationwide": 5.73,
@@ -716,7 +740,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 27.16,
+                    "statutePaymentInPercentageNationwide": 6.22
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -757,7 +783,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 72.84,
+                    "statutePaymentInPercentageNationwide": 4.66
                 }
             ],
             "totalPaymentInPercentageNationwide": 5.0,
@@ -825,7 +853,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 7.44,
+                    "statutePaymentInPercentageNationwide": 1.59
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -867,7 +897,9 @@
                             "paymentInPercentageNationwide": 0.46,
                             "paymentInPercentageWithinState": 0.24
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 92.56,
+                    "statutePaymentInPercentageNationwide": 5.52
                 }
             ],
             "totalPaymentInPercentageNationwide": 4.66,
@@ -935,7 +967,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 13.53,
+                    "statutePaymentInPercentageNationwide": 2.62
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -976,7 +1010,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 86.47,
+                    "statutePaymentInPercentageNationwide": 4.68
                 }
             ],
             "totalPaymentInPercentageNationwide": 4.23,
@@ -1034,16 +1070,18 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 16.15,
+                    "statutePaymentInPercentageNationwide": 2.87
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1084,7 +1122,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 83.85,
+                    "statutePaymentInPercentageNationwide": 4.17
                 }
             ],
             "totalPaymentInPercentageNationwide": 3.89,
@@ -1152,7 +1192,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 17.1,
+                    "statutePaymentInPercentageNationwide": 2.86
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1194,7 +1236,9 @@
                             "paymentInPercentageNationwide": 0.09,
                             "paymentInPercentageWithinState": 0.02
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 82.9,
+                    "statutePaymentInPercentageNationwide": 3.87
                 }
             ],
             "totalPaymentInPercentageNationwide": 3.65,
@@ -1262,7 +1306,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 16.12,
+                    "statutePaymentInPercentageNationwide": 2.57
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1303,7 +1349,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 83.88,
+                    "statutePaymentInPercentageNationwide": 3.74
                 }
             ],
             "totalPaymentInPercentageNationwide": 3.48,
@@ -1371,7 +1419,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 22.87,
+                    "statutePaymentInPercentageNationwide": 3.37
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1413,7 +1463,9 @@
                             "paymentInPercentageNationwide": 0.02,
                             "paymentInPercentageWithinState": 0.05
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 77.13,
+                    "statutePaymentInPercentageNationwide": 3.18
                 }
             ],
             "totalPaymentInPercentageNationwide": 3.22,
@@ -1471,16 +1523,18 @@
                             "paymentInPercentageWithinState": 0.59
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 21.32,
+                    "statutePaymentInPercentageNationwide": 3.1
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1521,7 +1575,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 78.68,
+                    "statutePaymentInPercentageNationwide": 3.19
                 }
             ],
             "totalPaymentInPercentageNationwide": 3.17,
@@ -1579,16 +1635,18 @@
                             "paymentInPercentageWithinState": 0.55
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 19.2,
+                    "statutePaymentInPercentageNationwide": 2.5
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1630,7 +1688,9 @@
                             "paymentInPercentageNationwide": 0.74,
                             "paymentInPercentageWithinState": 0.71
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 80.8,
+                    "statutePaymentInPercentageNationwide": 2.94
                 }
             ],
             "totalPaymentInPercentageNationwide": 2.84,
@@ -1698,7 +1758,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 18.36,
+                    "statutePaymentInPercentageNationwide": 1.98
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1739,7 +1801,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 81.64,
+                    "statutePaymentInPercentageNationwide": 2.46
                 }
             ],
             "totalPaymentInPercentageNationwide": 2.36,
@@ -1807,7 +1871,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 29.91,
+                    "statutePaymentInPercentageNationwide": 3.18
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1849,7 +1915,9 @@
                             "paymentInPercentageNationwide": 0.43,
                             "paymentInPercentageWithinState": 0.16
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 70.09,
+                    "statutePaymentInPercentageNationwide": 2.08
                 }
             ],
             "totalPaymentInPercentageNationwide": 2.32,
@@ -1917,7 +1985,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 17.16,
+                    "statutePaymentInPercentageNationwide": 1.69
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -1959,7 +2029,9 @@
                             "paymentInPercentageNationwide": 0.09,
                             "paymentInPercentageWithinState": 0.04
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 82.84,
+                    "statutePaymentInPercentageNationwide": 2.28
                 }
             ],
             "totalPaymentInPercentageNationwide": 2.15,
@@ -2027,7 +2099,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 20.17,
+                    "statutePaymentInPercentageNationwide": 1.91
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2069,7 +2143,9 @@
                             "paymentInPercentageNationwide": 0.02,
                             "paymentInPercentageWithinState": 0.01
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 79.83,
+                    "statutePaymentInPercentageNationwide": 2.11
                 }
             ],
             "totalPaymentInPercentageNationwide": 2.07,
@@ -2127,16 +2203,18 @@
                             "paymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 18.97,
+                    "statutePaymentInPercentageNationwide": 1.27
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2178,7 +2256,9 @@
                             "paymentInPercentageNationwide": 0.02,
                             "paymentInPercentageWithinState": 0.02
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 81.03,
+                    "statutePaymentInPercentageNationwide": 1.52
                 }
             ],
             "totalPaymentInPercentageNationwide": 1.47,
@@ -2236,16 +2316,18 @@
                             "paymentInPercentageWithinState": 0.23
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 26.46,
+                    "statutePaymentInPercentageNationwide": 1.42
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2286,7 +2368,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 73.54,
+                    "statutePaymentInPercentageNationwide": 1.11
                 }
             ],
             "totalPaymentInPercentageNationwide": 1.18,
@@ -2354,7 +2438,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 24.67,
+                    "statutePaymentInPercentageNationwide": 0.95
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2395,7 +2481,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 75.33,
+                    "statutePaymentInPercentageNationwide": 0.81
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.84,
@@ -2463,7 +2551,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 30.59,
+                    "statutePaymentInPercentageNationwide": 1.11
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2504,7 +2594,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 69.41,
+                    "statutePaymentInPercentageNationwide": 0.7
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.79,
@@ -2571,7 +2663,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 24.76,
+                    "statutePaymentInPercentageNationwide": 0.88
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2612,7 +2706,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 75.24,
+                    "statutePaymentInPercentageNationwide": 0.75
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.78,
@@ -2670,16 +2766,18 @@
                             "paymentInPercentageWithinState": 0.15
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 32.85,
+                    "statutePaymentInPercentageNationwide": 1.15
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2720,7 +2818,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 67.15,
+                    "statutePaymentInPercentageNationwide": 0.66
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.77,
@@ -2788,7 +2888,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 20.7,
+                    "statutePaymentInPercentageNationwide": 0.71
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2829,7 +2931,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 79.3,
+                    "statutePaymentInPercentageNationwide": 0.76
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.75,
@@ -2897,7 +3001,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 21.25,
+                    "statutePaymentInPercentageNationwide": 0.73
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -2938,7 +3044,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 78.75,
+                    "statutePaymentInPercentageNationwide": 0.75
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.75,
@@ -2996,16 +3104,18 @@
                             "paymentInPercentageWithinState": 0.14
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 28.77,
+                    "statutePaymentInPercentageNationwide": 0.97
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3046,7 +3156,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 71.23,
+                    "statutePaymentInPercentageNationwide": 0.67
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.74,
@@ -3104,16 +3216,18 @@
                             "paymentInPercentageWithinState": 0.24
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 17.82,
+                    "statutePaymentInPercentageNationwide": 0.59
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3154,7 +3268,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 82.18,
+                    "statutePaymentInPercentageNationwide": 0.76
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.73,
@@ -3222,7 +3338,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 16.89,
+                    "statutePaymentInPercentageNationwide": 0.53
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3264,7 +3382,9 @@
                             "paymentInPercentageNationwide": 0.27,
                             "paymentInPercentageWithinState": 0.35
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 83.11,
+                    "statutePaymentInPercentageNationwide": 0.73
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.69,
@@ -3322,16 +3442,18 @@
                             "paymentInPercentageWithinState": 0.07
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 21.8,
+                    "statutePaymentInPercentageNationwide": 0.66
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3373,7 +3495,9 @@
                             "paymentInPercentageNationwide": 0.22,
                             "paymentInPercentageWithinState": 0.3
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 78.2,
+                    "statutePaymentInPercentageNationwide": 0.66
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.66,
@@ -3431,16 +3555,18 @@
                             "paymentInPercentageWithinState": 0.08
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 15.94,
+                    "statutePaymentInPercentageNationwide": 0.41
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3481,7 +3607,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 84.06,
+                    "statutePaymentInPercentageNationwide": 0.61
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.57,
@@ -3539,16 +3667,18 @@
                             "paymentInPercentageWithinState": 0.04
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 10.46,
+                    "statutePaymentInPercentageNationwide": 0.22
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3589,7 +3719,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 89.54,
+                    "statutePaymentInPercentageNationwide": 0.53
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.46,
@@ -3657,7 +3789,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 23.57,
+                    "statutePaymentInPercentageNationwide": 0.47
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3699,7 +3833,9 @@
                             "paymentInPercentageNationwide": 0.24,
                             "paymentInPercentageWithinState": 0.49
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 76.43,
+                    "statutePaymentInPercentageNationwide": 0.43
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.44,
@@ -3757,16 +3893,18 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 43.54,
+                    "statutePaymentInPercentageNationwide": 0.8
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3807,7 +3945,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 56.46,
+                    "statutePaymentInPercentageNationwide": 0.29
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.4,
@@ -3865,16 +4005,18 @@
                             "paymentInPercentageWithinState": 0.13
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 32.04,
+                    "statutePaymentInPercentageNationwide": 0.48
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -3916,7 +4058,9 @@
                             "paymentInPercentageNationwide": 0.0,
                             "paymentInPercentageWithinState": 0.01
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 67.96,
+                    "statutePaymentInPercentageNationwide": 0.29
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.33,
@@ -3974,16 +4118,18 @@
                             "paymentInPercentageWithinState": 0.02
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 17.64,
+                    "statutePaymentInPercentageNationwide": 0.23
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4024,7 +4170,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 82.36,
+                    "statutePaymentInPercentageNationwide": 0.3
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.28,
@@ -4092,7 +4240,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 15.16,
+                    "statutePaymentInPercentageNationwide": 0.14
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4132,7 +4282,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 84.84,
+                    "statutePaymentInPercentageNationwide": 0.22
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.21,
@@ -4190,16 +4342,18 @@
                             "paymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 18.07,
+                    "statutePaymentInPercentageNationwide": 0.12
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4240,7 +4394,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 81.93,
+                    "statutePaymentInPercentageNationwide": 0.16
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.15,
@@ -4308,7 +4464,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 24.15,
+                    "statutePaymentInPercentageNationwide": 0.13
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4349,7 +4507,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 75.85,
+                    "statutePaymentInPercentageNationwide": 0.11
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.11,
@@ -4406,16 +4566,18 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 4.7,
+                    "statutePaymentInPercentageNationwide": 0.01
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4455,7 +4617,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 95.3,
+                    "statutePaymentInPercentageNationwide": 0.08
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.07,
@@ -4513,16 +4677,18 @@
                             "paymentInPercentageWithinState": 0.16
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 19.59,
+                    "statutePaymentInPercentageNationwide": 0.04
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4563,7 +4729,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 80.41,
+                    "statutePaymentInPercentageNationwide": 0.05
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.05,
@@ -4620,16 +4788,18 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 35.14,
+                    "statutePaymentInPercentageNationwide": 0.07
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4670,7 +4840,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 64.86,
+                    "statutePaymentInPercentageNationwide": 0.04
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.05,
@@ -4710,12 +4882,7 @@
                             "paymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Forest management",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
-                            "practiceCategoryName": "Soil remediation",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
@@ -4725,16 +4892,23 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
+                            "practiceCategoryName": "Soil remediation",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Forest management",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Other improvement",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 16.88,
+                    "statutePaymentInPercentageNationwide": 0.03
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4775,7 +4949,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 83.12,
+                    "statutePaymentInPercentageNationwide": 0.05
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.04,
@@ -4827,11 +5003,6 @@
                             "paymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil remediation",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
@@ -4840,8 +5011,15 @@
                             "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Soil remediation",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 33.65,
+                    "statutePaymentInPercentageNationwide": 0.05
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4882,7 +5060,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 66.35,
+                    "statutePaymentInPercentageNationwide": 0.03
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.03,
@@ -4934,11 +5114,6 @@
                             "paymentInPercentageWithinState": 0.03
                         },
                         {
-                            "practiceCategoryName": "Soil remediation",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
@@ -4947,8 +5122,15 @@
                             "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Soil remediation",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 10.6,
+                    "statutePaymentInPercentageNationwide": 0.01
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -4989,7 +5171,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 89.4,
+                    "statutePaymentInPercentageNationwide": 0.03
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.03,
@@ -5040,11 +5224,6 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil remediation",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
@@ -5053,8 +5232,15 @@
                             "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Soil remediation",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 34.2,
+                    "statutePaymentInPercentageNationwide": 0.05
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -5095,7 +5281,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 65.8,
+                    "statutePaymentInPercentageNationwide": 0.03
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.03,
@@ -5152,16 +5340,18 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 21.29,
+                    "statutePaymentInPercentageNationwide": 0.02
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -5202,7 +5392,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 78.71,
+                    "statutePaymentInPercentageNationwide": 0.02
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.02,
@@ -5260,16 +5452,18 @@
                             "paymentInPercentageWithinState": 0.19
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 51.57,
+                    "statutePaymentInPercentageNationwide": 0.05
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -5309,7 +5503,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 48.43,
+                    "statutePaymentInPercentageNationwide": 0.01
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.02,
@@ -5343,12 +5539,12 @@
                             "paymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Structural",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil remediation",
+                            "practiceCategoryName": "Structural",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
@@ -5358,12 +5554,7 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Soil remediation",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
@@ -5371,8 +5562,15 @@
                             "practiceCategoryName": "Land management",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Other improvement",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 28.52,
+                    "statutePaymentInPercentageNationwide": 0.02
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -5402,16 +5600,18 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
+                            "practiceCategoryName": "Pastureland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Pastureland",
+                            "practiceCategoryName": "Rangeland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 71.48,
+                    "statutePaymentInPercentageNationwide": 0.02
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.02,
@@ -5469,16 +5669,18 @@
                             "paymentInPercentageWithinState": 0.04
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 16.27,
+                    "statutePaymentInPercentageNationwide": 0.02
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -5508,16 +5710,18 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
+                            "practiceCategoryName": "Non-industrial private forestland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Non-industrial private forestland",
+                            "practiceCategoryName": "Rangeland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 83.73,
+                    "statutePaymentInPercentageNationwide": 0.03
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.02,
@@ -5569,7 +5773,7 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Structural",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
@@ -5579,11 +5783,13 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Structural",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 29.85,
+                    "statutePaymentInPercentageNationwide": 0.03
                 },
                 {
                     "statuteName": "2014 Eligible Land",
@@ -5623,7 +5829,9 @@
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
-                    ]
+                    ],
+                    "statutePaymentInPercentageWithinState": 70.15,
+                    "statutePaymentInPercentageNationwide": 0.02
                 }
             ],
             "totalPaymentInPercentageNationwide": 0.02,
