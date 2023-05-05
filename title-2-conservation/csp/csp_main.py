@@ -332,7 +332,13 @@ class CSPDataParser:
                             "totalPaymentInDollars": category_payment,
                         }
                         total_for_statute[statute["statuteName"]] += category_payment
-                        statute["practiceCategories"].append(entry_dict)
+                    # Add zero entry when practice category is not existing in the actual data
+                    else:
+                        entry_dict = {
+                            "practiceCategoryName": category_name,
+                            "totalPaymentInDollars": 0.0,
+                        }
+                    statute["practiceCategories"].append(entry_dict)
 
             for statute in statutes_data["statutes"]:
                 for practice_category in statute["practiceCategories"]:
