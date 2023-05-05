@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - This CHANGELOG file.
+- Statute-level percentages to CSP state distribution data JSON. [#12](https://github.com/policy-design-lab/data-import/issues/12)
 
 ### Changed
 
