@@ -7,10 +7,8 @@ from datetime import datetime
 
 
 class EqipDataParser:
-    def __init__(self, start_year, end_year, summary_filepath, all_programs_filepath, csv_filepath):
+    def __init__(self, start_year, end_year, csv_filepath):
 
-        self.summary_filepath = summary_filepath
-        self.all_programs_filepath = all_programs_filepath
         self.start_year = start_year
         self.end_year = end_year
         self.csv_filepath = csv_filepath
@@ -76,23 +74,8 @@ class EqipDataParser:
             'WA': 'Washington',
             'WV': 'West Virginia',
             'WI': 'Wisconsin',
-            'WY': 'Wyoming',
-            'DC': 'District of Columbia',
-            'MP': 'Northern Mariana Islands',
-            'PW': 'Palau',
-            'PR': 'Puerto Rico',
-            'VI': 'Virgin Islands',
-            'AA': 'Armed Forces Americas (Except Canada)',
-            'AE': 'Armed Forces Africa/Canada/Europe/Middle East',
-            'AP': 'Armed Forces Pacific'
+            'WY': 'Wyoming'
         }
-
-        # Load JSON files
-        with open(self.summary_filepath) as summary_file:
-            self.summary_file_dict = json.load(summary_file)
-
-        with open(self.all_programs_filepath) as all_programs_file:
-            self.all_programs__dict = json.load(all_programs_file)
 
     def find_statute_by_category(self, category_name):
         for statute_name in self.practices_category_dict:
@@ -418,62 +401,7 @@ class EqipDataParser:
             with open("eqip_practice_categories_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(statutes_data, indent=4))
 
-        # TODO: Remove the below block soon.
-        # 4. Update summary JSON, all programs JSON and totals
-        # if True:
-        #     # Iterate through summary file dict
-        #     for item in self.summary_file_dict:
-        #         if item["Title"] == "Title II: Conservation":
-        #             state_name = self.us_state_abbreviation[item["State"]]
-        #             eqip_data_for_year_and_state = eqip_data[(eqip_data["State"] == state_name) & (eqip_data["Pay_year"] == item["Fiscal Year"])]
-        #             item["Amount"] = int(eqip_data_for_year_and_state["payments"].sum())
-        #
-        #     # Iterate through all programs file dict
-        #     for item in self.all_programs__dict:
-        #         state_total = 0
-        #         for year in range(self.start_year, self.end_year + 1):
-        #             if "Title II " + str(year) in item:
-        #                 if item["State"] != "Total":
-        #                     state_name = self.us_state_abbreviation[item["State"]]
-        #                     eqip_data_for_year_and_state = eqip_data[
-        #                         (eqip_data["State"] == state_name) & (eqip_data["Pay_year"] == year)]
-        #                     state_amount = eqip_data_for_year_and_state["payments"].sum()
-        #                 else:
-        #                     eqip_data_for_year = eqip_data[eqip_data["Pay_year"] == year]
-        #                     state_amount = eqip_data_for_year["payments"].sum()
-        #                 rounded_state_amount = int(state_amount)
-        #                 item["Title II " + str(year)] = rounded_state_amount
-        #                 state_total += rounded_state_amount
-        #         if "Title II Total" in item:
-        #             item["Title II Total"] = state_total
-        #
-        #     # Programs list
-        #     programs_list = ["Crop Insurance", "SNAP", "Title I", "Title II"]
-        #
-        #     start_year_obj = datetime(self.start_year, 1, 1)
-        #     end_year_obj = datetime(self.end_year, 1, 1)
-        #
-        #     # Update totals
-        #     for item in self.all_programs__dict:
-        #         year_range_all_programs_total = 0
-        #         for year in range(self.start_year, self.end_year + 1):
-        #             year_all_programs_total = 0
-        #             for program in programs_list:
-        #                 year_all_programs_total += item[program + " " + str(year)]
-        #             item[str(year) + " All Programs Total"] = round(year_all_programs_total, 2)
-        #             year_range_all_programs_total += year_all_programs_total
-        #
-        #         key = start_year_obj.strftime("%y") + "-" + end_year_obj.strftime("%y") + " All Programs Total"
-        #         item[key] = round(year_range_all_programs_total, 2)
-
-    def update_json_files(self):
-        with open(self.summary_filepath + ".updated.json", "w") as summary_file_new:
-            json.dump(self.summary_file_dict, summary_file_new, indent=2)
-
-        with open(self.all_programs_filepath + ".updated.json", "w") as all_programs_file_new:
-            json.dump(self.all_programs__dict, all_programs_file_new, indent=2)
 
 if __name__ == '__main__':
-    eqip_data_parser = EqipDataParser(2018, 2022, "summary.json", "allPrograms.json", "eqip-category-update.csv")
+    eqip_data_parser = EqipDataParser(2018, 2022, "eqip-category-update.csv")
     eqip_data_parser.parse_and_process()
-    eqip_data_parser.update_json_files()
