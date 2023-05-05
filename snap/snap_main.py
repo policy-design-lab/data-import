@@ -68,14 +68,7 @@ class SnapDataParser:
             'WV': 'West Virginia',
             'WI': 'Wisconsin',
             'WY': 'Wyoming',
-            'DC': 'District of Columbia',
-            'MP': 'Northern Mariana Islands',
-            'PW': 'Palau',
-            'PR': 'Puerto Rico',
-            'VI': 'Virgin Islands',
-            'AA': 'Armed Forces Americas (Except Canada)',
-            'AE': 'Armed Forces Africa/Canada/Europe/Middle East',
-            'AP': 'Armed Forces Pacific'
+            'DC': 'District of Columbia'
         }
 
         # Load JSON files

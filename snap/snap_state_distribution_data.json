@@ -302,18 +302,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.34
         },
         {
-            "state": "DC",
-            "totalPaymentInDollars": 188433398.0,
-            "totalPaymentInPercentageNationwide": 0.31,
-            "averageMonthlyParticipation": 112282,
-            "averageMonthlyParticipationInPercentageNationwide": 0.28
-        },
-        {
             "state": "AK",
             "totalPaymentInDollars": 187357117.0,
             "totalPaymentInPercentageNationwide": 0.31,
             "averageMonthlyParticipation": 91995,
             "averageMonthlyParticipationInPercentageNationwide": 0.23
+        },
+        {
+            "state": "DC",
+            "totalPaymentInDollars": 188433398.0,
+            "totalPaymentInPercentageNationwide": 0.31,
+            "averageMonthlyParticipation": 112282,
+            "averageMonthlyParticipationInPercentageNationwide": 0.28
         },
         {
             "state": "MT",
@@ -661,18 +661,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.34
         },
         {
-            "state": "DC",
-            "totalPaymentInDollars": 172078913.0,
-            "totalPaymentInPercentageNationwide": 0.31,
-            "averageMonthlyParticipation": 101230,
-            "averageMonthlyParticipationInPercentageNationwide": 0.28
-        },
-        {
             "state": "AK",
             "totalPaymentInDollars": 171091672.0,
             "totalPaymentInPercentageNationwide": 0.31,
             "averageMonthlyParticipation": 78932,
             "averageMonthlyParticipationInPercentageNationwide": 0.22
+        },
+        {
+            "state": "DC",
+            "totalPaymentInDollars": 172078913.0,
+            "totalPaymentInPercentageNationwide": 0.31,
+            "averageMonthlyParticipation": 101230,
+            "averageMonthlyParticipationInPercentageNationwide": 0.28
         },
         {
             "state": "MT",
@@ -810,18 +810,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 2.09
         },
         {
-            "state": "MA",
-            "totalPaymentInDollars": 1472070728.0,
-            "totalPaymentInPercentageNationwide": 1.99,
-            "averageMonthlyParticipation": 821254,
-            "averageMonthlyParticipationInPercentageNationwide": 2.06
-        },
-        {
             "state": "AZ",
             "totalPaymentInDollars": 1469174725.0,
             "totalPaymentInPercentageNationwide": 1.99,
             "averageMonthlyParticipation": 833448,
             "averageMonthlyParticipationInPercentageNationwide": 2.09
+        },
+        {
+            "state": "MA",
+            "totalPaymentInDollars": 1472070728.0,
+            "totalPaymentInPercentageNationwide": 1.99,
+            "averageMonthlyParticipation": 821254,
+            "averageMonthlyParticipationInPercentageNationwide": 2.06
         },
         {
             "state": "AL",
@@ -866,18 +866,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 1.6
         },
         {
-            "state": "WI",
-            "totalPaymentInDollars": 1104399935.0,
-            "totalPaymentInPercentageNationwide": 1.49,
-            "averageMonthlyParticipation": 647376,
-            "averageMonthlyParticipationInPercentageNationwide": 1.63
-        },
-        {
             "state": "SC",
             "totalPaymentInDollars": 1101611441.0,
             "totalPaymentInPercentageNationwide": 1.49,
             "averageMonthlyParticipation": 596161,
             "averageMonthlyParticipationInPercentageNationwide": 1.5
+        },
+        {
+            "state": "WI",
+            "totalPaymentInDollars": 1104399935.0,
+            "totalPaymentInPercentageNationwide": 1.49,
+            "averageMonthlyParticipation": 647376,
+            "averageMonthlyParticipationInPercentageNationwide": 1.63
         },
         {
             "state": "IN",
@@ -978,18 +978,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.5
         },
         {
-            "state": "UT",
-            "totalPaymentInDollars": 279594698.0,
-            "totalPaymentInPercentageNationwide": 0.38,
-            "averageMonthlyParticipation": 164041,
-            "averageMonthlyParticipationInPercentageNationwide": 0.41
-        },
-        {
             "state": "RI",
             "totalPaymentInDollars": 278985653.0,
             "totalPaymentInPercentageNationwide": 0.38,
             "averageMonthlyParticipation": 146183,
             "averageMonthlyParticipationInPercentageNationwide": 0.37
+        },
+        {
+            "state": "UT",
+            "totalPaymentInDollars": 279594698.0,
+            "totalPaymentInPercentageNationwide": 0.38,
+            "averageMonthlyParticipation": 164041,
+            "averageMonthlyParticipationInPercentageNationwide": 0.41
         },
         {
             "state": "ME",
@@ -1048,18 +1048,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.2
         },
         {
-            "state": "VT",
-            "totalPaymentInDollars": 117478730.0,
-            "totalPaymentInPercentageNationwide": 0.16,
-            "averageMonthlyParticipation": 68568,
-            "averageMonthlyParticipationInPercentageNationwide": 0.17
-        },
-        {
             "state": "NH",
             "totalPaymentInDollars": 116852942.0,
             "totalPaymentInPercentageNationwide": 0.16,
             "averageMonthlyParticipation": 72505,
             "averageMonthlyParticipationInPercentageNationwide": 0.18
+        },
+        {
+            "state": "VT",
+            "totalPaymentInDollars": 117478730.0,
+            "totalPaymentInPercentageNationwide": 0.16,
+            "averageMonthlyParticipation": 68568,
+            "averageMonthlyParticipationInPercentageNationwide": 0.17
         },
         {
             "state": "ND",
@@ -1309,18 +1309,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.47
         },
         {
-            "state": "WV",
-            "totalPaymentInDollars": 772297950.0,
-            "totalPaymentInPercentageNationwide": 0.71,
-            "averageMonthlyParticipation": 302444,
-            "averageMonthlyParticipationInPercentageNationwide": 0.73
-        },
-        {
             "state": "AR",
             "totalPaymentInDollars": 765794046.0,
             "totalPaymentInPercentageNationwide": 0.71,
             "averageMonthlyParticipation": 346176,
             "averageMonthlyParticipationInPercentageNationwide": 0.83
+        },
+        {
+            "state": "WV",
+            "totalPaymentInDollars": 772297950.0,
+            "totalPaymentInPercentageNationwide": 0.71,
+            "averageMonthlyParticipation": 302444,
+            "averageMonthlyParticipationInPercentageNationwide": 0.73
         },
         {
             "state": "IA",
@@ -1337,13 +1337,6 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.48
         },
         {
-            "state": "UT",
-            "totalPaymentInDollars": 412957155.0,
-            "totalPaymentInPercentageNationwide": 0.38,
-            "averageMonthlyParticipation": 163010,
-            "averageMonthlyParticipationInPercentageNationwide": 0.39
-        },
-        {
             "state": "ME",
             "totalPaymentInDollars": 409705765.0,
             "totalPaymentInPercentageNationwide": 0.38,
@@ -1351,17 +1344,24 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.38
         },
         {
-            "state": "DC",
-            "totalPaymentInDollars": 381121744.0,
-            "totalPaymentInPercentageNationwide": 0.35,
-            "averageMonthlyParticipation": 140115,
-            "averageMonthlyParticipationInPercentageNationwide": 0.34
+            "state": "UT",
+            "totalPaymentInDollars": 412957155.0,
+            "totalPaymentInPercentageNationwide": 0.38,
+            "averageMonthlyParticipation": 163010,
+            "averageMonthlyParticipationInPercentageNationwide": 0.39
         },
         {
             "state": "RI",
             "totalPaymentInDollars": 378689563.0,
             "totalPaymentInPercentageNationwide": 0.35,
             "averageMonthlyParticipation": 142149,
+            "averageMonthlyParticipationInPercentageNationwide": 0.34
+        },
+        {
+            "state": "DC",
+            "totalPaymentInDollars": 381121744.0,
+            "totalPaymentInPercentageNationwide": 0.35,
+            "averageMonthlyParticipation": 140115,
             "averageMonthlyParticipationInPercentageNationwide": 0.34
         },
         {
@@ -1400,18 +1400,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.23
         },
         {
-            "state": "SD",
-            "totalPaymentInDollars": 177819200.0,
-            "totalPaymentInPercentageNationwide": 0.16,
-            "averageMonthlyParticipation": 74627,
-            "averageMonthlyParticipationInPercentageNationwide": 0.18
-        },
-        {
             "state": "NH",
             "totalPaymentInDollars": 174557213.0,
             "totalPaymentInPercentageNationwide": 0.16,
             "averageMonthlyParticipation": 69116,
             "averageMonthlyParticipationInPercentageNationwide": 0.17
+        },
+        {
+            "state": "SD",
+            "totalPaymentInDollars": 177819200.0,
+            "totalPaymentInPercentageNationwide": 0.16,
+            "averageMonthlyParticipation": 74627,
+            "averageMonthlyParticipationInPercentageNationwide": 0.18
         },
         {
             "state": "VT",
@@ -1752,17 +1752,17 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.3
         },
         {
-            "state": "VT",
-            "totalPaymentInDollars": 205688345.0,
-            "totalPaymentInPercentageNationwide": 0.18,
-            "averageMonthlyParticipation": 69483,
-            "averageMonthlyParticipationInPercentageNationwide": 0.17
-        },
-        {
             "state": "NH",
             "totalPaymentInDollars": 200380711.0,
             "totalPaymentInPercentageNationwide": 0.18,
             "averageMonthlyParticipation": 69343,
+            "averageMonthlyParticipationInPercentageNationwide": 0.17
+        },
+        {
+            "state": "VT",
+            "totalPaymentInDollars": 205688345.0,
+            "totalPaymentInPercentageNationwide": 0.18,
+            "averageMonthlyParticipation": 69483,
             "averageMonthlyParticipationInPercentageNationwide": 0.17
         },
         {
@@ -1880,18 +1880,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 2.14
         },
         {
-            "state": "WA",
-            "totalPaymentInDollars": 8946823851.0,
-            "totalPaymentInPercentageNationwide": 2.17,
-            "averageMonthlyParticipation": 876782,
-            "averageMonthlyParticipationInPercentageNationwide": 2.21
-        },
-        {
             "state": "LA",
             "totalPaymentInDollars": 8939742978.0,
             "totalPaymentInPercentageNationwide": 2.17,
             "averageMonthlyParticipation": 839005,
             "averageMonthlyParticipationInPercentageNationwide": 2.11
+        },
+        {
+            "state": "WA",
+            "totalPaymentInDollars": 8946823851.0,
+            "totalPaymentInPercentageNationwide": 2.17,
+            "averageMonthlyParticipation": 876782,
+            "averageMonthlyParticipationInPercentageNationwide": 2.21
         },
         {
             "state": "NJ",
@@ -1985,18 +1985,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 1.41
         },
         {
-            "state": "NM",
-            "totalPaymentInDollars": 5001819748.0,
-            "totalPaymentInPercentageNationwide": 1.21,
-            "averageMonthlyParticipation": 475890,
-            "averageMonthlyParticipationInPercentageNationwide": 1.2
-        },
-        {
             "state": "CO",
             "totalPaymentInDollars": 4999286083.0,
             "totalPaymentInPercentageNationwide": 1.21,
             "averageMonthlyParticipation": 480492,
             "averageMonthlyParticipationInPercentageNationwide": 1.21
+        },
+        {
+            "state": "NM",
+            "totalPaymentInDollars": 5001819748.0,
+            "totalPaymentInPercentageNationwide": 1.21,
+            "averageMonthlyParticipation": 475890,
+            "averageMonthlyParticipationInPercentageNationwide": 1.2
         },
         {
             "state": "NV",
@@ -2055,18 +2055,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.5
         },
         {
-            "state": "UT",
-            "totalPaymentInDollars": 1612580391.0,
-            "totalPaymentInPercentageNationwide": 0.39,
-            "averageMonthlyParticipation": 166653,
-            "averageMonthlyParticipationInPercentageNationwide": 0.42
-        },
-        {
             "state": "RI",
             "totalPaymentInDollars": 1586004008.0,
             "totalPaymentInPercentageNationwide": 0.39,
             "averageMonthlyParticipation": 145582,
             "averageMonthlyParticipationInPercentageNationwide": 0.37
+        },
+        {
+            "state": "UT",
+            "totalPaymentInDollars": 1612580391.0,
+            "totalPaymentInPercentageNationwide": 0.39,
+            "averageMonthlyParticipation": 166653,
+            "averageMonthlyParticipationInPercentageNationwide": 0.42
         },
         {
             "state": "ME",
@@ -2090,18 +2090,18 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.4
         },
         {
-            "state": "DE",
-            "totalPaymentInDollars": 1201645038.0,
-            "totalPaymentInPercentageNationwide": 0.29,
-            "averageMonthlyParticipation": 122965,
-            "averageMonthlyParticipationInPercentageNationwide": 0.31
-        },
-        {
             "state": "AK",
             "totalPaymentInDollars": 1193510939.0,
             "totalPaymentInPercentageNationwide": 0.29,
             "averageMonthlyParticipation": 85826,
             "averageMonthlyParticipationInPercentageNationwide": 0.22
+        },
+        {
+            "state": "DE",
+            "totalPaymentInDollars": 1201645038.0,
+            "totalPaymentInPercentageNationwide": 0.29,
+            "averageMonthlyParticipation": 122965,
+            "averageMonthlyParticipationInPercentageNationwide": 0.31
         },
         {
             "state": "ID",
@@ -2118,6 +2118,13 @@
             "averageMonthlyParticipationInPercentageNationwide": 0.25
         },
         {
+            "state": "NH",
+            "totalPaymentInDollars": 686149885.0,
+            "totalPaymentInPercentageNationwide": 0.17,
+            "averageMonthlyParticipation": 73575,
+            "averageMonthlyParticipationInPercentageNationwide": 0.19
+        },
+        {
             "state": "SD",
             "totalPaymentInDollars": 717999053.0,
             "totalPaymentInPercentageNationwide": 0.17,
@@ -2130,13 +2137,6 @@
             "totalPaymentInPercentageNationwide": 0.17,
             "averageMonthlyParticipation": 69435,
             "averageMonthlyParticipationInPercentageNationwide": 0.17
-        },
-        {
-            "state": "NH",
-            "totalPaymentInDollars": 686149885.0,
-            "totalPaymentInPercentageNationwide": 0.17,
-            "averageMonthlyParticipation": 73575,
-            "averageMonthlyParticipationInPercentageNationwide": 0.19
         },
         {
             "state": "ND",
