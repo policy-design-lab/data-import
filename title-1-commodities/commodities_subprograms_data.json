@@ -15,13 +15,13 @@
         }
       ],
       "totalPaymentInDollars": 6995057909.93,
-      "totalPaymentInPercentage": 8.19
+      "totalPaymentInPercentage": 26.91
     },
     {
       "programName": "Price Loss Coverage (PLC)",
       "subPrograms": [],
       "totalPaymentInDollars": 14298018247.47,
-      "totalPaymentInPercentage": 16.74
+      "totalPaymentInPercentage": 55.0
     },
     {
       "programName": "Dairy",
@@ -38,7 +38,7 @@
         }
       ],
       "totalPaymentInDollars": 1898226898.64,
-      "totalPaymentInPercentage": 2.22
+      "totalPaymentInPercentage": 7.3
     },
     {
       "programName": "Disaster Assistance",
@@ -70,7 +70,7 @@
         }
       ],
       "totalPaymentInDollars": 2804593991.26,
-      "totalPaymentInPercentage": 3.28
+      "totalPaymentInPercentage": 10.79
     }
   ]
 }
