@@ -14,7 +14,7 @@ class CommoditiesDataParser:
             "Agriculture Risk Coverage (ARC)": ["Agriculture Risk Coverage County Option (ARC-CO)",
                                                 "Agriculture Risk Coverage Individual Coverage (ARC-IC)"],
             "Price Loss Coverage (PLC)": [],
-            "Dairy Margin Coverage Program (DMC)": [],
+            "Dairy": ["Dairy Margin Coverage Program (DMC)", "Dairy Indemnity Payment Program (DIPP)"],
             "Disaster Assistance": ["Tree Assistance Program (TAP)",
                                     "Noninsured Crop Disaster Assistance Program (NAP)",
                                     "Livestock Forage Disaster Program (LFP)", "Livestock Indemnity Program (LIP)",
@@ -24,6 +24,58 @@ class CommoditiesDataParser:
         self.processed_data_dict = dict()
         self.state_distribution_data_dict = dict()
         self.programs_data_dict = dict()
+        self.us_state_abbreviation = {
+            'AL': 'Alabama',
+            'AK': 'Alaska',
+            'AZ': 'Arizona',
+            'AR': 'Arkansas',
+            'CA': 'California',
+            'CO': 'Colorado',
+            'CT': 'Connecticut',
+            'DE': 'Delaware',
+            'FL': 'Florida',
+            'GA': 'Georgia',
+            'HI': 'Hawaii',
+            'ID': 'Idaho',
+            'IL': 'Illinois',
+            'IN': 'Indiana',
+            'IA': 'Iowa',
+            'KS': 'Kansas',
+            'KY': 'Kentucky',
+            'LA': 'Louisiana',
+            'ME': 'Maine',
+            'MD': 'Maryland',
+            'MA': 'Massachusetts',
+            'MI': 'Michigan',
+            'MN': 'Minnesota',
+            'MS': 'Mississippi',
+            'MO': 'Missouri',
+            'MT': 'Montana',
+            'NE': 'Nebraska',
+            'NV': 'Nevada',
+            'NH': 'New Hampshire',
+            'NJ': 'New Jersey',
+            'NM': 'New Mexico',
+            'NY': 'New York',
+            'NC': 'North Carolina',
+            'ND': 'North Dakota',
+            'OH': 'Ohio',
+            'OK': 'Oklahoma',
+            'OR': 'Oregon',
+            'PA': 'Pennsylvania',
+            'RI': 'Rhode Island',
+            'SC': 'South Carolina',
+            'SD': 'South Dakota',
+            'TN': 'Tennessee',
+            'TX': 'Texas',
+            'UT': 'Utah',
+            'VT': 'Vermont',
+            'VA': 'Virginia',
+            'WA': 'Washington',
+            'WV': 'West Virginia',
+            'WI': 'Wisconsin',
+            'WY': 'Wyoming'
+        }
 
     def find_program_by_subprogram(self, program_description):
         for program_name in self.programs_subprograms_mapping:
@@ -32,9 +84,9 @@ class CommoditiesDataParser:
             if program_description in self.programs_subprograms_mapping[program_name]:
                 return program_name
 
-    def find_and_get_zero_subprogram_entries(self, program_name, practice_categories_list,
+    def find_and_get_zero_subprogram_entries(self, program_name, subprograms_list,
                                              for_percentage_json=False):
-        diff_list = list(set(self.programs_subprograms_mapping[program_name]) - set(practice_categories_list))
+        diff_list = list(set(self.programs_subprograms_mapping[program_name]) - set(subprograms_list))
         zero_subprogram_entries = []
         for entry in diff_list:
             if not for_percentage_json:
@@ -54,42 +106,36 @@ class CommoditiesDataParser:
         # Import CSV file into a Pandas DataFrame
         commodities_data = pd.read_csv(self.csv_filepath)
         commodities_data = commodities_data.replace({
-            "AGRICULTURAL RISK COVERAGE - INDIVIDUAL": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-            "AGRICULTURAL RISK COVERAGE PROG - COUNTY": "Agriculture Risk Coverage County Option (ARC-CO)",
-            "AGRICULTURAL RISK COVERAGE -COUNTY PILOT": "Agriculture Risk Coverage County Option (ARC-CO)",
-
-            "PRICE LOSS COVERAGE PROGRAM": "Price Loss Coverage (PLC)",
-
-            "DAIRY MARGIN COVERAGE PROGRAM": "Dairy Margin Coverage Program (DMC)",
-            "DAIRY MARGIN COVERAGE": "Dairy Margin Coverage Program (DMC)",
-            "MARGIN PROTECTION PROGRAM - DAIRY": "Dairy Margin Coverage Program (DMC)",
-            "MARGIN PROTECTION  - DAIRY": "Dairy Margin Coverage Program (DMC)",
-
-            "TREE ASSISTANCE PROGRAM": "Tree Assistance Program (TAP)",
-            "TREE ASSISTANCE PROGRAM - PECAN": "Tree Assistance Program (TAP)",
-
-            "LIVESTOCK FORAGE DISASTER  PROGRAM": "Livestock Forage Disaster Program (LFP)",
-            "LIVESTOCK FORAGE DISASTER PROGRAM": "Livestock Forage Disaster Program (LFP)",
-            "LIVESTOCK FORAGE PROGRAM": "Livestock Forage Disaster Program (LFP)",
-
-            "LIVESTOCK INDEMNITY PROGRAM": "Livestock Indemnity Program (LIP)",
-
-            "EMERGENCY ASSISTANCE LIVESTOCK, HONEYBEE, FISH":
-                "Emergency Assistance for Livestock,Honeybees, and Farm-Raised Fish (ELAP)",
-            "EMERG ASSIST LIVESTOCK BEES FISH (ELAP)":
-                "Emergency Assistance for Livestock,Honeybees, and Farm-Raised Fish (ELAP)",
-            "\"EMERGENCY ASSISTANCE LIVESTOCK, HONEYBEE, FISH\"":
-                "Emergency Assistance for Livestock,Honeybees, and Farm-Raised Fish (ELAP)",
+            "ARC-Ind": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+            "ARC-CO": "Agriculture Risk Coverage County Option (ARC-CO)",
+            "PLC": "Price Loss Coverage (PLC)",
+            "DMC": "Dairy Margin Coverage Program (DMC)",
+            "TAP": "Tree Assistance Program (TAP)",
+            "NAP": "Noninsured Crop Disaster Assistance Program (NAP)",
+            "LFP": "Livestock Forage Disaster Program (LFP)",
+            "LIP": "Livestock Indemnity Program (LIP)",
+            "ELAP": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+            "Ad Hoc": "Ad hoc or Supplemental",
+            "MFP": "Market Facilitation Program (MFP)",
+            "CFAP": "Coronavirus Food Assistance Program (CFAP)",
+            "Dairy Indemnity": "Dairy Indemnity Payment Program (DIPP)"
         })
 
         # Rename column names to make it more uniform
         commodities_data.rename(columns={"fiscal_year": "pay_year",
-                                         "accounting_program_description": "program_description",
+                                         "category": "program_description",
                                          "amount": "payments"}, inplace=True)
 
         # Filter only relevant years' data
         commodities_data = commodities_data[commodities_data["pay_year"].between(self.start_year, self.end_year,
                                                                                  inclusive="both")]
+
+        # Exclude programs that are not included at present
+        commodities_data = commodities_data[
+            (commodities_data["program_description"] != "Ad hoc or Supplemental") &
+            (commodities_data["program_description"] != "Market Facilitation Program (MFP)") &
+            (commodities_data["program_description"] != "Coronavirus Food Assistance Program (CFAP)")
+            ]
 
         # Group data by state, program description, and payment
         payments_by_program_by_state_for_year = \
@@ -123,7 +169,7 @@ class CommoditiesDataParser:
                             "programPaymentInDollars": 0.0
                         },
                         {
-                            "programName": "Dairy Margin Coverage Program (DMC)",
+                            "programName": "Dairy",
                             "subPrograms": [
                             ],
                             "programPaymentInDollars": 0.0
@@ -197,7 +243,7 @@ class CommoditiesDataParser:
                             "programPaymentInDollars": 0.0
                         },
                         {
-                            "programName": "Dairy Margin Coverage Program (DMC)",
+                            "programName": "Dairy",
                             "subPrograms": [
                             ],
                             "programPaymentInDollars": 0.0
@@ -283,12 +329,14 @@ class CommoditiesDataParser:
             total_payments_by_program_at_national_level = round(
                 commodities_data[["program_description", "payments"]].groupby(["program_description"]).sum(), 2)
 
-            # Iterate through all tuples
-            for state_name, payment in total_payments_by_state.items():
-                yearly_state_payment = round(payment, 2)
+            self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            for state in self.us_state_abbreviation:
+                state_name = self.us_state_abbreviation[state]
+                yearly_state_payment = total_payments_by_state[state_name]
 
                 new_data_entry = {
-                    "years": str(self.start_year) + "-" + str(self.end_year),
+                    "state": state,
                     "programs": [
                         {
                             "programName": "Agriculture Risk Coverage (ARC)",
@@ -303,7 +351,7 @@ class CommoditiesDataParser:
                             ]
                         },
                         {
-                            "programName": "Dairy Margin Coverage Program (DMC)",
+                            "programName": "Dairy",
                             "programPaymentInDollars": 0.0,
                             "subPrograms": [
                             ]
@@ -317,35 +365,35 @@ class CommoditiesDataParser:
                     ],
                     "totalPaymentInPercentageNationwide": round(
                         (yearly_state_payment / total_payments_at_national_level) * 100, 2),
-                    "totalPaymentInDollars": yearly_state_payment
+                    "totalPaymentInDollars": round(yearly_state_payment, 2)
                 }
 
-                for data_tuple, program_payment in total_payments_by_program_by_state.items():
-                    data_tuple_state_name, program_description = data_tuple
+                program_payments_series = total_payments_by_program_by_state[state_name]
 
-                    if data_tuple_state_name == state_name:
-                        program_payment = round(program_payment, 2)
-                        program_percentage_nationwide = round(
-                            (program_payment / total_payments_by_program_at_national_level["payments"][
-                                program_description]) * 100, 2)
-                        program_percentage_within_state = round(
-                            (program_payment / total_payments_by_state[data_tuple_state_name]) * 100, 2)
-                        program_subprogram_name = self.find_program_by_subprogram(program_description)
+                for program_description, program_payment in program_payments_series.items():
+                    program_subprogram_name = self.find_program_by_subprogram(program_description)
+                    rounded_program_payment = round(program_payment, 2)
+                    program_percentage_nationwide = round(
+                        (rounded_program_payment / total_payments_by_program_at_national_level["payments"][
+                            program_description]) * 100, 2)
+                    program_percentage_within_state = round(
+                        (rounded_program_payment / total_payments_by_state[state_name]) * 100, 2)
 
-                        for program in new_data_entry["programs"]:
-                            if program["programName"] == program_subprogram_name:
-                                if len(self.programs_subprograms_mapping[program_subprogram_name]) == 0:
-                                    pass
-                                else:
-                                    program["subPrograms"].append({
-                                        "subProgramName": program_description,
-                                        "paymentInDollars": program_payment,
-                                        "paymentInPercentageNationwide": program_percentage_nationwide,
-                                        "paymentInPercentageWithinState": program_percentage_within_state
-                                    })
-                                program["programPaymentInDollars"] += program_payment
+                    for program in new_data_entry["programs"]:
+                        if program["programName"] == program_subprogram_name:
+                            if len(self.programs_subprograms_mapping[program_subprogram_name]) == 0:
+                                pass
+                            else:
+                                program["subPrograms"].append({
+                                    "subProgramName": program_description,
+                                    "paymentInDollars": rounded_program_payment,
+                                    "paymentInPercentageNationwide": program_percentage_nationwide,
+                                    "paymentInPercentageWithinState": program_percentage_within_state
+                                })
+                            program["programPaymentInDollars"] += rounded_program_payment
 
-                self.state_distribution_data_dict[state_name] = [new_data_entry]
+                self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
+                    new_data_entry)
 
             # Add zero entries
             for state_name in self.state_distribution_data_dict:
@@ -365,10 +413,11 @@ class CommoditiesDataParser:
                         program["subPrograms"].sort(reverse=True,
                                                     key=lambda x: x["paymentInPercentageWithinState"])
 
-            # Sort states by decreasing order of percentages
-            self.state_distribution_data_dict = dict(sorted(self.state_distribution_data_dict.items(),
-                                                            key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
-                                                            reverse=True))
+            # Sort states by decreasing order of totalPaymentInPercentageNationwide
+            for year in self.state_distribution_data_dict:
+                self.state_distribution_data_dict[year] = sorted(self.state_distribution_data_dict[year],
+                                                                 key=lambda x: x["totalPaymentInPercentageNationwide"],
+                                                                 reverse=True)
 
             # Write processed_data_dict as JSON data
             with open("commodities_state_distribution_data.json", "w") as output_json_file:
@@ -389,7 +438,7 @@ class CommoditiesDataParser:
                         ]
                     },
                     {
-                        "programName": "Dairy Margin Coverage Program (DMC)",
+                        "programName": "Dairy",
                         "subPrograms": [
                         ]
                     },
@@ -403,7 +452,7 @@ class CommoditiesDataParser:
             total_for_program = {
                 "Agriculture Risk Coverage (ARC)": 0.0,
                 "Price Loss Coverage (PLC)": 0.0,
-                "Dairy Margin Coverage Program (DMC)": 0.0,
+                "Dairy": 0.0,
                 "Disaster Assistance": 0.0
             }
 
@@ -448,5 +497,5 @@ class CommoditiesDataParser:
 
 
 if __name__ == '__main__':
-    commodities_data_parser = CommoditiesDataParser(2018, 2022, "filtered_commodities_by_program.csv")
+    commodities_data_parser = CommoditiesDataParser(2018, 2022, "title_1_version_1.csv")
     commodities_data_parser.parse_and_process()
