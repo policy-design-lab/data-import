@@ -162,6 +162,10 @@ class CommoditiesDataParser:
                                         "Program": "program_description",
                                         "Enrolled Base": "base_acres"}, inplace=True)
 
+        # Filter only relevant years' data
+        base_acres_data = base_acres_data[base_acres_data["year"].between(self.start_year, self.end_year,
+                                                                          inclusive="both")]
+
         # Group data by state, program description, and payment
         base_acres_by_program_by_state_for_year = \
             base_acres_data[
