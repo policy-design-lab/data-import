@@ -93,13 +93,15 @@ class CommoditiesDataParser:
             if not for_percentage_json:
                 zero_subprogram_entries.append({
                     "subProgramName": entry,
-                    "paymentInDollars": 0
+                    "paymentInDollars": 0.0,
+                    "areaInAcres": 0.0
                 })
             else:
                 zero_subprogram_entries.append({
                     "subProgramName": entry,
                     "paymentInDollars": 0.0,
-                    "paymentInPercentageWithinState": 0.00
+                    "paymentInPercentageWithinState": 0.00,
+                    "areaInAcres": 0.0
                 })
         return zero_subprogram_entries
 
