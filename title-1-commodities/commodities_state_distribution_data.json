@@ -6,7 +6,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 219097560.93,
-          "programAreaInAcres": 98165739.74,
+          "areaInAcres": 98165739.74,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -27,13 +27,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 2314114065.27,
-          "programAreaInAcres": 405172491.65,
+          "areaInAcres": 405172491.65,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 42238890.69,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -54,7 +54,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 370252263.97,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -103,7 +103,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 133816947.94,
-          "programAreaInAcres": 20719350.26,
+          "areaInAcres": 20719350.26,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -124,13 +124,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1514569127.39,
-          "programAreaInAcres": 350324731.97,
+          "areaInAcres": 350324731.97,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 2455965.49,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -149,7 +149,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 58047794.81,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -198,7 +198,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 529223081.78,
-          "programAreaInAcres": 151366992.49,
+          "areaInAcres": 151366992.49,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -219,13 +219,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1044395120.15,
-          "programAreaInAcres": 151260399.96,
+          "areaInAcres": 151260399.96,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 14999801.69,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -246,7 +246,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 86449478.16,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -293,7 +293,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 468257132.35,
-          "programAreaInAcres": 56645267.54,
+          "areaInAcres": 56645267.54,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -314,13 +314,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1006822398.0,
-          "programAreaInAcres": 175287642.63,
+          "areaInAcres": 175287642.63,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 4372977.91,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -339,7 +339,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 144085840.05,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -386,7 +386,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 676476794.45,
-          "programAreaInAcres": 34151775.16,
+          "areaInAcres": 34151775.16,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -407,13 +407,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 416578483.27,
-          "programAreaInAcres": 70764082.2,
+          "areaInAcres": 70764082.2,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 11346345.3,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -432,7 +432,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 65093766.34,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -481,7 +481,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 64174057.29,
-          "programAreaInAcres": 16487980.46,
+          "areaInAcres": 16487980.46,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -502,13 +502,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1026619592.47,
-          "programAreaInAcres": 179165718.68,
+          "areaInAcres": 179165718.68,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 13412075.41,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -529,7 +529,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 43088858.19,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -578,7 +578,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 564980323.67,
-          "programAreaInAcres": 68868236.43,
+          "areaInAcres": 68868236.43,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -599,13 +599,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 278549895.49,
-          "programAreaInAcres": 44103486.75,
+          "areaInAcres": 44103486.75,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 15902865.32,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -624,7 +624,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 242973088.65,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -671,7 +671,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 77920244.84,
-          "programAreaInAcres": 13786544.72,
+          "areaInAcres": 13786544.72,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -692,13 +692,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 692270057.09,
-          "programAreaInAcres": 99651286.72,
+          "areaInAcres": 99651286.72,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 6227327.83,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -717,7 +717,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 188577291.37,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -764,7 +764,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 514637801.34,
-          "programAreaInAcres": 91475144.13,
+          "areaInAcres": 91475144.13,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -785,13 +785,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 232414436.2,
-          "programAreaInAcres": 31984105.8,
+          "areaInAcres": 31984105.8,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 175809807.29,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -810,7 +810,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 21018401.2,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -859,7 +859,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 612039803.0,
-          "programAreaInAcres": 42956744.62,
+          "areaInAcres": 42956744.62,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -880,13 +880,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 269393803.56,
-          "programAreaInAcres": 50611030.21,
+          "areaInAcres": 50611030.21,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 37764226.41,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -905,7 +905,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 1337990.94,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -954,7 +954,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 207042728.68,
-          "programAreaInAcres": 79369339.28,
+          "areaInAcres": 79369339.28,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -975,13 +975,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 574744399.12,
-          "programAreaInAcres": 107952847.42,
+          "areaInAcres": 107952847.42,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 25534972.06,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1000,7 +1000,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 113848119.28,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1049,7 +1049,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 120240243.36,
-          "programAreaInAcres": 56603727.42,
+          "areaInAcres": 56603727.42,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1070,13 +1070,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 535881513.87,
-          "programAreaInAcres": 68515332.47,
+          "areaInAcres": 68515332.47,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 7770704.29,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1097,7 +1097,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 243496014.1,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1146,7 +1146,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 353197937.98,
-          "programAreaInAcres": 87024550.98,
+          "areaInAcres": 87024550.98,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1167,13 +1167,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 270943059.59,
-          "programAreaInAcres": 42371364.33,
+          "areaInAcres": 42371364.33,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 76294828.95,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1192,7 +1192,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 34798202.29,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1241,7 +1241,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 88299642.66,
-          "programAreaInAcres": 11147738.03,
+          "areaInAcres": 11147738.03,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1262,13 +1262,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 591317769.37,
-          "programAreaInAcres": 134560003.99,
+          "areaInAcres": 134560003.99,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 5739999.43,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1287,7 +1287,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 12997606.9,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -1336,7 +1336,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 93681650.19,
-          "programAreaInAcres": 9457909.69,
+          "areaInAcres": 9457909.69,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1357,13 +1357,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 522220823.43,
-          "programAreaInAcres": 115162675.55,
+          "areaInAcres": 115162675.55,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 3669574.36,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1382,7 +1382,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 10557060.11,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1431,7 +1431,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 431536006.76,
-          "programAreaInAcres": 20409940.37,
+          "areaInAcres": 20409940.37,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1452,13 +1452,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 102479456.13,
-          "programAreaInAcres": 15785797.54,
+          "areaInAcres": 15785797.54,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 73639973.02,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1477,7 +1477,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 12894472.44,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1526,7 +1526,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 92304365.44,
-          "programAreaInAcres": 11494467.97,
+          "areaInAcres": 11494467.97,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1547,13 +1547,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 69457119.71,
-          "programAreaInAcres": 14093462.26,
+          "areaInAcres": 14093462.26,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 437037560.11,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1572,7 +1572,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 14575897.46,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1621,7 +1621,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 459757463.95,
-          "programAreaInAcres": 24141924.52,
+          "areaInAcres": 24141924.52,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1642,13 +1642,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 117934591.03,
-          "programAreaInAcres": 23462619.21,
+          "areaInAcres": 23462619.21,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 25870882.14,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1667,7 +1667,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 3305538.36,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1714,7 +1714,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 85651245.83,
-          "programAreaInAcres": 21407520.89,
+          "areaInAcres": 21407520.89,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1735,13 +1735,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 323024957.62,
-          "programAreaInAcres": 44011919.73,
+          "areaInAcres": 44011919.73,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 14453054.05,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1760,7 +1760,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 137044676.29,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1809,7 +1809,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 45242643.85,
-          "programAreaInAcres": 3500513.06,
+          "areaInAcres": 3500513.06,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1830,13 +1830,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 216474791.08,
-          "programAreaInAcres": 25472501.15,
+          "areaInAcres": 25472501.15,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 164809732.88,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1855,7 +1855,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 103456343.07,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1904,7 +1904,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 138676724.67,
-          "programAreaInAcres": 34899328.94,
+          "areaInAcres": 34899328.94,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1925,13 +1925,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 260612211.47,
-          "programAreaInAcres": 47095839.75,
+          "areaInAcres": 47095839.75,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 12262937.27,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1950,7 +1950,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 35664145.85,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1999,7 +1999,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 267612140.46,
-          "programAreaInAcres": 19985892.88,
+          "areaInAcres": 19985892.88,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2020,13 +2020,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 72159761.49,
-          "programAreaInAcres": 11173510.89,
+          "areaInAcres": 11173510.89,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 88424921.02,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2045,7 +2045,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 11712282.72,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2092,7 +2092,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 49181536.45,
-          "programAreaInAcres": 2776045.85,
+          "areaInAcres": 2776045.85,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2113,13 +2113,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 317303059.73,
-          "programAreaInAcres": 42059950.82,
+          "areaInAcres": 42059950.82,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 38187649.21,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2138,7 +2138,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 23543195.11,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2187,7 +2187,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 116336860.66,
-          "programAreaInAcres": 4686291.98,
+          "areaInAcres": 4686291.98,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2208,13 +2208,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 231033436.4,
-          "programAreaInAcres": 16045750.89,
+          "areaInAcres": 16045750.89,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 36311710.69,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2233,7 +2233,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 23886077.5,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2282,7 +2282,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 29438122.97,
-          "programAreaInAcres": 2111456.98,
+          "areaInAcres": 2111456.98,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2301,13 +2301,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 307281424.37,
-          "programAreaInAcres": 58362889.980000004,
+          "areaInAcres": 58362889.980000004,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 1282947.36,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2326,7 +2326,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 62571774.49,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2375,7 +2375,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 11773081.26,
-          "programAreaInAcres": 850373.38,
+          "areaInAcres": 850373.38,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2396,13 +2396,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 92584760.0,
-          "programAreaInAcres": 17160373.28,
+          "areaInAcres": 17160373.28,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 14897213.69,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2423,7 +2423,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 178260535.78,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2472,7 +2472,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 3691607.26,
-          "programAreaInAcres": 501387.51,
+          "areaInAcres": 501387.51,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2491,13 +2491,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 138455078.73,
-          "programAreaInAcres": 22387516.45,
+          "areaInAcres": 22387516.45,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 7714602.97,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2516,7 +2516,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 106476787.1,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2565,7 +2565,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 56142171.32,
-          "programAreaInAcres": 2349109.6,
+          "areaInAcres": 2349109.6,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2586,13 +2586,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 16480047.11,
-          "programAreaInAcres": 3469722.47,
+          "areaInAcres": 3469722.47,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 168641253.73,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2611,7 +2611,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 12902402.98,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2660,7 +2660,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 41948335.61,
-          "programAreaInAcres": 2498793.41,
+          "areaInAcres": 2498793.41,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2681,13 +2681,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 87716184.79,
-          "programAreaInAcres": 7539937.69,
+          "areaInAcres": 7539937.69,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 20394770.46,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2706,7 +2706,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 88624176.41,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2755,7 +2755,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 87968476.89,
-          "programAreaInAcres": 12151659.02,
+          "areaInAcres": 12151659.02,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2776,13 +2776,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 131032571.13,
-          "programAreaInAcres": 24847352.93,
+          "areaInAcres": 24847352.93,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 12411513.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2801,7 +2801,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 7138126.99,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2850,7 +2850,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 53816422.43,
-          "programAreaInAcres": 9925475.67,
+          "areaInAcres": 9925475.67,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2871,13 +2871,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 12935709.65,
-          "programAreaInAcres": 2709720.02,
+          "areaInAcres": 2709720.02,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 139731406.07,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2896,7 +2896,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 4819951.8,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2945,7 +2945,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 122450643.31,
-          "programAreaInAcres": 13350056.26,
+          "areaInAcres": 13350056.26,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -2966,13 +2966,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 60735514.56,
-          "programAreaInAcres": 8071640.31,
+          "areaInAcres": 8071640.31,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 17921242.26,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2991,7 +2991,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 6660891.79,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3040,7 +3040,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 50716269.83,
-          "programAreaInAcres": 5636838.12,
+          "areaInAcres": 5636838.12,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3061,13 +3061,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 101686691.92,
-          "programAreaInAcres": 17734856.31,
+          "areaInAcres": 17734856.31,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 29941352.29,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3086,7 +3086,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 14663928.59,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3135,7 +3135,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 35415752.34,
-          "programAreaInAcres": 5687409.95,
+          "areaInAcres": 5687409.95,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3154,13 +3154,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 130954693.96,
-          "programAreaInAcres": 22409323.25,
+          "areaInAcres": 22409323.25,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 4051176.51,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3179,7 +3179,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 15684465.59,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3228,7 +3228,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 234501.0,
-          "programAreaInAcres": 14042.42,
+          "areaInAcres": 14042.42,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3249,13 +3249,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 111551561.08,
-          "programAreaInAcres": 18817792.33,
+          "areaInAcres": 18817792.33,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 8708397.34,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3274,7 +3274,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 43221838.22,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3321,7 +3321,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 3822819.0,
-          "programAreaInAcres": 119615.8,
+          "areaInAcres": 119615.8,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3340,13 +3340,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 32293527.98,
-          "programAreaInAcres": 4740377.7,
+          "areaInAcres": 4740377.7,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 18206233.02,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3365,7 +3365,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 89365514.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3412,7 +3412,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 4744146.63,
-          "programAreaInAcres": 233314.19,
+          "areaInAcres": 233314.19,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3433,13 +3433,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 32331602.19,
-          "programAreaInAcres": 5409514.93,
+          "areaInAcres": 5409514.93,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 745628.78,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3458,7 +3458,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 91429576.04,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3505,7 +3505,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 45800893.53,
-          "programAreaInAcres": 10736404.89,
+          "areaInAcres": 10736404.89,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3526,13 +3526,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 22506256.68,
-          "programAreaInAcres": 3308380.87,
+          "areaInAcres": 3308380.87,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 18720612.26,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3551,7 +3551,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 559195.35,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3596,7 +3596,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 2133231.78,
-          "programAreaInAcres": 25824.92,
+          "areaInAcres": 25824.92,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3617,13 +3617,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1148055.0,
-          "programAreaInAcres": 334545.54000000004,
+          "areaInAcres": 334545.54000000004,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 42255617.46,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3642,7 +3642,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 843454.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -3687,7 +3687,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 405185.0,
-          "programAreaInAcres": 52475.25,
+          "areaInAcres": 52475.25,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3706,13 +3706,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 3562673.0,
-          "programAreaInAcres": 509094.48,
+          "areaInAcres": 509094.48,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 3546453.04,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3731,7 +3731,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 28695926.3,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3778,7 +3778,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 17748175.85,
-          "programAreaInAcres": 6285474.88,
+          "areaInAcres": 6285474.88,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3799,13 +3799,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 8505473.81,
-          "programAreaInAcres": 1240812.03,
+          "areaInAcres": 1240812.03,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 1454811.6,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3824,7 +3824,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 596563.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3841,17 +3841,17 @@
               "areaInAcres": 0.0
             },
             {
+              "subProgramName": "Livestock Indemnity Program (LIP)",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3867,15 +3867,15 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 0.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
-              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3884,13 +3884,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 0.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 0.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3907,7 +3907,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 21210373.88,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3956,7 +3956,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 3534170.0,
-          "programAreaInAcres": 208851.63,
+          "areaInAcres": 208851.63,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -3975,13 +3975,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1105639.0,
-          "programAreaInAcres": 345693.93,
+          "areaInAcres": 345693.93,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 12578361.52,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4002,7 +4002,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 978730.12,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4051,7 +4051,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 7174443.37,
-          "programAreaInAcres": 1658275.28,
+          "areaInAcres": 1658275.28,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -4072,13 +4072,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1451531.0,
-          "programAreaInAcres": 208286.37,
+          "areaInAcres": 208286.37,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 2609938.14,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4097,7 +4097,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 7244570.6,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4144,7 +4144,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 982167.69,
-          "programAreaInAcres": 9567.4,
+          "areaInAcres": 9567.4,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -4163,13 +4163,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 209728.86,
-          "programAreaInAcres": 51974.88,
+          "areaInAcres": 51974.88,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 6841793.67,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4188,7 +4188,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 6679937.12,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -4235,7 +4235,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 635689.44,
-          "programAreaInAcres": 132305.32,
+          "areaInAcres": 132305.32,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -4256,13 +4256,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 464418.72,
-          "programAreaInAcres": 78147.02,
+          "areaInAcres": 78147.02,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 5803799.29,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4281,7 +4281,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 1362692.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4330,7 +4330,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 819388.0,
-          "programAreaInAcres": 49453.81,
+          "areaInAcres": 49453.81,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -4349,13 +4349,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 231343.0,
-          "programAreaInAcres": 43817.04,
+          "areaInAcres": 43817.04,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 5426912.16,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4374,7 +4374,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 971969.83,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4423,7 +4423,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 4134343.89,
-          "programAreaInAcres": 740200.71,
+          "areaInAcres": 740200.71,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -4444,13 +4444,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 550741.0,
-          "programAreaInAcres": 95261.92,
+          "areaInAcres": 95261.92,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 1773877.38,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4469,7 +4469,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 1732171.96,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4514,7 +4514,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 35391.0,
-          "programAreaInAcres": 2286.7599999999998,
+          "areaInAcres": 2286.7599999999998,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -4533,13 +4533,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 173260.0,
-          "programAreaInAcres": 4431.24,
+          "areaInAcres": 4431.24,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 301338.08,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4558,7 +4558,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 878504.31,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4607,7 +4607,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 18808.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4626,13 +4626,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 577956.0,
-          "programAreaInAcres": 197511.74,
+          "areaInAcres": 197511.74,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 70590.83,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4651,7 +4651,7 @@
         {
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 92215.0,
-          "programAreaInAcres": 0.0,
+          "areaInAcres": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4668,12 +4668,12 @@
               "areaInAcres": 0.0
             },
             {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "subProgramName": "Tree Assistance Program (TAP)",
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },

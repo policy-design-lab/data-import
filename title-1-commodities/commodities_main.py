@@ -378,28 +378,28 @@ class CommoditiesDataParser:
                         {
                             "programName": "Agriculture Risk Coverage (ARC)",
                             "programPaymentInDollars": 0.0,
-                            "programAreaInAcres": 0.0,
+                            "areaInAcres": 0.0,
                             "subPrograms": [
                             ],
                         },
                         {
                             "programName": "Price Loss Coverage (PLC)",
                             "programPaymentInDollars": 0.0,
-                            "programAreaInAcres": 0.0,
+                            "areaInAcres": 0.0,
                             "subPrograms": [
                             ]
                         },
                         {
                             "programName": "Dairy",
                             "programPaymentInDollars": 0.0,
-                            "programAreaInAcres": 0.0,
+                            "areaInAcres": 0.0,
                             "subPrograms": [
                             ]
                         },
                         {
                             "programName": "Disaster Assistance",
                             "programPaymentInDollars": 0.0,
-                            "programAreaInAcres": 0.0,
+                            "areaInAcres": 0.0,
                             "subPrograms": [
                             ]
                         }
@@ -443,7 +443,7 @@ class CommoditiesDataParser:
                                     "areaInAcres": base_acres
                                 })
                             program["programPaymentInDollars"] += rounded_program_payment
-                            program["programAreaInAcres"] += base_acres
+                            program["areaInAcres"] += base_acres
 
                 self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
                     new_data_entry)
