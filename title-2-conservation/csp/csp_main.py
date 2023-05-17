@@ -67,6 +67,12 @@ class CSPDataParser:
         csp_data.rename(columns={"Pay_year": "pay_year", "State": "state", "StatutoryCategory": "category_name"},
                         inplace=True)
 
+        statute_map = dict()
+        for statute_name in self.statute_and_practice_categories_mapping:
+            for value in self.statute_and_practice_categories_mapping[statute_name]:
+                statute_map[value] = statute_name
+        csp_data["statute_name"] = csp_data["category_name"].map(statute_map)
+
         # Filter data for only required years
         csp_data = csp_data[csp_data["pay_year"].between(self.start_year, self.end_year, inclusive="both")]
 
@@ -224,6 +230,11 @@ class CSPDataParser:
             total_payments_by_category_at_national_level = round(
                 csp_data[["category_name", "payments"]].groupby(["category_name"]).sum(), 2)
 
+            total_payments_by_statute = csp_data[
+                ["statute_name", "payments"]].groupby(
+                ["statute_name"]
+            )["payments"].sum()
+
             # Iterate through all tuples
             for state_name, payment in total_payments_by_state.items():
                 yearly_state_payment = round(payment, 2)
@@ -273,7 +284,7 @@ class CSPDataParser:
 
                 self.state_distribution_data_dict[state_name] = [new_data_entry]
 
-            # Add zero entries
+            # Add zero entries and additional percentages
             for state_name in self.state_distribution_data_dict:
                 for year_data in self.state_distribution_data_dict[state_name]:
                     for statute in year_data["statutes"]:
@@ -288,6 +299,13 @@ class CSPDataParser:
                         # Sort categories by percentages
                         statute["practiceCategories"].sort(reverse=True,
                                                            key=lambda x: x["paymentInPercentageWithinState"])
+
+                        statute["statutePaymentInPercentageWithinState"] = round(
+                            statute["statutePaymentInDollars"] / year_data["totalPaymentInDollars"] * 100, 2)
+
+                        statute["statutePaymentInPercentageNationwide"] = round(
+                            statute["statutePaymentInDollars"] / total_payments_by_statute[
+                                statute["statuteName"]] * 100, 2)
 
             # Sort states by decreasing order of percentages
             self.state_distribution_data_dict = dict(sorted(self.state_distribution_data_dict.items(),
@@ -332,7 +350,13 @@ class CSPDataParser:
                             "totalPaymentInDollars": category_payment,
                         }
                         total_for_statute[statute["statuteName"]] += category_payment
-                        statute["practiceCategories"].append(entry_dict)
+                    # Add zero entry when practice category is not existing in the actual data
+                    else:
+                        entry_dict = {
+                            "practiceCategoryName": category_name,
+                            "totalPaymentInDollars": 0.0,
+                        }
+                    statute["practiceCategories"].append(entry_dict)
 
             for statute in statutes_data["statutes"]:
                 for practice_category in statute["practiceCategories"]:
