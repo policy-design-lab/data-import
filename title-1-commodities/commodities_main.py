@@ -170,14 +170,6 @@ class CommoditiesDataParser:
         base_acres_data = base_acres_data[base_acres_data["year"].between(self.start_year, self.end_year,
                                                                           inclusive="both")]
 
-        # Group data by state, program description, and payment
-        base_acres_by_program_by_state_for_year = \
-            base_acres_data[
-                ["year", "state", "program_description", "base_acres"]
-            ].groupby(
-                ["year", "state", "program_description"]
-            )["base_acres"].sum()
-
         # Import farmer count CSV file
         farm_payee_count_data = pd.read_csv(self.farm_payee_count_csv_filepath)
         farm_payee_count_data = farm_payee_count_data.replace({
@@ -218,14 +210,6 @@ class CommoditiesDataParser:
         # Filter only relevant years' data
         farm_payee_count_data = farm_payee_count_data[farm_payee_count_data["year"].between(
             self.start_year, self.end_year, inclusive="both")]
-
-        # Group data by state, program description, and payment
-        farm_payee_count_by_program_by_state_for_year = \
-            farm_payee_count_data[
-                ["year", "state", "program_description", "recipient_count"]
-            ].groupby(
-                ["year", "state", "program_description"]
-            )["recipient_count"].sum()
 
         # 1. Generate map data
         if True:
