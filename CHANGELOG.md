@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - This CHANGELOG file.
 - Statute-level percentages to CSP state distribution data JSON. [#12](https://github.com/policy-design-lab/data-import/issues/12)
+- Add base acres and recipient numbers to Title 1 Commodities. [#14](https://github.com/policy-design-lab/data-import/issues/14)
 
 ### Changed
 
