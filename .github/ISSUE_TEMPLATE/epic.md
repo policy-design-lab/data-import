@@ -2,7 +2,7 @@
 name: Epic
 about: Create an Epic to capture a large volume of work.
 title: "[EPIC] "
-labels: bug
+labels: epic
 assignees: ''
 
 ---
