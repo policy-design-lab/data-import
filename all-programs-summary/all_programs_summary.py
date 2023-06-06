@@ -22,28 +22,39 @@ class AllProgramsParser:
         self.summary_data = pd.read_json(self.summary_json_filepath)
         topline_data = pd.read_csv(self.topline_csv_filepath)
         crop_insurance_total = topline_data["ci_net_benefit"].sum()
+        snap_total = topline_data["snap_cost"].sum()
 
         for index, row in self.all_programs_data.iterrows():
-            total_amount = 0.0
+            crop_insurance_total_amount = 0.0
+            snap_total_amount = 0.0
             for year in range(self.start_year, self.end_year + 1):
 
                 if row["State"] == "Total":
                     topline_data_year = topline_data[(topline_data["year"] == year)]
                     crop_insurance_total_for_year = topline_data_year["ci_net_benefit"].sum()
+                    snap_total_for_year = topline_data_year["snap_cost"].sum()
                     self.all_programs_data.at[index, "Crop Insurance " + str(year)] = round(
+                        crop_insurance_total_for_year, 2)
+                    self.all_programs_data.at[index, "SNAP " + str(year)] = round(
                         crop_insurance_total_for_year, 2)
                 else:
                     topline_data_state_year = topline_data[(topline_data["abbreviation"] == row["State"]) &
                                                            (topline_data["year"] == year)]
                     if topline_data_state_year.size != 0:
-                        amount = topline_data_state_year["ci_net_benefit"].item()
-                        total_amount += amount
-                        self.all_programs_data.at[index, "Crop Insurance " + str(year)] = round(amount, 2)
+                        crop_insurance_amount = topline_data_state_year["ci_net_benefit"].item()
+                        crop_insurance_total_amount += crop_insurance_amount
+                        self.all_programs_data.at[index, "Crop Insurance " + str(year)] = round(crop_insurance_amount, 2)
+
+                        snap_amount = topline_data_state_year["snap_cost"].item()
+                        snap_total_amount += snap_amount
+                        self.all_programs_data.at[index, "SNAP " + str(year)] = round(snap_amount, 2)
 
             if row["State"] == "Total":
                 self.all_programs_data.at[index, "Crop Insurance Total"] = round(crop_insurance_total, 2)
+                self.all_programs_data.at[index, "SNAP Total"] = round(snap_total, 2)
             else:
-                self.all_programs_data.at[index, "Crop Insurance Total"] = round(total_amount, 2)
+                self.all_programs_data.at[index, "Crop Insurance Total"] = round(crop_insurance_total_amount, 2)
+                self.all_programs_data.at[index, "SNAP Total"] = round(snap_total_amount, 2)
 
         # Programs list
         programs_list = ["Crop Insurance", "SNAP", "Title I", "Title II"]
@@ -72,8 +83,14 @@ class AllProgramsParser:
                     topline_data_state_year = topline_data[(topline_data["abbreviation"] == row["State"]) &
                                                            (topline_data["year"] == year)]
                     if topline_data_state_year.size != 0:
-                        amount = topline_data_state_year["ci_net_benefit"].item()
-                        self.summary_data.at[index, "Amount"] = round(amount, 2)
+                        crop_insurance_amount = topline_data_state_year["ci_net_benefit"].item()
+                        self.summary_data.at[index, "Amount"] = round(crop_insurance_amount, 2)
+                elif row["Title"] == "Supplemental Nutrition Assistance Program (SNAP)" and row["Fiscal Year"] == year:
+                    topline_data_state_year = topline_data[(topline_data["abbreviation"] == row["State"]) &
+                                                           (topline_data["year"] == year)]
+                    if topline_data_state_year.size != 0:
+                        snap_amount = topline_data_state_year["snap_cost"].item()
+                        self.summary_data.at[index, "Amount"] = round(snap_amount, 2)
 
     def write_updated_json_files(self):
         with open(self.summary_json_filepath + ".updated.json", "w") as summary_file_new:
