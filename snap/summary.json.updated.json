@@ -4636,8 +4636,8 @@
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
     "State": "AR",
     "Fiscal Year": 2022,
-    "Amount": 509596270,
-    "Average Monthly Participation": 281112
+    "Amount": 509586699,
+    "Average Monthly Participation": 280390
   },
   {
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
@@ -4776,7 +4776,7 @@
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
     "State": "DC",
     "Fiscal Year": 2022,
-    "Amount": 467476645,
+    "Amount": 444360725,
     "Average Monthly Participation": 145805
   },
   {
@@ -4832,14 +4832,14 @@
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
     "State": "FL",
     "Fiscal Year": 2020,
-    "Amount": 6007542066,
+    "Amount": 6083139792,
     "Average Monthly Participation": 3177286
   },
   {
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
     "State": "FL",
     "Fiscal Year": 2021,
-    "Amount": 7924263325,
+    "Amount": 7994149813,
     "Average Monthly Participation": 3356215
   },
   {
@@ -5189,15 +5189,15 @@
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
     "State": "ME",
     "Fiscal Year": 2021,
-    "Amount": 409705765,
-    "Average Monthly Participation": 157595
+    "Amount": 409896690,
+    "Average Monthly Participation": 158097
   },
   {
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
     "State": "ME",
     "Fiscal Year": 2022,
-    "Amount": 475481836,
-    "Average Monthly Participation": 161815
+    "Amount": 475481103,
+    "Average Monthly Participation": 162159
   },
   {
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
@@ -5302,7 +5302,7 @@
     "State": "MI",
     "Fiscal Year": 2022,
     "Amount": 3941434011,
-    "Average Monthly Participation": 1349321
+    "Average Monthly Participation": 1351310
   },
   {
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
@@ -5336,7 +5336,7 @@
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
     "State": "MN",
     "Fiscal Year": 2022,
-    "Amount": 1558162188,
+    "Amount": 1694725549,
     "Average Monthly Participation": 435910
   },
   {
@@ -6246,7 +6246,7 @@
     "Title": "Supplemental Nutrition Assistance Program (SNAP)",
     "State": "WI",
     "Fiscal Year": 2022,
-    "Amount": 2073817767,
+    "Amount": 2075620402,
     "Average Monthly Participation": 708238
   },
   {
