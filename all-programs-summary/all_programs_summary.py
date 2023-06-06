@@ -36,7 +36,7 @@ class AllProgramsParser:
                     self.all_programs_data.at[index, "Crop Insurance " + str(year)] = round(
                         crop_insurance_total_for_year, 2)
                     self.all_programs_data.at[index, "SNAP " + str(year)] = round(
-                        crop_insurance_total_for_year, 2)
+                        snap_total_for_year, 2)
                 else:
                     topline_data_state_year = topline_data[(topline_data["abbreviation"] == row["State"]) &
                                                            (topline_data["year"] == year)]
