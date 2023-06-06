@@ -77,8 +77,8 @@
     "SNAP 2019": 460333605,
     "SNAP 2020": 660915016,
     "SNAP 2021": 765794046,
-    "SNAP 2022": 509596270,
-    "SNAP Total": 2877111594,
+    "SNAP 2022": 509586699,
+    "SNAP Total": 2877102023,
     "Title I 2018": 505591674.62,
     "Title I 2019": 287389700.16,
     "Title I 2020": 353070971.52,
@@ -95,8 +95,8 @@
     "2019 All Programs Total": 1191353899.76,
     "2020 All Programs Total": 1537805483.12,
     "2021 All Programs Total": 1416561514.95,
-    "2022 All Programs Total": 760061787.49,
-    "18-22 All Programs Total": 6159993863.74
+    "2022 All Programs Total": 760052216.49,
+    "18-22 All Programs Total": 6159984292.74
   },
   {
     "State": "AZ",
@@ -242,8 +242,8 @@
     "SNAP 2019": 172078913,
     "SNAP 2020": 225271943,
     "SNAP 2021": 381121744,
-    "SNAP 2022": 467476645,
-    "SNAP Total": 1434382643,
+    "SNAP 2022": 444360725,
+    "SNAP Total": 1411266723,
     "Title I 2018": 0,
     "Title I 2019": 0,
     "Title I 2020": 0,
@@ -260,8 +260,8 @@
     "2019 All Programs Total": 172078913,
     "2020 All Programs Total": 225271943,
     "2021 All Programs Total": 381121744,
-    "2022 All Programs Total": 467476645,
-    "18-22 All Programs Total": 1434382643
+    "2022 All Programs Total": 444360725,
+    "18-22 All Programs Total": 1411266723
   },
   {
     "State": "DE",
@@ -306,10 +306,10 @@
     "Crop Insurance Total": 3708072709,
     "SNAP 2018": 5763762595,
     "SNAP 2019": 4035386245,
-    "SNAP 2020": 6007542066,
-    "SNAP 2021": 7924263325,
+    "SNAP 2020": 6083139792,
+    "SNAP 2021": 7994149813,
     "SNAP 2022": 4975285574,
-    "SNAP Total": 28706239805,
+    "SNAP Total": 28851724019,
     "Title I 2018": 60438811.96,
     "Title I 2019": 35339427.89,
     "Title I 2020": 43537129.51,
@@ -324,10 +324,10 @@
     "Title II Total": 271118312.49,
     "2018 All Programs Total": 9393064251.96,
     "2019 All Programs Total": 4151196982.89,
-    "2020 All Programs Total": 6174558567.0,
-    "2021 All Programs Total": 8077333361.8,
+    "2020 All Programs Total": 6250156293.0,
+    "2021 All Programs Total": 8147219849.8,
     "2022 All Programs Total": 5111581542.84,
-    "18-22 All Programs Total": 32907734706.49
+    "18-22 All Programs Total": 33053218920.49
   },
   {
     "State": "GA",
@@ -703,9 +703,9 @@
     "SNAP 2018": 218217647,
     "SNAP 2019": 203630527,
     "SNAP 2020": 277026746,
-    "SNAP 2021": 409705765,
-    "SNAP 2022": 475481836,
-    "SNAP Total": 1584062521,
+    "SNAP 2021": 409896690,
+    "SNAP 2022": 475481103,
+    "SNAP Total": 1584252713,
     "Title I 2018": 3791201.52,
     "Title I 2019": 3772057.71,
     "Title I 2020": 994164.57,
@@ -721,9 +721,9 @@
     "2018 All Programs Total": 244865508.52,
     "2019 All Programs Total": 233090368.71,
     "2020 All Programs Total": 301934604.42,
-    "2021 All Programs Total": 437308048.08,
-    "2022 All Programs Total": 475106270.33,
-    "18-22 All Programs Total": 1692304800.06
+    "2021 All Programs Total": 437498973.08,
+    "2022 All Programs Total": 475105537.33,
+    "18-22 All Programs Total": 1692494992.06
   },
   {
     "State": "MI",
@@ -770,8 +770,8 @@
     "SNAP 2019": 509464759,
     "SNAP 2020": 959125365,
     "SNAP 2021": 1985655426,
-    "SNAP 2022": 1558162188,
-    "SNAP Total": 5556827743,
+    "SNAP 2022": 1694725549,
+    "SNAP Total": 5693391104,
     "Title I 2018": 249261643.68,
     "Title I 2019": 73072043.17,
     "Title I 2020": 89400292.51,
@@ -788,8 +788,8 @@
     "2019 All Programs Total": 1399666616.77,
     "2020 All Programs Total": 1406647557.81,
     "2021 All Programs Total": 2856567521.26,
-    "2022 All Programs Total": 1519183274.07,
-    "18-22 All Programs Total": 8365678098.69
+    "2022 All Programs Total": 1655746635.07,
+    "18-22 All Programs Total": 8502241459.69
   },
   {
     "State": "MO",
@@ -1595,8 +1595,8 @@
     "SNAP 2019": 778373061,
     "SNAP 2020": 1104399935,
     "SNAP 2021": 1964034853,
-    "SNAP 2022": 2073817767,
-    "SNAP Total": 6737507730,
+    "SNAP 2022": 2075620402,
+    "SNAP Total": 6739310365,
     "Title I 2018": 118857241.13,
     "Title I 2019": 90990137.04,
     "Title I 2020": 51774134.77,
@@ -1613,8 +1613,8 @@
     "2019 All Programs Total": 1166912617.74,
     "2020 All Programs Total": 1296317819.77,
     "2021 All Programs Total": 2282856446.47,
-    "2022 All Programs Total": 2069252186.98,
-    "18-22 All Programs Total": 7893785600.89
+    "2022 All Programs Total": 2071054821.98,
+    "18-22 All Programs Total": 7895588235.89
   },
   {
     "State": "WV",
@@ -1692,10 +1692,10 @@
     "Crop Insurance Total": 22878270928,
     "SNAP 2018": 60722167205,
     "SNAP 2019": 55477097393,
-    "SNAP 2020": 73930987081,
-    "SNAP 2021": 108302159952,
-    "SNAP 2022": 113506733410,
-    "SNAP Total": 411939145041,
+    "SNAP 2020": 74006584807,
+    "SNAP 2021": 108372237365,
+    "SNAP 2022": 113621973182,
+    "SNAP Total": 412200059952,
     "Title I 2018": 7906093425,
     "Title I 2019": 3814275473,
     "Title I 2020": 3119798877,
@@ -1710,9 +1710,9 @@
     "Title II Total": 22960678926.280003,
     "2018 All Programs Total": 80565144722.77,
     "2019 All Programs Total": 71474992918.28,
-    "2020 All Programs Total": 87438984847.44,
-    "2021 All Programs Total": 125165220143.42,
-    "2022 All Programs Total": 118444392854.37,
-    "18-22 All Programs Total": 483088735486.28
+    "2020 All Programs Total": 87514582573.44,
+    "2021 All Programs Total": 125235297556.42,
+    "2022 All Programs Total": 118559632626.37,
+    "18-22 All Programs Total": 483349650397.28
   }
 ]
