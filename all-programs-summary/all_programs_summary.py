@@ -22,6 +22,10 @@ class AllProgramsParser:
         self.all_programs_data = pd.read_json(self.all_programs_json_filepath)
         self.summary_data = pd.read_json(self.summary_json_filepath)
         topline_data = pd.read_csv(self.topline_csv_filepath)
+
+        # Additional check to filter data for only required years
+        topline_data = topline_data[topline_data["year"].between(self.start_year, self.end_year, inclusive="both")]
+
         crop_insurance_grand_total = topline_data["ci_net_benefit"].sum()
         snap_grand_total = topline_data["snap_cost"].sum()
         title_i_grand_total = topline_data["titlei"].sum()
