@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - SNAP data CSV and JSON files based on changes in SNAP table (May 2023). [#23](https://github.com/policy-design-lab/data-import/issues/23)
 - SNAP topline numbers based on changes in SNAP table (May 2023). [#25](https://github.com/policy-design-lab/data-import/issues/25)
 - All programs summary program to update all programs based on the topline.csv file. [#29](https://github.com/policy-design-lab/data-import/issues/29)
+- All programs and summary JSON files based on latest SNAP data. [#31](https://github.com/policy-design-lab/data-import/issues/31)
 
 ### Fixed
 
