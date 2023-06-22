@@ -61,7 +61,7 @@ class DataParser:
                         "subProgramName": None,
                         "paymentInDollars": 0.0,
                         "paymentInPercentageWithinState": 0.00,
-                        "areaInAcres": 0.0,
+                        "averageAreaInAcres": 0.0,
                         "recipientCount": 0
                     }
 
@@ -427,10 +427,10 @@ class DataParser:
             total_payments_by_program_at_national_level = round(
                 program_data[["program_description", "payments"]].groupby(["program_description"]).sum(), 2)
 
-            total_base_acres_by_program_by_state = base_acres_data[
+            average_base_acres_by_program_by_state = base_acres_data[
                 ["state", "program_description", "base_acres"]].groupby(
                 ["state", "program_description"]
-            )["base_acres"].sum()
+            )["base_acres"].mean()
 
             total_payee_count_by_program_by_state = farm_payee_count_data[
                 ["state", "program_description", "recipient_count"]].groupby(
@@ -449,7 +449,7 @@ class DataParser:
                         {
                             "programName": "Agriculture Risk Coverage (ARC)",
                             "programPaymentInDollars": 0.0,
-                            "areaInAcres": 0.0,
+                            "averageAreaInAcres": 0.0,
                             "recipientCount": 0,
                             "subPrograms": [
                             ],
@@ -457,7 +457,7 @@ class DataParser:
                         {
                             "programName": "Price Loss Coverage (PLC)",
                             "programPaymentInDollars": 0.0,
-                            "areaInAcres": 0.0,
+                            "averageAreaInAcres": 0.0,
                             "recipientCount": 0,
                             "subPrograms": [
                             ]
@@ -465,7 +465,7 @@ class DataParser:
                         {
                             "programName": "Dairy",
                             "programPaymentInDollars": 0.0,
-                            "areaInAcres": 0.0,
+                            "averageAreaInAcres": 0.0,
                             "recipientCount": 0,
                             "subPrograms": [
                             ]
@@ -473,7 +473,7 @@ class DataParser:
                         {
                             "programName": "Disaster Assistance",
                             "programPaymentInDollars": 0.0,
-                            "areaInAcres": 0.0,
+                            "averageAreaInAcres": 0.0,
                             "recipientCount": 0,
                             "subPrograms": [
                             ]
@@ -485,10 +485,10 @@ class DataParser:
                 }
 
                 program_payments_series = total_payments_by_program_by_state[state_name]
-                if state_name in total_base_acres_by_program_by_state:
-                    base_acres_series = total_base_acres_by_program_by_state[state_name]
+                if state_name in average_base_acres_by_program_by_state:
+                    average_base_acres_series = average_base_acres_by_program_by_state[state_name]
                 else:
-                    base_acres_series = pd.Series(object)
+                    average_base_acres_series = pd.Series(object)
 
                 if state_name in total_payee_count_by_program_by_state:
                     payee_count_series = total_payee_count_by_program_by_state[state_name]
@@ -504,10 +504,10 @@ class DataParser:
                     program_percentage_within_state = round(
                         (rounded_program_payment / total_payments_by_state[state_name]) * 100, 2)
 
-                    if program_description in base_acres_series:
-                        base_acres = base_acres_series[program_description]
+                    if program_description in average_base_acres_series:
+                        average_base_acres = round(average_base_acres_series[program_description], 2)
                     else:
-                        base_acres = 0.0
+                        average_base_acres = 0.0
 
                     if program_description in payee_count_series:
                         recipient_count = int(payee_count_series[program_description])
@@ -526,11 +526,11 @@ class DataParser:
                                     "paymentInDollars": rounded_program_payment,
                                     "paymentInPercentageNationwide": program_percentage_nationwide,
                                     "paymentInPercentageWithinState": program_percentage_within_state,
-                                    "areaInAcres": base_acres,
+                                    "averageAreaInAcres": average_base_acres,
                                     "recipientCount": recipient_count
                                 })
                             program["programPaymentInDollars"] += rounded_program_payment
-                            program["areaInAcres"] += base_acres
+                            program["averageAreaInAcres"] += average_base_acres
                             program["recipientCount"] += recipient_count
 
                 self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
@@ -541,7 +541,7 @@ class DataParser:
                 for year_data in self.state_distribution_data_dict[state_name]:
                     for program in year_data["programs"]:
                         program["programPaymentInDollars"] = round(program["programPaymentInDollars"], 2)
-                        program["areaInAcres"] = round(program["areaInAcres"], 2)
+                        program["averageAreaInAcres"] = round(program["averageAreaInAcres"], 2)
 
                         subprograms_list = []
                         for subprogram in program["subPrograms"]:
