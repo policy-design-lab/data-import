@@ -6,16 +6,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 219097560.93,
-          "averageAreaInAcres": 41772.66,
-          "averageRecipientCount": 3167,
+          "averageAreaInAcres": 5511.58,
+          "averageRecipientCount": 3365,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 212519700.43,
               "paymentInPercentageNationwide": 3.23,
               "paymentInPercentageWithinState": 7.21,
-              "averageAreaInAcres": 41772.66,
-              "averageRecipientCount": 3131
+              "averageAreaInAcres": 5511.58,
+              "averageRecipientCount": 3317
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -23,22 +23,22 @@
               "paymentInPercentageNationwide": 1.62,
               "paymentInPercentageWithinState": 0.22,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 36
+              "averageRecipientCount": 48
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 2314114065.27,
-          "averageAreaInAcres": 72741.92,
-          "averageRecipientCount": 41224,
+          "averageAreaInAcres": 12071.57,
+          "averageRecipientCount": 41110,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 42238890.69,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 144,
+          "averageRecipientCount": 137,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -46,7 +46,7 @@
               "paymentInPercentageNationwide": 2.22,
               "paymentInPercentageWithinState": 1.43,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 144
+              "averageRecipientCount": 137
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -62,7 +62,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 370252263.97,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 9386,
+          "averageRecipientCount": 10448,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -70,7 +70,7 @@
               "paymentInPercentageNationwide": 15.6,
               "paymentInPercentageWithinState": 8.82,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 8760
+              "averageRecipientCount": 9915
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -86,7 +86,7 @@
               "paymentInPercentageNationwide": 16.21,
               "paymentInPercentageWithinState": 1.36,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 261
+              "averageRecipientCount": 144
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -94,7 +94,7 @@
               "paymentInPercentageNationwide": 7.65,
               "paymentInPercentageWithinState": 0.44,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 359
+              "averageRecipientCount": 384
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -102,7 +102,7 @@
               "paymentInPercentageNationwide": 1.57,
               "paymentInPercentageWithinState": 0.03,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 6
+              "averageRecipientCount": 5
             }
           ]
         }
@@ -116,16 +116,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 133816947.94,
-          "averageAreaInAcres": 20740.09,
-          "averageRecipientCount": 3216,
+          "averageAreaInAcres": 11497.53,
+          "averageRecipientCount": 2573,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 133657724.94,
               "paymentInPercentageNationwide": 2.03,
               "paymentInPercentageWithinState": 7.82,
-              "averageAreaInAcres": 20740.09,
-              "averageRecipientCount": 3211
+              "averageAreaInAcres": 11497.53,
+              "averageRecipientCount": 2568
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -140,15 +140,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1514569127.39,
-          "averageAreaInAcres": 204628.93,
-          "averageRecipientCount": 12268,
+          "averageAreaInAcres": 11649.33,
+          "averageRecipientCount": 12779,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 2455965.49,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 39,
+          "averageRecipientCount": 37,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -156,7 +156,7 @@
               "paymentInPercentageNationwide": 0.13,
               "paymentInPercentageWithinState": 0.14,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 39
+              "averageRecipientCount": 37
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -171,7 +171,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 58047794.81,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 792,
+          "averageRecipientCount": 474,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -187,7 +187,7 @@
               "paymentInPercentageNationwide": 0.65,
               "paymentInPercentageWithinState": 0.63,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 525
+              "averageRecipientCount": 152
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -195,7 +195,7 @@
               "paymentInPercentageNationwide": 1.36,
               "paymentInPercentageWithinState": 0.2,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 55
+              "averageRecipientCount": 63
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -203,7 +203,7 @@
               "paymentInPercentageNationwide": 1.95,
               "paymentInPercentageWithinState": 0.19,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 209
+              "averageRecipientCount": 259
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -211,7 +211,7 @@
               "paymentInPercentageNationwide": 0.04,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 3
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -225,16 +225,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 529223081.78,
-          "averageAreaInAcres": 50675.26,
-          "averageRecipientCount": 26431,
+          "averageAreaInAcres": 10776.17,
+          "averageRecipientCount": 21320,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 523818157.78,
               "paymentInPercentageNationwide": 7.95,
               "paymentInPercentageWithinState": 31.27,
-              "averageAreaInAcres": 50675.26,
-              "averageRecipientCount": 26254
+              "averageAreaInAcres": 10776.17,
+              "averageRecipientCount": 21107
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -242,22 +242,22 @@
               "paymentInPercentageNationwide": 1.33,
               "paymentInPercentageWithinState": 0.32,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 177
+              "averageRecipientCount": 213
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1044395120.15,
-          "averageAreaInAcres": 45179.33,
-          "averageRecipientCount": 44738,
+          "averageAreaInAcres": 19869.76,
+          "averageRecipientCount": 48525,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 14999801.69,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 126,
+          "averageRecipientCount": 119,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -265,7 +265,7 @@
               "paymentInPercentageNationwide": 0.79,
               "paymentInPercentageWithinState": 0.89,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 126
+              "averageRecipientCount": 119
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -281,7 +281,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 86449478.16,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 4490,
+          "averageRecipientCount": 2456,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -289,7 +289,7 @@
               "paymentInPercentageNationwide": 4.08,
               "paymentInPercentageWithinState": 4.05,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 3645
+              "averageRecipientCount": 1524
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -297,7 +297,7 @@
               "paymentInPercentageNationwide": 8.84,
               "paymentInPercentageWithinState": 0.89,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 672
+              "averageRecipientCount": 834
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -313,7 +313,7 @@
               "paymentInPercentageNationwide": 0.6,
               "paymentInPercentageWithinState": 0.09,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 173
+              "averageRecipientCount": 98
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -334,16 +334,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 468257132.35,
-          "averageAreaInAcres": 26973.94,
-          "averageRecipientCount": 6834,
+          "averageAreaInAcres": 16006.55,
+          "averageRecipientCount": 6525,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 444540010.08,
               "paymentInPercentageNationwide": 6.75,
               "paymentInPercentageWithinState": 27.38,
-              "averageAreaInAcres": 26973.94,
-              "averageRecipientCount": 6535
+              "averageAreaInAcres": 16006.55,
+              "averageRecipientCount": 6199
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -351,22 +351,22 @@
               "paymentInPercentageNationwide": 5.84,
               "paymentInPercentageWithinState": 1.46,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 299
+              "averageRecipientCount": 326
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1006822398.0,
-          "averageAreaInAcres": 65528.09,
-          "averageRecipientCount": 14247,
+          "averageAreaInAcres": 22888.99,
+          "averageRecipientCount": 14993,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 4372977.91,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 58,
+          "averageRecipientCount": 52,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -374,7 +374,7 @@
               "paymentInPercentageNationwide": 0.23,
               "paymentInPercentageWithinState": 0.27,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 58
+              "averageRecipientCount": 52
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -389,7 +389,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 144085840.05,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 2073,
+          "averageRecipientCount": 2115,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -397,7 +397,7 @@
               "paymentInPercentageNationwide": 6.86,
               "paymentInPercentageWithinState": 7.04,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1873
+              "averageRecipientCount": 1905
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -413,7 +413,7 @@
               "paymentInPercentageNationwide": 4.35,
               "paymentInPercentageWithinState": 0.66,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 109
+              "averageRecipientCount": 105
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -421,7 +421,7 @@
               "paymentInPercentageNationwide": 1.77,
               "paymentInPercentageWithinState": 0.18,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 91
+              "averageRecipientCount": 105
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -442,16 +442,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 676476794.45,
-          "averageAreaInAcres": 19164.86,
-          "averageRecipientCount": 8485,
+          "averageAreaInAcres": 11057.61,
+          "averageRecipientCount": 5307,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 661876982.63,
               "paymentInPercentageNationwide": 10.05,
               "paymentInPercentageWithinState": 56.6,
-              "averageAreaInAcres": 19164.86,
-              "averageRecipientCount": 8115
+              "averageAreaInAcres": 11057.61,
+              "averageRecipientCount": 4843
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -459,22 +459,22 @@
               "paymentInPercentageNationwide": 3.59,
               "paymentInPercentageWithinState": 1.25,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 370
+              "averageRecipientCount": 464
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 416578483.27,
-          "averageAreaInAcres": 29908.74,
-          "averageRecipientCount": 20182,
+          "averageAreaInAcres": 22171.82,
+          "averageRecipientCount": 23291,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 11346345.3,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 91,
+          "averageRecipientCount": 83,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -482,7 +482,7 @@
               "paymentInPercentageNationwide": 0.6,
               "paymentInPercentageWithinState": 0.97,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 91
+              "averageRecipientCount": 83
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -497,7 +497,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 65093766.34,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 2261,
+          "averageRecipientCount": 2897,
           "subPrograms": [
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -505,7 +505,7 @@
               "paymentInPercentageNationwide": 17.2,
               "paymentInPercentageWithinState": 2.47,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 972
+              "averageRecipientCount": 1230
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -513,7 +513,7 @@
               "paymentInPercentageNationwide": 1.59,
               "paymentInPercentageWithinState": 2.27,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1170
+              "averageRecipientCount": 1551
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -521,7 +521,7 @@
               "paymentInPercentageNationwide": 2.54,
               "paymentInPercentageWithinState": 0.54,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 118
+              "averageRecipientCount": 116
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -537,7 +537,7 @@
               "paymentInPercentageNationwide": 0.1,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -551,16 +551,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 64174057.29,
-          "averageAreaInAcres": 9427.09,
-          "averageRecipientCount": 2083,
+          "averageAreaInAcres": 735.9,
+          "averageRecipientCount": 1802,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 64172746.29,
               "paymentInPercentageNationwide": 0.97,
               "paymentInPercentageWithinState": 5.59,
-              "averageAreaInAcres": 9427.09,
-              "averageRecipientCount": 2082
+              "averageAreaInAcres": 735.9,
+              "averageRecipientCount": 1801
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -575,15 +575,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1026619592.47,
-          "averageAreaInAcres": 56878.01,
-          "averageRecipientCount": 7456,
+          "averageAreaInAcres": 3721.97,
+          "averageRecipientCount": 7715,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 13412075.41,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 63,
+          "averageRecipientCount": 56,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -591,7 +591,7 @@
               "paymentInPercentageNationwide": 0.71,
               "paymentInPercentageWithinState": 1.17,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 63
+              "averageRecipientCount": 56
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -607,7 +607,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 43088858.19,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 662,
+          "averageRecipientCount": 774,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -615,7 +615,7 @@
               "paymentInPercentageNationwide": 6.86,
               "paymentInPercentageWithinState": 1.47,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 100
+              "averageRecipientCount": 96
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -631,7 +631,7 @@
               "paymentInPercentageNationwide": 0.63,
               "paymentInPercentageWithinState": 0.91,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 513
+              "averageRecipientCount": 622
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -639,7 +639,7 @@
               "paymentInPercentageNationwide": 6.19,
               "paymentInPercentageWithinState": 0.26,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 20
+              "averageRecipientCount": 24
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -647,7 +647,7 @@
               "paymentInPercentageNationwide": 0.75,
               "paymentInPercentageWithinState": 0.11,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 29
+              "averageRecipientCount": 32
             }
           ]
         }
@@ -661,16 +661,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 564980323.67,
-          "averageAreaInAcres": 37367.46,
-          "averageRecipientCount": 8384,
+          "averageAreaInAcres": 17240.46,
+          "averageRecipientCount": 7794,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 475161428.16,
               "paymentInPercentageNationwide": 7.21,
               "paymentInPercentageWithinState": 43.1,
-              "averageAreaInAcres": 37367.46,
-              "averageRecipientCount": 6485
+              "averageAreaInAcres": 17240.46,
+              "averageRecipientCount": 5297
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -678,22 +678,22 @@
               "paymentInPercentageNationwide": 22.11,
               "paymentInPercentageWithinState": 8.15,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1899
+              "averageRecipientCount": 2497
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 278549895.49,
-          "averageAreaInAcres": 20912.04,
-          "averageRecipientCount": 9618,
+          "averageAreaInAcres": 11350.87,
+          "averageRecipientCount": 10883,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 15902865.32,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 99,
+          "averageRecipientCount": 90,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -701,7 +701,7 @@
               "paymentInPercentageNationwide": 0.84,
               "paymentInPercentageWithinState": 1.44,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 99
+              "averageRecipientCount": 90
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -716,7 +716,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 242973088.65,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 3736,
+          "averageRecipientCount": 3984,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -724,7 +724,7 @@
               "paymentInPercentageNationwide": 7.44,
               "paymentInPercentageWithinState": 11.24,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 2450
+              "averageRecipientCount": 2740
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -740,7 +740,7 @@
               "paymentInPercentageNationwide": 16.24,
               "paymentInPercentageWithinState": 2.47,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 956
+              "averageRecipientCount": 893
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -748,7 +748,7 @@
               "paymentInPercentageNationwide": 5.12,
               "paymentInPercentageWithinState": 1.15,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 330
+              "averageRecipientCount": 351
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -769,16 +769,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 77920244.84,
-          "averageAreaInAcres": 18480.62,
-          "averageRecipientCount": 907,
+          "averageAreaInAcres": 8631.16,
+          "averageRecipientCount": 612,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 56881512.77,
               "paymentInPercentageNationwide": 0.86,
               "paymentInPercentageWithinState": 5.89,
-              "averageAreaInAcres": 18480.62,
-              "averageRecipientCount": 649
+              "averageAreaInAcres": 8631.16,
+              "averageRecipientCount": 425
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -786,22 +786,22 @@
               "paymentInPercentageNationwide": 5.18,
               "paymentInPercentageWithinState": 2.18,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 258
+              "averageRecipientCount": 187
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 692270057.09,
-          "averageAreaInAcres": 58480.8,
-          "averageRecipientCount": 10350,
+          "averageAreaInAcres": 23696.32,
+          "averageRecipientCount": 10475,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 6227327.83,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 34,
+          "averageRecipientCount": 32,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -809,7 +809,7 @@
               "paymentInPercentageNationwide": 0.33,
               "paymentInPercentageWithinState": 0.65,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 34
+              "averageRecipientCount": 32
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -824,7 +824,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 188577291.37,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 2081,
+          "averageRecipientCount": 1722,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -832,7 +832,7 @@
               "paymentInPercentageNationwide": 7.74,
               "paymentInPercentageWithinState": 13.36,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1532
+              "averageRecipientCount": 1185
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -848,7 +848,7 @@
               "paymentInPercentageNationwide": 9.97,
               "paymentInPercentageWithinState": 1.73,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 415
+              "averageRecipientCount": 422
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -856,7 +856,7 @@
               "paymentInPercentageNationwide": 2.87,
               "paymentInPercentageWithinState": 0.73,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 134
+              "averageRecipientCount": 115
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -877,16 +877,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 514637801.34,
-          "averageAreaInAcres": 47103.58,
-          "averageRecipientCount": 14266,
+          "averageAreaInAcres": 22679.95,
+          "averageRecipientCount": 13715,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 474027530.36,
               "paymentInPercentageNationwide": 7.19,
               "paymentInPercentageWithinState": 50.22,
-              "averageAreaInAcres": 47103.58,
-              "averageRecipientCount": 13491
+              "averageAreaInAcres": 22679.95,
+              "averageRecipientCount": 12698
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -894,22 +894,22 @@
               "paymentInPercentageNationwide": 10.0,
               "paymentInPercentageWithinState": 4.3,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 775
+              "averageRecipientCount": 1017
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 232414436.2,
-          "averageAreaInAcres": 15771.26,
-          "averageRecipientCount": 11052,
+          "averageAreaInAcres": 14193.15,
+          "averageRecipientCount": 13381,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 175809807.29,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1241,
+          "averageRecipientCount": 1097,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -917,7 +917,7 @@
               "paymentInPercentageNationwide": 9.27,
               "paymentInPercentageWithinState": 18.63,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1241
+              "averageRecipientCount": 1097
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -932,7 +932,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 21018401.2,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1510,
+          "averageRecipientCount": 1525,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -940,7 +940,7 @@
               "paymentInPercentageNationwide": 3.97,
               "paymentInPercentageWithinState": 1.04,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 61
+              "averageRecipientCount": 60
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -956,7 +956,7 @@
               "paymentInPercentageNationwide": 1.77,
               "paymentInPercentageWithinState": 0.31,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 105
+              "averageRecipientCount": 125
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -972,7 +972,7 @@
               "paymentInPercentageNationwide": 0.22,
               "paymentInPercentageWithinState": 0.01,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 4
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -986,16 +986,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 612039803.0,
-          "averageAreaInAcres": 21005.74,
-          "averageRecipientCount": 19887,
+          "averageAreaInAcres": 19967.74,
+          "averageRecipientCount": 18678,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 551576669.0,
               "paymentInPercentageNationwide": 8.37,
               "paymentInPercentageWithinState": 59.92,
-              "averageAreaInAcres": 21005.74,
-              "averageRecipientCount": 18176
+              "averageAreaInAcres": 19967.74,
+              "averageRecipientCount": 16415
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1003,22 +1003,22 @@
               "paymentInPercentageNationwide": 14.88,
               "paymentInPercentageWithinState": 6.57,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1711
+              "averageRecipientCount": 2263
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 269393803.56,
-          "averageAreaInAcres": 22207.56,
-          "averageRecipientCount": 27378,
+          "averageAreaInAcres": 21389.53,
+          "averageRecipientCount": 33014,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 37764226.41,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 323,
+          "averageRecipientCount": 285,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1026,7 +1026,7 @@
               "paymentInPercentageNationwide": 1.99,
               "paymentInPercentageWithinState": 4.1,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 323
+              "averageRecipientCount": 285
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1041,7 +1041,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 1337990.94,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 23,
+          "averageRecipientCount": 24,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1057,7 +1057,7 @@
               "paymentInPercentageNationwide": 0.07,
               "paymentInPercentageWithinState": 0.02,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 8
+              "averageRecipientCount": 7
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -1065,7 +1065,7 @@
               "paymentInPercentageNationwide": 0.06,
               "paymentInPercentageWithinState": 0.01,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 12
+              "averageRecipientCount": 14
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1095,16 +1095,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 207042728.68,
-          "averageAreaInAcres": 39156.06,
-          "averageRecipientCount": 9781,
+          "averageAreaInAcres": 10104.39,
+          "averageRecipientCount": 10552,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 187948825.68,
               "paymentInPercentageNationwide": 2.85,
               "paymentInPercentageWithinState": 20.4,
-              "averageAreaInAcres": 39156.06,
-              "averageRecipientCount": 9096
+              "averageAreaInAcres": 10104.39,
+              "averageRecipientCount": 9657
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1112,22 +1112,22 @@
               "paymentInPercentageNationwide": 4.7,
               "paymentInPercentageWithinState": 2.07,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 685
+              "averageRecipientCount": 895
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 574744399.12,
-          "averageAreaInAcres": 39703.14,
-          "averageRecipientCount": 28042,
+          "averageAreaInAcres": 8500.91,
+          "averageRecipientCount": 28469,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 25534972.06,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 328,
+          "averageRecipientCount": 298,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1135,7 +1135,7 @@
               "paymentInPercentageNationwide": 1.35,
               "paymentInPercentageWithinState": 2.77,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 328
+              "averageRecipientCount": 298
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1150,7 +1150,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 113848119.28,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 6323,
+          "averageRecipientCount": 2908,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1158,7 +1158,7 @@
               "paymentInPercentageNationwide": 5.68,
               "paymentInPercentageWithinState": 10.28,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 5982
+              "averageRecipientCount": 2579
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1174,7 +1174,7 @@
               "paymentInPercentageNationwide": 0.96,
               "paymentInPercentageWithinState": 0.18,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 231
+              "averageRecipientCount": 293
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -1182,7 +1182,7 @@
               "paymentInPercentageNationwide": 0.31,
               "paymentInPercentageWithinState": 0.08,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 108
+              "averageRecipientCount": 34
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1204,16 +1204,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 120240243.36,
-          "averageAreaInAcres": 44923.59,
-          "averageRecipientCount": 6936,
+          "averageAreaInAcres": 6552.72,
+          "averageRecipientCount": 5662,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 119225198.36,
               "paymentInPercentageNationwide": 1.81,
               "paymentInPercentageWithinState": 13.14,
-              "averageAreaInAcres": 44923.59,
-              "averageRecipientCount": 6916
+              "averageAreaInAcres": 6552.72,
+              "averageRecipientCount": 5639
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1221,22 +1221,22 @@
               "paymentInPercentageNationwide": 0.25,
               "paymentInPercentageWithinState": 0.11,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 20
+              "averageRecipientCount": 23
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 535881513.87,
-          "averageAreaInAcres": 31808.42,
-          "averageRecipientCount": 16224,
+          "averageAreaInAcres": 13809.7,
+          "averageRecipientCount": 17363,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 7770704.29,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 70,
+          "averageRecipientCount": 65,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1244,7 +1244,7 @@
               "paymentInPercentageNationwide": 0.41,
               "paymentInPercentageWithinState": 0.85,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 70
+              "averageRecipientCount": 65
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1260,7 +1260,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 243496014.1,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 7480,
+          "averageRecipientCount": 6297,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1268,7 +1268,7 @@
               "paymentInPercentageNationwide": 11.73,
               "paymentInPercentageWithinState": 21.53,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 6946
+              "averageRecipientCount": 5626
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1284,7 +1284,7 @@
               "paymentInPercentageNationwide": 3.35,
               "paymentInPercentageWithinState": 0.62,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 448
+              "averageRecipientCount": 563
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -1292,7 +1292,7 @@
               "paymentInPercentageNationwide": 0.81,
               "paymentInPercentageWithinState": 0.22,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 85
+              "averageRecipientCount": 107
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1314,16 +1314,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 353197937.98,
-          "averageAreaInAcres": 43841.08,
-          "averageRecipientCount": 10523,
+          "averageAreaInAcres": 27799.83,
+          "averageRecipientCount": 10543,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 333378225.01,
               "paymentInPercentageNationwide": 5.06,
               "paymentInPercentageWithinState": 45.34,
-              "averageAreaInAcres": 43841.08,
-              "averageRecipientCount": 9910
+              "averageAreaInAcres": 27799.83,
+              "averageRecipientCount": 9751
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1331,22 +1331,22 @@
               "paymentInPercentageNationwide": 4.88,
               "paymentInPercentageWithinState": 2.7,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 613
+              "averageRecipientCount": 792
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 270943059.59,
-          "averageAreaInAcres": 24115.75,
-          "averageRecipientCount": 16841,
+          "averageAreaInAcres": 24356.1,
+          "averageRecipientCount": 20957,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 76294828.95,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 620,
+          "averageRecipientCount": 556,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1354,7 +1354,7 @@
               "paymentInPercentageNationwide": 4.02,
               "paymentInPercentageWithinState": 10.38,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 620
+              "averageRecipientCount": 556
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1369,7 +1369,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 34798202.29,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1746,
+          "averageRecipientCount": 1484,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1377,7 +1377,7 @@
               "paymentInPercentageNationwide": 1.59,
               "paymentInPercentageWithinState": 3.61,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1561
+              "averageRecipientCount": 1343
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -1385,7 +1385,7 @@
               "paymentInPercentageNationwide": 2.16,
               "paymentInPercentageWithinState": 0.49,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 102
+              "averageRecipientCount": 96
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -1393,7 +1393,7 @@
               "paymentInPercentageNationwide": 0.96,
               "paymentInPercentageWithinState": 0.32,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 82
+              "averageRecipientCount": 44
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1423,16 +1423,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 88299642.66,
-          "averageAreaInAcres": 16274.07,
-          "averageRecipientCount": 3051,
+          "averageAreaInAcres": 4301.14,
+          "averageRecipientCount": 2901,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 87846497.66,
               "paymentInPercentageNationwide": 1.33,
               "paymentInPercentageWithinState": 12.58,
-              "averageAreaInAcres": 16274.07,
-              "averageRecipientCount": 3045
+              "averageAreaInAcres": 4301.14,
+              "averageRecipientCount": 2894
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1440,22 +1440,22 @@
               "paymentInPercentageNationwide": 0.11,
               "paymentInPercentageWithinState": 0.06,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 6
+              "averageRecipientCount": 7
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 591317769.37,
-          "averageAreaInAcres": 115800.35,
-          "averageRecipientCount": 8606,
+          "averageAreaInAcres": 7917.04,
+          "averageRecipientCount": 8864,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 5739999.43,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 67,
+          "averageRecipientCount": 60,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1463,7 +1463,7 @@
               "paymentInPercentageNationwide": 0.3,
               "paymentInPercentageWithinState": 0.82,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 67
+              "averageRecipientCount": 60
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1478,7 +1478,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 12997606.9,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 364,
+          "averageRecipientCount": 189,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -1486,7 +1486,7 @@
               "paymentInPercentageNationwide": 3.14,
               "paymentInPercentageWithinState": 1.11,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 53
+              "averageRecipientCount": 52
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1494,7 +1494,7 @@
               "paymentInPercentageNationwide": 0.22,
               "paymentInPercentageWithinState": 0.53,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 279
+              "averageRecipientCount": 97
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1510,7 +1510,7 @@
               "paymentInPercentageNationwide": 0.43,
               "paymentInPercentageWithinState": 0.1,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 30
+              "averageRecipientCount": 38
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1532,16 +1532,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 93681650.19,
-          "averageAreaInAcres": 10497.13,
-          "averageRecipientCount": 2557,
+          "averageAreaInAcres": 4637.34,
+          "averageRecipientCount": 2258,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 92395025.11,
               "paymentInPercentageNationwide": 1.4,
               "paymentInPercentageWithinState": 14.66,
-              "averageAreaInAcres": 10497.13,
-              "averageRecipientCount": 2529
+              "averageAreaInAcres": 4637.34,
+              "averageRecipientCount": 2220
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1549,22 +1549,22 @@
               "paymentInPercentageNationwide": 0.32,
               "paymentInPercentageWithinState": 0.2,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 28
+              "averageRecipientCount": 38
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 522220823.43,
-          "averageAreaInAcres": 61485.68,
-          "averageRecipientCount": 4288,
+          "averageAreaInAcres": 5885.47,
+          "averageRecipientCount": 5056,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 3669574.36,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 44,
+          "averageRecipientCount": 41,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1572,7 +1572,7 @@
               "paymentInPercentageNationwide": 0.19,
               "paymentInPercentageWithinState": 0.58,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 44
+              "averageRecipientCount": 41
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1587,7 +1587,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 10557060.11,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 123,
+          "averageRecipientCount": 113,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1603,7 +1603,7 @@
               "paymentInPercentageNationwide": 0.1,
               "paymentInPercentageWithinState": 0.26,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 66
+              "averageRecipientCount": 48
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -1619,7 +1619,7 @@
               "paymentInPercentageNationwide": 0.55,
               "paymentInPercentageWithinState": 0.15,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 45
+              "averageRecipientCount": 53
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1641,16 +1641,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 431536006.76,
-          "averageAreaInAcres": 14363.08,
-          "averageRecipientCount": 10284,
+          "averageAreaInAcres": 13199.75,
+          "averageRecipientCount": 7108,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 390237551.02,
               "paymentInPercentageNationwide": 5.92,
               "paymentInPercentageWithinState": 62.89,
-              "averageAreaInAcres": 14363.08,
-              "averageRecipientCount": 8895
+              "averageAreaInAcres": 13199.75,
+              "averageRecipientCount": 5265
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1658,22 +1658,22 @@
               "paymentInPercentageNationwide": 10.16,
               "paymentInPercentageWithinState": 6.66,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1389
+              "averageRecipientCount": 1843
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 102479456.13,
-          "averageAreaInAcres": 9684.54,
-          "averageRecipientCount": 12898,
+          "averageAreaInAcres": 8596.58,
+          "averageRecipientCount": 15170,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 73639973.02,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 460,
+          "averageRecipientCount": 400,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1681,7 +1681,7 @@
               "paymentInPercentageNationwide": 3.88,
               "paymentInPercentageWithinState": 11.87,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 460
+              "averageRecipientCount": 400
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1696,7 +1696,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 12894472.44,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 77,
+          "averageRecipientCount": 67,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1712,7 +1712,7 @@
               "paymentInPercentageNationwide": 0.22,
               "paymentInPercentageWithinState": 0.09,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 41
+              "averageRecipientCount": 33
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -1720,7 +1720,7 @@
               "paymentInPercentageNationwide": 0.24,
               "paymentInPercentageWithinState": 0.07,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 30
+              "averageRecipientCount": 27
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1728,7 +1728,7 @@
               "paymentInPercentageNationwide": 0.43,
               "paymentInPercentageWithinState": 0.03,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 6
+              "averageRecipientCount": 7
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1750,16 +1750,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 92304365.44,
-          "averageAreaInAcres": 7704.07,
-          "averageRecipientCount": 11378,
+          "averageAreaInAcres": 5624.33,
+          "averageRecipientCount": 9151,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 88221464.15,
               "paymentInPercentageNationwide": 1.34,
               "paymentInPercentageWithinState": 14.38,
-              "averageAreaInAcres": 7704.07,
-              "averageRecipientCount": 11116
+              "averageAreaInAcres": 5624.33,
+              "averageRecipientCount": 8802
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1767,22 +1767,22 @@
               "paymentInPercentageNationwide": 1.0,
               "paymentInPercentageWithinState": 0.67,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 262
+              "averageRecipientCount": 349
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 69457119.71,
-          "averageAreaInAcres": 9247.68,
-          "averageRecipientCount": 9313,
+          "averageAreaInAcres": 9718.14,
+          "averageRecipientCount": 11127,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 437037560.11,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 2432,
+          "averageRecipientCount": 2089,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1790,7 +1790,7 @@
               "paymentInPercentageNationwide": 23.05,
               "paymentInPercentageWithinState": 71.25,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 2432
+              "averageRecipientCount": 2089
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1805,7 +1805,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 14575897.46,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 273,
+          "averageRecipientCount": 251,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1821,7 +1821,7 @@
               "paymentInPercentageNationwide": 0.68,
               "paymentInPercentageWithinState": 0.27,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 70
+              "averageRecipientCount": 51
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -1829,7 +1829,7 @@
               "paymentInPercentageNationwide": 0.88,
               "paymentInPercentageWithinState": 0.24,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 48
+              "averageRecipientCount": 46
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -1845,7 +1845,7 @@
               "paymentInPercentageNationwide": 0.16,
               "paymentInPercentageWithinState": 0.01,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 2
+              "averageRecipientCount": 1
             }
           ]
         }
@@ -1859,16 +1859,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 459757463.95,
-          "averageAreaInAcres": 15396.64,
-          "averageRecipientCount": 15955,
+          "averageAreaInAcres": 13830.14,
+          "averageRecipientCount": 13357,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 436330504.53,
               "paymentInPercentageNationwide": 6.62,
               "paymentInPercentageWithinState": 71.9,
-              "averageAreaInAcres": 15396.64,
-              "averageRecipientCount": 15162
+              "averageAreaInAcres": 13830.14,
+              "averageRecipientCount": 12303
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1876,22 +1876,22 @@
               "paymentInPercentageNationwide": 5.77,
               "paymentInPercentageWithinState": 3.86,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 793
+              "averageRecipientCount": 1054
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 117934591.03,
-          "averageAreaInAcres": 13641.06,
-          "averageRecipientCount": 12267,
+          "averageAreaInAcres": 14056.71,
+          "averageRecipientCount": 15127,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 25870882.14,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 224,
+          "averageRecipientCount": 200,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -1899,7 +1899,7 @@
               "paymentInPercentageNationwide": 1.36,
               "paymentInPercentageWithinState": 4.26,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 224
+              "averageRecipientCount": 200
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -1914,7 +1914,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 3305538.36,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 28,
+          "averageRecipientCount": 21,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -1930,7 +1930,7 @@
               "paymentInPercentageNationwide": 0.3,
               "paymentInPercentageWithinState": 0.08,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 7
+              "averageRecipientCount": 6
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -1938,7 +1938,7 @@
               "paymentInPercentageNationwide": 0.07,
               "paymentInPercentageWithinState": 0.03,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 20
+              "averageRecipientCount": 14
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -1967,16 +1967,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 85651245.83,
-          "averageAreaInAcres": 28316.83,
-          "averageRecipientCount": 1883,
+          "averageAreaInAcres": 6343.63,
+          "averageRecipientCount": 2173,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 82284672.49,
               "paymentInPercentageNationwide": 1.25,
               "paymentInPercentageWithinState": 14.69,
-              "averageAreaInAcres": 28316.83,
-              "averageRecipientCount": 1819
+              "averageAreaInAcres": 6343.63,
+              "averageRecipientCount": 2104
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1984,15 +1984,15 @@
               "paymentInPercentageNationwide": 0.83,
               "paymentInPercentageWithinState": 0.6,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 64
+              "averageRecipientCount": 69
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 323024957.62,
-          "averageAreaInAcres": 42771.54,
-          "averageRecipientCount": 8515,
+          "averageAreaInAcres": 17798.64,
+          "averageRecipientCount": 8598,
           "subPrograms": []
         },
         {
@@ -2022,7 +2022,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 137044676.29,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1825,
+          "averageRecipientCount": 1816,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2030,7 +2030,7 @@
               "paymentInPercentageNationwide": 5.16,
               "paymentInPercentageWithinState": 15.33,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1718
+              "averageRecipientCount": 1724
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2046,7 +2046,7 @@
               "paymentInPercentageNationwide": 1.47,
               "paymentInPercentageWithinState": 0.44,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 41
+              "averageRecipientCount": 36
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2054,7 +2054,7 @@
               "paymentInPercentageNationwide": 0.93,
               "paymentInPercentageWithinState": 0.41,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 65
+              "averageRecipientCount": 55
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -2076,16 +2076,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 45242643.85,
-          "averageAreaInAcres": 14002.05,
-          "averageRecipientCount": 438,
+          "averageAreaInAcres": 3598.07,
+          "averageRecipientCount": 214,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 43822997.85,
               "paymentInPercentageNationwide": 0.67,
               "paymentInPercentageWithinState": 8.27,
-              "averageAreaInAcres": 14002.05,
-              "averageRecipientCount": 425
+              "averageAreaInAcres": 3598.07,
+              "averageRecipientCount": 210
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2093,22 +2093,22 @@
               "paymentInPercentageNationwide": 0.35,
               "paymentInPercentageWithinState": 0.27,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 13
+              "averageRecipientCount": 4
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 216474791.08,
-          "averageAreaInAcres": 29312.43,
-          "averageRecipientCount": 2929,
+          "averageAreaInAcres": 9115.3,
+          "averageRecipientCount": 2624,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 164809732.88,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 411,
+          "averageRecipientCount": 402,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2116,7 +2116,7 @@
               "paymentInPercentageNationwide": 8.69,
               "paymentInPercentageWithinState": 31.1,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 411
+              "averageRecipientCount": 402
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -2131,7 +2131,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 103456343.07,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1201,
+          "averageRecipientCount": 1256,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2139,7 +2139,7 @@
               "paymentInPercentageNationwide": 3.07,
               "paymentInPercentageWithinState": 9.63,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 916
+              "averageRecipientCount": 1006
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2147,7 +2147,7 @@
               "paymentInPercentageNationwide": 10.3,
               "paymentInPercentageWithinState": 4.79,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 190
+              "averageRecipientCount": 160
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2171,7 +2171,7 @@
               "paymentInPercentageNationwide": 2.58,
               "paymentInPercentageWithinState": 0.82,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 30
+              "averageRecipientCount": 25
             }
           ]
         }
@@ -2185,16 +2185,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 138676724.67,
-          "averageAreaInAcres": 17049.01,
-          "averageRecipientCount": 3391,
+          "averageAreaInAcres": 3955.32,
+          "averageRecipientCount": 2814,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 138097405.67,
               "paymentInPercentageNationwide": 2.1,
               "paymentInPercentageWithinState": 30.88,
-              "averageAreaInAcres": 17049.01,
-              "averageRecipientCount": 3385
+              "averageAreaInAcres": 3955.32,
+              "averageRecipientCount": 2809
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2202,22 +2202,22 @@
               "paymentInPercentageNationwide": 0.14,
               "paymentInPercentageWithinState": 0.13,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 6
+              "averageRecipientCount": 5
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 260612211.47,
-          "averageAreaInAcres": 22928.84,
-          "averageRecipientCount": 5458,
+          "averageAreaInAcres": 2959.57,
+          "averageRecipientCount": 6002,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 12262937.27,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 91,
+          "averageRecipientCount": 82,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2225,7 +2225,7 @@
               "paymentInPercentageNationwide": 0.65,
               "paymentInPercentageWithinState": 2.74,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 91
+              "averageRecipientCount": 82
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -2240,7 +2240,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 35664145.85,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 182,
+          "averageRecipientCount": 149,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2256,7 +2256,7 @@
               "paymentInPercentageNationwide": 6.55,
               "paymentInPercentageWithinState": 0.7,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 17
+              "averageRecipientCount": 18
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2264,7 +2264,7 @@
               "paymentInPercentageNationwide": 1.04,
               "paymentInPercentageWithinState": 0.57,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 101
+              "averageRecipientCount": 76
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -2272,7 +2272,7 @@
               "paymentInPercentageNationwide": 1.39,
               "paymentInPercentageWithinState": 0.52,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 63
+              "averageRecipientCount": 54
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2294,16 +2294,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 267612140.46,
-          "averageAreaInAcres": 14760.63,
-          "averageRecipientCount": 8946,
+          "averageAreaInAcres": 6719.42,
+          "averageRecipientCount": 7361,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 255591500.21,
               "paymentInPercentageNationwide": 3.88,
               "paymentInPercentageWithinState": 58.1,
-              "averageAreaInAcres": 14760.63,
-              "averageRecipientCount": 8477
+              "averageAreaInAcres": 6719.42,
+              "averageRecipientCount": 6752
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2311,22 +2311,22 @@
               "paymentInPercentageNationwide": 2.96,
               "paymentInPercentageWithinState": 2.73,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 469
+              "averageRecipientCount": 609
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 72159761.49,
-          "averageAreaInAcres": 7449.01,
-          "averageRecipientCount": 6782,
+          "averageAreaInAcres": 6754.55,
+          "averageRecipientCount": 8033,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 88424921.02,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 447,
+          "averageRecipientCount": 387,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2334,7 +2334,7 @@
               "paymentInPercentageNationwide": 4.66,
               "paymentInPercentageWithinState": 20.1,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 447
+              "averageRecipientCount": 387
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -2349,7 +2349,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 11712282.72,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 49,
+          "averageRecipientCount": 52,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2365,7 +2365,7 @@
               "paymentInPercentageNationwide": 1.55,
               "paymentInPercentageWithinState": 0.87,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 26
+              "averageRecipientCount": 27
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -2373,7 +2373,7 @@
               "paymentInPercentageNationwide": 2.51,
               "paymentInPercentageWithinState": 0.27,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 16
+              "averageRecipientCount": 18
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -2402,16 +2402,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 49181536.45,
-          "averageAreaInAcres": 7584.82,
-          "averageRecipientCount": 892,
+          "averageAreaInAcres": 2196.97,
+          "averageRecipientCount": 408,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 46413030.45,
               "paymentInPercentageNationwide": 0.7,
               "paymentInPercentageWithinState": 10.84,
-              "averageAreaInAcres": 7584.82,
-              "averageRecipientCount": 831
+              "averageAreaInAcres": 2196.97,
+              "averageRecipientCount": 359
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2419,22 +2419,22 @@
               "paymentInPercentageNationwide": 0.68,
               "paymentInPercentageWithinState": 0.65,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 61
+              "averageRecipientCount": 49
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 317303059.73,
-          "averageAreaInAcres": 41316.26,
-          "averageRecipientCount": 6141,
+          "averageAreaInAcres": 12160.42,
+          "averageRecipientCount": 6289,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 38187649.21,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 137,
+          "averageRecipientCount": 128,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2442,7 +2442,7 @@
               "paymentInPercentageNationwide": 2.01,
               "paymentInPercentageWithinState": 8.92,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 137
+              "averageRecipientCount": 128
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -2457,7 +2457,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 23543195.11,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 322,
+          "averageRecipientCount": 364,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2465,7 +2465,7 @@
               "paymentInPercentageNationwide": 0.65,
               "paymentInPercentageWithinState": 2.53,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 248
+              "averageRecipientCount": 306
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2473,7 +2473,7 @@
               "paymentInPercentageNationwide": 2.93,
               "paymentInPercentageWithinState": 1.69,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 37
+              "averageRecipientCount": 36
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2489,7 +2489,7 @@
               "paymentInPercentageNationwide": 1.55,
               "paymentInPercentageWithinState": 0.61,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 36
+              "averageRecipientCount": 22
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -2497,7 +2497,7 @@
               "paymentInPercentageNationwide": 0.23,
               "paymentInPercentageWithinState": 0.03,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -2511,16 +2511,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 116336860.66,
-          "averageAreaInAcres": 19445.19,
-          "averageRecipientCount": 1219,
+          "averageAreaInAcres": 16983.82,
+          "averageRecipientCount": 407,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 112131970.79,
               "paymentInPercentageNationwide": 1.7,
               "paymentInPercentageWithinState": 27.51,
-              "averageAreaInAcres": 19445.19,
-              "averageRecipientCount": 1086
+              "averageAreaInAcres": 16983.82,
+              "averageRecipientCount": 325
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2528,22 +2528,22 @@
               "paymentInPercentageNationwide": 1.03,
               "paymentInPercentageWithinState": 1.03,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 133
+              "averageRecipientCount": 82
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 231033436.4,
-          "averageAreaInAcres": 29015.82,
-          "averageRecipientCount": 5018,
+          "averageAreaInAcres": 22933.88,
+          "averageRecipientCount": 6075,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 36311710.69,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 153,
+          "averageRecipientCount": 144,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2551,7 +2551,7 @@
               "paymentInPercentageNationwide": 1.91,
               "paymentInPercentageWithinState": 8.91,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 153
+              "averageRecipientCount": 144
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -2566,7 +2566,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 23886077.5,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 371,
+          "averageRecipientCount": 450,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2574,7 +2574,7 @@
               "paymentInPercentageNationwide": 0.46,
               "paymentInPercentageWithinState": 1.89,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 239
+              "averageRecipientCount": 306
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -2582,7 +2582,7 @@
               "paymentInPercentageNationwide": 4.11,
               "paymentInPercentageWithinState": 1.69,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 63
+              "averageRecipientCount": 69
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2590,7 +2590,7 @@
               "paymentInPercentageNationwide": 1.82,
               "paymentInPercentageWithinState": 1.1,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 65
+              "averageRecipientCount": 70
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2606,7 +2606,7 @@
               "paymentInPercentageNationwide": 0.96,
               "paymentInPercentageWithinState": 0.11,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 4
+              "averageRecipientCount": 5
             }
           ]
         }
@@ -2620,16 +2620,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 29438122.97,
-          "averageAreaInAcres": 2632.74,
-          "averageRecipientCount": 1702,
+          "averageAreaInAcres": 1291.25,
+          "averageRecipientCount": 1533,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 29438122.97,
               "paymentInPercentageNationwide": 0.45,
               "paymentInPercentageWithinState": 7.35,
-              "averageAreaInAcres": 2632.74,
-              "averageRecipientCount": 1702
+              "averageAreaInAcres": 1291.25,
+              "averageRecipientCount": 1533
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2643,15 +2643,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 307281424.37,
-          "averageAreaInAcres": 36568.23,
-          "averageRecipientCount": 5100,
+          "averageAreaInAcres": 3037.37,
+          "averageRecipientCount": 5396,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 1282947.36,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 18,
+          "averageRecipientCount": 15,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2659,7 +2659,7 @@
               "paymentInPercentageNationwide": 0.07,
               "paymentInPercentageWithinState": 0.32,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 18
+              "averageRecipientCount": 15
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -2674,7 +2674,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 62571774.49,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1444,
+          "averageRecipientCount": 1192,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2682,7 +2682,7 @@
               "paymentInPercentageNationwide": 3.24,
               "paymentInPercentageWithinState": 13.47,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1418
+              "averageRecipientCount": 1169
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2698,7 +2698,7 @@
               "paymentInPercentageNationwide": 0.2,
               "paymentInPercentageWithinState": 0.09,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 18
+              "averageRecipientCount": 16
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2706,7 +2706,7 @@
               "paymentInPercentageNationwide": 0.03,
               "paymentInPercentageWithinState": 0.02,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 5
+              "averageRecipientCount": 3
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -2714,7 +2714,7 @@
               "paymentInPercentageNationwide": 0.04,
               "paymentInPercentageWithinState": 0.01,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 3
+              "averageRecipientCount": 4
             }
           ]
         }
@@ -2728,16 +2728,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 11773081.26,
-          "averageAreaInAcres": 8256.05,
-          "averageRecipientCount": 154,
+          "averageAreaInAcres": 4878.78,
+          "averageRecipientCount": 112,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 11621603.26,
               "paymentInPercentageNationwide": 0.18,
               "paymentInPercentageWithinState": 3.91,
-              "averageAreaInAcres": 8256.05,
-              "averageRecipientCount": 152
+              "averageAreaInAcres": 4878.78,
+              "averageRecipientCount": 110
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2752,15 +2752,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 92584760.0,
-          "averageAreaInAcres": 42266.93,
-          "averageRecipientCount": 1638,
+          "averageAreaInAcres": 10169.87,
+          "averageRecipientCount": 1594,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 14897213.69,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 36,
+          "averageRecipientCount": 42,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2768,7 +2768,7 @@
               "paymentInPercentageNationwide": 0.75,
               "paymentInPercentageWithinState": 4.77,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 36
+              "averageRecipientCount": 42
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -2784,7 +2784,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 178260535.78,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1706,
+          "averageRecipientCount": 1532,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2800,7 +2800,7 @@
               "paymentInPercentageNationwide": 4.99,
               "paymentInPercentageWithinState": 27.91,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1635
+              "averageRecipientCount": 1451
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -2808,7 +2808,7 @@
               "paymentInPercentageNationwide": 1.57,
               "paymentInPercentageWithinState": 0.88,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 14
+              "averageRecipientCount": 15
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2816,7 +2816,7 @@
               "paymentInPercentageNationwide": 0.33,
               "paymentInPercentageWithinState": 0.28,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 54
+              "averageRecipientCount": 63
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -2838,16 +2838,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 3691607.26,
-          "averageAreaInAcres": 1547.49,
-          "averageRecipientCount": 305,
+          "averageAreaInAcres": 623.66,
+          "averageRecipientCount": 301,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 3691607.26,
               "paymentInPercentageNationwide": 0.06,
               "paymentInPercentageWithinState": 1.44,
-              "averageAreaInAcres": 1547.49,
-              "averageRecipientCount": 305
+              "averageAreaInAcres": 623.66,
+              "averageRecipientCount": 301
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2861,15 +2861,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 138455078.73,
-          "averageAreaInAcres": 45595.76,
-          "averageRecipientCount": 1150,
+          "averageAreaInAcres": 2636.46,
+          "averageRecipientCount": 1156,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 7714602.97,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 28,
+          "averageRecipientCount": 27,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2877,7 +2877,7 @@
               "paymentInPercentageNationwide": 0.41,
               "paymentInPercentageWithinState": 3.01,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 28
+              "averageRecipientCount": 27
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -2892,7 +2892,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 106476787.1,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 554,
+          "averageRecipientCount": 405,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -2900,7 +2900,7 @@
               "paymentInPercentageNationwide": 15.24,
               "paymentInPercentageWithinState": 14.65,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 224
+              "averageRecipientCount": 156
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -2916,7 +2916,7 @@
               "paymentInPercentageNationwide": 48.58,
               "paymentInPercentageWithinState": 9.1,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 145
+              "averageRecipientCount": 133
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -2924,7 +2924,7 @@
               "paymentInPercentageNationwide": 0.65,
               "paymentInPercentageWithinState": 4.23,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 163
+              "averageRecipientCount": 99
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -2932,7 +2932,7 @@
               "paymentInPercentageNationwide": 0.44,
               "paymentInPercentageWithinState": 0.29,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 22
+              "averageRecipientCount": 17
             }
           ]
         }
@@ -2946,16 +2946,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 56142171.32,
-          "averageAreaInAcres": 3625.17,
-          "averageRecipientCount": 1485,
+          "averageAreaInAcres": 2590.14,
+          "averageRecipientCount": 823,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 54642238.07,
               "paymentInPercentageNationwide": 0.83,
               "paymentInPercentageWithinState": 21.5,
-              "averageAreaInAcres": 3625.17,
-              "averageRecipientCount": 1373
+              "averageAreaInAcres": 2590.14,
+              "averageRecipientCount": 655
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -2963,22 +2963,22 @@
               "paymentInPercentageNationwide": 0.37,
               "paymentInPercentageWithinState": 0.59,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 112
+              "averageRecipientCount": 168
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 16480047.11,
-          "averageAreaInAcres": 3902.95,
-          "averageRecipientCount": 1968,
+          "averageAreaInAcres": 4027.58,
+          "averageRecipientCount": 2410,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 168641253.73,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1159,
+          "averageRecipientCount": 999,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -2986,7 +2986,7 @@
               "paymentInPercentageNationwide": 8.89,
               "paymentInPercentageWithinState": 66.35,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1159
+              "averageRecipientCount": 999
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3001,7 +3001,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 12902402.98,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 53,
+          "averageRecipientCount": 36,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3017,7 +3017,7 @@
               "paymentInPercentageNationwide": 0.68,
               "paymentInPercentageWithinState": 0.66,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 35
+              "averageRecipientCount": 23
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3025,7 +3025,7 @@
               "paymentInPercentageNationwide": 1.4,
               "paymentInPercentageWithinState": 0.26,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 11
+              "averageRecipientCount": 7
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3033,7 +3033,7 @@
               "paymentInPercentageNationwide": 0.05,
               "paymentInPercentageWithinState": 0.03,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 4
+              "averageRecipientCount": 3
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3055,16 +3055,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 41948335.61,
-          "averageAreaInAcres": 8616.53,
-          "averageRecipientCount": 1025,
+          "averageAreaInAcres": 4500.3,
+          "averageRecipientCount": 641,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 37348075.61,
               "paymentInPercentageNationwide": 0.57,
               "paymentInPercentageWithinState": 15.65,
-              "averageAreaInAcres": 8616.53,
-              "averageRecipientCount": 967
+              "averageAreaInAcres": 4500.3,
+              "averageRecipientCount": 612
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -3072,22 +3072,22 @@
               "paymentInPercentageNationwide": 1.13,
               "paymentInPercentageWithinState": 1.93,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 58
+              "averageRecipientCount": 29
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 87716184.79,
-          "averageAreaInAcres": 14960.19,
-          "averageRecipientCount": 2258,
+          "averageAreaInAcres": 9884.43,
+          "averageRecipientCount": 2628,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 20394770.46,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 104,
+          "averageRecipientCount": 98,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3095,7 +3095,7 @@
               "paymentInPercentageNationwide": 1.08,
               "paymentInPercentageWithinState": 8.54,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 104
+              "averageRecipientCount": 98
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3110,7 +3110,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 88624176.41,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1400,
+          "averageRecipientCount": 1564,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3118,7 +3118,7 @@
               "paymentInPercentageNationwide": 3.96,
               "paymentInPercentageWithinState": 27.6,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1113
+              "averageRecipientCount": 1280
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -3126,7 +3126,7 @@
               "paymentInPercentageNationwide": 3.98,
               "paymentInPercentageWithinState": 4.11,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 191
+              "averageRecipientCount": 177
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3142,7 +3142,7 @@
               "paymentInPercentageNationwide": 2.51,
               "paymentInPercentageWithinState": 1.76,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 86
+              "averageRecipientCount": 98
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3150,7 +3150,7 @@
               "paymentInPercentageNationwide": 1.67,
               "paymentInPercentageWithinState": 0.34,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 10
+              "averageRecipientCount": 9
             }
           ]
         }
@@ -3164,16 +3164,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 87968476.89,
-          "averageAreaInAcres": 8205.04,
-          "averageRecipientCount": 6372,
+          "averageAreaInAcres": 3632.84,
+          "averageRecipientCount": 5589,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 87629084.89,
               "paymentInPercentageNationwide": 1.33,
               "paymentInPercentageWithinState": 36.73,
-              "averageAreaInAcres": 8205.04,
-              "averageRecipientCount": 6360
+              "averageAreaInAcres": 3632.84,
+              "averageRecipientCount": 5574
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -3181,22 +3181,22 @@
               "paymentInPercentageNationwide": 0.08,
               "paymentInPercentageWithinState": 0.14,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 12
+              "averageRecipientCount": 15
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 131032571.13,
-          "averageAreaInAcres": 15385.36,
-          "averageRecipientCount": 8162,
+          "averageAreaInAcres": 4294.95,
+          "averageRecipientCount": 9926,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 12411513.0,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 98,
+          "averageRecipientCount": 82,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3204,7 +3204,7 @@
               "paymentInPercentageNationwide": 0.65,
               "paymentInPercentageWithinState": 5.2,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 98
+              "averageRecipientCount": 82
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3219,7 +3219,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 7138126.99,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 375,
+          "averageRecipientCount": 530,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3235,7 +3235,7 @@
               "paymentInPercentageNationwide": 0.13,
               "paymentInPercentageWithinState": 0.91,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 324
+              "averageRecipientCount": 479
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3243,7 +3243,7 @@
               "paymentInPercentageNationwide": 3.86,
               "paymentInPercentageWithinState": 0.78,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 15
+              "averageRecipientCount": 16
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3251,7 +3251,7 @@
               "paymentInPercentageNationwide": 0.24,
               "paymentInPercentageWithinState": 0.17,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 29
+              "averageRecipientCount": 30
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -3259,7 +3259,7 @@
               "paymentInPercentageNationwide": 0.08,
               "paymentInPercentageWithinState": 0.08,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 7
+              "averageRecipientCount": 5
             }
           ]
         }
@@ -3273,16 +3273,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 53816422.43,
-          "averageAreaInAcres": 7611.56,
-          "averageRecipientCount": 2962,
+          "averageAreaInAcres": 2492.41,
+          "averageRecipientCount": 2799,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 53621074.43,
               "paymentInPercentageNationwide": 0.81,
               "paymentInPercentageWithinState": 25.38,
-              "averageAreaInAcres": 7611.56,
-              "averageRecipientCount": 2949
+              "averageAreaInAcres": 2492.41,
+              "averageRecipientCount": 2783
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -3290,22 +3290,22 @@
               "paymentInPercentageNationwide": 0.05,
               "paymentInPercentageWithinState": 0.09,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 13
+              "averageRecipientCount": 16
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 12935709.65,
-          "averageAreaInAcres": 2043.53,
-          "averageRecipientCount": 2525,
+          "averageAreaInAcres": 1523.32,
+          "averageRecipientCount": 2683,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 139731406.07,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 991,
+          "averageRecipientCount": 862,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3313,7 +3313,7 @@
               "paymentInPercentageNationwide": 7.37,
               "paymentInPercentageWithinState": 66.13,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 991
+              "averageRecipientCount": 862
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3328,7 +3328,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 4819951.8,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 44,
+          "averageRecipientCount": 43,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -3336,7 +3336,7 @@
               "paymentInPercentageNationwide": 0.97,
               "paymentInPercentageWithinState": 1.13,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 35
+              "averageRecipientCount": 36
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3352,7 +3352,7 @@
               "paymentInPercentageNationwide": 0.6,
               "paymentInPercentageWithinState": 0.14,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 5
+              "averageRecipientCount": 6
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3360,7 +3360,7 @@
               "paymentInPercentageNationwide": 0.09,
               "paymentInPercentageWithinState": 0.07,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 2
+              "averageRecipientCount": 1
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3368,7 +3368,7 @@
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 2
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -3382,16 +3382,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 122450643.31,
-          "averageAreaInAcres": 8806.11,
-          "averageRecipientCount": 5220,
+          "averageAreaInAcres": 4663.5,
+          "averageRecipientCount": 4372,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 121031568.31,
               "paymentInPercentageNationwide": 1.84,
               "paymentInPercentageWithinState": 58.25,
-              "averageAreaInAcres": 8806.11,
-              "averageRecipientCount": 5178
+              "averageAreaInAcres": 4663.5,
+              "averageRecipientCount": 4316
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -3399,22 +3399,22 @@
               "paymentInPercentageNationwide": 0.35,
               "paymentInPercentageWithinState": 0.68,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 42
+              "averageRecipientCount": 56
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 60735514.56,
-          "averageAreaInAcres": 4250.47,
-          "averageRecipientCount": 8608,
+          "averageAreaInAcres": 3434.84,
+          "averageRecipientCount": 10042,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 17921242.26,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 205,
+          "averageRecipientCount": 187,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3422,7 +3422,7 @@
               "paymentInPercentageNationwide": 0.95,
               "paymentInPercentageWithinState": 8.63,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 205
+              "averageRecipientCount": 187
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3437,7 +3437,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 6660891.79,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 746,
+          "averageRecipientCount": 563,
           "subPrograms": [
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3445,7 +3445,7 @@
               "paymentInPercentageNationwide": 2.05,
               "paymentInPercentageWithinState": 1.66,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 536
+              "averageRecipientCount": 361
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3469,7 +3469,7 @@
               "paymentInPercentageNationwide": 0.09,
               "paymentInPercentageWithinState": 0.1,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 19
+              "averageRecipientCount": 11
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3491,16 +3491,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 50716269.83,
-          "averageAreaInAcres": 3477.38,
-          "averageRecipientCount": 1732,
+          "averageAreaInAcres": 1947.89,
+          "averageRecipientCount": 1475,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 50413101.83,
               "paymentInPercentageNationwide": 0.77,
               "paymentInPercentageWithinState": 25.59,
-              "averageAreaInAcres": 3477.38,
-              "averageRecipientCount": 1719
+              "averageAreaInAcres": 1947.89,
+              "averageRecipientCount": 1459
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -3508,22 +3508,22 @@
               "paymentInPercentageNationwide": 0.07,
               "paymentInPercentageWithinState": 0.15,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 13
+              "averageRecipientCount": 16
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 101686691.92,
-          "averageAreaInAcres": 10019.69,
-          "averageRecipientCount": 3109,
+          "averageAreaInAcres": 1402.06,
+          "averageRecipientCount": 3122,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 29941352.29,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 173,
+          "averageRecipientCount": 153,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3531,7 +3531,7 @@
               "paymentInPercentageNationwide": 1.58,
               "paymentInPercentageWithinState": 15.2,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 173
+              "averageRecipientCount": 153
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3546,7 +3546,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 14663928.59,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 53,
+          "averageRecipientCount": 45,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3562,7 +3562,7 @@
               "paymentInPercentageNationwide": 0.27,
               "paymentInPercentageWithinState": 0.34,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 23
+              "averageRecipientCount": 17
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3578,7 +3578,7 @@
               "paymentInPercentageNationwide": 0.1,
               "paymentInPercentageWithinState": 0.08,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 24
+              "averageRecipientCount": 23
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3586,7 +3586,7 @@
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -3600,16 +3600,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 35415752.34,
-          "averageAreaInAcres": 6738.64,
-          "averageRecipientCount": 1068,
+          "averageAreaInAcres": 3117.7,
+          "averageRecipientCount": 871,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 35415752.34,
               "paymentInPercentageNationwide": 0.54,
               "paymentInPercentageWithinState": 19.03,
-              "averageAreaInAcres": 6738.64,
-              "averageRecipientCount": 1068
+              "averageAreaInAcres": 3117.7,
+              "averageRecipientCount": 871
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -3623,15 +3623,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 130954693.96,
-          "averageAreaInAcres": 17385.05,
-          "averageRecipientCount": 2527,
+          "averageAreaInAcres": 2030.97,
+          "averageRecipientCount": 2606,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 4051176.51,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 35,
+          "averageRecipientCount": 33,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3639,7 +3639,7 @@
               "paymentInPercentageNationwide": 0.21,
               "paymentInPercentageWithinState": 2.18,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 35
+              "averageRecipientCount": 33
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3654,7 +3654,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 15684465.59,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 399,
+          "averageRecipientCount": 495,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3670,7 +3670,7 @@
               "paymentInPercentageNationwide": 0.34,
               "paymentInPercentageWithinState": 3.04,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 378
+              "averageRecipientCount": 480
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3678,7 +3678,7 @@
               "paymentInPercentageNationwide": 0.19,
               "paymentInPercentageWithinState": 0.17,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 9
+              "averageRecipientCount": 8
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -3686,7 +3686,7 @@
               "paymentInPercentageNationwide": 0.08,
               "paymentInPercentageWithinState": 0.1,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 10
+              "averageRecipientCount": 7
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3694,7 +3694,7 @@
               "paymentInPercentageNationwide": 0.09,
               "paymentInPercentageWithinState": 0.02,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 2
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -3708,7 +3708,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 234501.0,
-          "averageAreaInAcres": 877.65,
+          "averageAreaInAcres": 144.88,
           "averageRecipientCount": 11,
           "subPrograms": [
             {
@@ -3716,7 +3716,7 @@
               "paymentInDollars": 199895.0,
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 0.12,
-              "averageAreaInAcres": 877.65,
+              "averageAreaInAcres": 144.88,
               "averageRecipientCount": 10
             },
             {
@@ -3732,15 +3732,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 111551561.08,
-          "averageAreaInAcres": 66259.83,
-          "averageRecipientCount": 495,
+          "averageAreaInAcres": 8393.16,
+          "averageRecipientCount": 498,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 8708397.34,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 18,
+          "averageRecipientCount": 20,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3748,7 +3748,7 @@
               "paymentInPercentageNationwide": 0.46,
               "paymentInPercentageWithinState": 5.32,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 18
+              "averageRecipientCount": 20
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3763,7 +3763,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 43221838.22,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1721,
+          "averageRecipientCount": 1618,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3771,7 +3771,7 @@
               "paymentInPercentageNationwide": 2.27,
               "paymentInPercentageWithinState": 23.06,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1693
+              "averageRecipientCount": 1589
             },
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -3779,7 +3779,7 @@
               "paymentInPercentageNationwide": 1.78,
               "paymentInPercentageWithinState": 2.68,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 27
+              "averageRecipientCount": 28
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3816,16 +3816,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 3822819.0,
-          "averageAreaInAcres": 2718.54,
-          "averageRecipientCount": 108,
+          "averageAreaInAcres": 3454.61,
+          "averageRecipientCount": 43,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 3822819.0,
               "paymentInPercentageNationwide": 0.06,
               "paymentInPercentageWithinState": 2.66,
-              "averageAreaInAcres": 2718.54,
-              "averageRecipientCount": 108
+              "averageAreaInAcres": 3454.61,
+              "averageRecipientCount": 43
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -3839,15 +3839,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 32293527.98,
-          "averageAreaInAcres": 10150.7,
-          "averageRecipientCount": 1714,
+          "averageAreaInAcres": 3560.39,
+          "averageRecipientCount": 1718,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 18206233.02,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 94,
+          "averageRecipientCount": 87,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -3855,7 +3855,7 @@
               "paymentInPercentageNationwide": 0.96,
               "paymentInPercentageWithinState": 12.67,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 94
+              "averageRecipientCount": 87
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -3870,7 +3870,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 89365514.0,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1264,
+          "averageRecipientCount": 1233,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3878,7 +3878,7 @@
               "paymentInPercentageNationwide": 4.4,
               "paymentInPercentageWithinState": 50.94,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1068
+              "averageRecipientCount": 1043
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -3894,7 +3894,7 @@
               "paymentInPercentageNationwide": 1.71,
               "paymentInPercentageWithinState": 2.94,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 160
+              "averageRecipientCount": 138
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -3902,7 +3902,7 @@
               "paymentInPercentageNationwide": 0.51,
               "paymentInPercentageWithinState": 0.59,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 36
+              "averageRecipientCount": 52
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -3923,16 +3923,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 4744146.63,
-          "averageAreaInAcres": 1620.24,
-          "averageRecipientCount": 199,
+          "averageAreaInAcres": 1539.98,
+          "averageRecipientCount": 151,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 4537558.63,
               "paymentInPercentageNationwide": 0.07,
               "paymentInPercentageWithinState": 3.51,
-              "averageAreaInAcres": 1620.24,
-              "averageRecipientCount": 190
+              "averageAreaInAcres": 1539.98,
+              "averageRecipientCount": 144
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -3940,15 +3940,15 @@
               "paymentInPercentageNationwide": 0.05,
               "paymentInPercentageWithinState": 0.16,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 9
+              "averageRecipientCount": 7
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 32331602.19,
-          "averageAreaInAcres": 16147.81,
-          "averageRecipientCount": 1637,
+          "averageAreaInAcres": 6407.55,
+          "averageRecipientCount": 1664,
           "subPrograms": []
         },
         {
@@ -3978,7 +3978,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 91429576.04,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 954,
+          "averageRecipientCount": 1154,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -3986,7 +3986,7 @@
               "paymentInPercentageNationwide": 3.94,
               "paymentInPercentageWithinState": 50.74,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 795
+              "averageRecipientCount": 986
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4010,7 +4010,7 @@
               "paymentInPercentageNationwide": 2.28,
               "paymentInPercentageWithinState": 2.96,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 80
+              "averageRecipientCount": 89
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -4031,16 +4031,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 45800893.53,
-          "averageAreaInAcres": 24290.51,
-          "averageRecipientCount": 1308,
+          "averageAreaInAcres": 6397.0,
+          "averageRecipientCount": 1275,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 45736668.53,
               "paymentInPercentageNationwide": 0.69,
               "paymentInPercentageWithinState": 52.22,
-              "averageAreaInAcres": 24290.51,
-              "averageRecipientCount": 1306
+              "averageAreaInAcres": 6397.0,
+              "averageRecipientCount": 1273
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4055,15 +4055,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 22506256.68,
-          "averageAreaInAcres": 6218.76,
-          "averageRecipientCount": 1783,
+          "averageAreaInAcres": 3347.35,
+          "averageRecipientCount": 1852,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 18720612.26,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 158,
+          "averageRecipientCount": 153,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4071,7 +4071,7 @@
               "paymentInPercentageNationwide": 0.99,
               "paymentInPercentageWithinState": 21.37,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 158
+              "averageRecipientCount": 153
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -4138,16 +4138,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 2133231.78,
-          "averageAreaInAcres": 759.56,
-          "averageRecipientCount": 139,
+          "averageAreaInAcres": 605.07,
+          "averageRecipientCount": 27,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 2120499.78,
               "paymentInPercentageNationwide": 0.03,
               "paymentInPercentageWithinState": 4.57,
-              "averageAreaInAcres": 759.56,
-              "averageRecipientCount": 138
+              "averageAreaInAcres": 605.07,
+              "averageRecipientCount": 26
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4162,15 +4162,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1148055.0,
-          "averageAreaInAcres": 2534.44,
-          "averageRecipientCount": 188,
+          "averageAreaInAcres": 2747.32,
+          "averageRecipientCount": 236,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 42255617.46,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 295,
+          "averageRecipientCount": 253,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4178,7 +4178,7 @@
               "paymentInPercentageNationwide": 2.23,
               "paymentInPercentageWithinState": 91.11,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 295
+              "averageRecipientCount": 253
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -4245,16 +4245,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 405185.0,
-          "averageAreaInAcres": 3748.23,
-          "averageRecipientCount": 35,
+          "averageAreaInAcres": 116.65,
+          "averageRecipientCount": 38,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 405185.0,
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 1.12,
-              "averageAreaInAcres": 3748.23,
-              "averageRecipientCount": 35
+              "averageAreaInAcres": 116.65,
+              "averageRecipientCount": 38
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4268,15 +4268,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 3562673.0,
-          "averageAreaInAcres": 5040.54,
-          "averageRecipientCount": 127,
+          "averageAreaInAcres": 2135.75,
+          "averageRecipientCount": 141,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 3546453.04,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 11,
+          "averageRecipientCount": 12,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4284,7 +4284,7 @@
               "paymentInPercentageNationwide": 0.19,
               "paymentInPercentageWithinState": 9.79,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 11
+              "averageRecipientCount": 12
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -4299,7 +4299,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 28695926.3,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 243,
+          "averageRecipientCount": 295,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4307,7 +4307,7 @@
               "paymentInPercentageNationwide": 1.54,
               "paymentInPercentageWithinState": 71.04,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 230
+              "averageRecipientCount": 285
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4323,7 +4323,7 @@
               "paymentInPercentageNationwide": 0.22,
               "paymentInPercentageWithinState": 1.51,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 10
+              "averageRecipientCount": 7
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -4352,16 +4352,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 17748175.85,
-          "averageAreaInAcres": 92433.45,
-          "averageRecipientCount": 351,
+          "averageAreaInAcres": 14389.52,
+          "averageRecipientCount": 402,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 17739760.85,
               "paymentInPercentageNationwide": 0.27,
               "paymentInPercentageWithinState": 62.67,
-              "averageAreaInAcres": 92433.45,
-              "averageRecipientCount": 350
+              "averageAreaInAcres": 14389.52,
+              "averageRecipientCount": 402
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4369,22 +4369,22 @@
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 0.03,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1
+              "averageRecipientCount": 0
             }
           ]
         },
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 8505473.81,
-          "averageAreaInAcres": 15131.85,
-          "averageRecipientCount": 490,
+          "averageAreaInAcres": 8810.84,
+          "averageRecipientCount": 529,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 1454811.6,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 16,
+          "averageRecipientCount": 15,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4392,7 +4392,7 @@
               "paymentInPercentageNationwide": 0.08,
               "paymentInPercentageWithinState": 5.14,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 16
+              "averageRecipientCount": 15
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -4407,7 +4407,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 596563.0,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 1,
+          "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4423,17 +4423,17 @@
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 0.01,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1
+              "averageRecipientCount": 0
             },
             {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
+              "subProgramName": "Livestock Indemnity Program (LIP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             },
             {
-              "subProgramName": "Livestock Indemnity Program (LIP)",
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
@@ -4491,14 +4491,14 @@
           "averageRecipientCount": 0,
           "subPrograms": [
             {
-              "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
+              "subProgramName": "Dairy Margin Coverage Program (DMC)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             },
             {
-              "subProgramName": "Dairy Margin Coverage Program (DMC)",
+              "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
@@ -4510,7 +4510,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 21210373.88,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 201,
+          "averageRecipientCount": 190,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4534,7 +4534,7 @@
               "paymentInPercentageNationwide": 0.24,
               "paymentInPercentageWithinState": 1.86,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 6
+              "averageRecipientCount": 0
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -4550,7 +4550,7 @@
               "paymentInPercentageNationwide": 0.07,
               "paymentInPercentageWithinState": 0.84,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 5
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -4564,16 +4564,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 3534170.0,
-          "averageAreaInAcres": 1193.44,
-          "averageRecipientCount": 189,
+          "averageAreaInAcres": 1152.19,
+          "averageRecipientCount": 109,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 3534170.0,
               "paymentInPercentageNationwide": 0.05,
               "paymentInPercentageWithinState": 19.42,
-              "averageAreaInAcres": 1193.44,
-              "averageRecipientCount": 189
+              "averageAreaInAcres": 1152.19,
+              "averageRecipientCount": 109
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4587,15 +4587,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1105639.0,
-          "averageAreaInAcres": 4609.25,
-          "averageRecipientCount": 173,
+          "averageAreaInAcres": 1968.98,
+          "averageRecipientCount": 179,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 12578361.52,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 113,
+          "averageRecipientCount": 99,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4603,7 +4603,7 @@
               "paymentInPercentageNationwide": 0.61,
               "paymentInPercentageWithinState": 63.7,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 113
+              "averageRecipientCount": 99
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -4619,7 +4619,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 978730.12,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 111,
+          "averageRecipientCount": 107,
           "subPrograms": [
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
@@ -4635,7 +4635,7 @@
               "paymentInPercentageNationwide": 0.13,
               "paymentInPercentageWithinState": 1.82,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 12
+              "averageRecipientCount": 8
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4673,16 +4673,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 7174443.37,
-          "averageAreaInAcres": 6402.61,
-          "averageRecipientCount": 243,
+          "averageAreaInAcres": 2091.11,
+          "averageRecipientCount": 287,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 7063228.37,
               "paymentInPercentageNationwide": 0.11,
               "paymentInPercentageWithinState": 38.22,
-              "averageAreaInAcres": 6402.61,
-              "averageRecipientCount": 241
+              "averageAreaInAcres": 2091.11,
+              "averageRecipientCount": 285
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4697,15 +4697,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1451531.0,
-          "averageAreaInAcres": 921.62,
-          "averageRecipientCount": 222,
+          "averageAreaInAcres": 645.21,
+          "averageRecipientCount": 250,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 2609938.14,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 34,
+          "averageRecipientCount": 32,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4713,7 +4713,7 @@
               "paymentInPercentageNationwide": 0.14,
               "paymentInPercentageWithinState": 14.12,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 34
+              "averageRecipientCount": 32
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -4728,7 +4728,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 7244570.6,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 6,
+          "averageRecipientCount": 7,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4744,7 +4744,7 @@
               "paymentInPercentageNationwide": 0.36,
               "paymentInPercentageWithinState": 4.77,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 4
+              "averageRecipientCount": 5
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -4781,16 +4781,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 982167.69,
-          "averageAreaInAcres": 531.52,
-          "averageRecipientCount": 53,
+          "averageAreaInAcres": 955.6,
+          "averageRecipientCount": 9,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 982167.69,
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 6.68,
-              "averageAreaInAcres": 531.52,
-              "averageRecipientCount": 53
+              "averageAreaInAcres": 955.6,
+              "averageRecipientCount": 9
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4804,15 +4804,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 209728.86,
-          "averageAreaInAcres": 1039.5,
-          "averageRecipientCount": 59,
+          "averageAreaInAcres": 1183.62,
+          "averageRecipientCount": 73,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 6841793.67,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 81,
+          "averageRecipientCount": 76,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4820,7 +4820,7 @@
               "paymentInPercentageNationwide": 0.36,
               "paymentInPercentageWithinState": 46.5,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 81
+              "averageRecipientCount": 76
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -4835,7 +4835,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 6679937.12,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 88,
+          "averageRecipientCount": 123,
           "subPrograms": [
             {
               "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
@@ -4843,7 +4843,7 @@
               "paymentInPercentageNationwide": 1.74,
               "paymentInPercentageWithinState": 29.14,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 7
+              "averageRecipientCount": 5
             },
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4859,7 +4859,7 @@
               "paymentInPercentageNationwide": 0.02,
               "paymentInPercentageWithinState": 1.92,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 78
+              "averageRecipientCount": 117
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -4867,7 +4867,7 @@
               "paymentInPercentageNationwide": 0.38,
               "paymentInPercentageWithinState": 1.23,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 3
+              "averageRecipientCount": 1
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -4888,16 +4888,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 635689.44,
-          "averageAreaInAcres": 4267.91,
-          "averageRecipientCount": 17,
+          "averageAreaInAcres": 1619.58,
+          "averageRecipientCount": 13,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 584842.44,
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 7.07,
-              "averageAreaInAcres": 4267.91,
-              "averageRecipientCount": 16
+              "averageAreaInAcres": 1619.58,
+              "averageRecipientCount": 12
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -4912,15 +4912,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 464418.72,
-          "averageAreaInAcres": 2298.44,
-          "averageRecipientCount": 61,
+          "averageAreaInAcres": 1540.6,
+          "averageRecipientCount": 56,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 5803799.29,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 43,
+          "averageRecipientCount": 38,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -4928,7 +4928,7 @@
               "paymentInPercentageNationwide": 0.31,
               "paymentInPercentageWithinState": 70.21,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 43
+              "averageRecipientCount": 38
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -4943,7 +4943,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 1362692.0,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 18,
+          "averageRecipientCount": 26,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -4967,7 +4967,7 @@
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 1.14,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 15
+              "averageRecipientCount": 23
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -4997,16 +4997,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 819388.0,
-          "averageAreaInAcres": 1831.62,
-          "averageRecipientCount": 40,
+          "averageAreaInAcres": 854.31,
+          "averageRecipientCount": 28,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 819388.0,
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 11.0,
-              "averageAreaInAcres": 1831.62,
-              "averageRecipientCount": 40
+              "averageAreaInAcres": 854.31,
+              "averageRecipientCount": 28
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -5020,15 +5020,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 231343.0,
-          "averageAreaInAcres": 1153.08,
-          "averageRecipientCount": 36,
+          "averageAreaInAcres": 1076.55,
+          "averageRecipientCount": 41,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 5426912.16,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 61,
+          "averageRecipientCount": 58,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -5036,7 +5036,7 @@
               "paymentInPercentageNationwide": 0.29,
               "paymentInPercentageWithinState": 72.85,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 61
+              "averageRecipientCount": 58
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -5075,7 +5075,7 @@
               "paymentInPercentageNationwide": 0.02,
               "paymentInPercentageWithinState": 0.58,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 5
+              "averageRecipientCount": 6
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -5091,7 +5091,7 @@
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 1
+              "averageRecipientCount": 0
             }
           ]
         }
@@ -5105,16 +5105,16 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 4134343.89,
-          "averageAreaInAcres": 2825.19,
-          "averageRecipientCount": 297,
+          "averageAreaInAcres": 957.02,
+          "averageRecipientCount": 205,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 4086103.89,
               "paymentInPercentageNationwide": 0.06,
               "paymentInPercentageWithinState": 49.88,
-              "averageAreaInAcres": 2825.19,
-              "averageRecipientCount": 292
+              "averageAreaInAcres": 957.02,
+              "averageRecipientCount": 200
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -5129,15 +5129,15 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 550741.0,
-          "averageAreaInAcres": 395.28,
-          "averageRecipientCount": 200,
+          "averageAreaInAcres": 397.21,
+          "averageRecipientCount": 237,
           "subPrograms": []
         },
         {
           "programName": "Dairy",
           "programPaymentInDollars": 1773877.38,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 37,
+          "averageRecipientCount": 33,
           "subPrograms": [
             {
               "subProgramName": "Dairy Margin Coverage Program (DMC)",
@@ -5145,7 +5145,7 @@
               "paymentInPercentageNationwide": 0.09,
               "paymentInPercentageWithinState": 21.66,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 37
+              "averageRecipientCount": 33
             },
             {
               "subProgramName": "Dairy Indemnity Payment Program (DIPP)",
@@ -5160,7 +5160,7 @@
           "programName": "Disaster Assistance",
           "programPaymentInDollars": 1732171.96,
           "averageAreaInAcres": 0.0,
-          "averageRecipientCount": 273,
+          "averageRecipientCount": 257,
           "subPrograms": [
             {
               "subProgramName": "Noninsured Crop Disaster Assistance Program (NAP)",
@@ -5176,7 +5176,7 @@
               "paymentInPercentageNationwide": 0.24,
               "paymentInPercentageWithinState": 7.17,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 187
+              "averageRecipientCount": 181
             },
             {
               "subProgramName": "Livestock Indemnity Program (LIP)",
@@ -5184,7 +5184,7 @@
               "paymentInPercentageNationwide": 0.31,
               "paymentInPercentageWithinState": 6.34,
               "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 86
+              "averageRecipientCount": 76
             },
             {
               "subProgramName": "Tree Assistance Program (TAP)",
@@ -5213,7 +5213,7 @@
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 35391.0,
           "averageAreaInAcres": 207.89,
-          "averageRecipientCount": 7,
+          "averageRecipientCount": 13,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -5221,7 +5221,7 @@
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 2.55,
               "averageAreaInAcres": 207.89,
-              "averageRecipientCount": 7
+              "averageRecipientCount": 13
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -5235,8 +5235,8 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 173260.0,
-          "averageAreaInAcres": 369.27,
-          "averageRecipientCount": 12,
+          "averageAreaInAcres": 240.53,
+          "averageRecipientCount": 13,
           "subPrograms": []
         },
         {
@@ -5343,8 +5343,8 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 577956.0,
-          "averageAreaInAcres": 16459.31,
-          "averageRecipientCount": 18,
+          "averageAreaInAcres": 6837.75,
+          "averageRecipientCount": 16,
           "subPrograms": []
         },
         {
@@ -5393,13 +5393,6 @@
               "averageRecipientCount": 1
             },
             {
-              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0,
-              "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 0
-            },
-            {
               "subProgramName": "Tree Assistance Program (TAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0,
@@ -5408,6 +5401,13 @@
             },
             {
               "subProgramName": "Livestock Forage Disaster Program (LFP)",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "averageAreaInAcres": 0.0,
+              "averageRecipientCount": 0
+            },
+            {
+              "subProgramName": "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0,
               "averageAreaInAcres": 0.0,

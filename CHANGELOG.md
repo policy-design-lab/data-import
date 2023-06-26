@@ -32,7 +32,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - All programs summary program to update all programs based on the topline.csv
   file. [#29](https://github.com/policy-design-lab/data-import/issues/29)
 - Calculate average of base acres and recipient counts by program instead of
-  totals. https://github.com/policy-design-lab/data-import/issues/33
+  totals. [#33](https://github.com/policy-design-lab/data-import/issues/33)
+- Exclude 2018 base acres and recipient count data. [#35](https://github.com/policy-design-lab/data-import/issues/35)
 
 ### Fixed
 
