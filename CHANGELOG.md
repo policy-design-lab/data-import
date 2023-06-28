@@ -40,3 +40,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Title 1 Commodities JSON files by adding zero entries. [#6](https://github.com/policy-design-lab/data-import/issues/6)
 - Title 2 CSP JSON files by adding zero entries. [#10](https://github.com/policy-design-lab/data-import/issues/10)
 - Error in calculating totals in the allprograms.json. [#27](https://github.com/policy-design-lab/data-import/issues/27)
+- Average calculation in Title 1 Commodities. [#36](https://github.com/policy-design-lab/data-import/issues/36)
