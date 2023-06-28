@@ -432,14 +432,14 @@ class DataParser:
                 program_data[["program_description", "payments"]].groupby(["program_description"]).sum(), 2)
 
             average_base_acres_by_program_by_state = base_acres_data[
-                ["state", "program_description", "base_acres"]].groupby(
-                ["state", "program_description"]
-            )["base_acres"].mean()
+                ["state", "program_description", "base_acres", "year"]].groupby(
+                ["state", "program_description", "year"]
+            )["base_acres"].sum().groupby(["state", "program_description"]).mean()
 
             average_payee_count_by_program_by_state = farm_payee_count_data[
-                ["state", "program_description", "recipient_count"]].groupby(
-                ["state", "program_description"]
-            )["recipient_count"].mean()
+                ["state", "program_description", "recipient_count", "year"]].groupby(
+                ["state", "program_description", "year"]
+            )["recipient_count"].sum().groupby(["state", "program_description"]).mean()
 
             self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
 
