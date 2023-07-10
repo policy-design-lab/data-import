@@ -34,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Calculate average of base acres and recipient counts by program instead of
   totals. [#33](https://github.com/policy-design-lab/data-import/issues/33)
 - Exclude 2018 base acres and recipient count data. [#35](https://github.com/policy-design-lab/data-import/issues/35)
+- All programs and summary JSON files based on latest SNAP data. [#31](https://github.com/policy-design-lab/data-import/issues/31)
 
 ### Fixed
 
