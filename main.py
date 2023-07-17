@@ -6,3 +6,7 @@ if __name__ == '__main__':
                                          base_acres_csv_filename="baseacres_commodity_county_program.csv",
                                          farm_payee_count_csv_filename="commodity_payments_counts.csv")
     commodities_data_parser.parse_and_process()
+
+    crop_insurance_data_parser = DataParser(2018, 2022, "Crop Insurance",
+                                            "crop-insurance", "ci_state_year_benefits.csv")
+    crop_insurance_data_parser.parse_and_process_crop_insurance()

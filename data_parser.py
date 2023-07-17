@@ -9,9 +9,9 @@ class DataParser:
     def __init__(self, start_year, end_year, program_main_category_name, data_folder, program_csv_filename, **kwargs):
         self.start_year = start_year
         self.end_year = end_year
+        self.program_main_category_name = program_main_category_name
         self.data_folder = data_folder
         self.program_csv_filepath = os.path.join(data_folder, program_csv_filename)
-        self.program_main_category_name = program_main_category_name
 
         # Main program category specific file paths
         if self.program_main_category_name == "Title 1: Commodities":
@@ -56,24 +56,30 @@ class DataParser:
                     "category": "program_description",
                     "amount": "payments"
                 },
-                "zero_subprograms_map":
-                    {
-                        "subProgramName": None,
-                        "paymentInDollars": 0.0,
-                        "paymentInPercentageWithinState": 0.00,
-                        "averageAreaInAcres": 0.0,
-                        "averageRecipientCount": 0
-                    }
-
+                "zero_subprograms_map": {
+                    "subProgramName": None,
+                    "paymentInDollars": 0.0,
+                    "paymentInPercentageWithinState": 0.00,
+                    "averageAreaInAcres": 0.0,
+                    "averageRecipientCount": 0
+                }
             },
             "Crop Insurance": {
-                "Policies Earning Premium": [],
-                "Total Liabilities": [],
-                "Total Indemnities": [],
-                "Total Premium": [],
-                "Subsidy": [],
-                "Farmer Paid Premium": [],
-                "Loss Ratio": []
+                "programs_subprograms_map": {
+                    "Policies Earning Premium": [],
+                    "Total Liabilities": [],
+                    "Total Indemnities": [],
+                    "Total Premium": [],
+                    "Subsidy": [],
+                    "Farmer Paid Premium": [],
+                    "Loss Ratio": []
+                },
+                "value_names_map": {
+                },
+                "column_names_map": {
+                },
+                "zero_subprograms_map": {
+                }
             }
         }
         self.us_state_abbreviations = {
@@ -644,3 +650,167 @@ class DataParser:
             # Write processed_data_dict as JSON data
             with open(os.path.join(self.data_folder, "commodities_subprograms_data.json"), "w") as output_json_file:
                 output_json_file.write(json.dumps(self.program_data_dict, indent=2))
+
+    def parse_and_process_crop_insurance(self):
+        # Import CSV file into a Pandas DataFrame
+        program_data = pd.read_csv(self.program_csv_filepath)
+        program_data = program_data.replace(self.metadata[self.program_main_category_name]["value_names_map"])
+
+        # Rename column names to make it more uniform
+        program_data.rename(columns=self.metadata[self.program_main_category_name]["column_names_map"], inplace=True)
+
+        # Filter only relevant years' data
+        program_data = program_data[program_data["year"].between(self.start_year, self.end_year,
+                                                                 inclusive="both")]
+
+        # 1. Generate State Distribution JSON Data
+        self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
+
+        # Total premium by state
+        total_premium_by_state = \
+            program_data[
+                ["state", "premium"]
+            ].groupby(
+                ["state"]
+            )["premium"].sum()
+
+        # Total indemnities by state
+        total_indemnities_by_state = \
+            program_data[
+                ["state", "indemnity"]
+            ].groupby(
+                ["state"]
+            )["indemnity"].sum()
+
+        # Total premium subsidies by state
+        total_premium_subsidies_by_state = \
+            program_data[
+                ["state", "subsidy"]
+            ].groupby(
+                ["state"]
+            )["subsidy"].sum()
+
+        # Total farmer paid premium by state
+        total_farmer_premium_by_state = \
+            program_data[
+                ["state", "farmer_premium"]
+            ].groupby(
+                ["state"]
+            )["farmer_premium"].sum()
+
+        # Total net farmer benefit by state
+        total_net_farmer_benefit_by_state = \
+            program_data[
+                ["state", "net_benefit"]
+            ].groupby(
+                ["state"]
+            )["net_benefit"].sum()
+
+        # Total policies earning premium by state
+        total_policies_earning_premium_by_state = \
+            program_data[
+                ["state", "policies_prem"]
+            ].groupby(
+                ["state"]
+            )["policies_prem"].sum()
+
+        # Total liabilities by state
+        total_liabilities_by_state = \
+            program_data[
+                ["state", "liabilities"]
+            ].groupby(
+                ["state"]
+            )["liabilities"].sum()
+
+        # Loss ratio by state
+        loss_ratio_by_state = total_indemnities_by_state / total_premium_by_state
+
+        for state in self.us_state_abbreviations:
+            new_data_entry = {
+                "state": state,
+                "programs": [
+                    {
+                        "programName": "Crop Insurance",
+                        "totalIndemnitiesInDollars": total_indemnities_by_state[state].item(),
+                        "totalPremiumInDollars": total_premium_by_state[state].item(),
+                        "totalPremiumSubsidyInDollars": total_premium_subsidies_by_state[state].item(),
+                        "totalFarmerPaidPremiumInDollars": total_farmer_premium_by_state[state].item(),
+                        "totalNetFarmerBenefitInDollars": total_net_farmer_benefit_by_state[state].item(),
+                        "totalPoliciesEarningPremium": total_policies_earning_premium_by_state[state].item(),
+                        "totalLiabilitiesInDollars": total_liabilities_by_state[state].item(),
+                        "lossRatio": round(loss_ratio_by_state[state].item(), 3),
+                        "subPrograms": []
+                    }
+
+                ]
+            }
+
+            self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
+                new_data_entry)
+
+        # Sort states by decreasing order of total indemnities
+        for year in self.state_distribution_data_dict:
+            self.state_distribution_data_dict[year] = sorted(self.state_distribution_data_dict[year],
+                                                             key=lambda x: x["programs"][0][
+                                                                 "totalIndemnitiesInDollars"],
+                                                             reverse=True)
+
+        # Write processed_data_dict as JSON data
+        with open(os.path.join(self.data_folder, "crop_insurance_state_distribution_data.json"),
+                  "w") as output_json_file:
+            output_json_file.write(json.dumps(self.state_distribution_data_dict, indent=2))
+
+        # 2. Generate Sub Programs Data
+
+        # Total premium
+        total_premium = \
+            program_data["premium"].sum()
+
+        # Total indemnities
+        total_indemnities = \
+            program_data["indemnity"].sum()
+
+        # Total premium subsidies
+        total_premium_subsidies = \
+            program_data["subsidy"].sum()
+
+        # Total farmer paid premium
+        total_farmer_premium = \
+            program_data["farmer_premium"].sum()
+
+        # Total net farmer benefit by state
+        total_net_farmer_benefit = \
+            program_data["net_benefit"].sum()
+
+        # Total policies earning premium
+        total_policies_earning_premium = \
+            program_data["policies_prem"].sum()
+
+        # Total liabilities
+        total_liabilities = \
+            program_data["liabilities"].sum()
+
+        # Overall loss ratio
+        overall_loss_ratio = total_indemnities / total_premium
+
+        self.program_data_dict = {
+            "programs": [
+                {
+                    "programName": "Crop Insurance",
+                    "subPrograms": [
+                    ],
+                    "totalIndemnitiesInDollars": total_indemnities.item(),
+                    "totalPremiumInDollars": total_premium.item(),
+                    "totalPremiumSubsidyInDollars": total_premium_subsidies.item(),
+                    "totalFarmerPaidPremiumInDollars": total_farmer_premium.item(),
+                    "totalNetFarmerBenefitInDollars": total_net_farmer_benefit.item(),
+                    "totalLiabilitiesInDollars": total_liabilities.item(),
+                    "totalPoliciesEarningPremium": total_policies_earning_premium.item(),
+                    "lossRatio": round(overall_loss_ratio.item(), 3)
+                }
+            ]
+        }
+
+        # Write processed_data_dict as JSON data
+        with open(os.path.join(self.data_folder, "crop_insurance_subprograms_data.json"), "w") as output_json_file:
+            output_json_file.write(json.dumps(self.program_data_dict, indent=2))
