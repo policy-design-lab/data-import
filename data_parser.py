@@ -216,10 +216,8 @@ class DataParser:
                                              "Enrolled Base": "base_acres"}, inplace=True)
 
         # Filter only relevant years' data
-        # TODO: Excluded 2018 data for now. This needs to be revisited later.
-        #  https://github.com/policy-design-lab/data-import/issues/35
         self.base_acres_data = self.base_acres_data[
-            self.base_acres_data["year"].between(self.start_year + 1, self.end_year, inclusive="both")]
+            self.base_acres_data["year"].between(self.start_year, self.end_year, inclusive="both")]
 
         # Import farmer count data
         self.farm_payee_count_data = self.farm_payee_count_data.replace({
@@ -258,10 +256,8 @@ class DataParser:
                                                    "Payee Count": "recipient_count"}, inplace=True)
 
         # Filter only relevant years' data
-        # TODO: Excluded 2018 data for now. This needs to be revisited later.
-        #  https://github.com/policy-design-lab/data-import/issues/35
         self.farm_payee_count_data = self.farm_payee_count_data[
-            self.farm_payee_count_data["year"].between(self.start_year + 1, self.end_year, inclusive="both")]
+            self.farm_payee_count_data["year"].between(self.start_year, self.end_year, inclusive="both")]
 
         # 1. Generate map data
         if True:
