@@ -668,7 +668,7 @@ class DataParser:
         for state in self.us_state_abbreviations:
             state_data = data_frame[
                 data_frame["State Name"] == self.us_state_abbreviations[state]]
-            for year in range(self.start_year, self.end_year):
+            for year in range(self.start_year, self.end_year + 1):
                 row_dict = dict()
                 if state_data['State Name'].size == 1:
                     row_dict["State Name"] = state_data['State Name'].item()

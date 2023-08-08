@@ -176,21 +176,21 @@
       "totalPaymentInDollars": 663279.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 47942235.78
+              "paymentInDollars": 10262.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 9673.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 47951908.78
+          "programPaymentInDollars": 10262.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -198,7 +198,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 47951908.78
+      "totalPaymentInDollars": 10262.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 47952497.78
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 9673.0
+            }
+          ],
+          "programPaymentInDollars": 47962170.78
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 47962170.78
     }
   ],
   "Alaska": [
@@ -376,6 +401,31 @@
         }
       ],
       "totalPaymentInDollars": 7782.0
+    },
+    {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
     },
     {
       "years": "2014-2021",
@@ -580,21 +630,21 @@
       "totalPaymentInDollars": 12396.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 346762.0
+              "paymentInDollars": 8.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 67848.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 414610.0
+          "programPaymentInDollars": 8.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -602,7 +652,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 414610.0
+      "totalPaymentInDollars": 8.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 346770.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 67848.0
+            }
+          ],
+          "programPaymentInDollars": 414618.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 414618.0
     }
   ],
   "Arkansas": [
@@ -782,21 +857,21 @@
       "totalPaymentInDollars": 2416264.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 230555465.04
+              "paymentInDollars": 19045.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 162049.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 230717514.04
+          "programPaymentInDollars": 19045.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -804,7 +879,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 230717514.04
+      "totalPaymentInDollars": 19045.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 230574510.04
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 162049.0
+            }
+          ],
+          "programPaymentInDollars": 230736559.04
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 230736559.04
     }
   ],
   "California": [
@@ -984,21 +1084,21 @@
       "totalPaymentInDollars": 153939.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 69503548.6
+              "paymentInDollars": 105912.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1681984.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 71185532.6
+          "programPaymentInDollars": 105912.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -1006,7 +1106,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 71185532.6
+      "totalPaymentInDollars": 105912.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 69609460.6
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 1681984.0
+            }
+          ],
+          "programPaymentInDollars": 71291444.6
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 71291444.6
     }
   ],
   "Colorado": [
@@ -1186,21 +1311,21 @@
       "totalPaymentInDollars": 4530621.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 199929483.11
+              "paymentInDollars": 1563614.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 5527683.34
+              "paymentInDollars": 551091.0
             }
           ],
-          "programPaymentInDollars": 205457166.45
+          "programPaymentInDollars": 2114705.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -1208,7 +1333,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 205457166.45
+      "totalPaymentInDollars": 2114705.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 201493097.11
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 6078774.34
+            }
+          ],
+          "programPaymentInDollars": 207571871.45
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 207571871.45
     }
   ],
   "Connecticut": [
@@ -1386,6 +1536,31 @@
         }
       ],
       "totalPaymentInDollars": 9247.0
+    },
+    {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
     },
     {
       "years": "2014-2021",
@@ -1590,6 +1765,31 @@
       "totalPaymentInDollars": 742.0
     },
     {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
+    },
+    {
       "years": "2014-2021",
       "programs": [
         {
@@ -1792,21 +1992,21 @@
       "totalPaymentInDollars": 184408.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 6806871.26
+              "paymentInDollars": 94958.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
               "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 6806871.26
+          "programPaymentInDollars": 94958.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -1814,7 +2014,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 6806871.26
+      "totalPaymentInDollars": 94958.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 6901829.26
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 6901829.26
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 6901829.26
     }
   ],
   "Georgia": [
@@ -1994,21 +2219,21 @@
       "totalPaymentInDollars": 530297.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 120182388.44
+              "paymentInDollars": 22630.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 2751.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 120185139.44
+          "programPaymentInDollars": 22630.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -2016,7 +2241,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 120185139.44
+      "totalPaymentInDollars": 22630.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 120205018.44
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 2751.0
+            }
+          ],
+          "programPaymentInDollars": 120207769.44
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 120207769.44
     }
   ],
   "Hawaii": [
@@ -2172,6 +2422,31 @@
     },
     {
       "years": "2020",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
+    },
+    {
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2398,21 +2673,21 @@
       "totalPaymentInDollars": 49571.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 96580346.1
+              "paymentInDollars": 1551813.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 6977056.0
+              "paymentInDollars": 16572.0
             }
           ],
-          "programPaymentInDollars": 103557402.1
+          "programPaymentInDollars": 1568385.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -2420,7 +2695,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 103557402.1
+      "totalPaymentInDollars": 1568385.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 98132159.1
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 6993628.0
+            }
+          ],
+          "programPaymentInDollars": 105125787.1
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 105125787.1
     }
   ],
   "Illinois": [
@@ -2600,6 +2900,31 @@
       "totalPaymentInDollars": 3267863.0
     },
     {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 277293.0
+            }
+          ],
+          "programPaymentInDollars": 277293.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 277293.0
+    },
+    {
       "years": "2014-2021",
       "programs": [
         {
@@ -2611,10 +2936,10 @@
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 63382952.0
+              "paymentInDollars": 63660245.0
             }
           ],
-          "programPaymentInDollars": 1778767056.92
+          "programPaymentInDollars": 1779044349.92
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -2622,7 +2947,7 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1778767056.92
+      "totalPaymentInDollars": 1779044349.92
     }
   ],
   "Indiana": [
@@ -2802,21 +3127,21 @@
       "totalPaymentInDollars": 2066621.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1132907593.75
+              "paymentInDollars": 36999.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 24379649.0
+              "paymentInDollars": 133652.0
             }
           ],
-          "programPaymentInDollars": 1157287242.75
+          "programPaymentInDollars": 170651.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -2824,7 +3149,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1157287242.75
+      "totalPaymentInDollars": 170651.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 1132944592.75
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 24513301.0
+            }
+          ],
+          "programPaymentInDollars": 1157457893.75
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 1157457893.75
     }
   ],
   "Iowa": [
@@ -3004,21 +3354,21 @@
       "totalPaymentInDollars": 8604368.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1930319578.17
+              "paymentInDollars": 6326.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 23586238.0
+              "paymentInDollars": 46569.0
             }
           ],
-          "programPaymentInDollars": 1953905816.17
+          "programPaymentInDollars": 52895.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -3026,7 +3376,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1953905816.17
+      "totalPaymentInDollars": 52895.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 1930325904.17
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 23632807.0
+            }
+          ],
+          "programPaymentInDollars": 1953958711.17
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 1953958711.17
     }
   ],
   "Kansas": [
@@ -3206,21 +3581,21 @@
       "totalPaymentInDollars": 7662993.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1091094861.4
+              "paymentInDollars": 2030301.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 8421477.0
+              "paymentInDollars": 17045.0
             }
           ],
-          "programPaymentInDollars": 1099516338.4
+          "programPaymentInDollars": 2047346.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -3228,7 +3603,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1099516338.4
+      "totalPaymentInDollars": 2047346.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 1093125162.4
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 8438522.0
+            }
+          ],
+          "programPaymentInDollars": 1101563684.4
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 1101563684.4
     }
   ],
   "Kentucky": [
@@ -3408,21 +3808,21 @@
       "totalPaymentInDollars": 641260.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 232250386.0
+              "paymentInDollars": 18268.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1433861.0
+              "paymentInDollars": 6507.0
             }
           ],
-          "programPaymentInDollars": 233684247.0
+          "programPaymentInDollars": 24775.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -3430,7 +3830,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 233684247.0
+      "totalPaymentInDollars": 24775.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 232268654.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 1440368.0
+            }
+          ],
+          "programPaymentInDollars": 233709022.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 233709022.0
     }
   ],
   "Louisiana": [
@@ -3610,21 +4035,21 @@
       "totalPaymentInDollars": 800628.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 179245034.93
+              "paymentInDollars": 88583.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 510867.0
+              "paymentInDollars": 49310.0
             }
           ],
-          "programPaymentInDollars": 179755901.93
+          "programPaymentInDollars": 137893.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -3632,7 +4057,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 179755901.93
+      "totalPaymentInDollars": 137893.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 179333617.93
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 560177.0
+            }
+          ],
+          "programPaymentInDollars": 179893794.93
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 179893794.93
     }
   ],
   "Maine": [
@@ -3812,21 +4262,21 @@
       "totalPaymentInDollars": 294903.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 7120967.0
+              "paymentInDollars": 135.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
               "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 7120967.0
+          "programPaymentInDollars": 135.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -3834,7 +4284,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 7120967.0
+      "totalPaymentInDollars": 135.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 7121102.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 7121102.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 7121102.0
     }
   ],
   "Maryland": [
@@ -4012,6 +4487,31 @@
         }
       ],
       "totalPaymentInDollars": 109075.0
+    },
+    {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
     },
     {
       "years": "2014-2021",
@@ -4192,6 +4692,31 @@
     },
     {
       "years": "2020",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
+    },
+    {
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4418,21 +4943,21 @@
       "totalPaymentInDollars": 1694487.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 561793960.63
+              "paymentInDollars": 18531.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 13963714.0
+              "paymentInDollars": 8497.0
             }
           ],
-          "programPaymentInDollars": 575757674.63
+          "programPaymentInDollars": 27028.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -4440,7 +4965,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 575757674.63
+      "totalPaymentInDollars": 27028.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 561812491.63
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 13972211.0
+            }
+          ],
+          "programPaymentInDollars": 575784702.63
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 575784702.63
     }
   ],
   "Minnesota": [
@@ -4620,21 +5170,21 @@
       "totalPaymentInDollars": 4277544.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1568888425.19
+              "paymentInDollars": 8010909.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 45733855.55
+              "paymentInDollars": 213484.0
             }
           ],
-          "programPaymentInDollars": 1614622280.74
+          "programPaymentInDollars": 8224393.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -4642,7 +5192,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1614622280.74
+      "totalPaymentInDollars": 8224393.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 1576899334.19
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 45947339.55
+            }
+          ],
+          "programPaymentInDollars": 1622846673.74
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 1622846673.74
     }
   ],
   "Mississippi": [
@@ -4822,21 +5397,21 @@
       "totalPaymentInDollars": 595297.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 192960115.88
+              "paymentInDollars": 116178.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1343355.0
+              "paymentInDollars": 24508.0
             }
           ],
-          "programPaymentInDollars": 194303470.88
+          "programPaymentInDollars": 140686.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -4844,7 +5419,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 194303470.88
+      "totalPaymentInDollars": 140686.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 193076293.88
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 1367863.0
+            }
+          ],
+          "programPaymentInDollars": 194444156.88
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 194444156.88
     }
   ],
   "Missouri": [
@@ -5024,21 +5624,21 @@
       "totalPaymentInDollars": 2930903.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 373264966.61
+              "paymentInDollars": 54695.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 20864287.17
+              "paymentInDollars": 340637.0
             }
           ],
-          "programPaymentInDollars": 394129253.78
+          "programPaymentInDollars": 395332.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -5046,7 +5646,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 394129253.78
+      "totalPaymentInDollars": 395332.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 373319661.61
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 21204924.17
+            }
+          ],
+          "programPaymentInDollars": 394524585.78
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 394524585.78
     }
   ],
   "Montana": [
@@ -5226,21 +5851,21 @@
       "totalPaymentInDollars": 530715.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 83479865.88
+              "paymentInDollars": 8772426.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 36526839.81
+              "paymentInDollars": 511235.0
             }
           ],
-          "programPaymentInDollars": 120006705.69
+          "programPaymentInDollars": 9283661.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -5248,7 +5873,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 120006705.69
+      "totalPaymentInDollars": 9283661.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 92252291.88
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 37038074.81
+            }
+          ],
+          "programPaymentInDollars": 129290366.69
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 129290366.69
     }
   ],
   "Nebraska": [
@@ -5428,21 +6078,21 @@
       "totalPaymentInDollars": 3244802.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1954729749.36
+              "paymentInDollars": 1518098.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 18076435.47
+              "paymentInDollars": 178283.0
             }
           ],
-          "programPaymentInDollars": 1972806184.83
+          "programPaymentInDollars": 1696381.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -5450,7 +6100,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1972806184.83
+      "totalPaymentInDollars": 1696381.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 1956247847.36
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 18254718.47
+            }
+          ],
+          "programPaymentInDollars": 1974502565.83
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 1974502565.83
     }
   ],
   "Nevada": [
@@ -5606,6 +6281,31 @@
     },
     {
       "years": "2020",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
+    },
+    {
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5832,6 +6532,31 @@
       "totalPaymentInDollars": 58543.0
     },
     {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
+    },
+    {
       "years": "2014-2021",
       "programs": [
         {
@@ -6034,21 +6759,21 @@
       "totalPaymentInDollars": 686.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 12831766.91
+              "paymentInDollars": 23.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 135267.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 12967033.91
+          "programPaymentInDollars": 23.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -6056,7 +6781,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 12967033.91
+      "totalPaymentInDollars": 23.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 12831789.91
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 135267.0
+            }
+          ],
+          "programPaymentInDollars": 12967056.91
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 12967056.91
     }
   ],
   "New Mexico": [
@@ -6236,21 +6986,21 @@
       "totalPaymentInDollars": 981632.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 24060291.74
+              "paymentInDollars": 404401.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 151478.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 24211769.74
+          "programPaymentInDollars": 404401.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -6258,7 +7008,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 24211769.74
+      "totalPaymentInDollars": 404401.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 24464692.74
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 151478.0
+            }
+          ],
+          "programPaymentInDollars": 24616170.74
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 24616170.74
     }
   ],
   "New York": [
@@ -6438,21 +7213,21 @@
       "totalPaymentInDollars": 172486.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 157778845.17
+              "paymentInDollars": 2875.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1692699.25
+              "paymentInDollars": 3119.0
             }
           ],
-          "programPaymentInDollars": 159471544.42
+          "programPaymentInDollars": 5994.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -6460,7 +7235,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 159471544.42
+      "totalPaymentInDollars": 5994.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 157781720.17
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 1695818.25
+            }
+          ],
+          "programPaymentInDollars": 159477538.42
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 159477538.42
     }
   ],
   "North Carolina": [
@@ -6640,21 +7440,21 @@
       "totalPaymentInDollars": 4857977.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 242044070.35
+              "paymentInDollars": 69422.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1078081.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 243122151.35
+          "programPaymentInDollars": 69422.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -6662,7 +7462,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 243122151.35
+      "totalPaymentInDollars": 69422.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 242113492.35
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 1078081.0
+            }
+          ],
+          "programPaymentInDollars": 243191573.35
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 243191573.35
     }
   ],
   "North Dakota": [
@@ -6842,21 +7667,21 @@
       "totalPaymentInDollars": 10822343.87
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 919262332.28
+              "paymentInDollars": 39963704.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 30950349.85
+              "paymentInDollars": 641029.0
             }
           ],
-          "programPaymentInDollars": 950212682.13
+          "programPaymentInDollars": 40604733.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -6864,7 +7689,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 950212682.13
+      "totalPaymentInDollars": 40604733.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 959226036.28
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 31591378.85
+            }
+          ],
+          "programPaymentInDollars": 990817415.13
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 990817415.13
     }
   ],
   "Ohio": [
@@ -7044,21 +7894,21 @@
       "totalPaymentInDollars": 4049673.86
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1023291615.78
+              "paymentInDollars": 3685.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 41999575.74
+              "paymentInDollars": 21077.0
             }
           ],
-          "programPaymentInDollars": 1065291191.52
+          "programPaymentInDollars": 24762.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -7066,7 +7916,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1065291191.52
+      "totalPaymentInDollars": 24762.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 1023295300.78
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 42020652.74
+            }
+          ],
+          "programPaymentInDollars": 1065315953.52
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 1065315953.52
     }
   ],
   "Oklahoma": [
@@ -7246,21 +8121,21 @@
       "totalPaymentInDollars": 2249924.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 240388194.57
+              "paymentInDollars": 1074974.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1305449.0
+              "paymentInDollars": 130051.0
             }
           ],
-          "programPaymentInDollars": 241693643.57
+          "programPaymentInDollars": 1205025.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -7268,7 +8143,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 241693643.57
+      "totalPaymentInDollars": 1205025.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 241463168.57
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 1435500.0
+            }
+          ],
+          "programPaymentInDollars": 242898668.57
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 242898668.57
     }
   ],
   "Oregon": [
@@ -7448,21 +8348,21 @@
       "totalPaymentInDollars": 680306.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 95539670.39
+              "paymentInDollars": 704579.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 10392551.0
+              "paymentInDollars": 141777.0
             }
           ],
-          "programPaymentInDollars": 105932221.39
+          "programPaymentInDollars": 846356.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -7470,7 +8370,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 105932221.39
+      "totalPaymentInDollars": 846356.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 96244249.39
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 10534328.0
+            }
+          ],
+          "programPaymentInDollars": 106778577.39
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 106778577.39
     }
   ],
   "Pennsylvania": [
@@ -7650,21 +8575,21 @@
       "totalPaymentInDollars": 3953395.23
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 97791450.6
+              "paymentInDollars": 1041.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 217371.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 98008821.6
+          "programPaymentInDollars": 1041.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -7672,7 +8597,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 98008821.6
+      "totalPaymentInDollars": 1041.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 97792491.6
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 217371.0
+            }
+          ],
+          "programPaymentInDollars": 98009862.6
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 98009862.6
     }
   ],
   "Rhode Island": [
@@ -7850,6 +8800,31 @@
         }
       ],
       "totalPaymentInDollars": 12236.0
+    },
+    {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
     },
     {
       "years": "2014-2021",
@@ -8054,21 +9029,21 @@
       "totalPaymentInDollars": 667322.9
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 78139865.12
+              "paymentInDollars": 3794.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 23003.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 78162868.12
+          "programPaymentInDollars": 3794.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -8076,7 +9051,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 78162868.12
+      "totalPaymentInDollars": 3794.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 78143659.12
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 23003.0
+            }
+          ],
+          "programPaymentInDollars": 78166662.12
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 78166662.12
     }
   ],
   "South Dakota": [
@@ -8256,21 +9256,21 @@
       "totalPaymentInDollars": 5920843.23
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 936527478.79
+              "paymentInDollars": 20069902.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 91884882.51
+              "paymentInDollars": 1100420.0
             }
           ],
-          "programPaymentInDollars": 1028412361.3
+          "programPaymentInDollars": 21170322.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -8278,7 +9278,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1028412361.3
+      "totalPaymentInDollars": 21170322.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 956597380.79
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 92985302.51
+            }
+          ],
+          "programPaymentInDollars": 1049582683.3
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 1049582683.3
     }
   ],
   "Tennessee": [
@@ -8458,21 +9483,21 @@
       "totalPaymentInDollars": 583136.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 135683285.97
+              "paymentInDollars": 22839.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 430426.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 136113711.97
+          "programPaymentInDollars": 22839.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -8480,7 +9505,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 136113711.97
+      "totalPaymentInDollars": 22839.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 135706124.97
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 430426.0
+            }
+          ],
+          "programPaymentInDollars": 136136550.97
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 136136550.97
     }
   ],
   "Texas": [
@@ -8660,21 +9710,21 @@
       "totalPaymentInDollars": 3889054.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 399082570.03
+              "paymentInDollars": 6555862.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 6820161.5
+              "paymentInDollars": 17909.0
             }
           ],
-          "programPaymentInDollars": 405902731.53
+          "programPaymentInDollars": 6573771.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -8682,7 +9732,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 405902731.53
+      "totalPaymentInDollars": 6573771.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 405638432.03
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 6838070.5
+            }
+          ],
+          "programPaymentInDollars": 412476502.53
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 412476502.53
     }
   ],
   "Utah": [
@@ -8860,6 +9935,31 @@
         }
       ],
       "totalPaymentInDollars": 22.0
+    },
+    {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
     },
     {
       "years": "2014-2021",
@@ -9064,6 +10164,31 @@
       "totalPaymentInDollars": 676.0
     },
     {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
+    },
+    {
       "years": "2014-2021",
       "programs": [
         {
@@ -9266,21 +10391,21 @@
       "totalPaymentInDollars": 4466641.89
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 79082208.31
+              "paymentInDollars": 93065.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 525611.0
+              "paymentInDollars": 238.0
             }
           ],
-          "programPaymentInDollars": 79607819.31
+          "programPaymentInDollars": 93303.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -9288,7 +10413,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 79607819.31
+      "totalPaymentInDollars": 93303.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 79175273.31
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 525849.0
+            }
+          ],
+          "programPaymentInDollars": 79701122.31
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 79701122.31
     }
   ],
   "Washington": [
@@ -9468,21 +10618,21 @@
       "totalPaymentInDollars": 65201.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 297213985.93
+              "paymentInDollars": 5812178.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 12410450.87
+              "paymentInDollars": 8547.0
             }
           ],
-          "programPaymentInDollars": 309624436.8
+          "programPaymentInDollars": 5820725.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -9490,7 +10640,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 309624436.8
+      "totalPaymentInDollars": 5820725.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 303026163.93
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 12418997.87
+            }
+          ],
+          "programPaymentInDollars": 315445161.8
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 315445161.8
     }
   ],
   "West Virginia": [
@@ -9668,6 +10843,31 @@
         }
       ],
       "totalPaymentInDollars": 34418.0
+    },
+    {
+      "years": "2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 0.0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 0.0
+            }
+          ],
+          "programPaymentInDollars": 0.0
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 0.0
     },
     {
       "years": "2014-2021",
@@ -9872,21 +11072,21 @@
       "totalPaymentInDollars": 454490.09
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 523545521.1
+              "paymentInDollars": 4378.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 4428673.29
+              "paymentInDollars": 2196.0
             }
           ],
-          "programPaymentInDollars": 527974194.39
+          "programPaymentInDollars": 6574.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -9894,7 +11094,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 527974194.39
+      "totalPaymentInDollars": 6574.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 523549899.1
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 4430869.29
+            }
+          ],
+          "programPaymentInDollars": 527980768.39
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 527980768.39
     }
   ],
   "Wyoming": [
@@ -10074,21 +11299,21 @@
       "totalPaymentInDollars": 67521.0
     },
     {
-      "years": "2014-2021",
+      "years": "2021",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 8022418.08
+              "paymentInDollars": 55399.0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 289334.0
+              "paymentInDollars": 0.0
             }
           ],
-          "programPaymentInDollars": 8311752.08
+          "programPaymentInDollars": 55399.0
         },
         {
           "programName": "Price Loss Coverage (PLC)",
@@ -10096,7 +11321,32 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 8311752.08
+      "totalPaymentInDollars": 55399.0
+    },
+    {
+      "years": "2014-2021",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 8077817.08
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 289334.0
+            }
+          ],
+          "programPaymentInDollars": 8367151.08
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "subPrograms": [],
+          "programPaymentInDollars": 0
+        }
+      ],
+      "totalPaymentInDollars": 8367151.08
     }
   ]
 }

@@ -5,22 +5,22 @@
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 405902731.53,
-          "averageAreaInAcres": 1467947.65,
+          "programPaymentInDollars": 412476502.53,
+          "averageAreaInAcres": 1598594.77,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 399082570.03,
-              "paymentInPercentageNationwide": 2.32,
-              "paymentInPercentageWithinState": 12.47,
-              "averageAreaInAcres": 1467947.65,
+              "paymentInDollars": 405638432.03,
+              "paymentInPercentageNationwide": 2.35,
+              "paymentInPercentageWithinState": 12.49,
+              "averageAreaInAcres": 1598594.77,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 6820161.5,
-              "paymentInPercentageNationwide": 1.43,
+              "paymentInDollars": 6838070.5,
+              "paymentInPercentageNationwide": 1.42,
               "paymentInPercentageWithinState": 0.21,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
@@ -29,36 +29,36 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 2794484019.2,
-          "averageAreaInAcres": 11653020.73,
+          "programPaymentInDollars": 2834076124.2,
+          "averageAreaInAcres": 11872282.35,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 9.17,
-      "totalPaymentInDollars": 3200386750.73
+      "totalPaymentInPercentageNationwide": 9.21,
+      "totalPaymentInDollars": 3246552626.73
     },
     {
       "state": "NE",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 1972806184.83,
-          "averageAreaInAcres": 10891233.09,
+          "programPaymentInDollars": 1974502565.83,
+          "averageAreaInAcres": 10272467.15,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1954729749.36,
-              "paymentInPercentageNationwide": 11.37,
+              "paymentInDollars": 1956247847.36,
+              "paymentInPercentageNationwide": 11.31,
               "paymentInPercentageWithinState": 80.67,
-              "averageAreaInAcres": 10891233.09,
+              "averageAreaInAcres": 10272467.15,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 18076435.47,
-              "paymentInPercentageNationwide": 3.78,
+              "paymentInDollars": 18254718.47,
+              "paymentInPercentageNationwide": 3.79,
               "paymentInPercentageWithinState": 0.75,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
@@ -67,68 +67,30 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 450347925.47,
-          "averageAreaInAcres": 5155384.23,
+          "programPaymentInDollars": 450349591.47,
+          "averageAreaInAcres": 5730738.7,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 6.95,
-      "totalPaymentInDollars": 2423154110.3
-    },
-    {
-      "state": "KS",
-      "programs": [
-        {
-          "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 1099516338.4,
-          "averageAreaInAcres": 12431782.49,
-          "averageRecipientCount": 0,
-          "subPrograms": [
-            {
-              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1091094861.4,
-              "paymentInPercentageNationwide": 6.35,
-              "paymentInPercentageWithinState": 48.07,
-              "averageAreaInAcres": 12431782.49,
-              "averageRecipientCount": 0
-            },
-            {
-              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 8421477.0,
-              "paymentInPercentageNationwide": 1.76,
-              "paymentInPercentageWithinState": 0.37,
-              "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 0
-            }
-          ]
-        },
-        {
-          "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 1170314696.73,
-          "averageAreaInAcres": 8660962.63,
-          "averageRecipientCount": 0,
-          "subPrograms": []
-        }
-      ],
-      "totalPaymentInPercentageNationwide": 6.51,
-      "totalPaymentInDollars": 2269831035.13
+      "totalPaymentInPercentageNationwide": 6.88,
+      "totalPaymentInDollars": 2424852157.3
     },
     {
       "state": "AR",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 230717514.04,
-          "averageAreaInAcres": 2865064.23,
+          "programPaymentInDollars": 230736559.04,
+          "averageAreaInAcres": 2805163.74,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 230555465.04,
-              "paymentInPercentageNationwide": 1.34,
-              "paymentInPercentageWithinState": 10.19,
-              "averageAreaInAcres": 2865064.23,
+              "paymentInDollars": 230574510.04,
+              "paymentInPercentageNationwide": 1.33,
+              "paymentInPercentageWithinState": 10.02,
+              "averageAreaInAcres": 2805163.74,
               "averageRecipientCount": 0
             },
             {
@@ -143,37 +105,75 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 2031238523.7,
-          "averageAreaInAcres": 3118210.28,
+          "programPaymentInDollars": 2070138577.7,
+          "averageAreaInAcres": 3212211.42,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 6.48,
-      "totalPaymentInDollars": 2261956037.74
+      "totalPaymentInPercentageNationwide": 6.53,
+      "totalPaymentInDollars": 2300875136.74
+    },
+    {
+      "state": "KS",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "programPaymentInDollars": 1101563684.4,
+          "averageAreaInAcres": 11848624.86,
+          "averageRecipientCount": 0,
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 1093125162.4,
+              "paymentInPercentageNationwide": 6.32,
+              "paymentInPercentageWithinState": 48.12,
+              "averageAreaInAcres": 11848624.86,
+              "averageRecipientCount": 0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 8438522.0,
+              "paymentInPercentageNationwide": 1.75,
+              "paymentInPercentageWithinState": 0.37,
+              "averageAreaInAcres": 0.0,
+              "averageRecipientCount": 0
+            }
+          ]
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "programPaymentInDollars": 1170314696.73,
+          "averageAreaInAcres": 9203771.52,
+          "averageRecipientCount": 0,
+          "subPrograms": []
+        }
+      ],
+      "totalPaymentInPercentageNationwide": 6.45,
+      "totalPaymentInDollars": 2271878381.13
     },
     {
       "state": "IA",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 1953905816.17,
-          "averageAreaInAcres": 17746098.93,
+          "programPaymentInDollars": 1953958711.17,
+          "averageAreaInAcres": 17522045.94,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1930319578.17,
-              "paymentInPercentageNationwide": 11.23,
+              "paymentInDollars": 1930325904.17,
+              "paymentInPercentageNationwide": 11.16,
               "paymentInPercentageWithinState": 86.33,
-              "averageAreaInAcres": 17746098.93,
+              "averageAreaInAcres": 17522045.94,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 23586238.0,
-              "paymentInPercentageNationwide": 4.94,
-              "paymentInPercentageWithinState": 1.05,
+              "paymentInDollars": 23632807.0,
+              "paymentInPercentageNationwide": 4.9,
+              "paymentInPercentageWithinState": 1.06,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -182,36 +182,36 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 281957446.92,
-          "averageAreaInAcres": 4467221.58,
+          "averageAreaInAcres": 4630050.05,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 6.41,
-      "totalPaymentInDollars": 2235863263.09
+      "totalPaymentInPercentageNationwide": 6.34,
+      "totalPaymentInDollars": 2235916158.09
     },
     {
       "state": "ND",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 950212682.13,
-          "averageAreaInAcres": 12297184.28,
+          "programPaymentInDollars": 990817415.13,
+          "averageAreaInAcres": 11767952.79,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 919262332.28,
-              "paymentInPercentageNationwide": 5.35,
-              "paymentInPercentageWithinState": 43.17,
-              "averageAreaInAcres": 12297184.28,
+              "paymentInDollars": 959226036.28,
+              "paymentInPercentageNationwide": 5.55,
+              "paymentInPercentageWithinState": 44.21,
+              "averageAreaInAcres": 11767952.79,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 30950349.85,
-              "paymentInPercentageNationwide": 6.48,
-              "paymentInPercentageWithinState": 1.45,
+              "paymentInDollars": 31591378.85,
+              "paymentInPercentageNationwide": 6.55,
+              "paymentInPercentageWithinState": 1.46,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -219,37 +219,37 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 1178995022.3,
-          "averageAreaInAcres": 8073637.11,
+          "programPaymentInDollars": 1179000153.3,
+          "averageAreaInAcres": 8568410.1,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 6.1,
-      "totalPaymentInDollars": 2129207704.43
+      "totalPaymentInPercentageNationwide": 6.16,
+      "totalPaymentInDollars": 2169817568.43
     },
     {
       "state": "IL",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 1778767056.92,
-          "averageAreaInAcres": 16972731.04,
+          "programPaymentInDollars": 1779044349.92,
+          "averageAreaInAcres": 16171684.86,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
               "paymentInDollars": 1715384104.92,
-              "paymentInPercentageNationwide": 9.98,
-              "paymentInPercentageWithinState": 83.05,
-              "averageAreaInAcres": 16972731.04,
+              "paymentInPercentageNationwide": 9.92,
+              "paymentInPercentageWithinState": 83.04,
+              "averageAreaInAcres": 16171684.86,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 63382952.0,
-              "paymentInPercentageNationwide": 13.27,
-              "paymentInPercentageWithinState": 3.07,
+              "paymentInDollars": 63660245.0,
+              "paymentInPercentageNationwide": 13.2,
+              "paymentInPercentageWithinState": 3.08,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -257,36 +257,36 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 286743502.31,
-          "averageAreaInAcres": 3835685.49,
+          "programPaymentInDollars": 286762884.31,
+          "averageAreaInAcres": 4590305.52,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 5.92,
-      "totalPaymentInDollars": 2065510559.23
+      "totalPaymentInPercentageNationwide": 5.86,
+      "totalPaymentInDollars": 2065807234.23
     },
     {
       "state": "MN",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 1614622280.74,
-          "averageAreaInAcres": 13862987.54,
+          "programPaymentInDollars": 1622846673.74,
+          "averageAreaInAcres": 13500231.63,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1568888425.19,
-              "paymentInPercentageNationwide": 9.13,
-              "paymentInPercentageWithinState": 84.36,
-              "averageAreaInAcres": 13862987.54,
+              "paymentInDollars": 1576899334.19,
+              "paymentInPercentageNationwide": 9.12,
+              "paymentInPercentageWithinState": 84.42,
+              "averageAreaInAcres": 13500231.63,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 45733855.55,
-              "paymentInPercentageNationwide": 9.57,
+              "paymentInDollars": 45947339.55,
+              "paymentInPercentageNationwide": 9.53,
               "paymentInPercentageWithinState": 2.46,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
@@ -296,29 +296,29 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 245180833.58,
-          "averageAreaInAcres": 2621563.9,
+          "averageAreaInAcres": 2960735.7,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 5.33,
-      "totalPaymentInDollars": 1859803114.32
+      "totalPaymentInPercentageNationwide": 5.3,
+      "totalPaymentInDollars": 1868027507.32
     },
     {
       "state": "GA",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 120185139.44,
-          "averageAreaInAcres": 676745.21,
+          "programPaymentInDollars": 120207769.44,
+          "averageAreaInAcres": 622645.37,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 120182388.44,
+              "paymentInDollars": 120205018.44,
               "paymentInPercentageNationwide": 0.7,
-              "paymentInPercentageWithinState": 7.75,
-              "averageAreaInAcres": 676745.21,
+              "paymentInPercentageWithinState": 7.39,
+              "averageAreaInAcres": 622645.37,
               "averageRecipientCount": 0
             },
             {
@@ -333,37 +333,37 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 1431158640.3,
-          "averageAreaInAcres": 1400806.55,
+          "programPaymentInDollars": 1507087570.3,
+          "averageAreaInAcres": 1529258.09,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 4.45,
-      "totalPaymentInDollars": 1551343779.74
+      "totalPaymentInPercentageNationwide": 4.62,
+      "totalPaymentInDollars": 1627295339.74
     },
     {
       "state": "SD",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 1028412361.3,
-          "averageAreaInAcres": 9838072.54,
+          "programPaymentInDollars": 1049582683.3,
+          "averageAreaInAcres": 9685830.24,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 936527478.79,
-              "paymentInPercentageNationwide": 5.45,
-              "paymentInPercentageWithinState": 70.27,
-              "averageAreaInAcres": 9838072.54,
+              "paymentInDollars": 956597380.79,
+              "paymentInPercentageNationwide": 5.53,
+              "paymentInPercentageWithinState": 70.66,
+              "averageAreaInAcres": 9685830.24,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 91884882.51,
-              "paymentInPercentageNationwide": 19.23,
-              "paymentInPercentageWithinState": 6.89,
+              "paymentInDollars": 92985302.51,
+              "paymentInPercentageNationwide": 19.28,
+              "paymentInPercentageWithinState": 6.87,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -372,36 +372,36 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 304271106.36,
-          "averageAreaInAcres": 3160525.07,
+          "averageAreaInAcres": 3296021.66,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 3.82,
-      "totalPaymentInDollars": 1332683467.66
+      "totalPaymentInPercentageNationwide": 3.84,
+      "totalPaymentInDollars": 1353853789.66
     },
     {
       "state": "IN",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 1157287242.75,
-          "averageAreaInAcres": 8845679.27,
+          "programPaymentInDollars": 1157457893.75,
+          "averageAreaInAcres": 8457152.13,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1132907593.75,
-              "paymentInPercentageNationwide": 6.59,
-              "paymentInPercentageWithinState": 88.49,
-              "averageAreaInAcres": 8845679.27,
+              "paymentInDollars": 1132944592.75,
+              "paymentInPercentageNationwide": 6.55,
+              "paymentInPercentageWithinState": 88.48,
+              "averageAreaInAcres": 8457152.13,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 24379649.0,
-              "paymentInPercentageNationwide": 5.1,
-              "paymentInPercentageWithinState": 1.9,
+              "paymentInDollars": 24513301.0,
+              "paymentInPercentageNationwide": 5.08,
+              "paymentInPercentageWithinState": 1.91,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -410,35 +410,35 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 123006003.06,
-          "averageAreaInAcres": 1863909.0,
+          "averageAreaInAcres": 2234014.63,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 3.67,
-      "totalPaymentInDollars": 1280293245.81
+      "totalPaymentInPercentageNationwide": 3.63,
+      "totalPaymentInDollars": 1280463896.81
     },
     {
       "state": "OH",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 1065291191.52,
-          "averageAreaInAcres": 6644844.53,
+          "programPaymentInDollars": 1065315953.52,
+          "averageAreaInAcres": 6455430.17,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 1023291615.78,
-              "paymentInPercentageNationwide": 5.95,
+              "paymentInDollars": 1023295300.78,
+              "paymentInPercentageNationwide": 5.92,
               "paymentInPercentageWithinState": 87.23,
-              "averageAreaInAcres": 6644844.53,
+              "averageAreaInAcres": 6455430.17,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 41999575.74,
-              "paymentInPercentageNationwide": 8.79,
+              "paymentInDollars": 42020652.74,
+              "paymentInPercentageNationwide": 8.71,
               "paymentInPercentageWithinState": 3.58,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
@@ -448,36 +448,36 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 107774095.13,
-          "averageAreaInAcres": 1201440.93,
+          "averageAreaInAcres": 1410824.6,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 3.36,
-      "totalPaymentInDollars": 1173065286.65
+      "totalPaymentInPercentageNationwide": 3.33,
+      "totalPaymentInDollars": 1173090048.65
     },
     {
       "state": "MO",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 394129253.78,
-          "averageAreaInAcres": 5262752.8,
+          "programPaymentInDollars": 394524585.78,
+          "averageAreaInAcres": 5164897.79,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 373264966.61,
-              "paymentInPercentageNationwide": 2.17,
-              "paymentInPercentageWithinState": 34.43,
-              "averageAreaInAcres": 5262752.8,
+              "paymentInDollars": 373319661.61,
+              "paymentInPercentageNationwide": 2.16,
+              "paymentInPercentageWithinState": 34.25,
+              "averageAreaInAcres": 5164897.79,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 20864287.17,
-              "paymentInPercentageNationwide": 4.37,
-              "paymentInPercentageWithinState": 1.92,
+              "paymentInDollars": 21204924.17,
+              "paymentInPercentageNationwide": 4.4,
+              "paymentInPercentageWithinState": 1.95,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -485,37 +485,37 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 689871008.31,
-          "averageAreaInAcres": 3911336.42,
+          "programPaymentInDollars": 695382626.31,
+          "averageAreaInAcres": 4003410.07,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 3.11,
-      "totalPaymentInDollars": 1084000262.09
+      "totalPaymentInPercentageNationwide": 3.09,
+      "totalPaymentInDollars": 1089907212.09
     },
     {
       "state": "LA",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 179755901.93,
-          "averageAreaInAcres": 815006.99,
+          "programPaymentInDollars": 179893794.93,
+          "averageAreaInAcres": 789792.58,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 179245034.93,
+              "paymentInDollars": 179333617.93,
               "paymentInPercentageNationwide": 1.04,
-              "paymentInPercentageWithinState": 18.82,
-              "averageAreaInAcres": 815006.99,
+              "paymentInPercentageWithinState": 18.55,
+              "averageAreaInAcres": 789792.58,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 510867.0,
-              "paymentInPercentageNationwide": 0.11,
-              "paymentInPercentageWithinState": 0.05,
+              "paymentInDollars": 560177.0,
+              "paymentInPercentageNationwide": 0.12,
+              "paymentInPercentageWithinState": 0.06,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -523,37 +523,37 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 772841792.66,
-          "averageAreaInAcres": 1299818.61,
+          "programPaymentInDollars": 786816131.66,
+          "averageAreaInAcres": 1373479.72,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 2.73,
-      "totalPaymentInDollars": 952597694.59
+      "totalPaymentInPercentageNationwide": 2.74,
+      "totalPaymentInDollars": 966709926.59
     },
     {
       "state": "MT",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 120006705.69,
-          "averageAreaInAcres": 1229201.79,
+          "programPaymentInDollars": 129290366.69,
+          "averageAreaInAcres": 1159291.3,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 83479865.88,
-              "paymentInPercentageNationwide": 0.49,
-              "paymentInPercentageWithinState": 9.28,
-              "averageAreaInAcres": 1229201.79,
+              "paymentInDollars": 92252291.88,
+              "paymentInPercentageNationwide": 0.53,
+              "paymentInPercentageWithinState": 10.15,
+              "averageAreaInAcres": 1159291.3,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 36526839.81,
-              "paymentInPercentageNationwide": 7.65,
-              "paymentInPercentageWithinState": 4.06,
+              "paymentInDollars": 37038074.81,
+              "paymentInPercentageNationwide": 7.68,
+              "paymentInPercentageWithinState": 4.08,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -561,37 +561,37 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 779378005.22,
-          "averageAreaInAcres": 7567616.32,
+          "programPaymentInDollars": 779380919.22,
+          "averageAreaInAcres": 7689434.94,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
       "totalPaymentInPercentageNationwide": 2.58,
-      "totalPaymentInDollars": 899384710.91
+      "totalPaymentInDollars": 908671285.91
     },
     {
       "state": "OK",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 241693643.57,
-          "averageAreaInAcres": 3520979.89,
+          "programPaymentInDollars": 242898668.57,
+          "averageAreaInAcres": 3225401.23,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 240388194.57,
+              "paymentInDollars": 241463168.57,
               "paymentInPercentageNationwide": 1.4,
-              "paymentInPercentageWithinState": 28.14,
-              "averageAreaInAcres": 3520979.89,
+              "paymentInPercentageWithinState": 28.06,
+              "averageAreaInAcres": 3225401.23,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1305449.0,
-              "paymentInPercentageNationwide": 0.27,
-              "paymentInPercentageWithinState": 0.15,
+              "paymentInDollars": 1435500.0,
+              "paymentInPercentageNationwide": 0.3,
+              "paymentInPercentageWithinState": 0.17,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -599,35 +599,35 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 612453814.81,
-          "averageAreaInAcres": 4144131.44,
+          "programPaymentInDollars": 617607087.81,
+          "averageAreaInAcres": 4435562.39,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 2.45,
-      "totalPaymentInDollars": 854147458.38
+      "totalPaymentInPercentageNationwide": 2.44,
+      "totalPaymentInDollars": 860505756.38
     },
     {
       "state": "MS",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 194303470.88,
-          "averageAreaInAcres": 1290178.24,
+          "programPaymentInDollars": 194444156.88,
+          "averageAreaInAcres": 1255007.21,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 192960115.88,
+              "paymentInDollars": 193076293.88,
               "paymentInPercentageNationwide": 1.12,
-              "paymentInPercentageWithinState": 23.11,
-              "averageAreaInAcres": 1290178.24,
+              "paymentInPercentageWithinState": 22.86,
+              "averageAreaInAcres": 1255007.21,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1343355.0,
+              "paymentInDollars": 1367863.0,
               "paymentInPercentageNationwide": 0.28,
               "paymentInPercentageWithinState": 0.16,
               "averageAreaInAcres": 0.0,
@@ -637,36 +637,36 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 640804700.87,
-          "averageAreaInAcres": 1173453.8,
+          "programPaymentInDollars": 650314212.87,
+          "averageAreaInAcres": 1302617.98,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 2.39,
-      "totalPaymentInDollars": 835108171.75
+      "totalPaymentInPercentageNationwide": 2.4,
+      "totalPaymentInDollars": 844758369.75
     },
     {
       "state": "MI",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 575757674.63,
-          "averageAreaInAcres": 3455871.44,
+          "programPaymentInDollars": 575784702.63,
+          "averageAreaInAcres": 3283869.31,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 561793960.63,
-              "paymentInPercentageNationwide": 3.27,
+              "paymentInDollars": 561812491.63,
+              "paymentInPercentageNationwide": 3.25,
               "paymentInPercentageWithinState": 86.0,
-              "averageAreaInAcres": 3455871.44,
+              "averageAreaInAcres": 3283869.31,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 13963714.0,
-              "paymentInPercentageNationwide": 2.92,
+              "paymentInDollars": 13972211.0,
+              "paymentInPercentageNationwide": 2.9,
               "paymentInPercentageWithinState": 2.14,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
@@ -675,36 +675,36 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 77502890.56,
-          "averageAreaInAcres": 844564.24,
+          "programPaymentInDollars": 77502972.56,
+          "averageAreaInAcres": 1004406.6,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 1.87,
-      "totalPaymentInDollars": 653260565.19
+      "totalPaymentInPercentageNationwide": 1.85,
+      "totalPaymentInDollars": 653287675.19
     },
     {
       "state": "WI",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 527974194.39,
-          "averageAreaInAcres": 3976584.95,
+          "programPaymentInDollars": 527980768.39,
+          "averageAreaInAcres": 3657449.29,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 523545521.1,
-              "paymentInPercentageNationwide": 3.05,
+              "paymentInDollars": 523549899.1,
+              "paymentInPercentageNationwide": 3.03,
               "paymentInPercentageWithinState": 87.32,
-              "averageAreaInAcres": 3976584.95,
+              "averageAreaInAcres": 3657449.29,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 4428673.29,
-              "paymentInPercentageNationwide": 0.93,
+              "paymentInDollars": 4430869.29,
+              "paymentInPercentageNationwide": 0.92,
               "paymentInPercentageWithinState": 0.74,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
@@ -714,36 +714,74 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 71580772.71,
-          "averageAreaInAcres": 1198131.79,
+          "averageAreaInAcres": 1495025.19,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 1.72,
-      "totalPaymentInDollars": 599554967.1
+      "totalPaymentInPercentageNationwide": 1.7,
+      "totalPaymentInDollars": 599561541.1
+    },
+    {
+      "state": "NC",
+      "programs": [
+        {
+          "programName": "Agriculture Risk Coverage (ARC)",
+          "programPaymentInDollars": 243191573.35,
+          "averageAreaInAcres": 2122019.06,
+          "averageRecipientCount": 0,
+          "subPrograms": [
+            {
+              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
+              "paymentInDollars": 242113492.35,
+              "paymentInPercentageNationwide": 1.4,
+              "paymentInPercentageWithinState": 41.44,
+              "averageAreaInAcres": 2122019.06,
+              "averageRecipientCount": 0
+            },
+            {
+              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
+              "paymentInDollars": 1078081.0,
+              "paymentInPercentageNationwide": 0.22,
+              "paymentInPercentageWithinState": 0.18,
+              "averageAreaInAcres": 0.0,
+              "averageRecipientCount": 0
+            }
+          ]
+        },
+        {
+          "programName": "Price Loss Coverage (PLC)",
+          "programPaymentInDollars": 341021899.68,
+          "averageAreaInAcres": 683132.22,
+          "averageRecipientCount": 0,
+          "subPrograms": []
+        }
+      ],
+      "totalPaymentInPercentageNationwide": 1.66,
+      "totalPaymentInDollars": 584213473.03
     },
     {
       "state": "CO",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 205457166.45,
-          "averageAreaInAcres": 1557216.88,
+          "programPaymentInDollars": 207571871.45,
+          "averageAreaInAcres": 1501836.15,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 199929483.11,
-              "paymentInPercentageNationwide": 1.16,
-              "paymentInPercentageWithinState": 34.86,
-              "averageAreaInAcres": 1557216.88,
+              "paymentInDollars": 201493097.11,
+              "paymentInPercentageNationwide": 1.17,
+              "paymentInPercentageWithinState": 35.01,
+              "averageAreaInAcres": 1501836.15,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 5527683.34,
-              "paymentInPercentageNationwide": 1.16,
-              "paymentInPercentageWithinState": 0.96,
+              "paymentInDollars": 6078774.34,
+              "paymentInPercentageNationwide": 1.26,
+              "paymentInPercentageWithinState": 1.06,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -752,74 +790,36 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 368003182.87,
-          "averageAreaInAcres": 3321710.59,
+          "averageAreaInAcres": 3349667.83,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 1.64,
-      "totalPaymentInDollars": 573460349.32
-    },
-    {
-      "state": "NC",
-      "programs": [
-        {
-          "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 243122151.35,
-          "averageAreaInAcres": 2160429.55,
-          "averageRecipientCount": 0,
-          "subPrograms": [
-            {
-              "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 242044070.35,
-              "paymentInPercentageNationwide": 1.41,
-              "paymentInPercentageWithinState": 42.29,
-              "averageAreaInAcres": 2160429.55,
-              "averageRecipientCount": 0
-            },
-            {
-              "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1078081.0,
-              "paymentInPercentageNationwide": 0.23,
-              "paymentInPercentageWithinState": 0.19,
-              "averageAreaInAcres": 0.0,
-              "averageRecipientCount": 0
-            }
-          ]
-        },
-        {
-          "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 329199912.68,
-          "averageAreaInAcres": 607991.2,
-          "averageRecipientCount": 0,
-          "subPrograms": []
-        }
-      ],
-      "totalPaymentInPercentageNationwide": 1.64,
-      "totalPaymentInDollars": 572322064.03
+      "totalPaymentInPercentageNationwide": 1.63,
+      "totalPaymentInDollars": 575575054.32
     },
     {
       "state": "WA",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 309624436.8,
-          "averageAreaInAcres": 2138501.75,
+          "programPaymentInDollars": 315445161.8,
+          "averageAreaInAcres": 1910327.58,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 297213985.93,
-              "paymentInPercentageNationwide": 1.73,
-              "paymentInPercentageWithinState": 54.17,
-              "averageAreaInAcres": 2138501.75,
+              "paymentInDollars": 303026163.93,
+              "paymentInPercentageNationwide": 1.75,
+              "paymentInPercentageWithinState": 54.65,
+              "averageAreaInAcres": 1910327.58,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 12410450.87,
-              "paymentInPercentageNationwide": 2.6,
-              "paymentInPercentageWithinState": 2.26,
+              "paymentInDollars": 12418997.87,
+              "paymentInPercentageNationwide": 2.58,
+              "paymentInPercentageWithinState": 2.24,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -827,36 +827,36 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 238998983.4,
-          "averageAreaInAcres": 1205658.51,
+          "programPaymentInDollars": 239002289.4,
+          "averageAreaInAcres": 1445158.95,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
       "totalPaymentInPercentageNationwide": 1.57,
-      "totalPaymentInDollars": 548623420.2
+      "totalPaymentInDollars": 554447451.2
     },
     {
       "state": "ID",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 103557402.1,
-          "averageAreaInAcres": 624628.57,
+          "programPaymentInDollars": 105125787.1,
+          "averageAreaInAcres": 556665.1,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 96580346.1,
-              "paymentInPercentageNationwide": 0.56,
-              "paymentInPercentageWithinState": 18.99,
-              "averageAreaInAcres": 624628.57,
+              "paymentInDollars": 98132159.1,
+              "paymentInPercentageNationwide": 0.57,
+              "paymentInPercentageWithinState": 19.24,
+              "averageAreaInAcres": 556665.1,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 6977056.0,
-              "paymentInPercentageNationwide": 1.46,
+              "paymentInDollars": 6993628.0,
+              "paymentInPercentageNationwide": 1.45,
               "paymentInPercentageWithinState": 1.37,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
@@ -865,30 +865,30 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 404955075.0,
-          "averageAreaInAcres": 1989888.13,
+          "programPaymentInDollars": 404971410.0,
+          "averageAreaInAcres": 2066342.45,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 1.46,
-      "totalPaymentInDollars": 508512477.1
+      "totalPaymentInPercentageNationwide": 1.45,
+      "totalPaymentInDollars": 510097197.1
     },
     {
       "state": "AL",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 47951908.78,
-          "averageAreaInAcres": 320198.46,
+          "programPaymentInDollars": 47962170.78,
+          "averageAreaInAcres": 305926.05,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 47942235.78,
+              "paymentInDollars": 47952497.78,
               "paymentInPercentageNationwide": 0.28,
-              "paymentInPercentageWithinState": 10.35,
-              "averageAreaInAcres": 320198.46,
+              "paymentInPercentageWithinState": 9.93,
+              "averageAreaInAcres": 305926.05,
               "averageRecipientCount": 0
             },
             {
@@ -903,30 +903,30 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 415254668.09,
-          "averageAreaInAcres": 656464.7,
+          "programPaymentInDollars": 434878058.09,
+          "averageAreaInAcres": 698656.72,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 1.33,
-      "totalPaymentInDollars": 463206576.87
+      "totalPaymentInPercentageNationwide": 1.37,
+      "totalPaymentInDollars": 482840228.87
     },
     {
       "state": "CA",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 71185532.6,
-          "averageAreaInAcres": 509193.23,
+          "programPaymentInDollars": 71291444.6,
+          "averageAreaInAcres": 465348.39,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 69503548.6,
+              "paymentInDollars": 69609460.6,
               "paymentInPercentageNationwide": 0.4,
-              "paymentInPercentageWithinState": 22.3,
-              "averageAreaInAcres": 509193.23,
+              "paymentInPercentageWithinState": 22.33,
+              "averageAreaInAcres": 465348.39,
               "averageRecipientCount": 0
             },
             {
@@ -941,35 +941,35 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 240486260.11,
-          "averageAreaInAcres": 1312617.95,
+          "programPaymentInDollars": 240507794.11,
+          "averageAreaInAcres": 1317090.13,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 0.89,
-      "totalPaymentInDollars": 311671792.71
+      "totalPaymentInPercentageNationwide": 0.88,
+      "totalPaymentInDollars": 311799238.71
     },
     {
       "state": "KY",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 233684247.0,
-          "averageAreaInAcres": 2330275.56,
+          "programPaymentInDollars": 233709022.0,
+          "averageAreaInAcres": 2267224.14,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 232250386.0,
-              "paymentInPercentageNationwide": 1.35,
+              "paymentInDollars": 232268654.0,
+              "paymentInPercentageNationwide": 1.34,
               "paymentInPercentageWithinState": 77.63,
-              "averageAreaInAcres": 2330275.56,
+              "averageAreaInAcres": 2267224.14,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1433861.0,
+              "paymentInDollars": 1440368.0,
               "paymentInPercentageNationwide": 0.3,
               "paymentInPercentageWithinState": 0.48,
               "averageAreaInAcres": 0.0,
@@ -980,29 +980,29 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 65485137.85,
-          "averageAreaInAcres": 656605.77,
+          "averageAreaInAcres": 708446.54,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 0.86,
-      "totalPaymentInDollars": 299169384.85
+      "totalPaymentInPercentageNationwide": 0.85,
+      "totalPaymentInDollars": 299194159.85
     },
     {
       "state": "TN",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 136113711.97,
-          "averageAreaInAcres": 1616163.13,
+          "programPaymentInDollars": 136136550.97,
+          "averageAreaInAcres": 1569581.87,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 135683285.97,
-              "paymentInPercentageNationwide": 0.79,
-              "paymentInPercentageWithinState": 50.03,
-              "averageAreaInAcres": 1616163.13,
+              "paymentInDollars": 135706124.97,
+              "paymentInPercentageNationwide": 0.78,
+              "paymentInPercentageWithinState": 50.01,
+              "averageAreaInAcres": 1569581.87,
               "averageRecipientCount": 0
             },
             {
@@ -1017,30 +1017,30 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 135094828.13,
-          "averageAreaInAcres": 580143.11,
+          "programPaymentInDollars": 135203074.13,
+          "averageAreaInAcres": 665607.52,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 0.78,
-      "totalPaymentInDollars": 271208540.1
+      "totalPaymentInPercentageNationwide": 0.77,
+      "totalPaymentInDollars": 271339625.1
     },
     {
       "state": "SC",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 78162868.12,
-          "averageAreaInAcres": 724160.92,
+          "programPaymentInDollars": 78166662.12,
+          "averageAreaInAcres": 707084.46,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 78139865.12,
+              "paymentInDollars": 78143659.12,
               "paymentInPercentageNationwide": 0.45,
-              "paymentInPercentageWithinState": 31.22,
-              "averageAreaInAcres": 724160.92,
+              "paymentInPercentageWithinState": 30.42,
+              "averageAreaInAcres": 707084.46,
               "averageRecipientCount": 0
             },
             {
@@ -1055,37 +1055,37 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 172151927.34,
-          "averageAreaInAcres": 308672.39,
+          "programPaymentInDollars": 178703185.34,
+          "averageAreaInAcres": 339546.66,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 0.72,
-      "totalPaymentInDollars": 250314795.46
+      "totalPaymentInPercentageNationwide": 0.73,
+      "totalPaymentInDollars": 256869847.46
     },
     {
       "state": "VA",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 79607819.31,
-          "averageAreaInAcres": 756013.51,
+          "programPaymentInDollars": 79701122.31,
+          "averageAreaInAcres": 741809.38,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 79082208.31,
+              "paymentInDollars": 79175273.31,
               "paymentInPercentageNationwide": 0.46,
-              "paymentInPercentageWithinState": 37.4,
-              "averageAreaInAcres": 756013.51,
+              "paymentInPercentageWithinState": 36.5,
+              "averageAreaInAcres": 741809.38,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 525611.0,
+              "paymentInDollars": 525849.0,
               "paymentInPercentageNationwide": 0.11,
-              "paymentInPercentageWithinState": 0.25,
+              "paymentInPercentageWithinState": 0.24,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -1093,30 +1093,30 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 131856251.0,
-          "averageAreaInAcres": 376161.48,
+          "programPaymentInDollars": 137221763.0,
+          "averageAreaInAcres": 392066.8,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 0.61,
-      "totalPaymentInDollars": 211464070.31
+      "totalPaymentInPercentageNationwide": 0.62,
+      "totalPaymentInDollars": 216922885.31
     },
     {
       "state": "FL",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 6806871.26,
-          "averageAreaInAcres": 74131.49,
+          "programPaymentInDollars": 6901829.26,
+          "averageAreaInAcres": 70664.6,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 6806871.26,
+              "paymentInDollars": 6901829.26,
               "paymentInPercentageNationwide": 0.04,
-              "paymentInPercentageWithinState": 3.37,
-              "averageAreaInAcres": 74131.49,
+              "paymentInPercentageWithinState": 3.23,
+              "averageAreaInAcres": 70664.6,
               "averageRecipientCount": 0
             },
             {
@@ -1131,37 +1131,37 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 195062248.65,
-          "averageAreaInAcres": 197438.02,
+          "programPaymentInDollars": 206947493.65,
+          "averageAreaInAcres": 205096.35,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 0.58,
-      "totalPaymentInDollars": 201869119.91
+      "totalPaymentInPercentageNationwide": 0.61,
+      "totalPaymentInDollars": 213849322.91
     },
     {
       "state": "OR",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 105932221.39,
-          "averageAreaInAcres": 742331.99,
+          "programPaymentInDollars": 106778577.39,
+          "averageAreaInAcres": 663256.32,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 95539670.39,
+              "paymentInDollars": 96244249.39,
               "paymentInPercentageNationwide": 0.56,
-              "paymentInPercentageWithinState": 47.96,
-              "averageAreaInAcres": 742331.99,
+              "paymentInPercentageWithinState": 48.11,
+              "averageAreaInAcres": 663256.32,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 10392551.0,
+              "paymentInDollars": 10534328.0,
               "paymentInPercentageNationwide": 2.18,
-              "paymentInPercentageWithinState": 5.22,
+              "paymentInPercentageWithinState": 5.27,
               "averageAreaInAcres": 0.0,
               "averageRecipientCount": 0
             }
@@ -1169,35 +1169,35 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 93272670.79,
-          "averageAreaInAcres": 471751.91,
+          "programPaymentInDollars": 93273400.79,
+          "averageAreaInAcres": 550607.13,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
       "totalPaymentInPercentageNationwide": 0.57,
-      "totalPaymentInDollars": 199204892.18
+      "totalPaymentInDollars": 200051978.18
     },
     {
       "state": "NY",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 159471544.42,
-          "averageAreaInAcres": 982730.99,
+          "programPaymentInDollars": 159477538.42,
+          "averageAreaInAcres": 917150.03,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 157778845.17,
-              "paymentInPercentageNationwide": 0.92,
+              "paymentInDollars": 157781720.17,
+              "paymentInPercentageNationwide": 0.91,
               "paymentInPercentageWithinState": 89.44,
-              "averageAreaInAcres": 982730.99,
+              "averageAreaInAcres": 917150.03,
               "averageRecipientCount": 0
             },
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-              "paymentInDollars": 1692699.25,
+              "paymentInDollars": 1695818.25,
               "paymentInPercentageNationwide": 0.35,
               "paymentInPercentageWithinState": 0.96,
               "averageAreaInAcres": 0.0,
@@ -1208,29 +1208,29 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 16933519.11,
-          "averageAreaInAcres": 273197.6,
+          "averageAreaInAcres": 331035.03,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 0.51,
-      "totalPaymentInDollars": 176405063.53
+      "totalPaymentInPercentageNationwide": 0.5,
+      "totalPaymentInDollars": 176411057.53
     },
     {
       "state": "NM",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 24211769.74,
-          "averageAreaInAcres": 88861.04,
+          "programPaymentInDollars": 24616170.74,
+          "averageAreaInAcres": 88452.49,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 24060291.74,
+              "paymentInDollars": 24464692.74,
               "paymentInPercentageNationwide": 0.14,
-              "paymentInPercentageWithinState": 17.86,
-              "averageAreaInAcres": 88861.04,
+              "paymentInPercentageWithinState": 17.9,
+              "averageAreaInAcres": 88452.49,
               "averageRecipientCount": 0
             },
             {
@@ -1245,30 +1245,30 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 110537408.98,
-          "averageAreaInAcres": 815652.82,
+          "programPaymentInDollars": 112031855.98,
+          "averageAreaInAcres": 820777.54,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
       "totalPaymentInPercentageNationwide": 0.39,
-      "totalPaymentInDollars": 134749178.72
+      "totalPaymentInDollars": 136648026.72
     },
     {
       "state": "AZ",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 414610.0,
-          "averageAreaInAcres": 6852.96,
+          "programPaymentInDollars": 414618.0,
+          "averageAreaInAcres": 6030.27,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 346762.0,
+              "paymentInDollars": 346770.0,
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 0.28,
-              "averageAreaInAcres": 6852.96,
+              "averageAreaInAcres": 6030.27,
               "averageRecipientCount": 0
             },
             {
@@ -1283,30 +1283,30 @@
         },
         {
           "programName": "Price Loss Coverage (PLC)",
-          "programPaymentInDollars": 123985913.89,
-          "averageAreaInAcres": 279012.22,
+          "programPaymentInDollars": 123987874.89,
+          "averageAreaInAcres": 302123.03,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
-      "totalPaymentInPercentageNationwide": 0.36,
-      "totalPaymentInDollars": 124400523.89
+      "totalPaymentInPercentageNationwide": 0.35,
+      "totalPaymentInDollars": 124402492.89
     },
     {
       "state": "PA",
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 98008821.6,
-          "averageAreaInAcres": 911639.75,
+          "programPaymentInDollars": 98009862.6,
+          "averageAreaInAcres": 885071.31,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 97791450.6,
+              "paymentInDollars": 97792491.6,
               "paymentInPercentageNationwide": 0.57,
               "paymentInPercentageWithinState": 87.31,
-              "averageAreaInAcres": 911639.75,
+              "averageAreaInAcres": 885071.31,
               "averageRecipientCount": 0
             },
             {
@@ -1322,13 +1322,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 13994326.65,
-          "averageAreaInAcres": 203284.92,
+          "averageAreaInAcres": 229697.72,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
       "totalPaymentInPercentageNationwide": 0.32,
-      "totalPaymentInDollars": 112003148.25
+      "totalPaymentInDollars": 112004189.25
     },
     {
       "state": "MD",
@@ -1336,7 +1336,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 66218913.84,
-          "averageAreaInAcres": 780095.0,
+          "averageAreaInAcres": 760753.38,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1344,7 +1344,7 @@
               "paymentInDollars": 66140482.84,
               "paymentInPercentageNationwide": 0.38,
               "paymentInPercentageWithinState": 72.56,
-              "averageAreaInAcres": 780095.0,
+              "averageAreaInAcres": 760753.38,
               "averageRecipientCount": 0
             },
             {
@@ -1360,7 +1360,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 24930647.68,
-          "averageAreaInAcres": 220971.55,
+          "averageAreaInAcres": 236493.23,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1374,7 +1374,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 10477918.0,
-          "averageAreaInAcres": 48100.5,
+          "averageAreaInAcres": 42182.07,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1382,7 +1382,7 @@
               "paymentInDollars": 10477918.0,
               "paymentInPercentageNationwide": 0.06,
               "paymentInPercentageWithinState": 22.35,
-              "averageAreaInAcres": 48100.5,
+              "averageAreaInAcres": 42182.07,
               "averageRecipientCount": 0
             },
             {
@@ -1398,7 +1398,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 36401226.59,
-          "averageAreaInAcres": 322768.91,
+          "averageAreaInAcres": 328528.6,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1411,16 +1411,16 @@
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 8311752.08,
-          "averageAreaInAcres": 103990.28,
+          "programPaymentInDollars": 8367151.08,
+          "averageAreaInAcres": 96835.19,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 8022418.08,
+              "paymentInDollars": 8077817.08,
               "paymentInPercentageNationwide": 0.05,
-              "paymentInPercentageWithinState": 18.11,
-              "averageAreaInAcres": 103990.28,
+              "paymentInPercentageWithinState": 18.21,
+              "averageAreaInAcres": 96835.19,
               "averageRecipientCount": 0
             },
             {
@@ -1436,13 +1436,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 35983512.19,
-          "averageAreaInAcres": 384313.12,
+          "averageAreaInAcres": 390650.74,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
       "totalPaymentInPercentageNationwide": 0.13,
-      "totalPaymentInDollars": 44295264.27
+      "totalPaymentInDollars": 44350663.27
     },
     {
       "state": "DE",
@@ -1450,7 +1450,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 25207990.15,
-          "averageAreaInAcres": 261681.91,
+          "averageAreaInAcres": 259502.57,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1458,7 +1458,7 @@
               "paymentInDollars": 25199575.15,
               "paymentInPercentageNationwide": 0.15,
               "paymentInPercentageWithinState": 72.57,
-              "averageAreaInAcres": 261681.91,
+              "averageAreaInAcres": 259502.57,
               "averageRecipientCount": 0
             },
             {
@@ -1474,7 +1474,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 9516930.03,
-          "averageAreaInAcres": 96487.44,
+          "averageAreaInAcres": 97567.8,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1487,16 +1487,16 @@
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 12967033.91,
-          "averageAreaInAcres": 134068.67,
+          "programPaymentInDollars": 12967056.91,
+          "averageAreaInAcres": 131710.2,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 12831766.91,
+              "paymentInDollars": 12831789.91,
               "paymentInPercentageNationwide": 0.07,
               "paymentInPercentageWithinState": 88.32,
-              "averageAreaInAcres": 134068.67,
+              "averageAreaInAcres": 131710.2,
               "averageRecipientCount": 0
             },
             {
@@ -1512,13 +1512,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1561456.0,
-          "averageAreaInAcres": 20383.18,
+          "averageAreaInAcres": 21264.67,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
       "totalPaymentInPercentageNationwide": 0.04,
-      "totalPaymentInDollars": 14528489.91
+      "totalPaymentInDollars": 14528512.91
     },
     {
       "state": "VT",
@@ -1526,7 +1526,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 8646289.78,
-          "averageAreaInAcres": 65409.24,
+          "averageAreaInAcres": 57423.88,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1534,7 +1534,7 @@
               "paymentInDollars": 8615873.78,
               "paymentInPercentageNationwide": 0.05,
               "paymentInPercentageWithinState": 87.84,
-              "averageAreaInAcres": 65409.24,
+              "averageAreaInAcres": 57423.88,
               "averageRecipientCount": 0
             },
             {
@@ -1550,7 +1550,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1162409.0,
-          "averageAreaInAcres": 22912.09,
+          "averageAreaInAcres": 30023.84,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1563,16 +1563,16 @@
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
-          "programPaymentInDollars": 7120967.0,
-          "averageAreaInAcres": 52953.0,
+          "programPaymentInDollars": 7121102.0,
+          "averageAreaInAcres": 51968.07,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-              "paymentInDollars": 7120967.0,
+              "paymentInDollars": 7121102.0,
               "paymentInPercentageNationwide": 0.04,
               "paymentInPercentageWithinState": 86.05,
-              "averageAreaInAcres": 52953.0,
+              "averageAreaInAcres": 51968.07,
               "averageRecipientCount": 0
             },
             {
@@ -1588,13 +1588,13 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 1154435.0,
-          "averageAreaInAcres": 25811.46,
+          "averageAreaInAcres": 26280.43,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
       ],
       "totalPaymentInPercentageNationwide": 0.02,
-      "totalPaymentInDollars": 8275402.0
+      "totalPaymentInDollars": 8275537.0
     },
     {
       "state": "WV",
@@ -1602,7 +1602,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 7351034.89,
-          "averageAreaInAcres": 75784.25,
+          "averageAreaInAcres": 73209.12,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1610,7 +1610,7 @@
               "paymentInDollars": 7270076.89,
               "paymentInPercentageNationwide": 0.04,
               "paymentInPercentageWithinState": 91.65,
-              "averageAreaInAcres": 75784.25,
+              "averageAreaInAcres": 73209.12,
               "averageRecipientCount": 0
             },
             {
@@ -1626,7 +1626,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 581150.0,
-          "averageAreaInAcres": 6525.53,
+          "averageAreaInAcres": 8139.91,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1640,7 +1640,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1836865.0,
-          "averageAreaInAcres": 14822.57,
+          "averageAreaInAcres": 14451.84,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1648,7 +1648,7 @@
               "paymentInDollars": 1704609.0,
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 72.76,
-              "averageAreaInAcres": 14822.57,
+              "averageAreaInAcres": 14451.84,
               "averageRecipientCount": 0
             },
             {
@@ -1664,7 +1664,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 505805.0,
-          "averageAreaInAcres": 7284.53,
+          "averageAreaInAcres": 7581.12,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1678,7 +1678,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 2790137.69,
-          "averageAreaInAcres": 12719.33,
+          "averageAreaInAcres": 11173.5,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1686,7 +1686,7 @@
               "paymentInDollars": 2790137.69,
               "paymentInPercentageNationwide": 0.02,
               "paymentInPercentageWithinState": 92.88,
-              "averageAreaInAcres": 12719.33,
+              "averageAreaInAcres": 11173.5,
               "averageRecipientCount": 0
             },
             {
@@ -1702,7 +1702,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 213828.0,
-          "averageAreaInAcres": 4181.66,
+          "averageAreaInAcres": 5491.41,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1716,7 +1716,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 604647.0,
-          "averageAreaInAcres": 8674.73,
+          "averageAreaInAcres": 7602.18,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1724,7 +1724,7 @@
               "paymentInDollars": 604647.0,
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 12.96,
-              "averageAreaInAcres": 8674.73,
+              "averageAreaInAcres": 7602.18,
               "averageRecipientCount": 0
             },
             {
@@ -1740,7 +1740,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 4059294.0,
-          "averageAreaInAcres": 34213.03,
+          "averageAreaInAcres": 34806.36,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1754,7 +1754,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1936199.0,
-          "averageAreaInAcres": 9489.65,
+          "averageAreaInAcres": 9102.65,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1762,7 +1762,7 @@
               "paymentInDollars": 1936199.0,
               "paymentInPercentageNationwide": 0.01,
               "paymentInPercentageWithinState": 88.82,
-              "averageAreaInAcres": 9489.65,
+              "averageAreaInAcres": 9102.65,
               "averageRecipientCount": 0
             },
             {
@@ -1778,7 +1778,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 243726.0,
-          "averageAreaInAcres": 2922.97,
+          "averageAreaInAcres": 3312.23,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1816,7 +1816,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 592328.0,
-          "averageAreaInAcres": 13643.72,
+          "averageAreaInAcres": 13791.11,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
@@ -1868,7 +1868,7 @@
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 107830.0,
-          "averageAreaInAcres": 681.77,
+          "averageAreaInAcres": 673.76,
           "averageRecipientCount": 0,
           "subPrograms": [
             {
@@ -1876,7 +1876,7 @@
               "paymentInDollars": 107830.0,
               "paymentInPercentageNationwide": 0.0,
               "paymentInPercentageWithinState": 38.14,
-              "averageAreaInAcres": 681.77,
+              "averageAreaInAcres": 673.76,
               "averageRecipientCount": 0
             },
             {
@@ -1892,7 +1892,7 @@
         {
           "programName": "Price Loss Coverage (PLC)",
           "programPaymentInDollars": 174856.0,
-          "averageAreaInAcres": 214.57,
+          "averageAreaInAcres": 248.42,
           "averageRecipientCount": 0,
           "subPrograms": []
         }
