@@ -14,3 +14,7 @@ if __name__ == '__main__':
                                          )
     commodities_data_parser.format_title_commodities_data()
     commodities_data_parser.parse_and_process()
+
+    crop_insurance_data_parser = DataParser(2018, 2022, "Crop Insurance",
+                                            "crop-insurance", "ci_state_year_benefits.csv")
+    crop_insurance_data_parser.parse_and_process_crop_insurance()

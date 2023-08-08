@@ -1,0 +1,16 @@
+{
+  "programs": [
+    {
+      "programName": "Crop Insurance",
+      "subPrograms": [],
+      "totalIndemnitiesInDollars": 51354890293,
+      "totalPremiumInDollars": 60218874000,
+      "totalPremiumSubsidyInDollars": 37884518451,
+      "totalFarmerPaidPremiumInDollars": 22334355549,
+      "totalNetFarmerBenefitInDollars": 29020534744,
+      "totalLiabilitiesInDollars": 607117339300,
+      "totalPoliciesEarningPremium": 5621204,
+      "lossRatio": 0.853
+    }
+  ]
+}
