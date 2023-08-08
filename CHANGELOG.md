@@ -37,6 +37,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Exclude 2018 base acres and recipient count data. [#35](https://github.com/policy-design-lab/data-import/issues/35)
 - All programs and summary JSON files based on latest SNAP
   data. [#31](https://github.com/policy-design-lab/data-import/issues/31)
+- Data import program to process Title - 1 commodities raw data in the new
+  format. [#38](https://github.com/policy-design-lab/data-import/issues/38)
 
 ### Fixed
 
