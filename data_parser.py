@@ -80,6 +80,114 @@ class DataParser:
                 },
                 "zero_subprograms_map": {
                 }
+            },
+            "Title 2: Conservation: CRP": {
+                "programs_subprograms_map": {
+                    "General Sign-Up": ["NUMBER OF CONTRACTS", "NUMBER OF FARMS", "ACRES",
+                                        "ANNUAL RENTAL PAYMENTS ($1000)", "ANNUAL RENTAL PAYMENTS ($/ACRE)"],
+                    "Total Continuous Sign-up": {
+                        "CREP Only": ["NUMBER OF CONTRACTS", "NUMBER OF FARMS", "ACRES",
+                                      "ANNUAL RENTAL PAYMENTS ($1000)", "ANNUAL RENTAL PAYMENTS ($/ACRE)"],
+                        "Continuous Non-CREP)": ["NUMBER OF CONTRACTS", "NUMBER OF FARMS", "ACRES",
+                                                 "ANNUAL RENTAL PAYMENTS ($1000)",
+                                                 "ANNUAL RENTAL PAYMENTS ($/ACRE)"],
+                        "Farmable Wetland": ["NUMBER OF CONTRACTS", "NUMBER OF FARMS", "ACRES",
+                                             "ANNUAL RENTAL PAYMENTS ($1000)", "ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+                    },
+                    "Grassland": ["NUMBER OF CONTRACTS", "NUMBER OF FARMS", "ACRES",
+                                  "ANNUAL RENTAL PAYMENTS ($1000)", "ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+                },
+                "value_names_map": {
+                    'ALABAMA': 'AL',
+                    'ALASKA': 'AK',
+                    'ARIZONA': 'AZ',
+                    'ARKANSAS': 'AR',
+                    'CALIFORNIA': 'CA',
+                    'COLORADO': 'CO',
+                    'CONNECTICUT': 'CT',
+                    'DELAWARE': 'DE',
+                    'FLORIDA': 'FL',
+                    'GEORGIA': 'GA',
+                    'HAWAII': 'HI',
+                    'IDAHO': 'ID',
+                    'ILLINOIS': 'IL',
+                    'INDIANA': 'IN',
+                    'IOWA': 'IA',
+                    'KANSAS': 'KS',
+                    'KENTUCKY': 'KY',
+                    'LOUISIANA': 'LA',
+                    'MAINE': 'ME',
+                    'MARYLAND': 'MD',
+                    'MASSACHUSETTS': 'MA',
+                    'MICHIGAN': 'MI',
+                    'MINNESOTA': 'MN',
+                    'MISSISSIPPI': 'MS',
+                    'MISSOURI': 'MO',
+                    'MONTANA': 'MT',
+                    'NEBRASKA': 'NE',
+                    'NEVADA': 'NV',
+                    'NEW HAMPSHIRE': 'NH',
+                    'NEW JERSEY': 'NJ',
+                    'NEW MEXICO': 'NM',
+                    'NEW YORK': 'NY',
+                    'NORTH CAROLINA': 'NC',
+                    'NORTH DAKOTA': 'ND',
+                    'OHIO': 'OH',
+                    'OKLAHOMA': 'OK',
+                    'OREGON': 'OR',
+                    'PENNSYLVANIA': 'PA',
+                    'RHODE ISLAND': 'RI',
+                    'SOUTH CAROLINA': 'SC',
+                    'SOUTH DAKOTA': 'SD',
+                    'TENNESSEE': 'TN',
+                    'TEXAS': 'TX',
+                    'UTAH': 'UT',
+                    'VERMONT': 'VT',
+                    'VIRGINIA': 'VA',
+                    'WASHINGTON': 'WA',
+                    'WEST VIRGINIA': 'WV',
+                    'WISCONSIN': 'WI',
+                    'WYOMING': 'WY'
+                },
+                "column_names_map": {
+                    "Total CRP - NUMBER OF CONTRACTS": "CRP-Contract",
+                    "Total CRP - NUMBER OF FARMS": "CRP-Farm",
+                    "Total CRP - ACRES": "CRP-Acre",
+                    "Total CRP - ANNUAL RENTAL PAYMENTS ($1000)": "CRP-Rent-1K",
+                    "Total CRP - ANNUAL RENTAL PAYMENTS ($/ACRE)": "CRP-Ren-Acre",
+                    "Total General Sign-Up - NUMBER OF CONTRACTS": "Gen-Contract",
+                    "Total General Sign-Up - NUMBER OF FARMS": "Gen-Farm",
+                    "Total General Sign-Up - ACRES": "Gen-Acre",
+                    "Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($1000)": "Gen-Rent-1K",
+                    "Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($/ACRE)": "Gen-Rent-Acre",
+                    "Total Continuous - NUMBER OF CONTRACTS": "Cont-Contract",
+                    "Total Continuous - NUMBER OF FARMS": "Cont-Farm",
+                    "Total Continuous - ACRES": "Cont-Acre",
+                    "Total Continuous - ANNUAL RENTAL PAYMENTS ($1000)": "Cont-Rent-1K",
+                    "Total Continuous - ANNUAL RENTAL PAYMENTS ($/ACRE)": "Cont-Rent-Acre",
+                    "CREP Only - NUMBER OF CONTRACTS": "CREP-Contract",
+                    "CREP Only - NUMBER OF FARMS": "CREP-Farm",
+                    "CREP Only - ACRES": "CREP-Acre",
+                    "CREP Only - ANNUAL RENTAL PAYMENTS ($1000)": "CREP-Rent-1K",
+                    "CREP Only - ANNUAL RENTAL PAYMENTS ($/ACRE)": "CREP-Rent-Acre",
+                    "Continuous Non-CREP - NUMBER OF CONTRACTS": "No-CREP-Contract",
+                    "Continuous Non-CREP - NUMBER OF FARMS": "No-CREP-Farm",
+                    "Continuous Non-CREP - ACRES": "No-CREP-Acre",
+                    "Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($1000)": "No-CREP-Rent-1K",
+                    "Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($/ACRE)": "No-CREP-Rent-Acre",
+                    "Farmable Wetland - NUMBER OF CONTRACTS": "Wet-Contract",
+                    "Farmable Wetland - NUMBER OF FARMS": "Wet-Farm",
+                    "Farmable Wetland - ACRES": "Wet-Acre",
+                    "Farmable Wetland - ANNUAL RENTAL PAYMENTS ($1000)": "Wet-Rent-1K",
+                    "Farmable Wetland - ANNUAL RENTAL PAYMENTS ($/ACRE)": "Wet-Rent-Acre",
+                    "Grassland - NUMBER OF CONTRACTS": "Grass-Contract",
+                    "Grassland - NUMBER OF FARMS": "Grass-Farm",
+                    "Grassland - ACRES": "Grass-Acre",
+                    "Grassland - ANNUAL RENTAL PAYMENTS ($1000)": "Grass-Rent-1K",
+                    "Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)": "Grass-Rent-Acre"
+                },
+                "zero_subprograms_map": {
+                }
             }
         }
         self.us_state_abbreviations = {
@@ -813,4 +921,723 @@ class DataParser:
 
         # Write processed_data_dict as JSON data
         with open(os.path.join(self.data_folder, "crop_insurance_subprograms_data.json"), "w") as output_json_file:
+            output_json_file.write(json.dumps(self.program_data_dict, indent=2))
+
+    def parse_and_process_crp(self):
+        # Import CSV file into a Pandas DataFrame
+        program_data = pd.read_csv(self.program_csv_filepath)
+
+        # Change state name to state abbreviation
+        program_data = program_data.replace(self.metadata[self.program_main_category_name]["value_names_map"])
+
+        # some columns have empty values and this makes the rows type as object
+        # this makes the process of SUM errors since those are object not number
+        # so the columns should be numeric all the time
+        # make sure every number columns be number
+        program_data[["Total CRP - NUMBER OF CONTRACTS",
+                      "Total CRP - NUMBER OF FARMS",
+                      "Total CRP - ACRES",
+                      "Total CRP - ANNUAL RENTAL PAYMENTS ($1000)",
+                      "Total CRP - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                      "Total General Sign-Up - NUMBER OF CONTRACTS",
+                      "Total General Sign-Up - NUMBER OF FARMS",
+                      "Total General Sign-Up - ACRES",
+                      "Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($1000)",
+                      "Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                      "Total Continuous - NUMBER OF CONTRACTS",
+                      "Total Continuous - NUMBER OF FARMS",
+                      "Total Continuous - ACRES",
+                      "Total Continuous - ANNUAL RENTAL PAYMENTS ($1000)",
+                      "Total Continuous - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                      "CREP Only - NUMBER OF CONTRACTS",
+                      "CREP Only - NUMBER OF FARMS",
+                      "CREP Only - ACRES",
+                      "CREP Only - ANNUAL RENTAL PAYMENTS ($1000)",
+                      "CREP Only - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                      "Continuous Non-CREP - NUMBER OF CONTRACTS",
+                      "Continuous Non-CREP - NUMBER OF FARMS",
+                      "Continuous Non-CREP - ACRES",
+                      "Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($1000)",
+                      "Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                      "Farmable Wetland - NUMBER OF CONTRACTS",
+                      "Farmable Wetland - NUMBER OF FARMS",
+                      "Farmable Wetland - ACRES",
+                      "Farmable Wetland - ANNUAL RENTAL PAYMENTS ($1000)",
+                      "Farmable Wetland - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                      "Grassland - NUMBER OF CONTRACTS",
+                      "Grassland - NUMBER OF FARMS",
+                      "Grassland - ACRES",
+                      "Grassland - ANNUAL RENTAL PAYMENTS ($1000)",
+                      "Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"]] = \
+            program_data[["Total CRP - NUMBER OF CONTRACTS",
+                          "Total CRP - NUMBER OF FARMS",
+                          "Total CRP - ACRES",
+                          "Total CRP - ANNUAL RENTAL PAYMENTS ($1000)",
+                          "Total CRP - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                          "Total General Sign-Up - NUMBER OF CONTRACTS",
+                          "Total General Sign-Up - NUMBER OF FARMS",
+                          "Total General Sign-Up - ACRES",
+                          "Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($1000)",
+                          "Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                          "Total Continuous - NUMBER OF CONTRACTS",
+                          "Total Continuous - NUMBER OF FARMS",
+                          "Total Continuous - ACRES",
+                          "Total Continuous - ANNUAL RENTAL PAYMENTS ($1000)",
+                          "Total Continuous - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                          "CREP Only - NUMBER OF CONTRACTS",
+                          "CREP Only - NUMBER OF FARMS",
+                          "CREP Only - ACRES",
+                          "CREP Only - ANNUAL RENTAL PAYMENTS ($1000)",
+                          "CREP Only - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                          "Continuous Non-CREP - NUMBER OF CONTRACTS",
+                          "Continuous Non-CREP - NUMBER OF FARMS",
+                          "Continuous Non-CREP - ACRES",
+                          "Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($1000)",
+                          "Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                          "Farmable Wetland - NUMBER OF CONTRACTS",
+                          "Farmable Wetland - NUMBER OF FARMS",
+                          "Farmable Wetland - ACRES",
+                          "Farmable Wetland - ANNUAL RENTAL PAYMENTS ($1000)",
+                          "Farmable Wetland - ANNUAL RENTAL PAYMENTS ($/ACRE)",
+                          "Grassland - NUMBER OF CONTRACTS",
+                          "Grassland - NUMBER OF FARMS",
+                          "Grassland - ACRES",
+                          "Grassland - ANNUAL RENTAL PAYMENTS ($1000)",
+                          "Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"]].apply(pd.to_numeric)
+
+        # Rename column names to make it more uniform
+        # program_data.rename(columns=self.metadata[self.program_main_category_name]["column_names_map"], inplace=True)
+
+        # there are rows for U.S. and Puerto Rico this should not be used to calculate national level
+        # the weird thing is that the value in U.S. doesn't match to the sum of all the states
+        # get national level values location from the table since it contains it
+        us_row_loc = []
+        for index, state in enumerate(program_data['state']):
+            if state == 'U.S.':
+                us_row_loc.append(index)
+
+        # remove U.S. rows
+        program_data = program_data.drop(program_data.index[us_row_loc])
+
+        # remove puerto rico
+        rico_row_loc = []
+        for index, state in enumerate(program_data['state']):
+            if state == 'PUERTO RICO':
+                rico_row_loc.append(index)
+        program_data = program_data.drop(program_data.index[rico_row_loc])
+
+        # Filter only relevant years' data
+        program_data = program_data[program_data["year"].between(self.start_year, self.end_year, inclusive="both")]
+
+        # 1. Generate State Distribution JSON Data
+        self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
+
+        # calculate total
+        # general sign up
+        total_general_signup_contract_at_national_level = int(
+            program_data["Total General Sign-Up - NUMBER OF CONTRACTS"].sum())
+        total_general_signup_farm_at_national_level = int(
+            program_data["Total General Sign-Up - NUMBER OF FARMS"].sum())
+        total_general_signup_acre_at_national_level = int(
+            program_data["Total General Sign-Up - ACRES"].sum())
+        total_general_signup_rental_1k_at_national_level = int(
+            program_data["Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($1000)"].sum())
+        total_general_signup_rental_acre_at_national_level = round(
+            program_data["Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum(), 2)
+
+        # continuous data
+        total_continuous_contract_at_national_level = int(
+            program_data["Total Continuous - NUMBER OF CONTRACTS"].sum())
+        total_continuous_farm_at_national_level = int(
+            program_data["Total Continuous - NUMBER OF FARMS"].sum())
+        total_continuous_acre_at_national_level = int(
+            program_data["Total Continuous - ACRES"].sum())
+        total_continuous_rental_1k_at_national_level = int(
+            program_data["Total Continuous - ANNUAL RENTAL PAYMENTS ($1000)"].sum())
+        total_continuous_rental_acre_at_national_level = round(
+            program_data["Total Continuous - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum(), 2)
+
+        # crep only data
+        crep_only_contract_at_national_level = int(
+            program_data["CREP Only - NUMBER OF CONTRACTS"].sum())
+        crep_only_farm_at_national_level = int(
+            program_data["CREP Only - NUMBER OF FARMS"].sum())
+        crep_only_acre_at_national_level = int(
+            program_data["CREP Only - ACRES"].sum())
+        crep_only_rental_1k_at_national_level = int(
+            program_data["CREP Only - ANNUAL RENTAL PAYMENTS ($1000)"].sum())
+        crep_only_rental_acre_at_national_level = round(
+            program_data["CREP Only - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum(), 2)
+
+        # non-crep data
+        non_crep_contract_at_national_level = int(
+            program_data["Continuous Non-CREP - NUMBER OF CONTRACTS"].sum())
+        non_crep_farm_at_national_level = int(
+            program_data["Continuous Non-CREP - NUMBER OF FARMS"].sum())
+        non_crep_acre_at_national_level = int(
+            program_data["Continuous Non-CREP - ACRES"].sum())
+        non_crep_rental_1k_at_national_level = int(
+            program_data["Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($1000)"].sum())
+        non_crep_rental_acre_at_national_level = round(
+            program_data["Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum(), 2)
+
+        # farmable wetland data
+        wetland_contract_at_national_level = int(
+            program_data["Farmable Wetland - NUMBER OF CONTRACTS"].sum())
+        wetland_farm_at_national_level = int(
+            program_data["Farmable Wetland - NUMBER OF FARMS"].sum())
+        wetland_acre_at_national_level = int(
+            program_data["Farmable Wetland - ACRES"].sum())
+        wetland_rental_1k_at_national_level = int(
+            program_data["Farmable Wetland - ANNUAL RENTAL PAYMENTS ($1000)"].sum())
+        wetland_rental_acre_at_national_level = round(
+            program_data["Farmable Wetland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum(), 2)
+
+        # grassland data
+        grassland_contract_at_national_level = int(
+            program_data["Grassland - NUMBER OF CONTRACTS"].sum())
+        grassland_farm_at_national_level = int(
+            program_data["Grassland - NUMBER OF FARMS"].sum())
+        grassland_acre_at_national_level = int(
+            program_data["Grassland - ACRES"].sum())
+        grassland_rental_1k_at_national_level = int(
+            program_data["Grassland - ANNUAL RENTAL PAYMENTS ($1000)"].sum())
+        grassland_rental_acre_at_national_level = round(
+            program_data["Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum(), 2)
+
+        # Group General Sign-up data by state, then sum
+        general_signup_by_contract_by_state = \
+            program_data[
+                ["year", "state", "Total General Sign-Up - NUMBER OF CONTRACTS"]
+            ].groupby(
+                ["state"]
+            )["Total General Sign-Up - NUMBER OF CONTRACTS"].sum()
+
+        general_signup_by_farm_by_state = \
+            program_data[
+                ["year", "state", "Total General Sign-Up - NUMBER OF FARMS"]
+            ].groupby(
+                ["state"]
+            )["Total General Sign-Up - NUMBER OF FARMS"].sum()
+
+        general_signup_by_acre_by_state = \
+            program_data[
+                ["year", "state", "Total General Sign-Up - ACRES"]
+            ].groupby(
+                ["state"]
+            )["Total General Sign-Up - ACRES"].sum()
+
+        general_signup_by_rental_1k_by_state = \
+            program_data[
+                ["year", "state", "Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($1000)"]
+            ].groupby(
+                ["state"]
+            )["Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        general_signup_by_rental_acre_by_state = \
+            program_data[
+                ["year", "state", "Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+            ].groupby(
+                ["state"]
+            )["Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group continuous data by state and year, then sum
+        continuous_by_contract_by_state = \
+            program_data[
+                ["year", "state", "Total Continuous - NUMBER OF CONTRACTS"]
+            ].groupby(
+                ["state"]
+            )["Total Continuous - NUMBER OF CONTRACTS"].sum()
+
+        continuous_by_farm_by_state = \
+            program_data[
+                ["year", "state", "Total Continuous - NUMBER OF FARMS"]
+            ].groupby(
+                ["state"]
+            )["Total Continuous - NUMBER OF FARMS"].sum()
+
+        continuous_by_acre_by_state = \
+            program_data[
+                ["year", "state", "Total Continuous - ACRES"]
+            ].groupby(
+                ["state"]
+            )["Total Continuous - ACRES"].sum()
+
+        continuous_by_rental_1k_by_state = \
+            program_data[
+                ["year", "state", "Total Continuous - ANNUAL RENTAL PAYMENTS ($1000)"]
+            ].groupby(
+                ["state"]
+            )["Total Continuous - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        continuous_by_rental_acre_by_state = \
+            program_data[
+                ["year", "state", "Total Continuous - ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+            ].groupby(
+                ["state"]
+            )["Total Continuous - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group crep only data by state and year, then sum
+        crep_only_by_contract_by_state = \
+            program_data[
+                ["year", "state", "CREP Only - NUMBER OF CONTRACTS"]
+            ].groupby(
+                ["state"]
+            )["CREP Only - NUMBER OF CONTRACTS"].sum()
+
+        crep_only_by_farm_by_state = \
+            program_data[
+                ["year", "state", "CREP Only - NUMBER OF FARMS"]
+            ].groupby(
+                ["state"]
+            )["CREP Only - NUMBER OF FARMS"].sum()
+
+        crep_only_by_acre_by_state = \
+            program_data[
+                ["year", "state", "CREP Only - ACRES"]
+            ].groupby(
+                ["state"]
+            )["CREP Only - ACRES"].sum()
+
+        crep_only_by_rental_1k_by_state = \
+            program_data[
+                ["year", "state", "CREP Only - ANNUAL RENTAL PAYMENTS ($1000)"]
+            ].groupby(
+                ["state"]
+            )["CREP Only - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        crep_only_by_rental_acre_by_state = \
+            program_data[
+                ["year", "state", "CREP Only - ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+            ].groupby(
+                ["state"]
+            )["CREP Only - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group continuous non-crep data by state and year, then sum
+        non_crep_by_contract_by_state = \
+            program_data[
+                ["year", "state", "Continuous Non-CREP - NUMBER OF CONTRACTS"]
+            ].groupby(
+                ["state"]
+            )["Continuous Non-CREP - NUMBER OF CONTRACTS"].sum()
+
+        non_crep_by_farm_by_state = \
+            program_data[
+                ["year", "state", "Continuous Non-CREP - NUMBER OF FARMS"]
+            ].groupby(
+                ["state"]
+            )["Continuous Non-CREP - NUMBER OF FARMS"].sum()
+
+        non_crep_by_acre_by_state = \
+            program_data[
+                ["year", "state", "Continuous Non-CREP - ACRES"]
+            ].groupby(
+                ["state"]
+            )["Continuous Non-CREP - ACRES"].sum()
+
+        non_crep_by_rental_1k_by_state = \
+            program_data[
+                ["year", "state", "Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($1000)"]
+            ].groupby(
+                ["state"]
+            )["Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        non_crep_by_rental_acre_by_state = \
+            program_data[
+                ["year", "state", "Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+            ].groupby(
+                ["state"]
+            )["Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group farmable wetland data by state and year, then sum
+        wetland_by_contract_by_state = \
+            program_data[
+                ["year", "state", "Farmable Wetland - NUMBER OF CONTRACTS"]
+            ].groupby(
+                ["state"]
+            )["Farmable Wetland - NUMBER OF CONTRACTS"].sum()
+
+        wetland_by_farm_by_state = \
+            program_data[
+                ["year", "state", "Farmable Wetland - NUMBER OF FARMS"]
+            ].groupby(
+                ["state"]
+            )["Farmable Wetland - NUMBER OF FARMS"].sum()
+
+        wetland_by_acre_by_state = \
+            program_data[
+                ["year", "state", "Farmable Wetland - ACRES"]
+            ].groupby(
+                ["state"]
+            )["Farmable Wetland - ACRES"].sum()
+
+        wetland_by_rental_1k_by_state = \
+            program_data[
+                ["year", "state", "Farmable Wetland - ANNUAL RENTAL PAYMENTS ($1000)"]
+            ].groupby(
+                ["state"]
+            )["Farmable Wetland - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        wetland_by_rental_acre_by_state = \
+            program_data[
+                ["year", "state", "Farmable Wetland - ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+            ].groupby(
+                ["state"]
+            )["Farmable Wetland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group grassland data by state and year, then sum
+        grassland_by_contract_by_state = \
+            program_data[
+                ["year", "state", "Grassland - NUMBER OF CONTRACTS"]
+            ].groupby(
+                ["state"]
+            )["Grassland - NUMBER OF CONTRACTS"].sum()
+
+        grassland_by_farm_by_state = \
+            program_data[
+                ["year", "state", "Grassland - NUMBER OF FARMS"]
+            ].groupby(
+                ["state"]
+            )["Grassland - NUMBER OF FARMS"].sum()
+
+        grassland_by_acre_by_state = \
+            program_data[
+                ["year", "state", "Grassland - ACRES"]
+            ].groupby(
+                ["state"]
+            )["Grassland - ACRES"].sum()
+
+        grassland_by_rental_1k_by_state = \
+            program_data[
+                ["year", "state", "Grassland - ANNUAL RENTAL PAYMENTS ($1000)"]
+            ].groupby(
+                ["state"]
+            )["Grassland - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        grassland_by_rental_acre_by_state = \
+            program_data[
+                ["year", "state", "Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+            ].groupby(
+                ["state"]
+            )["Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        for state in self.us_state_abbreviations:
+            new_data_entry = {
+                "state": state,
+                "programs": [
+                    {
+                        "programName": "Total General Sign-Up",
+                        "totalNumberOfContract": int(general_signup_by_contract_by_state[state].item()),
+                        "totalNumberOfFarm": int(general_signup_by_farm_by_state[state].item()),
+                        "totalAcre": int(general_signup_by_acre_by_state[state].item()),
+                        "totalAnnualRental1K": int(general_signup_by_rental_1k_by_state[state].item()),
+                        "totalAnnualRentalAcre": round(general_signup_by_rental_acre_by_state[state].item(), 2),
+                        "totalNumberOfContractInPercentageNationwide": round(
+                            (general_signup_by_contract_by_state[state].item() /
+                             total_general_signup_contract_at_national_level) * 100, 2),
+                        "totalNumberOfFarmInPercentageNationwide": round(
+                            (general_signup_by_farm_by_state[state].item() /
+                             total_general_signup_farm_at_national_level) * 100, 2),
+                        "totalAcreInPercentageNationwide": round(
+                            (general_signup_by_acre_by_state[state].item() /
+                             total_general_signup_acre_at_national_level) * 100, 2),
+                        "totalAnnualRental1kInPercentageNationwide": round(
+                            (general_signup_by_rental_1k_by_state[state].item() /
+                             total_general_signup_rental_1k_at_national_level) * 100, 2),
+                        "totalAnnualRentalAcreInPercentageNationwide": round(
+                            (general_signup_by_rental_acre_by_state[state].item() /
+                             total_general_signup_rental_acre_at_national_level) * 100, 2),
+                        "subPrograms": []
+                    },
+                    {
+                        "programName": "Total Continuous Sign-Up",
+                        "totalNumberOfContract": int(continuous_by_contract_by_state[state].item()),
+                        "totalNumberOfFarm": int(continuous_by_farm_by_state[state].item()),
+                        "totalAcre": int(continuous_by_acre_by_state[state].item()),
+                        "totalAnnualRental1K": int(continuous_by_rental_1k_by_state[state].item()),
+                        "totalAnnualRentalAcre": round(continuous_by_rental_acre_by_state[state].item(), 2),
+                        "totalNumberOfContractInPercentageNationwide": round(
+                            (continuous_by_contract_by_state[state].item() /
+                             total_continuous_contract_at_national_level) * 100, 2),
+                        "totalNumberOfFarmInPercentageNationwide": round(
+                            (continuous_by_farm_by_state[state].item() /
+                             total_continuous_farm_at_national_level) * 100, 2),
+                        "totalAcreInPercentageNationwide": round(
+                            (continuous_by_acre_by_state[state].item() /
+                             total_continuous_acre_at_national_level) * 100, 2),
+                        "totalAnnualRental1kInPercentageNationwide": round(
+                            (continuous_by_rental_1k_by_state[state].item() /
+                             total_continuous_rental_1k_at_national_level) * 100, 2),
+                        "totalAnnualRentalAcreInPercentageNationwide": round(
+                            (continuous_by_rental_acre_by_state[state].item() /
+                             total_continuous_rental_acre_at_national_level) * 100, 2),
+                        "subPrograms": [
+                            {
+                                "programName": "CREP Only",
+                                "totalNumberOfContract": int(crep_only_by_contract_by_state[state].item()),
+                                "totalNumberOfFarm": int(crep_only_by_farm_by_state[state].item()),
+                                "totalAcre": int(crep_only_by_acre_by_state[state].item()),
+                                "totalAnnualRental1K": int(crep_only_by_rental_1k_by_state[state].item()),
+                                "totalAnnualRentalAcre": round(crep_only_by_rental_acre_by_state[state].item(), 2),
+                                "totalNumberOfContractInPercentageNationwide": round(
+                                    (crep_only_by_contract_by_state[state].item() /
+                                     crep_only_contract_at_national_level) * 100, 2),
+                                "totalNumberOfFarmInPercentageNationwide": round(
+                                    (crep_only_by_farm_by_state[state].item() /
+                                     crep_only_farm_at_national_level) * 100, 2),
+                                "totalAcreInPercentageNationwide": round(
+                                    (crep_only_by_acre_by_state[state].item() /
+                                     crep_only_acre_at_national_level) * 100, 2),
+                                "totalAnnualRental1kInPercentageNationwide": round(
+                                    (crep_only_by_rental_1k_by_state[state].item() /
+                                     crep_only_rental_1k_at_national_level) * 100, 2),
+                                "totalAnnualRentalAcreInPercentageNationwide": round(
+                                    (crep_only_by_rental_acre_by_state[state].item() /
+                                     crep_only_rental_acre_at_national_level) * 100, 2),
+                            },
+                            {
+                                "programName": "Continuous Non-CREP",
+                                "totalNumberOfContract": int(non_crep_by_contract_by_state[state].item()),
+                                "totalNumberOfFarm": int(non_crep_by_farm_by_state[state].item()),
+                                "totalAcre": int(non_crep_by_acre_by_state[state].item()),
+                                "totalAnnualRental1K": int(non_crep_by_rental_1k_by_state[state].item()),
+                                "totalAnnualRentalAcre": round(non_crep_by_rental_acre_by_state[state].item(), 2),
+                                "totalNumberOfContractInPercentageNationwide": round(
+                                    (non_crep_by_contract_by_state[state].item() /
+                                     non_crep_contract_at_national_level) * 100, 2),
+                                "totalNumberOfFarmInPercentageNationwide": round(
+                                    (non_crep_by_farm_by_state[state].item() /
+                                     non_crep_farm_at_national_level) * 100, 2),
+                                "totalAcreInPercentageNationwide": round(
+                                    (non_crep_by_acre_by_state[state].item() /
+                                     non_crep_acre_at_national_level) * 100, 2),
+                                "totalAnnualRental1kInPercentageNationwide": round(
+                                    (non_crep_by_rental_1k_by_state[state].item() /
+                                     non_crep_rental_1k_at_national_level) * 100, 2),
+                                "totalAnnualRentalAcreInPercentageNationwide": round(
+                                    (non_crep_by_rental_acre_by_state[state].item() /
+                                     non_crep_rental_acre_at_national_level) * 100, 2),
+                            },
+                            {
+                                "programName": "Farmable Wetland",
+                                "totalNumberOfContract": int(wetland_by_contract_by_state[state].item()),
+                                "totalNumberOfFarm": int(wetland_by_farm_by_state[state].item()),
+                                "totalAcre": int(wetland_by_acre_by_state[state].item()),
+                                "totalAnnualRental1K": int(wetland_by_rental_1k_by_state[state].item()),
+                                "totalAnnualRentalAcre": round(wetland_by_rental_acre_by_state[state].item(), 2),
+                                "totalNumberOfContractInPercentageNationwide": round(
+                                    (wetland_by_contract_by_state[state].item() /
+                                     wetland_contract_at_national_level) * 100, 2),
+                                "totalNumberOfFarmInPercentageNationwide": round(
+                                    (wetland_by_farm_by_state[state].item() /
+                                     wetland_farm_at_national_level) * 100, 2),
+                                "totalAcreInPercentageNationwide": round(
+                                    (wetland_by_acre_by_state[state].item() /
+                                     wetland_acre_at_national_level) * 100, 2),
+                                "totalAnnualRental1kInPercentageNationwide": round(
+                                    (wetland_by_rental_1k_by_state[state].item() /
+                                     wetland_rental_1k_at_national_level) * 100, 2),
+                                "totalAnnualRentalAcreInPercentageNationwide": round(
+                                    (wetland_by_rental_acre_by_state[state].item() /
+                                     wetland_rental_acre_at_national_level) * 100, 2),
+                            }
+                        ]
+                    },
+                    {
+                        "programName": "Grassland",
+                        "totalNumberOfContract": int(grassland_by_contract_by_state[state].item()),
+                        "totalNumberOfFarm": int(grassland_by_farm_by_state[state].item()),
+                        "totalAcre": int(grassland_by_acre_by_state[state].item()),
+                        "totalAnnualRental1K": int(grassland_by_rental_1k_by_state[state].item()),
+                        "totalAnnualRentalAcre": round(grassland_by_rental_acre_by_state[state].item(), 2),
+                        "totalNumberOfContractInPercentageNationwide": round(
+                            (grassland_by_contract_by_state[state].item() /
+                             grassland_contract_at_national_level) * 100, 2),
+                        "totalNumberOfFarmInPercentageNationwide": round(
+                            (grassland_by_farm_by_state[state].item() /
+                             grassland_farm_at_national_level) * 100, 2),
+                        "totalAcreInPercentageNationwide": round(
+                            (grassland_by_acre_by_state[state].item() /
+                             grassland_acre_at_national_level) * 100, 2),
+                        "totalAnnualRental1kInPercentageNationwide": round(
+                            (grassland_by_rental_1k_by_state[state].item() /
+                             grassland_rental_1k_at_national_level) * 100, 2),
+                        "totalAnnualRentalAcreInPercentageNationwide": round(
+                            (grassland_by_rental_acre_by_state[state].item() /
+                             grassland_rental_acre_at_national_level) * 100, 2),
+                        "subPrograms": []
+                    }
+                ]
+            }
+
+            self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
+                new_data_entry)
+
+        # Sort states by decreasing order of total indemnities
+        for year in self.state_distribution_data_dict:
+            self.state_distribution_data_dict[year] = sorted(self.state_distribution_data_dict[year],
+                                                             key=lambda x: x["programs"][0][
+                                                                 "totalNumberOfContract"],
+                                                             reverse=True)
+
+        # Write processed_data_dict as JSON data
+        with open(os.path.join(self.data_folder, "crp_state_distribution_data.json"),
+                  "w") as output_json_file:
+            output_json_file.write(json.dumps(self.state_distribution_data_dict, indent=2))
+
+        # 2. Generate Sub Programs Data
+        general_signup_by_contract = \
+            program_data["Total General Sign-Up - NUMBER OF CONTRACTS"].sum()
+
+        general_signup_by_farm = \
+            program_data["Total General Sign-Up - NUMBER OF FARMS"].sum()
+
+        general_signup_by_acre = \
+            program_data["Total General Sign-Up - ACRES"].sum()
+
+        general_signup_by_rental_1k = \
+            program_data["Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        general_signup_by_rental_acre = \
+            program_data["Total General Sign-Up - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group continuous data
+        continuous_by_contract = \
+            program_data["Total Continuous - NUMBER OF CONTRACTS"].sum()
+
+        continuous_by_farm = \
+            program_data["Total Continuous - NUMBER OF FARMS"].sum()
+
+        continuous_by_acre = \
+            program_data["Total Continuous - ACRES"].sum()
+
+        continuous_by_rental_1k = \
+            program_data["Total Continuous - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        continuous_by_rental_acre = \
+            program_data["Total Continuous - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group crep only data
+        crep_only_by_contract = \
+            program_data["CREP Only - NUMBER OF CONTRACTS"].sum()
+
+        crep_only_by_farm = \
+            program_data["CREP Only - NUMBER OF FARMS"].sum()
+
+        crep_only_by_acre = \
+            program_data["CREP Only - ACRES"].sum()
+
+        crep_only_by_rental_1k = \
+            program_data["CREP Only - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        crep_only_by_rental_acre = \
+            program_data["CREP Only - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group continuous non-crep data
+        non_crep_by_contract = \
+            program_data["Continuous Non-CREP - NUMBER OF CONTRACTS"].sum()
+
+        non_crep_by_farm = \
+            program_data["Continuous Non-CREP - NUMBER OF FARMS"].sum()
+
+        non_crep_by_acre = \
+            program_data["Continuous Non-CREP - ACRES"].sum()
+
+        non_crep_by_rental_1k = \
+            program_data["Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        non_crep_by_rental_acre = \
+            program_data["Continuous Non-CREP - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group farmable wetland data
+        wetland_by_contract = \
+            program_data["Farmable Wetland - NUMBER OF CONTRACTS"].sum()
+
+        wetland_by_farm = \
+            program_data["Farmable Wetland - NUMBER OF FARMS"].sum()
+
+        wetland_by_acre = \
+            program_data["Farmable Wetland - ACRES"].sum()
+
+        wetland_by_rental_1k = \
+            program_data["Farmable Wetland - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        wetland_by_rental_acre = \
+            program_data["Farmable Wetland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group grassland data
+        grassland_by_contract = \
+            program_data["Grassland - NUMBER OF CONTRACTS"].sum()
+
+        grassland_by_farm = \
+            program_data["Grassland - NUMBER OF FARMS"].sum()
+
+        grassland_by_acre = \
+            program_data["Grassland - ACRES"].sum()
+
+        grassland_by_rental_1k = \
+            program_data["Grassland - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        grassland_by_rental_acre= \
+            program_data["Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        self.program_data_dict = {
+            "programs": [
+                {
+                    "programName": "Total General Sign-Up",
+                    "totalNumberOfContract": int(general_signup_by_contract.item()),
+                    "totalNumberOfFarm": int(general_signup_by_farm.item()),
+                    "totalAcre": int(general_signup_by_acre.item()),
+                    "totalAnnualRental1K": int(general_signup_by_rental_1k.item()),
+                    "totalAnnualRentalAcre": round(general_signup_by_rental_acre.item(), 2),
+                    "subPrograms": []
+                },
+                {
+                    "programName": "Total Continuous",
+                    "totalNumberOfContract": int(general_signup_by_contract.item()),
+                    "totalNumberOfFarm": int(general_signup_by_farm.item()),
+                    "totalAcre": int(general_signup_by_acre.item()),
+                    "totalAnnualRental1K": int(general_signup_by_rental_1k.item()),
+                    "totalAnnualRentalAcre": round(general_signup_by_rental_acre.item(), 2),
+                    "subPrograms": [
+                        {
+                            "programName": "CREP Only",
+                            "totalNumberOfContract": int(crep_only_by_contract.item()),
+                            "totalNumberOfFarm": int(crep_only_by_farm.item()),
+                            "totalAcre": int(crep_only_by_acre.item()),
+                            "totalAnnualRental1K": int(crep_only_by_rental_1k.item()),
+                            "totalAnnualRentalAcre": round(crep_only_by_rental_acre.item(), 2)
+                        },
+                        {
+                            "programName": "Continuous Non-CREP",
+                            "totalNumberOfContract": int(non_crep_by_contract.item()),
+                            "totalNumberOfFarm": int(non_crep_by_farm.item()),
+                            "totalAcre": int(non_crep_by_acre.item()),
+                            "totalAnnualRental1K": int(non_crep_by_rental_1k.item()),
+                            "totalAnnualRentalAcre": round(non_crep_by_rental_acre.item(), 2)
+                        },
+                        {
+                            "programName": "Farmable Wetland",
+                            "totalNumberOfContract": int(wetland_by_contract.item()),
+                            "totalNumberOfFarm": int(wetland_by_farm.item()),
+                            "totalAcre": int(wetland_by_acre.item()),
+                            "totalAnnualRental1K": int(wetland_by_rental_1k.item()),
+                            "totalAnnualRentalAcre": round(wetland_by_rental_acre.item(), 2)
+                        }
+                    ]
+                },
+                {
+                    "programName": "Grassland",
+                    "totalNumberOfContract": int(grassland_by_contract.item()),
+                    "totalNumberOfFarm": int(grassland_by_farm.item()),
+                    "totalAcre": int(grassland_by_acre.item()),
+                    "totalAnnualRental1K": int(grassland_by_rental_1k.item()),
+                    "totalAnnualRentalAcre": round(grassland_by_rental_acre.item(), 2),
+                    "subPrograms": []
+                },
+            ]
+        }
+
+        # Write processed_data_dict as JSON data
+        with open(os.path.join(self.data_folder, "crp_subprograms_data.json"), "w") as output_json_file:
             output_json_file.write(json.dumps(self.program_data_dict, indent=2))

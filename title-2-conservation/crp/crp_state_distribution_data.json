@@ -1,0 +1,4354 @@
+{
+  "2018-2022": [
+    {
+      "state": "KS",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 92885,
+          "totalNumberOfFarm": 64036,
+          "totalAcre": 7317993,
+          "totalAnnualRental1K": 301096,
+          "totalAnnualRentalAcre": 205.87,
+          "totalNumberOfContractInPercentageNationwide": 11.88,
+          "totalNumberOfFarmInPercentageNationwide": 11.27,
+          "totalAcreInPercentageNationwide": 12.02,
+          "totalAnnualRental1kInPercentageNationwide": 9.29,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.52,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 68346,
+          "totalNumberOfFarm": 42694,
+          "totalAcre": 1616133,
+          "totalAnnualRental1K": 99333,
+          "totalAnnualRentalAcre": 307.33,
+          "totalNumberOfContractInPercentageNationwide": 3.22,
+          "totalNumberOfFarmInPercentageNationwide": 3.48,
+          "totalAcreInPercentageNationwide": 4.06,
+          "totalAnnualRental1kInPercentageNationwide": 1.77,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.26,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 626,
+              "totalNumberOfFarm": 445,
+              "totalAcre": 112541,
+              "totalAnnualRental1K": 14591,
+              "totalAnnualRentalAcre": 647.58,
+              "totalNumberOfContractInPercentageNationwide": 0.23,
+              "totalNumberOfFarmInPercentageNationwide": 0.24,
+              "totalAcreInPercentageNationwide": 2.54,
+              "totalAnnualRental1kInPercentageNationwide": 1.89,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.26
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 67174,
+              "totalNumberOfFarm": 53607,
+              "totalAcre": 1493707,
+              "totalAnnualRental1K": 84170,
+              "totalAnnualRentalAcre": 281.8,
+              "totalNumberOfContractInPercentageNationwide": 3.77,
+              "totalNumberOfFarmInPercentageNationwide": 4.54,
+              "totalAcreInPercentageNationwide": 4.46,
+              "totalAnnualRental1kInPercentageNationwide": 1.85,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.33
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 546,
+              "totalNumberOfFarm": 509,
+              "totalAcre": 9883,
+              "totalAnnualRental1K": 573,
+              "totalAnnualRentalAcre": 289.71,
+              "totalNumberOfContractInPercentageNationwide": 0.75,
+              "totalNumberOfFarmInPercentageNationwide": 0.9,
+              "totalAcreInPercentageNationwide": 0.52,
+              "totalAnnualRental1kInPercentageNationwide": 0.19,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.16
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 1342,
+          "totalNumberOfFarm": 861,
+          "totalAcre": 326611,
+          "totalAnnualRental1K": 5209,
+          "totalAnnualRentalAcre": 59.38,
+          "totalNumberOfContractInPercentageNationwide": 4.65,
+          "totalNumberOfFarmInPercentageNationwide": 5.17,
+          "totalAcreInPercentageNationwide": 3.53,
+          "totalAnnualRental1kInPercentageNationwide": 3.7,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.95,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "IA",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 85434,
+          "totalNumberOfFarm": 66059,
+          "totalAcre": 2333152,
+          "totalAnnualRental1K": 363573,
+          "totalAnnualRentalAcre": 783.59,
+          "totalNumberOfContractInPercentageNationwide": 10.93,
+          "totalNumberOfFarmInPercentageNationwide": 11.63,
+          "totalAcreInPercentageNationwide": 3.83,
+          "totalAnnualRental1kInPercentageNationwide": 11.21,
+          "totalAnnualRentalAcreInPercentageNationwide": 5.78,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 446102,
+          "totalNumberOfFarm": 239604,
+          "totalAcre": 6289801,
+          "totalAnnualRental1K": 1590541,
+          "totalAnnualRentalAcre": 1264.34,
+          "totalNumberOfContractInPercentageNationwide": 21.0,
+          "totalNumberOfFarmInPercentageNationwide": 19.55,
+          "totalAcreInPercentageNationwide": 15.81,
+          "totalAnnualRental1kInPercentageNationwide": 28.32,
+          "totalAnnualRentalAcreInPercentageNationwide": 5.19,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 622,
+              "totalNumberOfFarm": 596,
+              "totalAcre": 17237,
+              "totalAnnualRental1K": 5340,
+              "totalAnnualRentalAcre": 1549.83,
+              "totalNumberOfContractInPercentageNationwide": 0.23,
+              "totalNumberOfFarmInPercentageNationwide": 0.33,
+              "totalAcreInPercentageNationwide": 0.39,
+              "totalAnnualRental1kInPercentageNationwide": 0.69,
+              "totalAnnualRentalAcreInPercentageNationwide": 5.41
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 420793,
+              "totalNumberOfFarm": 237916,
+              "totalAcre": 5807482,
+              "totalAnnualRental1K": 1453518,
+              "totalAnnualRentalAcre": 1250.68,
+              "totalNumberOfContractInPercentageNationwide": 23.6,
+              "totalNumberOfFarmInPercentageNationwide": 20.16,
+              "totalAcreInPercentageNationwide": 17.36,
+              "totalAnnualRental1kInPercentageNationwide": 32.02,
+              "totalAnnualRentalAcreInPercentageNationwide": 5.92
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 24872,
+              "totalNumberOfFarm": 20545,
+              "totalAcre": 465876,
+              "totalAnnualRental1K": 133153,
+              "totalAnnualRentalAcre": 1428.94,
+              "totalNumberOfContractInPercentageNationwide": 34.12,
+              "totalNumberOfFarmInPercentageNationwide": 36.46,
+              "totalAcreInPercentageNationwide": 24.34,
+              "totalAnnualRental1kInPercentageNationwide": 43.71,
+              "totalAnnualRentalAcreInPercentageNationwide": 10.65
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 277,
+          "totalNumberOfFarm": 227,
+          "totalAcre": 12927,
+          "totalAnnualRental1K": 487,
+          "totalAnnualRentalAcre": 149.9,
+          "totalNumberOfContractInPercentageNationwide": 0.96,
+          "totalNumberOfFarmInPercentageNationwide": 1.36,
+          "totalAcreInPercentageNationwide": 0.14,
+          "totalAnnualRental1kInPercentageNationwide": 0.35,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.92,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 70801,
+          "totalNumberOfFarm": 53811,
+          "totalAcre": 11080875,
+          "totalAnnualRental1K": 401696,
+          "totalAnnualRentalAcre": 180.8,
+          "totalNumberOfContractInPercentageNationwide": 9.06,
+          "totalNumberOfFarmInPercentageNationwide": 9.47,
+          "totalAcreInPercentageNationwide": 18.2,
+          "totalAnnualRental1kInPercentageNationwide": 12.39,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.33,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 14777,
+          "totalNumberOfFarm": 10005,
+          "totalAcre": 1557190,
+          "totalAnnualRental1K": 63959,
+          "totalAnnualRentalAcre": 205.2,
+          "totalNumberOfContractInPercentageNationwide": 0.7,
+          "totalNumberOfFarmInPercentageNationwide": 0.82,
+          "totalAcreInPercentageNationwide": 3.91,
+          "totalAnnualRental1kInPercentageNationwide": 1.14,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.84,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 14777,
+              "totalNumberOfFarm": 21695,
+              "totalAcre": 1557190,
+              "totalAnnualRental1K": 63959,
+              "totalAnnualRentalAcre": 205.2,
+              "totalNumberOfContractInPercentageNationwide": 0.83,
+              "totalNumberOfFarmInPercentageNationwide": 1.84,
+              "totalAcreInPercentageNationwide": 4.65,
+              "totalAnnualRental1kInPercentageNationwide": 1.41,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.97
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 1073,
+          "totalNumberOfFarm": 811,
+          "totalAcre": 360840,
+          "totalAnnualRental1K": 5921,
+          "totalAnnualRentalAcre": 60.15,
+          "totalNumberOfContractInPercentageNationwide": 3.72,
+          "totalNumberOfFarmInPercentageNationwide": 4.87,
+          "totalAcreInPercentageNationwide": 3.89,
+          "totalAnnualRental1kInPercentageNationwide": 4.21,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.97,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "IL",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 61069,
+          "totalNumberOfFarm": 47300,
+          "totalAcre": 1237253,
+          "totalAnnualRental1K": 167969,
+          "totalAnnualRentalAcre": 681.2,
+          "totalNumberOfContractInPercentageNationwide": 7.81,
+          "totalNumberOfFarmInPercentageNationwide": 8.33,
+          "totalAcreInPercentageNationwide": 2.03,
+          "totalAnnualRental1kInPercentageNationwide": 5.18,
+          "totalAnnualRentalAcreInPercentageNationwide": 5.02,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 316927,
+          "totalNumberOfFarm": 186252,
+          "totalAcre": 2979858,
+          "totalAnnualRental1K": 676747,
+          "totalAnnualRentalAcre": 1135.79,
+          "totalNumberOfContractInPercentageNationwide": 14.92,
+          "totalNumberOfFarmInPercentageNationwide": 15.2,
+          "totalAcreInPercentageNationwide": 7.49,
+          "totalAnnualRental1kInPercentageNationwide": 12.05,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.66,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 19569,
+              "totalNumberOfFarm": 14635,
+              "totalAcre": 297991,
+              "totalAnnualRental1K": 80002,
+              "totalAnnualRentalAcre": 1350.08,
+              "totalNumberOfContractInPercentageNationwide": 7.27,
+              "totalNumberOfFarmInPercentageNationwide": 7.99,
+              "totalAcreInPercentageNationwide": 6.73,
+              "totalAnnualRental1kInPercentageNationwide": 10.34,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.72
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 296828,
+              "totalNumberOfFarm": 184356,
+              "totalAcre": 2672666,
+              "totalAnnualRental1K": 594217,
+              "totalAnnualRentalAcre": 1111.67,
+              "totalNumberOfContractInPercentageNationwide": 16.65,
+              "totalNumberOfFarmInPercentageNationwide": 15.62,
+              "totalAcreInPercentageNationwide": 7.99,
+              "totalAnnualRental1kInPercentageNationwide": 13.09,
+              "totalAnnualRentalAcreInPercentageNationwide": 5.26
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 533,
+              "totalNumberOfFarm": 487,
+              "totalAcre": 9215,
+              "totalAnnualRental1K": 2558,
+              "totalAnnualRentalAcre": 1387.25,
+              "totalNumberOfContractInPercentageNationwide": 0.73,
+              "totalNumberOfFarmInPercentageNationwide": 0.86,
+              "totalAcreInPercentageNationwide": 0.48,
+              "totalAnnualRental1kInPercentageNationwide": 0.84,
+              "totalAnnualRentalAcreInPercentageNationwide": 10.34
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 62,
+          "totalNumberOfFarm": 46,
+          "totalAcre": 2540,
+          "totalAnnualRental1K": 76,
+          "totalAnnualRentalAcre": 120.12,
+          "totalNumberOfContractInPercentageNationwide": 0.21,
+          "totalNumberOfFarmInPercentageNationwide": 0.28,
+          "totalAcreInPercentageNationwide": 0.03,
+          "totalAnnualRental1kInPercentageNationwide": 0.05,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.94,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "MO",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 58402,
+          "totalNumberOfFarm": 43621,
+          "totalAcre": 2605756,
+          "totalAnnualRental1K": 295140,
+          "totalAnnualRentalAcre": 568.87,
+          "totalNumberOfContractInPercentageNationwide": 7.47,
+          "totalNumberOfFarmInPercentageNationwide": 7.68,
+          "totalAcreInPercentageNationwide": 4.28,
+          "totalAnnualRental1kInPercentageNationwide": 9.1,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.19,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 70523,
+          "totalNumberOfFarm": 45018,
+          "totalAcre": 1454822,
+          "totalAnnualRental1K": 203877,
+          "totalAnnualRentalAcre": 699.59,
+          "totalNumberOfContractInPercentageNationwide": 3.32,
+          "totalNumberOfFarmInPercentageNationwide": 3.67,
+          "totalAcreInPercentageNationwide": 3.66,
+          "totalAnnualRental1kInPercentageNationwide": 3.63,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.87,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 3507,
+              "totalNumberOfFarm": 2567,
+              "totalAcre": 110218,
+              "totalAnnualRental1K": 11366,
+              "totalAnnualRentalAcre": 518.19,
+              "totalNumberOfContractInPercentageNationwide": 1.3,
+              "totalNumberOfFarmInPercentageNationwide": 1.4,
+              "totalAcreInPercentageNationwide": 2.49,
+              "totalAnnualRental1kInPercentageNationwide": 1.47,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.81
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 66998,
+              "totalNumberOfFarm": 50594,
+              "totalAcre": 1343528,
+              "totalAnnualRental1K": 192388,
+              "totalAnnualRentalAcre": 714.71,
+              "totalNumberOfContractInPercentageNationwide": 3.76,
+              "totalNumberOfFarmInPercentageNationwide": 4.29,
+              "totalAcreInPercentageNationwide": 4.02,
+              "totalAnnualRental1kInPercentageNationwide": 4.24,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.38
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 18,
+              "totalNumberOfFarm": 13,
+              "totalAcre": 1078,
+              "totalAnnualRental1K": 121,
+              "totalAnnualRentalAcre": 561.45,
+              "totalNumberOfContractInPercentageNationwide": 0.02,
+              "totalNumberOfFarmInPercentageNationwide": 0.02,
+              "totalAcreInPercentageNationwide": 0.06,
+              "totalAnnualRental1kInPercentageNationwide": 0.04,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.18
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 155,
+          "totalNumberOfFarm": 122,
+          "totalAcre": 10215,
+          "totalAnnualRental1K": 263,
+          "totalAnnualRentalAcre": 103.37,
+          "totalNumberOfContractInPercentageNationwide": 0.54,
+          "totalNumberOfFarmInPercentageNationwide": 0.73,
+          "totalAcreInPercentageNationwide": 0.11,
+          "totalAnnualRental1kInPercentageNationwide": 0.19,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.39,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "MN",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 53026,
+          "totalNumberOfFarm": 40297,
+          "totalAcre": 1711631,
+          "totalAnnualRental1K": 134059,
+          "totalAnnualRentalAcre": 401.72,
+          "totalNumberOfContractInPercentageNationwide": 6.78,
+          "totalNumberOfFarmInPercentageNationwide": 7.09,
+          "totalAcreInPercentageNationwide": 2.81,
+          "totalAnnualRental1kInPercentageNationwide": 4.13,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.96,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 222487,
+          "totalNumberOfFarm": 122568,
+          "totalAcre": 3475403,
+          "totalAnnualRental1K": 562028,
+          "totalAnnualRentalAcre": 807.56,
+          "totalNumberOfContractInPercentageNationwide": 10.47,
+          "totalNumberOfFarmInPercentageNationwide": 10.0,
+          "totalAcreInPercentageNationwide": 8.73,
+          "totalAnnualRental1kInPercentageNationwide": 10.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.31,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 3670,
+              "totalNumberOfFarm": 3192,
+              "totalAcre": 123992,
+              "totalAnnualRental1K": 34078,
+              "totalAnnualRentalAcre": 2222.38,
+              "totalNumberOfContractInPercentageNationwide": 1.36,
+              "totalNumberOfFarmInPercentageNationwide": 1.74,
+              "totalAcreInPercentageNationwide": 2.8,
+              "totalAnnualRental1kInPercentageNationwide": 4.4,
+              "totalAnnualRentalAcreInPercentageNationwide": 7.76
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 208125,
+              "totalNumberOfFarm": 123397,
+              "totalAcre": 3162687,
+              "totalAnnualRental1K": 496152,
+              "totalAnnualRentalAcre": 783.83,
+              "totalNumberOfContractInPercentageNationwide": 11.67,
+              "totalNumberOfFarmInPercentageNationwide": 10.46,
+              "totalAcreInPercentageNationwide": 9.45,
+              "totalAnnualRental1kInPercentageNationwide": 10.93,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.71
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 10695,
+              "totalNumberOfFarm": 9207,
+              "totalAcre": 188722,
+              "totalAnnualRental1K": 31802,
+              "totalAnnualRentalAcre": 847.96,
+              "totalNumberOfContractInPercentageNationwide": 14.67,
+              "totalNumberOfFarmInPercentageNationwide": 16.34,
+              "totalAcreInPercentageNationwide": 9.86,
+              "totalAnnualRental1kInPercentageNationwide": 10.44,
+              "totalAnnualRentalAcreInPercentageNationwide": 6.32
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 486,
+          "totalNumberOfFarm": 392,
+          "totalAcre": 24537,
+          "totalAnnualRental1K": 624,
+          "totalAnnualRentalAcre": 95.75,
+          "totalNumberOfContractInPercentageNationwide": 1.69,
+          "totalNumberOfFarmInPercentageNationwide": 2.35,
+          "totalAcreInPercentageNationwide": 0.26,
+          "totalAnnualRental1kInPercentageNationwide": 0.44,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.14,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "CO",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 38264,
+          "totalNumberOfFarm": 21552,
+          "totalAcre": 7414394,
+          "totalAnnualRental1K": 241076,
+          "totalAnnualRentalAcre": 161.67,
+          "totalNumberOfContractInPercentageNationwide": 4.9,
+          "totalNumberOfFarmInPercentageNationwide": 3.79,
+          "totalAcreInPercentageNationwide": 12.18,
+          "totalAnnualRental1kInPercentageNationwide": 7.43,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.19,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 6395,
+          "totalNumberOfFarm": 3955,
+          "totalAcre": 646255,
+          "totalAnnualRental1K": 41716,
+          "totalAnnualRentalAcre": 322.89,
+          "totalNumberOfContractInPercentageNationwide": 0.3,
+          "totalNumberOfFarmInPercentageNationwide": 0.32,
+          "totalAcreInPercentageNationwide": 1.62,
+          "totalAnnualRental1kInPercentageNationwide": 0.74,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.33,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 1114,
+              "totalNumberOfFarm": 810,
+              "totalAcre": 153229,
+              "totalAnnualRental1K": 21555,
+              "totalAnnualRentalAcre": 1150.99,
+              "totalNumberOfContractInPercentageNationwide": 0.41,
+              "totalNumberOfFarmInPercentageNationwide": 0.44,
+              "totalAcreInPercentageNationwide": 3.46,
+              "totalAnnualRental1kInPercentageNationwide": 2.79,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.02
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 5276,
+              "totalNumberOfFarm": 7842,
+              "totalAcre": 492225,
+              "totalAnnualRental1K": 20120,
+              "totalAnnualRentalAcre": 204.37,
+              "totalNumberOfContractInPercentageNationwide": 0.3,
+              "totalNumberOfFarmInPercentageNationwide": 0.66,
+              "totalAcreInPercentageNationwide": 1.47,
+              "totalAnnualRental1kInPercentageNationwide": 0.44,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.97
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 5,
+              "totalNumberOfFarm": 5,
+              "totalAcre": 800,
+              "totalAnnualRental1K": 40,
+              "totalAnnualRentalAcre": 262.25,
+              "totalNumberOfContractInPercentageNationwide": 0.01,
+              "totalNumberOfFarmInPercentageNationwide": 0.01,
+              "totalAcreInPercentageNationwide": 0.04,
+              "totalAnnualRental1kInPercentageNationwide": 0.01,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.95
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 3265,
+          "totalNumberOfFarm": 1570,
+          "totalAcre": 1409796,
+          "totalAnnualRental1K": 22052,
+          "totalAnnualRentalAcre": 57.36,
+          "totalNumberOfContractInPercentageNationwide": 11.32,
+          "totalNumberOfFarmInPercentageNationwide": 9.43,
+          "totalAcreInPercentageNationwide": 15.22,
+          "totalAnnualRental1kInPercentageNationwide": 15.68,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.88,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "ND",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 32505,
+          "totalNumberOfFarm": 22433,
+          "totalAcre": 2882601,
+          "totalAnnualRental1K": 111713,
+          "totalAnnualRentalAcre": 194.3,
+          "totalNumberOfContractInPercentageNationwide": 4.16,
+          "totalNumberOfFarmInPercentageNationwide": 3.95,
+          "totalAcreInPercentageNationwide": 4.74,
+          "totalAnnualRental1kInPercentageNationwide": 3.45,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.43,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 68394,
+          "totalNumberOfFarm": 36854,
+          "totalAcre": 3259089,
+          "totalAnnualRental1K": 220155,
+          "totalAnnualRentalAcre": 337.83,
+          "totalNumberOfContractInPercentageNationwide": 3.22,
+          "totalNumberOfFarmInPercentageNationwide": 3.01,
+          "totalAcreInPercentageNationwide": 8.19,
+          "totalAnnualRental1kInPercentageNationwide": 3.92,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.39,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 75,
+              "totalNumberOfFarm": 58,
+              "totalAcre": 4095,
+              "totalAnnualRental1K": 208,
+              "totalAnnualRentalAcre": 324.11,
+              "totalNumberOfContractInPercentageNationwide": 0.03,
+              "totalNumberOfFarmInPercentageNationwide": 0.03,
+              "totalAcreInPercentageNationwide": 0.09,
+              "totalAnnualRental1kInPercentageNationwide": 0.03,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.13
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 54365,
+              "totalNumberOfFarm": 36250,
+              "totalAcre": 2602525,
+              "totalAnnualRental1K": 160344,
+              "totalAnnualRentalAcre": 308.04,
+              "totalNumberOfContractInPercentageNationwide": 3.05,
+              "totalNumberOfFarmInPercentageNationwide": 3.07,
+              "totalAcreInPercentageNationwide": 7.78,
+              "totalAnnualRental1kInPercentageNationwide": 3.53,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.46
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 13960,
+              "totalNumberOfFarm": 8975,
+              "totalAcre": 652484,
+              "totalAnnualRental1K": 59625,
+              "totalAnnualRentalAcre": 457.56,
+              "totalNumberOfContractInPercentageNationwide": 19.15,
+              "totalNumberOfFarmInPercentageNationwide": 15.93,
+              "totalAcreInPercentageNationwide": 34.09,
+              "totalAnnualRental1kInPercentageNationwide": 19.58,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.41
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 822,
+          "totalNumberOfFarm": 508,
+          "totalAcre": 194870,
+          "totalAnnualRental1K": 3127,
+          "totalAnnualRentalAcre": 65.37,
+          "totalNumberOfContractInPercentageNationwide": 2.85,
+          "totalNumberOfFarmInPercentageNationwide": 3.05,
+          "totalAcreInPercentageNationwide": 2.1,
+          "totalAnnualRental1kInPercentageNationwide": 2.22,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.14,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "NE",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 28463,
+          "totalNumberOfFarm": 20463,
+          "totalAcre": 2079227,
+          "totalAnnualRental1K": 121046,
+          "totalAnnualRentalAcre": 292.79,
+          "totalNumberOfContractInPercentageNationwide": 3.64,
+          "totalNumberOfFarmInPercentageNationwide": 3.6,
+          "totalAcreInPercentageNationwide": 3.42,
+          "totalAnnualRental1kInPercentageNationwide": 3.73,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.16,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 64023,
+          "totalNumberOfFarm": 41221,
+          "totalAcre": 1413423,
+          "totalAnnualRental1K": 214689,
+          "totalAnnualRentalAcre": 760.87,
+          "totalNumberOfContractInPercentageNationwide": 3.01,
+          "totalNumberOfFarmInPercentageNationwide": 3.36,
+          "totalAcreInPercentageNationwide": 3.55,
+          "totalAnnualRental1kInPercentageNationwide": 3.82,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.12,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 5633,
+              "totalNumberOfFarm": 4538,
+              "totalAcre": 238302,
+              "totalAnnualRental1K": 36482,
+              "totalAnnualRentalAcre": 1050.77,
+              "totalNumberOfContractInPercentageNationwide": 2.09,
+              "totalNumberOfFarmInPercentageNationwide": 2.48,
+              "totalAcreInPercentageNationwide": 5.38,
+              "totalAnnualRental1kInPercentageNationwide": 4.72,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.67
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 56932,
+              "totalNumberOfFarm": 41555,
+              "totalAcre": 1160046,
+              "totalAnnualRental1K": 175663,
+              "totalAnnualRentalAcre": 757.43,
+              "totalNumberOfContractInPercentageNationwide": 3.19,
+              "totalNumberOfFarmInPercentageNationwide": 3.52,
+              "totalAcreInPercentageNationwide": 3.47,
+              "totalAnnualRental1kInPercentageNationwide": 3.87,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.58
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 1464,
+              "totalNumberOfFarm": 1289,
+              "totalAcre": 15109,
+              "totalAnnualRental1K": 2573,
+              "totalAnnualRentalAcre": 851.59,
+              "totalNumberOfContractInPercentageNationwide": 2.01,
+              "totalNumberOfFarmInPercentageNationwide": 2.29,
+              "totalAcreInPercentageNationwide": 0.79,
+              "totalAnnualRental1kInPercentageNationwide": 0.84,
+              "totalAnnualRentalAcreInPercentageNationwide": 6.34
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 5999,
+          "totalNumberOfFarm": 3699,
+          "totalAcre": 2249643,
+          "totalAnnualRental1K": 31395,
+          "totalAnnualRentalAcre": 58.69,
+          "totalNumberOfContractInPercentageNationwide": 20.8,
+          "totalNumberOfFarmInPercentageNationwide": 22.21,
+          "totalAcreInPercentageNationwide": 24.28,
+          "totalAnnualRental1kInPercentageNationwide": 22.32,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.92,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "WA",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 28107,
+          "totalNumberOfFarm": 14939,
+          "totalAcre": 4332089,
+          "totalAnnualRental1K": 241905,
+          "totalAnnualRentalAcre": 279.42,
+          "totalNumberOfContractInPercentageNationwide": 3.6,
+          "totalNumberOfFarmInPercentageNationwide": 2.63,
+          "totalAcreInPercentageNationwide": 7.12,
+          "totalAnnualRental1kInPercentageNationwide": 7.46,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.06,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 23947,
+          "totalNumberOfFarm": 13612,
+          "totalAcre": 1258845,
+          "totalAnnualRental1K": 98682,
+          "totalAnnualRentalAcre": 392.05,
+          "totalNumberOfContractInPercentageNationwide": 1.13,
+          "totalNumberOfFarmInPercentageNationwide": 1.11,
+          "totalAcreInPercentageNationwide": 3.16,
+          "totalAnnualRental1kInPercentageNationwide": 1.76,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.61,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 5704,
+              "totalNumberOfFarm": 4707,
+              "totalAcre": 68315,
+              "totalAnnualRental1K": 18235,
+              "totalAnnualRentalAcre": 1334.62,
+              "totalNumberOfContractInPercentageNationwide": 2.12,
+              "totalNumberOfFarmInPercentageNationwide": 2.57,
+              "totalAcreInPercentageNationwide": 1.54,
+              "totalAnnualRental1kInPercentageNationwide": 2.36,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.66
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 18233,
+              "totalNumberOfFarm": 12653,
+              "totalAcre": 1190477,
+              "totalAnnualRental1K": 80442,
+              "totalAnnualRentalAcre": 337.66,
+              "totalNumberOfContractInPercentageNationwide": 1.02,
+              "totalNumberOfFarmInPercentageNationwide": 1.07,
+              "totalAcreInPercentageNationwide": 3.56,
+              "totalAnnualRental1kInPercentageNationwide": 1.77,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.6
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 10,
+              "totalNumberOfFarm": 10,
+              "totalAcre": 50,
+              "totalAnnualRental1K": 5,
+              "totalAnnualRentalAcre": 552.7,
+              "totalNumberOfContractInPercentageNationwide": 0.01,
+              "totalNumberOfFarmInPercentageNationwide": 0.02,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.12
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 96,
+          "totalNumberOfFarm": 50,
+          "totalAcre": 46455,
+          "totalAnnualRental1K": 539,
+          "totalAnnualRentalAcre": 48.74,
+          "totalNumberOfContractInPercentageNationwide": 0.33,
+          "totalNumberOfFarmInPercentageNationwide": 0.3,
+          "totalAcreInPercentageNationwide": 0.5,
+          "totalAnnualRental1kInPercentageNationwide": 0.38,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.6,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "MS",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 27777,
+          "totalNumberOfFarm": 22370,
+          "totalAcre": 1430370,
+          "totalAnnualRental1K": 81322,
+          "totalAnnualRentalAcre": 285.84,
+          "totalNumberOfContractInPercentageNationwide": 3.55,
+          "totalNumberOfFarmInPercentageNationwide": 3.94,
+          "totalAcreInPercentageNationwide": 2.35,
+          "totalAnnualRental1kInPercentageNationwide": 2.51,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.11,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 41118,
+          "totalNumberOfFarm": 27981,
+          "totalAcre": 1397888,
+          "totalAnnualRental1K": 137118,
+          "totalAnnualRentalAcre": 490.67,
+          "totalNumberOfContractInPercentageNationwide": 1.94,
+          "totalNumberOfFarmInPercentageNationwide": 2.28,
+          "totalAcreInPercentageNationwide": 3.51,
+          "totalAnnualRental1kInPercentageNationwide": 2.44,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.01,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 498,
+              "totalNumberOfFarm": 412,
+              "totalAcre": 21501,
+              "totalAnnualRental1K": 3041,
+              "totalAnnualRentalAcre": 706.81,
+              "totalNumberOfContractInPercentageNationwide": 0.19,
+              "totalNumberOfFarmInPercentageNationwide": 0.23,
+              "totalAcreInPercentageNationwide": 0.49,
+              "totalAnnualRental1kInPercentageNationwide": 0.39,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.47
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 40164,
+              "totalNumberOfFarm": 31397,
+              "totalAcre": 1319159,
+              "totalAnnualRental1K": 128461,
+              "totalAnnualRentalAcre": 487.22,
+              "totalNumberOfContractInPercentageNationwide": 2.25,
+              "totalNumberOfFarmInPercentageNationwide": 2.66,
+              "totalAcreInPercentageNationwide": 3.94,
+              "totalAnnualRental1kInPercentageNationwide": 2.83,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.31
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 456,
+              "totalNumberOfFarm": 400,
+              "totalAcre": 57230,
+              "totalAnnualRental1K": 5614,
+              "totalAnnualRentalAcre": 490.55,
+              "totalNumberOfContractInPercentageNationwide": 0.63,
+              "totalNumberOfFarmInPercentageNationwide": 0.71,
+              "totalAcreInPercentageNationwide": 2.99,
+              "totalAnnualRental1kInPercentageNationwide": 1.84,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.65
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 40,
+          "totalNumberOfFarm": 38,
+          "totalAcre": 2205,
+          "totalAnnualRental1K": 32,
+          "totalAnnualRentalAcre": 58.94,
+          "totalNumberOfContractInPercentageNationwide": 0.14,
+          "totalNumberOfFarmInPercentageNationwide": 0.23,
+          "totalAcreInPercentageNationwide": 0.02,
+          "totalAnnualRental1kInPercentageNationwide": 0.02,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.93,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "WI",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 22665,
+          "totalNumberOfFarm": 18107,
+          "totalAcre": 409269,
+          "totalAnnualRental1K": 42373,
+          "totalAnnualRentalAcre": 523.15,
+          "totalNumberOfContractInPercentageNationwide": 2.9,
+          "totalNumberOfFarmInPercentageNationwide": 3.19,
+          "totalAcreInPercentageNationwide": 0.67,
+          "totalAnnualRental1kInPercentageNationwide": 1.31,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.86,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 45849,
+          "totalNumberOfFarm": 29822,
+          "totalAcre": 604918,
+          "totalAnnualRental1K": 115633,
+          "totalAnnualRentalAcre": 955.08,
+          "totalNumberOfContractInPercentageNationwide": 2.16,
+          "totalNumberOfFarmInPercentageNationwide": 2.43,
+          "totalAcreInPercentageNationwide": 1.52,
+          "totalAnnualRental1kInPercentageNationwide": 2.06,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.92,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 18594,
+              "totalNumberOfFarm": 13000,
+              "totalAcre": 180366,
+              "totalAnnualRental1K": 40152,
+              "totalAnnualRentalAcre": 1114.05,
+              "totalNumberOfContractInPercentageNationwide": 6.91,
+              "totalNumberOfFarmInPercentageNationwide": 7.1,
+              "totalAcreInPercentageNationwide": 4.08,
+              "totalAnnualRental1kInPercentageNationwide": 5.19,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.89
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 27185,
+              "totalNumberOfFarm": 25052,
+              "totalAcre": 423750,
+              "totalAnnualRental1K": 75334,
+              "totalAnnualRentalAcre": 888.34,
+              "totalNumberOfContractInPercentageNationwide": 1.52,
+              "totalNumberOfFarmInPercentageNationwide": 2.12,
+              "totalAcreInPercentageNationwide": 1.27,
+              "totalAnnualRental1kInPercentageNationwide": 1.66,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.2
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 70,
+              "totalNumberOfFarm": 68,
+              "totalAcre": 803,
+              "totalAnnualRental1K": 148,
+              "totalAnnualRentalAcre": 909.49,
+              "totalNumberOfContractInPercentageNationwide": 0.1,
+              "totalNumberOfFarmInPercentageNationwide": 0.12,
+              "totalAcreInPercentageNationwide": 0.04,
+              "totalAnnualRental1kInPercentageNationwide": 0.05,
+              "totalAnnualRentalAcreInPercentageNationwide": 6.78
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 143,
+          "totalNumberOfFarm": 133,
+          "totalAcre": 3757,
+          "totalAnnualRental1K": 96,
+          "totalAnnualRentalAcre": 100.48,
+          "totalNumberOfContractInPercentageNationwide": 0.5,
+          "totalNumberOfFarmInPercentageNationwide": 0.8,
+          "totalAcreInPercentageNationwide": 0.04,
+          "totalAnnualRental1kInPercentageNationwide": 0.07,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.3,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "OK",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 21579,
+          "totalNumberOfFarm": 15389,
+          "totalAcre": 2582601,
+          "totalAnnualRental1K": 84453,
+          "totalAnnualRentalAcre": 161.47,
+          "totalNumberOfContractInPercentageNationwide": 2.76,
+          "totalNumberOfFarmInPercentageNationwide": 2.71,
+          "totalAcreInPercentageNationwide": 4.24,
+          "totalAnnualRental1kInPercentageNationwide": 2.6,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.19,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 1583,
+          "totalNumberOfFarm": 1343,
+          "totalAcre": 69720,
+          "totalAnnualRental1K": 2905,
+          "totalAnnualRentalAcre": 208.29,
+          "totalNumberOfContractInPercentageNationwide": 0.07,
+          "totalNumberOfFarmInPercentageNationwide": 0.11,
+          "totalAcreInPercentageNationwide": 0.18,
+          "totalAnnualRental1kInPercentageNationwide": 0.05,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.86,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 321,
+              "totalNumberOfFarm": 273,
+              "totalAcre": 2889,
+              "totalAnnualRental1K": 183,
+              "totalAnnualRentalAcre": 315.9,
+              "totalNumberOfContractInPercentageNationwide": 0.12,
+              "totalNumberOfFarmInPercentageNationwide": 0.15,
+              "totalAcreInPercentageNationwide": 0.07,
+              "totalAnnualRental1kInPercentageNationwide": 0.02,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.1
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 1247,
+              "totalNumberOfFarm": 4649,
+              "totalAcre": 65984,
+              "totalAnnualRental1K": 2671,
+              "totalAnnualRentalAcre": 202.21,
+              "totalNumberOfContractInPercentageNationwide": 0.07,
+              "totalNumberOfFarmInPercentageNationwide": 0.39,
+              "totalAcreInPercentageNationwide": 0.2,
+              "totalAnnualRental1kInPercentageNationwide": 0.06,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.96
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 15,
+              "totalNumberOfFarm": 15,
+              "totalAcre": 845,
+              "totalAnnualRental1K": 55,
+              "totalAnnualRentalAcre": 314.95,
+              "totalNumberOfContractInPercentageNationwide": 0.02,
+              "totalNumberOfFarmInPercentageNationwide": 0.03,
+              "totalAcreInPercentageNationwide": 0.04,
+              "totalAnnualRental1kInPercentageNationwide": 0.02,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.35
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 1880,
+          "totalNumberOfFarm": 1255,
+          "totalAcre": 451654,
+          "totalAnnualRental1K": 7591,
+          "totalAnnualRentalAcre": 61.62,
+          "totalNumberOfContractInPercentageNationwide": 6.52,
+          "totalNumberOfFarmInPercentageNationwide": 7.54,
+          "totalAcreInPercentageNationwide": 4.87,
+          "totalAnnualRental1kInPercentageNationwide": 5.4,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.02,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "MT",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 18597,
+          "totalNumberOfFarm": 9533,
+          "totalAcre": 3364285,
+          "totalAnnualRental1K": 99970,
+          "totalAnnualRentalAcre": 148.37,
+          "totalNumberOfContractInPercentageNationwide": 2.38,
+          "totalNumberOfFarmInPercentageNationwide": 1.68,
+          "totalAcreInPercentageNationwide": 5.53,
+          "totalAnnualRental1kInPercentageNationwide": 3.08,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.09,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 7736,
+          "totalNumberOfFarm": 3898,
+          "totalAcre": 954381,
+          "totalAnnualRental1K": 36780,
+          "totalAnnualRentalAcre": 192.76,
+          "totalNumberOfContractInPercentageNationwide": 0.36,
+          "totalNumberOfFarmInPercentageNationwide": 0.32,
+          "totalAcreInPercentageNationwide": 2.4,
+          "totalAnnualRental1kInPercentageNationwide": 0.65,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.79,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 579,
+              "totalNumberOfFarm": 256,
+              "totalAcre": 58758,
+              "totalAnnualRental1K": 3837,
+              "totalAnnualRentalAcre": 325.92,
+              "totalNumberOfContractInPercentageNationwide": 0.22,
+              "totalNumberOfFarmInPercentageNationwide": 0.14,
+              "totalAcreInPercentageNationwide": 1.33,
+              "totalAnnualRental1kInPercentageNationwide": 0.5,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.14
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 7135,
+              "totalNumberOfFarm": 5715,
+              "totalAcre": 894103,
+              "totalAnnualRental1K": 32898,
+              "totalAnnualRentalAcre": 184.01,
+              "totalNumberOfContractInPercentageNationwide": 0.4,
+              "totalNumberOfFarmInPercentageNationwide": 0.48,
+              "totalAcreInPercentageNationwide": 2.67,
+              "totalAnnualRental1kInPercentageNationwide": 0.72,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.87
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 31,
+              "totalNumberOfFarm": 27,
+              "totalAcre": 1614,
+              "totalAnnualRental1K": 68,
+              "totalAnnualRentalAcre": 214.28,
+              "totalNumberOfContractInPercentageNationwide": 0.04,
+              "totalNumberOfFarmInPercentageNationwide": 0.05,
+              "totalAcreInPercentageNationwide": 0.08,
+              "totalAnnualRental1kInPercentageNationwide": 0.02,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.6
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 1549,
+          "totalNumberOfFarm": 368,
+          "totalAcre": 399782,
+          "totalAnnualRental1K": 4955,
+          "totalAnnualRentalAcre": 51.8,
+          "totalNumberOfContractInPercentageNationwide": 5.37,
+          "totalNumberOfFarmInPercentageNationwide": 2.21,
+          "totalAcreInPercentageNationwide": 4.31,
+          "totalAnnualRental1kInPercentageNationwide": 3.52,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.7,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "AL",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 14727,
+          "totalNumberOfFarm": 11414,
+          "totalAcre": 649257,
+          "totalAnnualRental1K": 29424,
+          "totalAnnualRentalAcre": 227.66,
+          "totalNumberOfContractInPercentageNationwide": 1.88,
+          "totalNumberOfFarmInPercentageNationwide": 2.01,
+          "totalAcreInPercentageNationwide": 1.07,
+          "totalAnnualRental1kInPercentageNationwide": 0.91,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.68,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 6407,
+          "totalNumberOfFarm": 5078,
+          "totalAcre": 210420,
+          "totalAnnualRental1K": 10762,
+          "totalAnnualRentalAcre": 255.55,
+          "totalNumberOfContractInPercentageNationwide": 0.3,
+          "totalNumberOfFarmInPercentageNationwide": 0.41,
+          "totalAcreInPercentageNationwide": 0.53,
+          "totalAnnualRental1kInPercentageNationwide": 0.19,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.05,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 6392,
+              "totalNumberOfFarm": 7640,
+              "totalAcre": 210351,
+              "totalAnnualRental1K": 10759,
+              "totalAnnualRentalAcre": 255.57,
+              "totalNumberOfContractInPercentageNationwide": 0.36,
+              "totalNumberOfFarmInPercentageNationwide": 0.65,
+              "totalAcreInPercentageNationwide": 0.63,
+              "totalAnnualRental1kInPercentageNationwide": 0.24,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.21
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 15,
+              "totalNumberOfFarm": 15,
+              "totalAcre": 70,
+              "totalAnnualRental1K": 5,
+              "totalAnnualRentalAcre": 182.95,
+              "totalNumberOfContractInPercentageNationwide": 0.02,
+              "totalNumberOfFarmInPercentageNationwide": 0.03,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.36
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 203,
+          "totalNumberOfFarm": 159,
+          "totalAcre": 23915,
+          "totalAnnualRental1K": 382,
+          "totalAnnualRentalAcre": 65.42,
+          "totalNumberOfContractInPercentageNationwide": 0.7,
+          "totalNumberOfFarmInPercentageNationwide": 0.95,
+          "totalAcreInPercentageNationwide": 0.26,
+          "totalAnnualRental1kInPercentageNationwide": 0.27,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.15,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "SD",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 13808,
+          "totalNumberOfFarm": 9842,
+          "totalAcre": 1071045,
+          "totalAnnualRental1K": 58457,
+          "totalAnnualRentalAcre": 277.57,
+          "totalNumberOfContractInPercentageNationwide": 1.77,
+          "totalNumberOfFarmInPercentageNationwide": 1.73,
+          "totalAcreInPercentageNationwide": 1.76,
+          "totalAnnualRental1kInPercentageNationwide": 1.8,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.05,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 127721,
+          "totalNumberOfFarm": 62526,
+          "totalAcre": 3806537,
+          "totalAnnualRental1K": 446086,
+          "totalAnnualRentalAcre": 585.97,
+          "totalNumberOfContractInPercentageNationwide": 6.01,
+          "totalNumberOfFarmInPercentageNationwide": 5.1,
+          "totalAcreInPercentageNationwide": 9.57,
+          "totalAnnualRental1kInPercentageNationwide": 7.94,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.41,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 5001,
+              "totalNumberOfFarm": 3090,
+              "totalAcre": 391553,
+              "totalAnnualRental1K": 46029,
+              "totalAnnualRentalAcre": 588.94,
+              "totalNumberOfContractInPercentageNationwide": 1.86,
+              "totalNumberOfFarmInPercentageNationwide": 1.69,
+              "totalAcreInPercentageNationwide": 8.85,
+              "totalAnnualRental1kInPercentageNationwide": 5.95,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.06
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 103571,
+              "totalNumberOfFarm": 57245,
+              "totalAcre": 2938659,
+              "totalAnnualRental1K": 335477,
+              "totalAnnualRentalAcre": 570.55,
+              "totalNumberOfContractInPercentageNationwide": 5.81,
+              "totalNumberOfFarmInPercentageNationwide": 4.85,
+              "totalAcreInPercentageNationwide": 8.78,
+              "totalAnnualRental1kInPercentageNationwide": 7.39,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.7
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 19166,
+              "totalNumberOfFarm": 13860,
+              "totalAcre": 476504,
+              "totalAnnualRental1K": 64661,
+              "totalAnnualRentalAcre": 680.59,
+              "totalNumberOfContractInPercentageNationwide": 26.29,
+              "totalNumberOfFarmInPercentageNationwide": 24.6,
+              "totalAcreInPercentageNationwide": 24.89,
+              "totalAnnualRental1kInPercentageNationwide": 21.23,
+              "totalAnnualRentalAcreInPercentageNationwide": 5.07
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 5970,
+          "totalNumberOfFarm": 2585,
+          "totalAcre": 1898752,
+          "totalAnnualRental1K": 31113,
+          "totalAnnualRentalAcre": 68.13,
+          "totalNumberOfContractInPercentageNationwide": 20.7,
+          "totalNumberOfFarmInPercentageNationwide": 15.52,
+          "totalAcreInPercentageNationwide": 20.49,
+          "totalAnnualRental1kInPercentageNationwide": 22.12,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.23,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "IN",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 12611,
+          "totalNumberOfFarm": 10722,
+          "totalAcre": 222624,
+          "totalAnnualRental1K": 27310,
+          "totalAnnualRentalAcre": 616.31,
+          "totalNumberOfContractInPercentageNationwide": 1.61,
+          "totalNumberOfFarmInPercentageNationwide": 1.89,
+          "totalAcreInPercentageNationwide": 0.37,
+          "totalAnnualRental1kInPercentageNationwide": 0.84,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.54,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 146702,
+          "totalNumberOfFarm": 84012,
+          "totalAcre": 833944,
+          "totalAnnualRental1K": 174047,
+          "totalAnnualRentalAcre": 1044.67,
+          "totalNumberOfContractInPercentageNationwide": 6.9,
+          "totalNumberOfFarmInPercentageNationwide": 6.85,
+          "totalAcreInPercentageNationwide": 2.1,
+          "totalAnnualRental1kInPercentageNationwide": 3.1,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.29,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 8989,
+              "totalNumberOfFarm": 6837,
+              "totalAcre": 95335,
+              "totalAnnualRental1K": 25829,
+              "totalAnnualRentalAcre": 1350.14,
+              "totalNumberOfContractInPercentageNationwide": 3.34,
+              "totalNumberOfFarmInPercentageNationwide": 3.73,
+              "totalAcreInPercentageNationwide": 2.15,
+              "totalAnnualRental1kInPercentageNationwide": 3.34,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.72
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 137281,
+              "totalNumberOfFarm": 81772,
+              "totalAcre": 734608,
+              "totalAnnualRental1K": 147497,
+              "totalAnnualRentalAcre": 1005.18,
+              "totalNumberOfContractInPercentageNationwide": 7.7,
+              "totalNumberOfFarmInPercentageNationwide": 6.93,
+              "totalAcreInPercentageNationwide": 2.2,
+              "totalAnnualRental1kInPercentageNationwide": 3.25,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.76
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 432,
+              "totalNumberOfFarm": 395,
+              "totalAcre": 3999,
+              "totalAnnualRental1K": 721,
+              "totalAnnualRentalAcre": 914.95,
+              "totalNumberOfContractInPercentageNationwide": 0.59,
+              "totalNumberOfFarmInPercentageNationwide": 0.7,
+              "totalAcreInPercentageNationwide": 0.21,
+              "totalAnnualRental1kInPercentageNationwide": 0.24,
+              "totalAnnualRentalAcreInPercentageNationwide": 6.82
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 32,
+          "totalNumberOfFarm": 23,
+          "totalAcre": 474,
+          "totalAnnualRental1K": 17,
+          "totalAnnualRentalAcre": 146.69,
+          "totalNumberOfContractInPercentageNationwide": 0.11,
+          "totalNumberOfFarmInPercentageNationwide": 0.14,
+          "totalAcreInPercentageNationwide": 0.01,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.81,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "TN",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 11841,
+          "totalNumberOfFarm": 9370,
+          "totalAcre": 370007,
+          "totalAnnualRental1K": 33649,
+          "totalAnnualRentalAcre": 455.97,
+          "totalNumberOfContractInPercentageNationwide": 1.52,
+          "totalNumberOfFarmInPercentageNationwide": 1.65,
+          "totalAcreInPercentageNationwide": 0.61,
+          "totalAnnualRental1kInPercentageNationwide": 1.04,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.36,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 12633,
+          "totalNumberOfFarm": 8867,
+          "totalAcre": 206848,
+          "totalAnnualRental1K": 24321,
+          "totalAnnualRentalAcre": 587.65,
+          "totalNumberOfContractInPercentageNationwide": 0.59,
+          "totalNumberOfFarmInPercentageNationwide": 0.72,
+          "totalAcreInPercentageNationwide": 0.52,
+          "totalAnnualRental1kInPercentageNationwide": 0.43,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.41,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 12633,
+              "totalNumberOfFarm": 10666,
+              "totalAcre": 206848,
+              "totalAnnualRental1K": 24321,
+              "totalAnnualRentalAcre": 587.65,
+              "totalNumberOfContractInPercentageNationwide": 0.71,
+              "totalNumberOfFarmInPercentageNationwide": 0.9,
+              "totalAcreInPercentageNationwide": 0.62,
+              "totalAnnualRental1kInPercentageNationwide": 0.54,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.78
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 169,
+          "totalNumberOfFarm": 135,
+          "totalAcre": 11883,
+          "totalAnnualRental1K": 173,
+          "totalAnnualRentalAcre": 58.81,
+          "totalNumberOfContractInPercentageNationwide": 0.59,
+          "totalNumberOfFarmInPercentageNationwide": 0.81,
+          "totalAcreInPercentageNationwide": 0.13,
+          "totalAnnualRental1kInPercentageNationwide": 0.12,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.93,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "KY",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 10140,
+          "totalNumberOfFarm": 7668,
+          "totalAcre": 297174,
+          "totalAnnualRental1K": 35512,
+          "totalAnnualRentalAcre": 602.4,
+          "totalNumberOfContractInPercentageNationwide": 1.3,
+          "totalNumberOfFarmInPercentageNationwide": 1.35,
+          "totalAcreInPercentageNationwide": 0.49,
+          "totalAnnualRental1kInPercentageNationwide": 1.1,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.44,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 49886,
+          "totalNumberOfFarm": 26522,
+          "totalAcre": 710378,
+          "totalAnnualRental1K": 130509,
+          "totalAnnualRentalAcre": 919.69,
+          "totalNumberOfContractInPercentageNationwide": 2.35,
+          "totalNumberOfFarmInPercentageNationwide": 2.16,
+          "totalAcreInPercentageNationwide": 1.79,
+          "totalAnnualRental1kInPercentageNationwide": 2.32,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.78,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 10357,
+              "totalNumberOfFarm": 5327,
+              "totalAcre": 343253,
+              "totalAnnualRental1K": 66531,
+              "totalAnnualRentalAcre": 971.72,
+              "totalNumberOfContractInPercentageNationwide": 3.85,
+              "totalNumberOfFarmInPercentageNationwide": 2.91,
+              "totalAcreInPercentageNationwide": 7.76,
+              "totalAnnualRental1kInPercentageNationwide": 8.6,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.39
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 39529,
+              "totalNumberOfFarm": 23532,
+              "totalAcre": 367125,
+              "totalAnnualRental1K": 63977,
+              "totalAnnualRentalAcre": 871.19,
+              "totalNumberOfContractInPercentageNationwide": 2.22,
+              "totalNumberOfFarmInPercentageNationwide": 1.99,
+              "totalAcreInPercentageNationwide": 1.1,
+              "totalAnnualRental1kInPercentageNationwide": 1.41,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.12
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 356,
+          "totalNumberOfFarm": 208,
+          "totalAcre": 15967,
+          "totalAnnualRental1K": 397,
+          "totalAnnualRentalAcre": 99.65,
+          "totalNumberOfContractInPercentageNationwide": 1.23,
+          "totalNumberOfFarmInPercentageNationwide": 1.25,
+          "totalAcreInPercentageNationwide": 0.17,
+          "totalAnnualRental1kInPercentageNationwide": 0.28,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.27,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "ID",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 10090,
+          "totalNumberOfFarm": 6390,
+          "totalAcre": 1408424,
+          "totalAnnualRental1K": 73257,
+          "totalAnnualRentalAcre": 259.12,
+          "totalNumberOfContractInPercentageNationwide": 1.29,
+          "totalNumberOfFarmInPercentageNationwide": 1.12,
+          "totalAcreInPercentageNationwide": 2.31,
+          "totalAnnualRental1kInPercentageNationwide": 2.26,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.91,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 6044,
+          "totalNumberOfFarm": 3857,
+          "totalAcre": 917084,
+          "totalAnnualRental1K": 53627,
+          "totalAnnualRentalAcre": 292.6,
+          "totalNumberOfContractInPercentageNationwide": 0.28,
+          "totalNumberOfFarmInPercentageNationwide": 0.31,
+          "totalAcreInPercentageNationwide": 2.3,
+          "totalAnnualRental1kInPercentageNationwide": 0.95,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.2,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 835,
+              "totalNumberOfFarm": 529,
+              "totalAcre": 77231,
+              "totalAnnualRental1K": 11699,
+              "totalAnnualRentalAcre": 792.4,
+              "totalNumberOfContractInPercentageNationwide": 0.31,
+              "totalNumberOfFarmInPercentageNationwide": 0.29,
+              "totalAcreInPercentageNationwide": 1.75,
+              "totalAnnualRental1kInPercentageNationwide": 1.51,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.77
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 5204,
+              "totalNumberOfFarm": 4657,
+              "totalAcre": 839827,
+              "totalAnnualRental1K": 41924,
+              "totalAnnualRentalAcre": 249.66,
+              "totalNumberOfContractInPercentageNationwide": 0.29,
+              "totalNumberOfFarmInPercentageNationwide": 0.39,
+              "totalAcreInPercentageNationwide": 2.51,
+              "totalAnnualRental1kInPercentageNationwide": 0.92,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.18
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 5,
+              "totalNumberOfFarm": 5,
+              "totalAcre": 30,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 392.75,
+              "totalNumberOfContractInPercentageNationwide": 0.01,
+              "totalNumberOfFarmInPercentageNationwide": 0.01,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.93
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 48,
+          "totalNumberOfFarm": 42,
+          "totalAcre": 116035,
+          "totalAnnualRental1K": 1377,
+          "totalAnnualRentalAcre": 49.45,
+          "totalNumberOfContractInPercentageNationwide": 0.17,
+          "totalNumberOfFarmInPercentageNationwide": 0.25,
+          "totalAcreInPercentageNationwide": 1.25,
+          "totalAnnualRental1kInPercentageNationwide": 0.98,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.62,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "OR",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 9303,
+          "totalNumberOfFarm": 5647,
+          "totalAcre": 1811359,
+          "totalAnnualRental1K": 108577,
+          "totalAnnualRentalAcre": 300.12,
+          "totalNumberOfContractInPercentageNationwide": 1.19,
+          "totalNumberOfFarmInPercentageNationwide": 0.99,
+          "totalAcreInPercentageNationwide": 2.98,
+          "totalAnnualRental1kInPercentageNationwide": 3.35,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.21,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 9071,
+          "totalNumberOfFarm": 5744,
+          "totalAcre": 399542,
+          "totalAnnualRental1K": 32173,
+          "totalAnnualRentalAcre": 402.95,
+          "totalNumberOfContractInPercentageNationwide": 0.43,
+          "totalNumberOfFarmInPercentageNationwide": 0.47,
+          "totalAcreInPercentageNationwide": 1.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.57,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.65,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 7886,
+              "totalNumberOfFarm": 5089,
+              "totalAcre": 228364,
+              "totalAnnualRental1K": 20858,
+              "totalAnnualRentalAcre": 456.77,
+              "totalNumberOfContractInPercentageNationwide": 2.93,
+              "totalNumberOfFarmInPercentageNationwide": 2.78,
+              "totalAcreInPercentageNationwide": 5.16,
+              "totalAnnualRental1kInPercentageNationwide": 2.7,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.6
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 1185,
+              "totalNumberOfFarm": 2782,
+              "totalAcre": 171177,
+              "totalAnnualRental1K": 11315,
+              "totalAnnualRentalAcre": 330.86,
+              "totalNumberOfContractInPercentageNationwide": 0.07,
+              "totalNumberOfFarmInPercentageNationwide": 0.24,
+              "totalAcreInPercentageNationwide": 0.51,
+              "totalAnnualRental1kInPercentageNationwide": 0.25,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.57
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 227,
+          "totalNumberOfFarm": 163,
+          "totalAcre": 161003,
+          "totalAnnualRental1K": 2211,
+          "totalAnnualRentalAcre": 56.8,
+          "totalNumberOfContractInPercentageNationwide": 0.79,
+          "totalNumberOfFarmInPercentageNationwide": 0.98,
+          "totalAcreInPercentageNationwide": 1.74,
+          "totalAnnualRental1kInPercentageNationwide": 1.57,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.86,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "OH",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 9062,
+          "totalNumberOfFarm": 7889,
+          "totalAcre": 178421,
+          "totalAnnualRental1K": 17775,
+          "totalAnnualRentalAcre": 501.78,
+          "totalNumberOfContractInPercentageNationwide": 1.16,
+          "totalNumberOfFarmInPercentageNationwide": 1.39,
+          "totalAcreInPercentageNationwide": 0.29,
+          "totalAnnualRental1kInPercentageNationwide": 0.55,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.7,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 164017,
+          "totalNumberOfFarm": 91994,
+          "totalAcre": 972837,
+          "totalAnnualRental1K": 205440,
+          "totalAnnualRentalAcre": 1059.42,
+          "totalNumberOfContractInPercentageNationwide": 7.72,
+          "totalNumberOfFarmInPercentageNationwide": 7.51,
+          "totalAcreInPercentageNationwide": 2.44,
+          "totalAnnualRental1kInPercentageNationwide": 3.66,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.35,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 77187,
+              "totalNumberOfFarm": 49326,
+              "totalAcre": 584460,
+              "totalAnnualRental1K": 144488,
+              "totalAnnualRentalAcre": 2139.57,
+              "totalNumberOfContractInPercentageNationwide": 28.68,
+              "totalNumberOfFarmInPercentageNationwide": 26.94,
+              "totalAcreInPercentageNationwide": 13.21,
+              "totalAnnualRental1kInPercentageNationwide": 18.67,
+              "totalAnnualRentalAcreInPercentageNationwide": 7.47
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 86580,
+              "totalNumberOfFarm": 64302,
+              "totalAcre": 386779,
+              "totalAnnualRental1K": 60726,
+              "totalAnnualRentalAcre": 785.53,
+              "totalNumberOfContractInPercentageNationwide": 4.86,
+              "totalNumberOfFarmInPercentageNationwide": 5.45,
+              "totalAcreInPercentageNationwide": 1.16,
+              "totalAnnualRental1kInPercentageNationwide": 1.34,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.72
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 255,
+              "totalNumberOfFarm": 254,
+              "totalAcre": 1620,
+              "totalAnnualRental1K": 238,
+              "totalAnnualRentalAcre": 738.57,
+              "totalNumberOfContractInPercentageNationwide": 0.35,
+              "totalNumberOfFarmInPercentageNationwide": 0.45,
+              "totalAcreInPercentageNationwide": 0.08,
+              "totalAnnualRental1kInPercentageNationwide": 0.08,
+              "totalAnnualRentalAcreInPercentageNationwide": 5.5
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 724,
+          "totalNumberOfFarm": 604,
+          "totalAcre": 26312,
+          "totalAnnualRental1K": 566,
+          "totalAnnualRentalAcre": 84.22,
+          "totalNumberOfContractInPercentageNationwide": 2.51,
+          "totalNumberOfFarmInPercentageNationwide": 3.63,
+          "totalAcreInPercentageNationwide": 0.28,
+          "totalAnnualRental1kInPercentageNationwide": 0.4,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.76,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "GA",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 8803,
+          "totalNumberOfFarm": 6636,
+          "totalAcre": 311705,
+          "totalAnnualRental1K": 18508,
+          "totalAnnualRentalAcre": 301.39,
+          "totalNumberOfContractInPercentageNationwide": 1.13,
+          "totalNumberOfFarmInPercentageNationwide": 1.17,
+          "totalAcreInPercentageNationwide": 0.51,
+          "totalAnnualRental1kInPercentageNationwide": 0.57,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.22,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 21617,
+          "totalNumberOfFarm": 15204,
+          "totalAcre": 683283,
+          "totalAnnualRental1K": 46789,
+          "totalAnnualRentalAcre": 342.63,
+          "totalNumberOfContractInPercentageNationwide": 1.02,
+          "totalNumberOfFarmInPercentageNationwide": 1.24,
+          "totalAcreInPercentageNationwide": 1.72,
+          "totalAnnualRental1kInPercentageNationwide": 0.83,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.41,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 21617,
+              "totalNumberOfFarm": 16498,
+              "totalAcre": 683283,
+              "totalAnnualRental1K": 46789,
+              "totalAnnualRentalAcre": 342.63,
+              "totalNumberOfContractInPercentageNationwide": 1.21,
+              "totalNumberOfFarmInPercentageNationwide": 1.4,
+              "totalAcreInPercentageNationwide": 2.04,
+              "totalAnnualRental1kInPercentageNationwide": 1.03,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.62
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 325,
+          "totalNumberOfFarm": 256,
+          "totalAcre": 17945,
+          "totalAnnualRental1K": 371,
+          "totalAnnualRentalAcre": 84.89,
+          "totalNumberOfContractInPercentageNationwide": 1.13,
+          "totalNumberOfFarmInPercentageNationwide": 1.54,
+          "totalAcreInPercentageNationwide": 0.19,
+          "totalAnnualRental1kInPercentageNationwide": 0.26,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.78,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "MI",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 6592,
+          "totalNumberOfFarm": 5541,
+          "totalAcre": 156623,
+          "totalAnnualRental1K": 14516,
+          "totalAnnualRentalAcre": 469.3,
+          "totalNumberOfContractInPercentageNationwide": 0.84,
+          "totalNumberOfFarmInPercentageNationwide": 0.98,
+          "totalAcreInPercentageNationwide": 0.26,
+          "totalAnnualRental1kInPercentageNationwide": 0.45,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.46,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 35803,
+          "totalNumberOfFarm": 20741,
+          "totalAcre": 366925,
+          "totalAnnualRental1K": 59490,
+          "totalAnnualRentalAcre": 811.67,
+          "totalNumberOfContractInPercentageNationwide": 1.69,
+          "totalNumberOfFarmInPercentageNationwide": 1.69,
+          "totalAcreInPercentageNationwide": 0.92,
+          "totalAnnualRental1kInPercentageNationwide": 1.06,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.33,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 12695,
+              "totalNumberOfFarm": 8281,
+              "totalAcre": 134506,
+              "totalAnnualRental1K": 22592,
+              "totalAnnualRentalAcre": 848.24,
+              "totalNumberOfContractInPercentageNationwide": 4.72,
+              "totalNumberOfFarmInPercentageNationwide": 4.52,
+              "totalAcreInPercentageNationwide": 3.04,
+              "totalAnnualRental1kInPercentageNationwide": 2.92,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.96
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 23083,
+              "totalNumberOfFarm": 17072,
+              "totalAcre": 232166,
+              "totalAnnualRental1K": 36871,
+              "totalAnnualRentalAcre": 794.35,
+              "totalNumberOfContractInPercentageNationwide": 1.29,
+              "totalNumberOfFarmInPercentageNationwide": 1.45,
+              "totalAcreInPercentageNationwide": 0.69,
+              "totalAnnualRental1kInPercentageNationwide": 0.81,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.76
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 27,
+              "totalNumberOfFarm": 27,
+              "totalAcre": 271,
+              "totalAnnualRental1K": 29,
+              "totalAnnualRentalAcre": 536.25,
+              "totalNumberOfContractInPercentageNationwide": 0.04,
+              "totalNumberOfFarmInPercentageNationwide": 0.05,
+              "totalAcreInPercentageNationwide": 0.01,
+              "totalAnnualRental1kInPercentageNationwide": 0.01,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 792,
+          "totalNumberOfFarm": 456,
+          "totalAcre": 60006,
+          "totalAnnualRental1K": 918,
+          "totalAnnualRentalAcre": 62.12,
+          "totalNumberOfContractInPercentageNationwide": 2.75,
+          "totalNumberOfFarmInPercentageNationwide": 2.74,
+          "totalAcreInPercentageNationwide": 0.65,
+          "totalAnnualRental1kInPercentageNationwide": 0.65,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.04,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "NC",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 5673,
+          "totalNumberOfFarm": 4614,
+          "totalAcre": 106306,
+          "totalAnnualRental1K": 5733,
+          "totalAnnualRentalAcre": 273.45,
+          "totalNumberOfContractInPercentageNationwide": 0.73,
+          "totalNumberOfFarmInPercentageNationwide": 0.81,
+          "totalAcreInPercentageNationwide": 0.17,
+          "totalAnnualRental1kInPercentageNationwide": 0.18,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.02,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 9063,
+          "totalNumberOfFarm": 6107,
+          "totalAcre": 101247,
+          "totalAnnualRental1K": 9612,
+          "totalAnnualRentalAcre": 472.95,
+          "totalNumberOfContractInPercentageNationwide": 0.43,
+          "totalNumberOfFarmInPercentageNationwide": 0.5,
+          "totalAcreInPercentageNationwide": 0.25,
+          "totalAnnualRental1kInPercentageNationwide": 0.17,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.94,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 2821,
+              "totalNumberOfFarm": 2195,
+              "totalAcre": 35066,
+              "totalAnnualRental1K": 4235,
+              "totalAnnualRentalAcre": 616.04,
+              "totalNumberOfContractInPercentageNationwide": 1.05,
+              "totalNumberOfFarmInPercentageNationwide": 1.2,
+              "totalAcreInPercentageNationwide": 0.79,
+              "totalAnnualRental1kInPercentageNationwide": 0.55,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.15
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 6232,
+              "totalNumberOfFarm": 5872,
+              "totalAcre": 65894,
+              "totalAnnualRental1K": 5351,
+              "totalAnnualRentalAcre": 406.16,
+              "totalNumberOfContractInPercentageNationwide": 0.35,
+              "totalNumberOfFarmInPercentageNationwide": 0.5,
+              "totalAcreInPercentageNationwide": 0.2,
+              "totalAnnualRental1kInPercentageNationwide": 0.12,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.92
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 10,
+              "totalNumberOfFarm": 7,
+              "totalAcre": 290,
+              "totalAnnualRental1K": 30,
+              "totalAnnualRentalAcre": 497.65,
+              "totalNumberOfContractInPercentageNationwide": 0.01,
+              "totalNumberOfFarmInPercentageNationwide": 0.01,
+              "totalAcreInPercentageNationwide": 0.02,
+              "totalAnnualRental1kInPercentageNationwide": 0.01,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.71
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 84,
+          "totalNumberOfFarm": 66,
+          "totalAcre": 2446,
+          "totalAnnualRental1K": 44,
+          "totalAnnualRentalAcre": 71.4,
+          "totalNumberOfContractInPercentageNationwide": 0.29,
+          "totalNumberOfFarmInPercentageNationwide": 0.4,
+          "totalAcreInPercentageNationwide": 0.03,
+          "totalAnnualRental1kInPercentageNationwide": 0.03,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.34,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "NM",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 5233,
+          "totalNumberOfFarm": 3778,
+          "totalAcre": 1164531,
+          "totalAnnualRental1K": 42849,
+          "totalAnnualRentalAcre": 182.24,
+          "totalNumberOfContractInPercentageNationwide": 0.67,
+          "totalNumberOfFarmInPercentageNationwide": 0.67,
+          "totalAcreInPercentageNationwide": 1.91,
+          "totalAnnualRental1kInPercentageNationwide": 1.32,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.34,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 1649,
+          "totalNumberOfFarm": 1185,
+          "totalAcre": 366616,
+          "totalAnnualRental1K": 11790,
+          "totalAnnualRentalAcre": 162.76,
+          "totalNumberOfContractInPercentageNationwide": 0.08,
+          "totalNumberOfFarmInPercentageNationwide": 0.1,
+          "totalAcreInPercentageNationwide": 0.92,
+          "totalAnnualRental1kInPercentageNationwide": 0.21,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.67,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 1649,
+              "totalNumberOfFarm": 2061,
+              "totalAcre": 366616,
+              "totalAnnualRental1K": 11790,
+              "totalAnnualRentalAcre": 162.76,
+              "totalNumberOfContractInPercentageNationwide": 0.09,
+              "totalNumberOfFarmInPercentageNationwide": 0.17,
+              "totalAcreInPercentageNationwide": 1.1,
+              "totalAnnualRental1kInPercentageNationwide": 0.26,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.77
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 1253,
+          "totalNumberOfFarm": 815,
+          "totalAcre": 867854,
+          "totalAnnualRental1K": 13145,
+          "totalAnnualRentalAcre": 58.51,
+          "totalNumberOfContractInPercentageNationwide": 4.34,
+          "totalNumberOfFarmInPercentageNationwide": 4.89,
+          "totalAcreInPercentageNationwide": 9.37,
+          "totalAnnualRental1kInPercentageNationwide": 9.35,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.92,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "AR",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 4207,
+          "totalNumberOfFarm": 3264,
+          "totalAcre": 216269,
+          "totalAnnualRental1K": 13983,
+          "totalAnnualRentalAcre": 325.26,
+          "totalNumberOfContractInPercentageNationwide": 0.54,
+          "totalNumberOfFarmInPercentageNationwide": 0.57,
+          "totalAcreInPercentageNationwide": 0.36,
+          "totalAnnualRental1kInPercentageNationwide": 0.43,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.4,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 21182,
+          "totalNumberOfFarm": 12696,
+          "totalAcre": 849235,
+          "totalAnnualRental1K": 70644,
+          "totalAnnualRentalAcre": 416.02,
+          "totalNumberOfContractInPercentageNationwide": 1.0,
+          "totalNumberOfFarmInPercentageNationwide": 1.04,
+          "totalAcreInPercentageNationwide": 2.13,
+          "totalAnnualRental1kInPercentageNationwide": 1.26,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.71,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 151,
+              "totalNumberOfFarm": 120,
+              "totalAcre": 5744,
+              "totalAnnualRental1K": 613,
+              "totalAnnualRentalAcre": 1001.76,
+              "totalNumberOfContractInPercentageNationwide": 0.06,
+              "totalNumberOfFarmInPercentageNationwide": 0.07,
+              "totalAcreInPercentageNationwide": 0.13,
+              "totalAnnualRental1kInPercentageNationwide": 0.08,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.5
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 20938,
+              "totalNumberOfFarm": 13065,
+              "totalAcre": 833538,
+              "totalAnnualRental1K": 69194,
+              "totalAnnualRentalAcre": 415.13,
+              "totalNumberOfContractInPercentageNationwide": 1.17,
+              "totalNumberOfFarmInPercentageNationwide": 1.11,
+              "totalAcreInPercentageNationwide": 2.49,
+              "totalAnnualRental1kInPercentageNationwide": 1.52,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.96
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 93,
+              "totalNumberOfFarm": 63,
+              "totalAcre": 9952,
+              "totalAnnualRental1K": 838,
+              "totalAnnualRentalAcre": 421.14,
+              "totalNumberOfContractInPercentageNationwide": 0.13,
+              "totalNumberOfFarmInPercentageNationwide": 0.11,
+              "totalAcreInPercentageNationwide": 0.52,
+              "totalAnnualRental1kInPercentageNationwide": 0.28,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.14
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 11,
+          "totalNumberOfFarm": 11,
+          "totalAcre": 754,
+          "totalAnnualRental1K": 11,
+          "totalAnnualRentalAcre": 44.76,
+          "totalNumberOfContractInPercentageNationwide": 0.04,
+          "totalNumberOfFarmInPercentageNationwide": 0.07,
+          "totalAcreInPercentageNationwide": 0.01,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.47,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "SC",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 3611,
+          "totalNumberOfFarm": 2807,
+          "totalAcre": 123305,
+          "totalAnnualRental1K": 4034,
+          "totalAnnualRentalAcre": 164.09,
+          "totalNumberOfContractInPercentageNationwide": 0.46,
+          "totalNumberOfFarmInPercentageNationwide": 0.49,
+          "totalAcreInPercentageNationwide": 0.2,
+          "totalAnnualRental1kInPercentageNationwide": 0.12,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.21,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 8324,
+          "totalNumberOfFarm": 4639,
+          "totalAcre": 124509,
+          "totalAnnualRental1K": 6230,
+          "totalAnnualRentalAcre": 250.13,
+          "totalNumberOfContractInPercentageNationwide": 0.39,
+          "totalNumberOfFarmInPercentageNationwide": 0.38,
+          "totalAcreInPercentageNationwide": 0.31,
+          "totalAnnualRental1kInPercentageNationwide": 0.11,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.03,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 8324,
+              "totalNumberOfFarm": 5232,
+              "totalAcre": 124509,
+              "totalAnnualRental1K": 6230,
+              "totalAnnualRentalAcre": 250.13,
+              "totalNumberOfContractInPercentageNationwide": 0.47,
+              "totalNumberOfFarmInPercentageNationwide": 0.44,
+              "totalAcreInPercentageNationwide": 0.37,
+              "totalAnnualRental1kInPercentageNationwide": 0.14,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.18
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 72,
+          "totalNumberOfFarm": 46,
+          "totalAcre": 3754,
+          "totalAnnualRental1K": 72,
+          "totalAnnualRentalAcre": 82.7,
+          "totalNumberOfContractInPercentageNationwide": 0.25,
+          "totalNumberOfFarmInPercentageNationwide": 0.28,
+          "totalAcreInPercentageNationwide": 0.04,
+          "totalAnnualRental1kInPercentageNationwide": 0.05,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.71,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "UT",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 3398,
+          "totalNumberOfFarm": 2207,
+          "totalAcre": 695118,
+          "totalAnnualRental1K": 22548,
+          "totalAnnualRentalAcre": 160.21,
+          "totalNumberOfContractInPercentageNationwide": 0.43,
+          "totalNumberOfFarmInPercentageNationwide": 0.39,
+          "totalAcreInPercentageNationwide": 1.14,
+          "totalAnnualRental1kInPercentageNationwide": 0.7,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.18,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 35,
+          "totalNumberOfFarm": 36,
+          "totalAcre": 1296,
+          "totalAnnualRental1K": 56,
+          "totalAnnualRentalAcre": 217.27,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.89,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 35,
+              "totalNumberOfFarm": 542,
+              "totalAcre": 1296,
+              "totalAnnualRental1K": 56,
+              "totalAnnualRentalAcre": 217.27,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.05,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.03
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 103,
+          "totalNumberOfFarm": 73,
+          "totalAcre": 60562,
+          "totalAnnualRental1K": 530,
+          "totalAnnualRentalAcre": 45.29,
+          "totalNumberOfContractInPercentageNationwide": 0.36,
+          "totalNumberOfFarmInPercentageNationwide": 0.44,
+          "totalAcreInPercentageNationwide": 0.65,
+          "totalAnnualRental1kInPercentageNationwide": 0.38,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.49,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "LA",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 3227,
+          "totalNumberOfFarm": 2619,
+          "totalAcre": 203980,
+          "totalAnnualRental1K": 11659,
+          "totalAnnualRentalAcre": 287.54,
+          "totalNumberOfContractInPercentageNationwide": 0.41,
+          "totalNumberOfFarmInPercentageNationwide": 0.46,
+          "totalAcreInPercentageNationwide": 0.34,
+          "totalAnnualRental1kInPercentageNationwide": 0.36,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.12,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 18819,
+          "totalNumberOfFarm": 12507,
+          "totalAcre": 1131541,
+          "totalAnnualRental1K": 113129,
+          "totalAnnualRentalAcre": 500.05,
+          "totalNumberOfContractInPercentageNationwide": 0.89,
+          "totalNumberOfFarmInPercentageNationwide": 1.02,
+          "totalAcreInPercentageNationwide": 2.84,
+          "totalAnnualRental1kInPercentageNationwide": 2.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.05,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 2229,
+              "totalNumberOfFarm": 1646,
+              "totalAcre": 146691,
+              "totalAnnualRental1K": 11635,
+              "totalAnnualRentalAcre": 395.83,
+              "totalNumberOfContractInPercentageNationwide": 0.83,
+              "totalNumberOfFarmInPercentageNationwide": 0.9,
+              "totalAcreInPercentageNationwide": 3.31,
+              "totalAnnualRental1kInPercentageNationwide": 1.5,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.38
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 16365,
+              "totalNumberOfFarm": 11848,
+              "totalAcre": 967068,
+              "totalAnnualRental1K": 99752,
+              "totalAnnualRentalAcre": 515.29,
+              "totalNumberOfContractInPercentageNationwide": 0.92,
+              "totalNumberOfFarmInPercentageNationwide": 1.0,
+              "totalAcreInPercentageNationwide": 2.89,
+              "totalAnnualRental1kInPercentageNationwide": 2.2,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.44
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 225,
+              "totalNumberOfFarm": 170,
+              "totalAcre": 17780,
+              "totalAnnualRental1K": 1740,
+              "totalAnnualRentalAcre": 488.95,
+              "totalNumberOfContractInPercentageNationwide": 0.31,
+              "totalNumberOfFarmInPercentageNationwide": 0.3,
+              "totalAcreInPercentageNationwide": 0.93,
+              "totalAnnualRental1kInPercentageNationwide": 0.57,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.64
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 32,
+          "totalNumberOfFarm": 24,
+          "totalAcre": 5528,
+          "totalAnnualRental1K": 104,
+          "totalAnnualRentalAcre": 76.56,
+          "totalNumberOfContractInPercentageNationwide": 0.11,
+          "totalNumberOfFarmInPercentageNationwide": 0.14,
+          "totalAcreInPercentageNationwide": 0.06,
+          "totalAnnualRental1kInPercentageNationwide": 0.07,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.51,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "WY",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 2614,
+          "totalNumberOfFarm": 1730,
+          "totalAcre": 716144,
+          "totalAnnualRental1K": 18512,
+          "totalAnnualRentalAcre": 128.88,
+          "totalNumberOfContractInPercentageNationwide": 0.33,
+          "totalNumberOfFarmInPercentageNationwide": 0.3,
+          "totalAcreInPercentageNationwide": 1.18,
+          "totalAnnualRental1kInPercentageNationwide": 0.57,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.95,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 457,
+          "totalNumberOfFarm": 334,
+          "totalAcre": 63414,
+          "totalAnnualRental1K": 1883,
+          "totalAnnualRentalAcre": 148.19,
+          "totalNumberOfContractInPercentageNationwide": 0.02,
+          "totalNumberOfFarmInPercentageNationwide": 0.03,
+          "totalAcreInPercentageNationwide": 0.16,
+          "totalAnnualRental1kInPercentageNationwide": 0.03,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.61,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 457,
+              "totalNumberOfFarm": 745,
+              "totalAcre": 63414,
+              "totalAnnualRental1K": 1883,
+              "totalAnnualRentalAcre": 148.19,
+              "totalNumberOfContractInPercentageNationwide": 0.03,
+              "totalNumberOfFarmInPercentageNationwide": 0.06,
+              "totalAcreInPercentageNationwide": 0.19,
+              "totalAnnualRental1kInPercentageNationwide": 0.04,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.7
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 440,
+          "totalNumberOfFarm": 263,
+          "totalAcre": 379540,
+          "totalAnnualRental1K": 4911,
+          "totalAnnualRentalAcre": 49.47,
+          "totalNumberOfContractInPercentageNationwide": 1.53,
+          "totalNumberOfFarmInPercentageNationwide": 1.58,
+          "totalAcreInPercentageNationwide": 4.1,
+          "totalAnnualRental1kInPercentageNationwide": 3.49,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.62,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "VA",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 2224,
+          "totalNumberOfFarm": 1933,
+          "totalAcre": 46975,
+          "totalAnnualRental1K": 1992,
+          "totalAnnualRentalAcre": 212.43,
+          "totalNumberOfContractInPercentageNationwide": 0.28,
+          "totalNumberOfFarmInPercentageNationwide": 0.34,
+          "totalAcreInPercentageNationwide": 0.08,
+          "totalAnnualRental1kInPercentageNationwide": 0.06,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.57,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 15424,
+          "totalNumberOfFarm": 11920,
+          "totalAcre": 110267,
+          "totalAnnualRental1K": 9131,
+          "totalAnnualRentalAcre": 414.35,
+          "totalNumberOfContractInPercentageNationwide": 0.73,
+          "totalNumberOfFarmInPercentageNationwide": 0.97,
+          "totalAcreInPercentageNationwide": 0.28,
+          "totalAnnualRental1kInPercentageNationwide": 0.16,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.7,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 13002,
+              "totalNumberOfFarm": 10487,
+              "totalAcre": 92198,
+              "totalAnnualRental1K": 7888,
+              "totalAnnualRentalAcre": 597.75,
+              "totalNumberOfContractInPercentageNationwide": 4.83,
+              "totalNumberOfFarmInPercentageNationwide": 5.73,
+              "totalAcreInPercentageNationwide": 2.08,
+              "totalAnnualRental1kInPercentageNationwide": 1.02,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.09
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 2422,
+              "totalNumberOfFarm": 4371,
+              "totalAcre": 18069,
+              "totalAnnualRental1K": 1243,
+              "totalAnnualRentalAcre": 344.69,
+              "totalNumberOfContractInPercentageNationwide": 0.14,
+              "totalNumberOfFarmInPercentageNationwide": 0.37,
+              "totalAcreInPercentageNationwide": 0.05,
+              "totalAnnualRental1kInPercentageNationwide": 0.03,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.63
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 246,
+          "totalNumberOfFarm": 181,
+          "totalAcre": 9401,
+          "totalAnnualRental1K": 155,
+          "totalAnnualRentalAcre": 63.63,
+          "totalNumberOfContractInPercentageNationwide": 0.85,
+          "totalNumberOfFarmInPercentageNationwide": 1.09,
+          "totalAcreInPercentageNationwide": 0.1,
+          "totalAnnualRental1kInPercentageNationwide": 0.11,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.09,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 1906,
+          "totalNumberOfFarm": 1651,
+          "totalAcre": 75941,
+          "totalAnnualRental1K": 3705,
+          "totalAnnualRentalAcre": 249.81,
+          "totalNumberOfContractInPercentageNationwide": 0.24,
+          "totalNumberOfFarmInPercentageNationwide": 0.29,
+          "totalAcreInPercentageNationwide": 0.12,
+          "totalAnnualRental1kInPercentageNationwide": 0.11,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.84,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 358,
+          "totalNumberOfFarm": 280,
+          "totalAcre": 11942,
+          "totalAnnualRental1K": 701,
+          "totalAnnualRentalAcre": 293.21,
+          "totalNumberOfContractInPercentageNationwide": 0.02,
+          "totalNumberOfFarmInPercentageNationwide": 0.02,
+          "totalAcreInPercentageNationwide": 0.03,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.2,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 358,
+              "totalNumberOfFarm": 690,
+              "totalAcre": 11942,
+              "totalAnnualRental1K": 701,
+              "totalAnnualRentalAcre": 293.21,
+              "totalNumberOfContractInPercentageNationwide": 0.02,
+              "totalNumberOfFarmInPercentageNationwide": 0.06,
+              "totalAcreInPercentageNationwide": 0.04,
+              "totalAnnualRental1kInPercentageNationwide": 0.02,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.39
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 44,
+          "totalNumberOfFarm": 30,
+          "totalAcre": 2952,
+          "totalAnnualRental1K": 60,
+          "totalAnnualRentalAcre": 82.1,
+          "totalNumberOfContractInPercentageNationwide": 0.15,
+          "totalNumberOfFarmInPercentageNationwide": 0.18,
+          "totalAcreInPercentageNationwide": 0.03,
+          "totalAnnualRental1kInPercentageNationwide": 0.04,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.69,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "NY",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 987,
+          "totalNumberOfFarm": 824,
+          "totalAcre": 23607,
+          "totalAnnualRental1K": 1192,
+          "totalAnnualRentalAcre": 261.47,
+          "totalNumberOfContractInPercentageNationwide": 0.13,
+          "totalNumberOfFarmInPercentageNationwide": 0.15,
+          "totalAcreInPercentageNationwide": 0.04,
+          "totalAnnualRental1kInPercentageNationwide": 0.04,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.93,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 5469,
+          "totalNumberOfFarm": 4049,
+          "totalAcre": 72236,
+          "totalAnnualRental1K": 8166,
+          "totalAnnualRentalAcre": 563.45,
+          "totalNumberOfContractInPercentageNationwide": 0.26,
+          "totalNumberOfFarmInPercentageNationwide": 0.33,
+          "totalAcreInPercentageNationwide": 0.18,
+          "totalAnnualRental1kInPercentageNationwide": 0.15,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.31,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 4650,
+              "totalNumberOfFarm": 3422,
+              "totalAcre": 55696,
+              "totalAnnualRental1K": 7212,
+              "totalAnnualRentalAcre": 1112.68,
+              "totalNumberOfContractInPercentageNationwide": 1.73,
+              "totalNumberOfFarmInPercentageNationwide": 1.87,
+              "totalAcreInPercentageNationwide": 1.26,
+              "totalAnnualRental1kInPercentageNationwide": 0.93,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.89
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 819,
+              "totalNumberOfFarm": 1672,
+              "totalAcre": 16541,
+              "totalAnnualRental1K": 956,
+              "totalAnnualRentalAcre": 290.89,
+              "totalNumberOfContractInPercentageNationwide": 0.05,
+              "totalNumberOfFarmInPercentageNationwide": 0.14,
+              "totalAcreInPercentageNationwide": 0.05,
+              "totalAnnualRental1kInPercentageNationwide": 0.02,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.38
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 190,
+          "totalNumberOfFarm": 163,
+          "totalAcre": 7689,
+          "totalAnnualRental1K": 160,
+          "totalAnnualRentalAcre": 82.82,
+          "totalNumberOfContractInPercentageNationwide": 0.66,
+          "totalNumberOfFarmInPercentageNationwide": 0.98,
+          "totalAcreInPercentageNationwide": 0.08,
+          "totalAnnualRental1kInPercentageNationwide": 0.11,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.72,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 683,
+          "totalNumberOfFarm": 514,
+          "totalAcre": 186031,
+          "totalAnnualRental1K": 9521,
+          "totalAnnualRentalAcre": 253.95,
+          "totalNumberOfContractInPercentageNationwide": 0.09,
+          "totalNumberOfFarmInPercentageNationwide": 0.09,
+          "totalAcreInPercentageNationwide": 0.31,
+          "totalAnnualRental1kInPercentageNationwide": 0.29,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.87,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 58,
+          "totalNumberOfFarm": 56,
+          "totalAcre": 6693,
+          "totalAnnualRental1K": 215,
+          "totalAnnualRentalAcre": 157.07,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.02,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.64,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 58,
+              "totalNumberOfFarm": 166,
+              "totalAcre": 6693,
+              "totalAnnualRental1K": 215,
+              "totalAnnualRentalAcre": 157.07,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.01,
+              "totalAcreInPercentageNationwide": 0.02,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.74
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 42,
+          "totalNumberOfFarm": 38,
+          "totalAcre": 46570,
+          "totalAnnualRental1K": 758,
+          "totalAnnualRentalAcre": 64.02,
+          "totalNumberOfContractInPercentageNationwide": 0.15,
+          "totalNumberOfFarmInPercentageNationwide": 0.23,
+          "totalAcreInPercentageNationwide": 0.5,
+          "totalAnnualRental1kInPercentageNationwide": 0.54,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.1,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "ME",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 474,
+          "totalNumberOfFarm": 370,
+          "totalAcre": 13631,
+          "totalAnnualRental1K": 448,
+          "totalAnnualRentalAcre": 165.06,
+          "totalNumberOfContractInPercentageNationwide": 0.06,
+          "totalNumberOfFarmInPercentageNationwide": 0.07,
+          "totalAcreInPercentageNationwide": 0.02,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.22,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 565,
+          "totalNumberOfFarm": 437,
+          "totalAcre": 11016,
+          "totalAnnualRental1K": 762,
+          "totalAnnualRentalAcre": 345.99,
+          "totalNumberOfContractInPercentageNationwide": 0.03,
+          "totalNumberOfFarmInPercentageNationwide": 0.04,
+          "totalAcreInPercentageNationwide": 0.03,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.42,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 565,
+              "totalNumberOfFarm": 509,
+              "totalAcre": 11016,
+              "totalAnnualRental1K": 762,
+              "totalAnnualRentalAcre": 345.99,
+              "totalNumberOfContractInPercentageNationwide": 0.03,
+              "totalNumberOfFarmInPercentageNationwide": 0.04,
+              "totalAcreInPercentageNationwide": 0.03,
+              "totalAnnualRental1kInPercentageNationwide": 0.02,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.64
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 2,
+          "totalNumberOfFarm": 2,
+          "totalAcre": 96,
+          "totalAnnualRental1K": 2,
+          "totalAnnualRentalAcre": 30.0,
+          "totalNumberOfContractInPercentageNationwide": 0.01,
+          "totalNumberOfFarmInPercentageNationwide": 0.01,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.98,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "MD",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 409,
+          "totalNumberOfFarm": 365,
+          "totalAcre": 6332,
+          "totalAnnualRental1K": 569,
+          "totalAnnualRentalAcre": 462.37,
+          "totalNumberOfContractInPercentageNationwide": 0.05,
+          "totalNumberOfFarmInPercentageNationwide": 0.06,
+          "totalAcreInPercentageNationwide": 0.01,
+          "totalAnnualRental1kInPercentageNationwide": 0.02,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.41,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 22717,
+          "totalNumberOfFarm": 13326,
+          "totalAcre": 231640,
+          "totalAnnualRental1K": 52825,
+          "totalAnnualRentalAcre": 1143.04,
+          "totalNumberOfContractInPercentageNationwide": 1.07,
+          "totalNumberOfFarmInPercentageNationwide": 1.09,
+          "totalAcreInPercentageNationwide": 0.58,
+          "totalAnnualRental1kInPercentageNationwide": 0.94,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.69,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 21161,
+              "totalNumberOfFarm": 12860,
+              "totalAcre": 225717,
+              "totalAnnualRental1K": 52182,
+              "totalAnnualRentalAcre": 1158.3,
+              "totalNumberOfContractInPercentageNationwide": 7.86,
+              "totalNumberOfFarmInPercentageNationwide": 7.02,
+              "totalAcreInPercentageNationwide": 5.1,
+              "totalAnnualRental1kInPercentageNationwide": 6.74,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.05
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 1556,
+              "totalNumberOfFarm": 3775,
+              "totalAcre": 5921,
+              "totalAnnualRental1K": 645,
+              "totalAnnualRentalAcre": 550.79,
+              "totalNumberOfContractInPercentageNationwide": 0.09,
+              "totalNumberOfFarmInPercentageNationwide": 0.32,
+              "totalAcreInPercentageNationwide": 0.02,
+              "totalAnnualRental1kInPercentageNationwide": 0.01,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.61
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 47,
+          "totalNumberOfFarm": 47,
+          "totalAcre": 3959,
+          "totalAnnualRental1K": 141,
+          "totalAnnualRentalAcre": 142.94,
+          "totalNumberOfContractInPercentageNationwide": 0.16,
+          "totalNumberOfFarmInPercentageNationwide": 0.28,
+          "totalAcreInPercentageNationwide": 0.04,
+          "totalAnnualRental1kInPercentageNationwide": 0.1,
+          "totalAnnualRentalAcreInPercentageNationwide": 4.69,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "PA",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 192,
+          "totalNumberOfFarm": 177,
+          "totalAcre": 4280,
+          "totalAnnualRental1K": 207,
+          "totalAnnualRentalAcre": 257.7,
+          "totalNumberOfContractInPercentageNationwide": 0.02,
+          "totalNumberOfFarmInPercentageNationwide": 0.03,
+          "totalAcreInPercentageNationwide": 0.01,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.9,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 35250,
+          "totalNumberOfFarm": 23665,
+          "totalAcre": 556976,
+          "totalAnnualRental1K": 76120,
+          "totalAnnualRentalAcre": 689.45,
+          "totalNumberOfContractInPercentageNationwide": 1.66,
+          "totalNumberOfFarmInPercentageNationwide": 1.93,
+          "totalAcreInPercentageNationwide": 1.4,
+          "totalAnnualRental1kInPercentageNationwide": 1.36,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.83,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 35116,
+              "totalNumberOfFarm": 23563,
+              "totalAcre": 556759,
+              "totalAnnualRental1K": 76103,
+              "totalAnnualRentalAcre": 1238.71,
+              "totalNumberOfContractInPercentageNationwide": 13.05,
+              "totalNumberOfFarmInPercentageNationwide": 12.87,
+              "totalAcreInPercentageNationwide": 12.58,
+              "totalAnnualRental1kInPercentageNationwide": 9.84,
+              "totalAnnualRentalAcreInPercentageNationwide": 4.33
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 134,
+              "totalNumberOfFarm": 5303,
+              "totalAcre": 219,
+              "totalAnnualRental1K": 18,
+              "totalAnnualRentalAcre": 459.99,
+              "totalNumberOfContractInPercentageNationwide": 0.01,
+              "totalNumberOfFarmInPercentageNationwide": 0.45,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.18
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 65,
+          "totalNumberOfFarm": 63,
+          "totalAcre": 2721,
+          "totalAnnualRental1K": 59,
+          "totalAnnualRentalAcre": 83.78,
+          "totalNumberOfContractInPercentageNationwide": 0.23,
+          "totalNumberOfFarmInPercentageNationwide": 0.38,
+          "totalAcreInPercentageNationwide": 0.03,
+          "totalAnnualRental1kInPercentageNationwide": 0.04,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.75,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "AK",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 68,
+          "totalNumberOfFarm": 59,
+          "totalAcre": 27660,
+          "totalAnnualRental1K": 1089,
+          "totalAnnualRentalAcre": 189.11,
+          "totalNumberOfContractInPercentageNationwide": 0.01,
+          "totalNumberOfFarmInPercentageNationwide": 0.01,
+          "totalAcreInPercentageNationwide": 0.05,
+          "totalAnnualRental1kInPercentageNationwide": 0.03,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.39,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 24,
+          "totalNumberOfFarm": 24,
+          "totalAcre": 1877,
+          "totalAnnualRental1K": 103,
+          "totalAnnualRentalAcre": 300.21,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.23,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 24,
+              "totalNumberOfFarm": 33,
+              "totalAcre": 1877,
+              "totalAnnualRental1K": 103,
+              "totalAnnualRentalAcre": 300.21,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.01,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.42
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "DE",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 54,
+          "totalNumberOfFarm": 48,
+          "totalAcre": 937,
+          "totalAnnualRental1K": 68,
+          "totalAnnualRentalAcre": 378.1,
+          "totalNumberOfContractInPercentageNationwide": 0.01,
+          "totalNumberOfFarmInPercentageNationwide": 0.01,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.79,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 1455,
+          "totalNumberOfFarm": 875,
+          "totalAcre": 16550,
+          "totalAnnualRental1K": 2448,
+          "totalAnnualRentalAcre": 741.01,
+          "totalNumberOfContractInPercentageNationwide": 0.07,
+          "totalNumberOfFarmInPercentageNationwide": 0.07,
+          "totalAcreInPercentageNationwide": 0.04,
+          "totalAnnualRental1kInPercentageNationwide": 0.04,
+          "totalAnnualRentalAcreInPercentageNationwide": 3.04,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 1348,
+              "totalNumberOfFarm": 860,
+              "totalAcre": 15985,
+              "totalAnnualRental1K": 2386,
+              "totalAnnualRentalAcre": 747.65,
+              "totalNumberOfContractInPercentageNationwide": 0.5,
+              "totalNumberOfFarmInPercentageNationwide": 0.47,
+              "totalAcreInPercentageNationwide": 0.36,
+              "totalAnnualRental1kInPercentageNationwide": 0.31,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.61
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 107,
+              "totalNumberOfFarm": 247,
+              "totalAcre": 565,
+              "totalAnnualRental1K": 62,
+              "totalAnnualRentalAcre": 551.67,
+              "totalNumberOfContractInPercentageNationwide": 0.01,
+              "totalNumberOfFarmInPercentageNationwide": 0.02,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.61
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "NJ",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 29,
+          "totalNumberOfFarm": 29,
+          "totalAcre": 460,
+          "totalAnnualRental1K": 22,
+          "totalAnnualRentalAcre": 173.82,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.01,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.28,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 1592,
+          "totalNumberOfFarm": 952,
+          "totalAcre": 8250,
+          "totalAnnualRental1K": 817,
+          "totalAnnualRentalAcre": 496.11,
+          "totalNumberOfContractInPercentageNationwide": 0.07,
+          "totalNumberOfFarmInPercentageNationwide": 0.08,
+          "totalAcreInPercentageNationwide": 0.02,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.04,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 1220,
+              "totalNumberOfFarm": 744,
+              "totalAcre": 3559,
+              "totalAnnualRental1K": 531,
+              "totalAnnualRentalAcre": 746.82,
+              "totalNumberOfContractInPercentageNationwide": 0.45,
+              "totalNumberOfFarmInPercentageNationwide": 0.41,
+              "totalAcreInPercentageNationwide": 0.08,
+              "totalAnnualRental1kInPercentageNationwide": 0.07,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.61
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 372,
+              "totalNumberOfFarm": 424,
+              "totalAcre": 4692,
+              "totalAnnualRental1K": 286,
+              "totalAnnualRentalAcre": 306.07,
+              "totalNumberOfContractInPercentageNationwide": 0.02,
+              "totalNumberOfFarmInPercentageNationwide": 0.04,
+              "totalAcreInPercentageNationwide": 0.01,
+              "totalAnnualRental1kInPercentageNationwide": 0.01,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.45
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 16,
+          "totalNumberOfFarm": 12,
+          "totalAcre": 535,
+          "totalAnnualRental1K": 10,
+          "totalAnnualRentalAcre": 74.25,
+          "totalNumberOfContractInPercentageNationwide": 0.06,
+          "totalNumberOfFarmInPercentageNationwide": 0.07,
+          "totalAcreInPercentageNationwide": 0.01,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.44,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "CT",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 3,
+          "totalNumberOfFarm": 3,
+          "totalAcre": 27,
+          "totalAnnualRental1K": 3,
+          "totalAnnualRentalAcre": 231.4,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.71,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 3,
+          "totalNumberOfFarm": 3,
+          "totalAcre": 3,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 201.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.83,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 3,
+              "totalNumberOfFarm": 4,
+              "totalAcre": 3,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 201.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.95
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "NV",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 3,
+          "totalNumberOfFarm": 3,
+          "totalAcre": 438,
+          "totalAnnualRental1K": 3,
+          "totalAnnualRentalAcre": 30.48,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.22,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 1,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 6,
+          "totalNumberOfFarm": 4,
+          "totalAcre": 5436,
+          "totalAnnualRental1K": 54,
+          "totalAnnualRentalAcre": 19.72,
+          "totalNumberOfContractInPercentageNationwide": 0.02,
+          "totalNumberOfFarmInPercentageNationwide": 0.02,
+          "totalAcreInPercentageNationwide": 0.06,
+          "totalAnnualRental1kInPercentageNationwide": 0.04,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.65,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "VT",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 3,
+          "totalNumberOfFarm": 3,
+          "totalAcre": 21,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 192.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.42,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 1679,
+          "totalNumberOfFarm": 1243,
+          "totalAcre": 11516,
+          "totalAnnualRental1K": 1338,
+          "totalAnnualRentalAcre": 581.24,
+          "totalNumberOfContractInPercentageNationwide": 0.08,
+          "totalNumberOfFarmInPercentageNationwide": 0.1,
+          "totalAcreInPercentageNationwide": 0.03,
+          "totalAnnualRental1kInPercentageNationwide": 0.02,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.39,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 1622,
+              "totalNumberOfFarm": 1229,
+              "totalAcre": 11294,
+              "totalAnnualRental1K": 1325,
+              "totalAnnualRentalAcre": 586.76,
+              "totalNumberOfContractInPercentageNationwide": 0.6,
+              "totalNumberOfFarmInPercentageNationwide": 0.67,
+              "totalAcreInPercentageNationwide": 0.26,
+              "totalAnnualRental1kInPercentageNationwide": 0.17,
+              "totalAnnualRentalAcreInPercentageNationwide": 2.05
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 57,
+              "totalNumberOfFarm": 311,
+              "totalAcre": 220,
+              "totalAnnualRental1K": 13,
+              "totalAnnualRentalAcre": 291.34,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.03,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.38
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "WV",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 3,
+          "totalNumberOfFarm": 3,
+          "totalAcre": 174,
+          "totalAnnualRental1K": 6,
+          "totalAnnualRentalAcre": 105.87,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.78,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 2235,
+          "totalNumberOfFarm": 1887,
+          "totalAcre": 26522,
+          "totalAnnualRental1K": 2221,
+          "totalAnnualRentalAcre": 418.62,
+          "totalNumberOfContractInPercentageNationwide": 0.11,
+          "totalNumberOfFarmInPercentageNationwide": 0.15,
+          "totalAcreInPercentageNationwide": 0.07,
+          "totalAnnualRental1kInPercentageNationwide": 0.04,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.72,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 2226,
+              "totalNumberOfFarm": 1879,
+              "totalAcre": 26503,
+              "totalAnnualRental1K": 2221,
+              "totalAnnualRentalAcre": 418.79,
+              "totalNumberOfContractInPercentageNationwide": 0.83,
+              "totalNumberOfFarmInPercentageNationwide": 1.03,
+              "totalAcreInPercentageNationwide": 0.6,
+              "totalAnnualRental1kInPercentageNationwide": 0.29,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.46
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 9,
+              "totalNumberOfFarm": 420,
+              "totalAcre": 21,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 191.73,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.04,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.91
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 132,
+          "totalNumberOfFarm": 95,
+          "totalAcre": 9430,
+          "totalAnnualRental1K": 135,
+          "totalAnnualRentalAcre": 57.42,
+          "totalNumberOfContractInPercentageNationwide": 0.46,
+          "totalNumberOfFarmInPercentageNationwide": 0.57,
+          "totalAcreInPercentageNationwide": 0.1,
+          "totalAnnualRental1kInPercentageNationwide": 0.1,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.88,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "AZ",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 6,
+          "totalNumberOfFarm": 6,
+          "totalAcre": 20502,
+          "totalAnnualRental1K": 308,
+          "totalAnnualRentalAcre": 30.0,
+          "totalNumberOfContractInPercentageNationwide": 0.02,
+          "totalNumberOfFarmInPercentageNationwide": 0.04,
+          "totalAcreInPercentageNationwide": 0.22,
+          "totalAnnualRental1kInPercentageNationwide": 0.22,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.98,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "HI",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 147,
+          "totalNumberOfFarm": 97,
+          "totalAcre": 6252,
+          "totalAnnualRental1K": 304,
+          "totalAnnualRentalAcre": 242.97,
+          "totalNumberOfContractInPercentageNationwide": 0.01,
+          "totalNumberOfFarmInPercentageNationwide": 0.01,
+          "totalAcreInPercentageNationwide": 0.02,
+          "totalAnnualRental1kInPercentageNationwide": 0.01,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.0,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 147,
+              "totalNumberOfFarm": 97,
+              "totalAcre": 6252,
+              "totalAnnualRental1K": 304,
+              "totalAnnualRentalAcre": 242.97,
+              "totalNumberOfContractInPercentageNationwide": 0.05,
+              "totalNumberOfFarmInPercentageNationwide": 0.05,
+              "totalAcreInPercentageNationwide": 0.14,
+              "totalAnnualRental1kInPercentageNationwide": 0.04,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.85
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 18,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 12,
+          "totalNumberOfFarm": 4,
+          "totalAcre": 7214,
+          "totalAnnualRental1K": 80,
+          "totalAnnualRentalAcre": 22.0,
+          "totalNumberOfContractInPercentageNationwide": 0.04,
+          "totalNumberOfFarmInPercentageNationwide": 0.02,
+          "totalAcreInPercentageNationwide": 0.08,
+          "totalAnnualRental1kInPercentageNationwide": 0.06,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.72,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 16,
+          "totalNumberOfFarm": 13,
+          "totalAcre": 58,
+          "totalAnnualRental1K": 8,
+          "totalAnnualRentalAcre": 663.85,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 2.73,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 16,
+              "totalNumberOfFarm": 13,
+              "totalAcre": 58,
+              "totalAnnualRental1K": 8,
+              "totalAnnualRentalAcre": 663.85,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 3.14
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "NH",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 3,
+          "totalNumberOfFarm": 3,
+          "totalAcre": 12,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 189.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.78,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 3,
+              "totalNumberOfFarm": 3,
+              "totalAcre": 12,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 189.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.89
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "RI",
+      "programs": [
+        {
+          "programName": "Total General Sign-Up",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        },
+        {
+          "programName": "Total Continuous Sign-Up",
+          "totalNumberOfContract": 5,
+          "totalNumberOfFarm": 5,
+          "totalAcre": 140,
+          "totalAnnualRental1K": 10,
+          "totalAnnualRentalAcre": 370.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 1.52,
+          "subPrograms": [
+            {
+              "programName": "CREP Only",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            },
+            {
+              "programName": "Continuous Non-CREP",
+              "totalNumberOfContract": 5,
+              "totalNumberOfFarm": 5,
+              "totalAcre": 140,
+              "totalAnnualRental1K": 10,
+              "totalAnnualRentalAcre": 370.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 1.75
+            },
+            {
+              "programName": "Farmable Wetland",
+              "totalNumberOfContract": 0,
+              "totalNumberOfFarm": 0,
+              "totalAcre": 0,
+              "totalAnnualRental1K": 0,
+              "totalAnnualRentalAcre": 0.0,
+              "totalNumberOfContractInPercentageNationwide": 0.0,
+              "totalNumberOfFarmInPercentageNationwide": 0.0,
+              "totalAcreInPercentageNationwide": 0.0,
+              "totalAnnualRental1kInPercentageNationwide": 0.0,
+              "totalAnnualRentalAcreInPercentageNationwide": 0.0
+            }
+          ]
+        },
+        {
+          "programName": "Grassland",
+          "totalNumberOfContract": 0,
+          "totalNumberOfFarm": 0,
+          "totalAcre": 0,
+          "totalAnnualRental1K": 0,
+          "totalAnnualRentalAcre": 0.0,
+          "totalNumberOfContractInPercentageNationwide": 0.0,
+          "totalNumberOfFarmInPercentageNationwide": 0.0,
+          "totalAcreInPercentageNationwide": 0.0,
+          "totalAnnualRental1kInPercentageNationwide": 0.0,
+          "totalAnnualRentalAcreInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    }
+  ]
+}
