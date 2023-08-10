@@ -12,11 +12,29 @@ class DataParser:
         self.program_main_category_name = program_main_category_name
         self.data_folder = data_folder
         self.program_csv_filepath = os.path.join(data_folder, program_csv_filename)
+        self.program_main_category_name = program_main_category_name
+        self.program_data = None
 
         # Main program category specific file paths
         if self.program_main_category_name == "Title 1: Commodities":
-            self.base_acres_csv_filepath = os.path.join(data_folder, kwargs["base_acres_csv_filename"])
-            self.farm_payee_count_csv_filepath = os.path.join(data_folder, kwargs["farm_payee_count_csv_filename"])
+            self.base_acres_data = None
+            self.farm_payee_count_data = None
+
+            self.base_acres_csv_filepath_arc_co = os.path.join(data_folder, kwargs["base_acres_csv_filename_arc_co"])
+            self.base_acres_csv_filepath_plc = os.path.join(data_folder, kwargs["base_acres_csv_filename_plc"])
+
+            self.farm_payee_count_csv_filepath_arc_co = os.path.join(data_folder,
+                                                                     kwargs["farm_payee_count_csv_filename_arc_co"])
+            self.farm_payee_count_csv_filepath_arc_ic = os.path.join(data_folder,
+                                                                     kwargs["farm_payee_count_csv_filename_arc_ic"])
+            self.farm_payee_count_csv_filepath_plc = os.path.join(data_folder,
+                                                                  kwargs["farm_payee_count_csv_filename_plc"])
+            self.total_payment_csv_filepath_arc_co = os.path.join(data_folder,
+                                                                  kwargs["total_payment_csv_filename_arc_co"])
+            self.total_payment_csv_filepath_arc_ic = os.path.join(data_folder,
+                                                                  kwargs["total_payment_csv_filename_arc_ic"])
+            self.total_payment_csv_filepath_plc = os.path.join(data_folder,
+                                                               kwargs["total_payment_csv_filename_plc"])
 
         # Output data dictionaries
         self.processed_data_dict = dict()
@@ -29,12 +47,12 @@ class DataParser:
                     "Agriculture Risk Coverage (ARC)": ["Agriculture Risk Coverage County Option (ARC-CO)",
                                                         "Agriculture Risk Coverage Individual Coverage (ARC-IC)"],
                     "Price Loss Coverage (PLC)": [],
-                    "Dairy": ["Dairy Margin Coverage Program (DMC)", "Dairy Indemnity Payment Program (DIPP)"],
-                    "Disaster Assistance": ["Tree Assistance Program (TAP)",
-                                            "Noninsured Crop Disaster Assistance Program (NAP)",
-                                            "Livestock Forage Disaster Program (LFP)",
-                                            "Livestock Indemnity Program (LIP)",
-                                            "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)"]
+                    # "Dairy": ["Dairy Margin Coverage Program (DMC)", "Dairy Indemnity Payment Program (DIPP)"],
+                    # "Disaster Assistance": ["Tree Assistance Program (TAP)",
+                    #                         "Noninsured Crop Disaster Assistance Program (NAP)",
+                    #                         "Livestock Forage Disaster Program (LFP)",
+                    #                         "Livestock Indemnity Program (LIP)",
+                    #                         "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)"]
                 },
                 "value_names_map": {
                     "ARC-Ind": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -52,9 +70,10 @@ class DataParser:
                     "Dairy Indemnity": "Dairy Indemnity Payment Program (DIPP)"
                 },
                 "column_names_map": {
-                    "fiscal_year": "year",
-                    "category": "program_description",
-                    "amount": "payments"
+                    "Year": "year",
+                    "Program": "program_description",
+                    "amount": "payments",
+                    "State Name": "state"
                 },
                 "zero_subprograms_map": {
                     "subProgramName": None,
@@ -162,54 +181,53 @@ class DataParser:
 
     def parse_and_process(self):
         # Import CSV file into a Pandas DataFrame
-        program_data = pd.read_csv(self.program_csv_filepath)
-        program_data = program_data.replace(self.metadata[self.program_main_category_name]["value_names_map"])
+        if self.program_data is None:
+            self.program_data = pd.read_csv(self.program_csv_filepath)
+
+        self.program_data = self.program_data.replace(self.metadata[self.program_main_category_name]["value_names_map"])
 
         # Rename column names to make it more uniform
-        program_data.rename(columns=self.metadata[self.program_main_category_name]["column_names_map"], inplace=True)
+        self.program_data.rename(columns=self.metadata[self.program_main_category_name]["column_names_map"],
+                                 inplace=True)
 
         # Filter only relevant years' data
-        program_data = program_data[program_data["year"].between(self.start_year, self.end_year,
-                                                                 inclusive="both")]
+        self.program_data = self.program_data[self.program_data["year"].between(self.start_year, self.end_year,
+                                                                                inclusive="both")]
 
         # Exclude programs that are not included at present
-        program_data = program_data[
-            (program_data["program_description"] != "Ad hoc or Supplemental") &
-            (program_data["program_description"] != "Market Facilitation Program (MFP)") &
-            (program_data["program_description"] != "Coronavirus Food Assistance Program (CFAP)")
+        self.program_data = self.program_data[
+            (self.program_data["program_description"] != "Ad hoc or Supplemental") &
+            (self.program_data["program_description"] != "Market Facilitation Program (MFP)") &
+            (self.program_data["program_description"] != "Coronavirus Food Assistance Program (CFAP)")
             ]
 
         # Group data by state, program description, and payment
         payments_by_program_by_state_for_year = \
-            program_data[
+            self.program_data[
                 ["year", "state", "program_description", "payments"]
             ].groupby(
                 ["year", "state", "program_description"]
             )["payments"].sum()
 
-        # Import base acres CSV file
-        base_acres_data = pd.read_csv(self.base_acres_csv_filepath)
-        base_acres_data = base_acres_data.replace({
+        # Import base acres data
+        self.base_acres_data = self.base_acres_data.replace({
             "ARC-CO": "Agriculture Risk Coverage County Option (ARC-CO)",
             "ARCCO": "Agriculture Risk Coverage County Option (ARC-CO)",
             "PLC": "Price Loss Coverage (PLC)",
         })
 
         # Rename column names to make it more uniform
-        base_acres_data.rename(columns={"State Name": "state",
-                                        "Year": "year",
-                                        "Program": "program_description",
-                                        "Enrolled Base": "base_acres"}, inplace=True)
+        self.base_acres_data.rename(columns={"State Name": "state",
+                                             "Year": "year",
+                                             "Program": "program_description",
+                                             "Enrolled Base": "base_acres"}, inplace=True)
 
         # Filter only relevant years' data
-        # TODO: Excluded 2018 data for now. This needs to be revisited later.
-        #  https://github.com/policy-design-lab/data-import/issues/35
-        base_acres_data = base_acres_data[
-            base_acres_data["year"].between(self.start_year + 1, self.end_year, inclusive="both")]
+        self.base_acres_data = self.base_acres_data[
+            self.base_acres_data["year"].between(self.start_year, self.end_year, inclusive="both")]
 
-        # Import farmer count CSV file
-        farm_payee_count_data = pd.read_csv(self.farm_payee_count_csv_filepath)
-        farm_payee_count_data = farm_payee_count_data.replace({
+        # Import farmer count data
+        self.farm_payee_count_data = self.farm_payee_count_data.replace({
             "AGRICULTURAL RISK COVERAGE - INDIVIDUAL": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
             "AGRICULTURAL RISK COVERAGE PROG - COUNTY": "Agriculture Risk Coverage County Option (ARC-CO)",
             "AGRICULTURAL RISK COVERAGE -COUNTY PILOT": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -239,16 +257,14 @@ class DataParser:
         })
 
         # Rename column names to make it more uniform
-        farm_payee_count_data.rename(columns={"State": "state",
-                                              "Year": "year",
-                                              "Program": "program_description",
-                                              "Payee Count": "recipient_count"}, inplace=True)
+        self.farm_payee_count_data.rename(columns={"State Name": "state",
+                                                   "Year": "year",
+                                                   "Program": "program_description",
+                                                   "Payee Count": "recipient_count"}, inplace=True)
 
         # Filter only relevant years' data
-        # TODO: Excluded 2018 data for now. This needs to be revisited later.
-        #  https://github.com/policy-design-lab/data-import/issues/35
-        farm_payee_count_data = farm_payee_count_data[
-            farm_payee_count_data["year"].between(self.start_year + 1, self.end_year, inclusive="both")]
+        self.farm_payee_count_data = self.farm_payee_count_data[
+            self.farm_payee_count_data["year"].between(self.start_year, self.end_year, inclusive="both")]
 
         # 1. Generate map data
         if True:
@@ -273,18 +289,18 @@ class DataParser:
                             ],
                             "programPaymentInDollars": 0.0
                         },
-                        {
-                            "programName": "Dairy",
-                            "subPrograms": [
-                            ],
-                            "programPaymentInDollars": 0.0
-                        },
-                        {
-                            "programName": "Disaster Assistance",
-                            "subPrograms": [
-                            ],
-                            "programPaymentInDollars": 0.0
-                        }
+                        # {
+                        #     "programName": "Dairy",
+                        #     "subPrograms": [
+                        #     ],
+                        #     "programPaymentInDollars": 0.0
+                        # },
+                        # {
+                        #     "programName": "Disaster Assistance",
+                        #     "subPrograms": [
+                        #     ],
+                        #     "programPaymentInDollars": 0.0
+                        # }
                     ]
                 }
 
@@ -323,7 +339,7 @@ class DataParser:
                         self.processed_data_dict[state_name].append(new_data_entry)
 
             # Get total payment data
-            total_payments_by_program_by_state = program_data[
+            total_payments_by_program_by_state = self.program_data[
                 ["state", "program_description", "payments"]].groupby(
                 ["state", "program_description"]
             )["payments"].sum()
@@ -348,18 +364,18 @@ class DataParser:
                             ],
                             "programPaymentInDollars": 0.0
                         },
-                        {
-                            "programName": "Dairy",
-                            "subPrograms": [
-                            ],
-                            "programPaymentInDollars": 0.0
-                        },
-                        {
-                            "programName": "Disaster Assistance",
-                            "subPrograms": [
-                            ],
-                            "programPaymentInDollars": 0.0
-                        }
+                        # {
+                        #     "programName": "Dairy",
+                        #     "subPrograms": [
+                        #     ],
+                        #     "programPaymentInDollars": 0.0
+                        # },
+                        # {
+                        #     "programName": "Disaster Assistance",
+                        #     "subPrograms": [
+                        #     ],
+                        #     "programPaymentInDollars": 0.0
+                        # }
                     ]
                 }
 
@@ -424,25 +440,25 @@ class DataParser:
 
         # 2. Generate state distribution data
         if True:
-            total_payments_by_state = program_data[
-                ["state", "payments"]].groupby(["state"])["payments"].sum()
+            total_payments_by_state = round(self.program_data[
+                                                ["state", "payments"]].groupby(["state"])["payments"].sum(), 2)
 
-            total_payments_at_national_level = round(program_data["payments"].sum(), 2)
+            total_payments_at_national_level = round(self.program_data["payments"].sum(), 2)
 
-            total_payments_by_program_by_state = program_data[
+            total_payments_by_program_by_state = self.program_data[
                 ["state", "program_description", "payments"]].groupby(
                 ["state", "program_description"]
             )["payments"].sum()
 
             total_payments_by_program_at_national_level = round(
-                program_data[["program_description", "payments"]].groupby(["program_description"]).sum(), 2)
+                self.program_data[["program_description", "payments"]].groupby(["program_description"]).sum(), 2)
 
-            average_base_acres_by_program_by_state = base_acres_data[
+            average_base_acres_by_program_by_state = self.base_acres_data[
                 ["state", "program_description", "base_acres", "year"]].groupby(
                 ["state", "program_description", "year"]
             )["base_acres"].sum().groupby(["state", "program_description"]).mean()
 
-            average_payee_count_by_program_by_state = farm_payee_count_data[
+            average_payee_count_by_program_by_state = self.farm_payee_count_data[
                 ["state", "program_description", "recipient_count", "year"]].groupby(
                 ["state", "program_description", "year"]
             )["recipient_count"].sum().groupby(["state", "program_description"]).mean()
@@ -472,22 +488,22 @@ class DataParser:
                             "subPrograms": [
                             ]
                         },
-                        {
-                            "programName": "Dairy",
-                            "programPaymentInDollars": 0.0,
-                            "averageAreaInAcres": 0.0,
-                            "averageRecipientCount": 0,
-                            "subPrograms": [
-                            ]
-                        },
-                        {
-                            "programName": "Disaster Assistance",
-                            "programPaymentInDollars": 0.0,
-                            "averageAreaInAcres": 0.0,
-                            "averageRecipientCount": 0,
-                            "subPrograms": [
-                            ]
-                        }
+                        # {
+                        #     "programName": "Dairy",
+                        #     "programPaymentInDollars": 0.0,
+                        #     "averageAreaInAcres": 0.0,
+                        #     "averageRecipientCount": 0,
+                        #     "subPrograms": [
+                        #     ]
+                        # },
+                        # {
+                        #     "programName": "Disaster Assistance",
+                        #     "programPaymentInDollars": 0.0,
+                        #     "averageAreaInAcres": 0.0,
+                        #     "averageRecipientCount": 0,
+                        #     "subPrograms": [
+                        #     ]
+                        # }
                     ],
                     "totalPaymentInPercentageNationwide": round(
                         (yearly_state_payment / total_payments_at_national_level) * 100, 2),
@@ -511,8 +527,11 @@ class DataParser:
                     program_percentage_nationwide = round(
                         (rounded_program_payment / total_payments_by_program_at_national_level["payments"][
                             program_description]) * 100, 2)
-                    program_percentage_within_state = round(
-                        (rounded_program_payment / total_payments_by_state[state_name]) * 100, 2)
+                    if total_payments_by_state[state_name] == 0.0:
+                        program_percentage_within_state = 0.0
+                    else:
+                        program_percentage_within_state = round(
+                            (rounded_program_payment / total_payments_by_state[state_name]) * 100, 2)
 
                     if program_description in average_base_acres_series:
                         average_base_acres = round(average_base_acres_series[program_description], 2)
@@ -590,23 +609,23 @@ class DataParser:
                         "subPrograms": [
                         ]
                     },
-                    {
-                        "programName": "Dairy",
-                        "subPrograms": [
-                        ]
-                    },
-                    {
-                        "programName": "Disaster Assistance",
-                        "subPrograms": [
-                        ]
-                    }
+                    # {
+                    #     "programName": "Dairy",
+                    #     "subPrograms": [
+                    #     ]
+                    # },
+                    # {
+                    #     "programName": "Disaster Assistance",
+                    #     "subPrograms": [
+                    #     ]
+                    # }
                 ]
             }
             total_for_program = {
                 "Agriculture Risk Coverage (ARC)": 0.0,
                 "Price Loss Coverage (PLC)": 0.0,
-                "Dairy": 0.0,
-                "Disaster Assistance": 0.0
+                # "Dairy": 0.0,
+                # "Disaster Assistance": 0.0
             }
 
             for program in self.program_data_dict["programs"]:
@@ -650,6 +669,66 @@ class DataParser:
             # Write processed_data_dict as JSON data
             with open(os.path.join(self.data_folder, "commodities_subprograms_data.json"), "w") as output_json_file:
                 output_json_file.write(json.dumps(self.program_data_dict, indent=2))
+
+    def __convert_to_new_data_frame(self, data_frame, program_name, data_type):
+        row_list = []
+        for state in self.us_state_abbreviations:
+            state_data = data_frame[
+                data_frame["State Name"] == self.us_state_abbreviations[state]]
+            for year in range(self.start_year, self.end_year + 1):
+                row_dict = dict()
+                if state_data['State Name'].size == 1:
+                    row_dict["State Name"] = state_data['State Name'].item()
+                    row_dict["Year"] = year
+                    row_dict["Program"] = program_name
+
+                    if data_type == "Base Acres":
+                        row_dict["Enrolled Base"] = state_data[str(year)].item()
+                    elif data_type == "Payee Count":
+                        row_dict["Payee Count"] = state_data[str(year)].item()
+                    elif data_type == "Total Payment":
+                        row_dict["amount"] = round(state_data[str(year)].item(), 2)
+
+                    row_list.append(row_dict)
+        output_data_frame = pd.DataFrame(data=row_list)
+        return output_data_frame
+
+    def format_title_commodities_data(self):
+
+        # Import base acres CSV files and convert to existing format
+        base_acres_data_arc_co = pd.read_csv(self.base_acres_csv_filepath_arc_co)
+        base_acres_data_plc = pd.read_csv(self.base_acres_csv_filepath_plc)
+        base_acres_data_arc_co_output = self.__convert_to_new_data_frame(base_acres_data_arc_co, "ARC-CO", "Base Acres")
+        base_acres_data_plc_output = self.__convert_to_new_data_frame(base_acres_data_plc, "PLC", "Base Acres")
+        self.base_acres_data = pd.concat([base_acres_data_arc_co_output, base_acres_data_plc_output], ignore_index=True)
+
+        # Import farm payee count CSV files and convert to existing format
+        farm_payee_count_data_arc_co = pd.read_csv(self.farm_payee_count_csv_filepath_arc_co)
+        farm_payee_count_data_arc_ic = pd.read_csv(self.farm_payee_count_csv_filepath_arc_ic)
+        farm_payee_count_data_plc = pd.read_csv(self.farm_payee_count_csv_filepath_plc)
+
+        farm_payee_count_data_arc_co_output = self.__convert_to_new_data_frame(farm_payee_count_data_arc_co, "ARC-CO",
+                                                                               "Payee Count")
+        farm_payee_count_data_arc_ic_output = self.__convert_to_new_data_frame(farm_payee_count_data_arc_ic, "ARC-Ind",
+                                                                               "Payee Count")
+        farm_payee_count_data_plc_output = self.__convert_to_new_data_frame(farm_payee_count_data_plc, "PLC",
+                                                                            "Payee Count")
+        self.farm_payee_count_data = pd.concat(
+            [farm_payee_count_data_arc_co_output, farm_payee_count_data_arc_ic_output,
+             farm_payee_count_data_plc_output], ignore_index=True)
+
+        # Import total payment count CSV files and convert to existing format
+        total_payment_data_arc_co = pd.read_csv(self.total_payment_csv_filepath_arc_co)
+        total_payment_data_arc_ic = pd.read_csv(self.total_payment_csv_filepath_arc_ic)
+        total_payment_data_plc = pd.read_csv(self.total_payment_csv_filepath_plc)
+
+        total_payment_data_arc_co_output = self.__convert_to_new_data_frame(total_payment_data_arc_co, "ARC-CO",
+                                                                            "Total Payment")
+        total_payment_data_arc_ic_output = self.__convert_to_new_data_frame(total_payment_data_arc_ic, "ARC-Ind",
+                                                                            "Total Payment")
+        total_payment_data_plc_output = self.__convert_to_new_data_frame(total_payment_data_plc, "PLC", "Total Payment")
+        self.program_data = pd.concat([total_payment_data_arc_co_output, total_payment_data_arc_ic_output,
+                                       total_payment_data_plc_output], ignore_index=True)
 
     def parse_and_process_crop_insurance(self):
         # Import CSV file into a Pandas DataFrame
