@@ -39,6 +39,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   data. [#31](https://github.com/policy-design-lab/data-import/issues/31)
 - Data import program to process Title - 1 commodities raw data in the new
   format. [#38](https://github.com/policy-design-lab/data-import/issues/38)
+- All programs and summary JSON files based on latest Title-1
+  data. [#45](https://github.com/policy-design-lab/data-import/issues/45)
 
 ### Fixed
 
