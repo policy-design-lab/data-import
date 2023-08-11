@@ -210,11 +210,8 @@ class DataParser:
             )["payments"].sum()
 
         # Import base acres data
-        self.base_acres_data = self.base_acres_data.replace({
-            "ARC-CO": "Agriculture Risk Coverage County Option (ARC-CO)",
-            "ARCCO": "Agriculture Risk Coverage County Option (ARC-CO)",
-            "PLC": "Price Loss Coverage (PLC)",
-        })
+        self.base_acres_data = self.base_acres_data.replace(
+            self.metadata[self.program_main_category_name]["value_names_map"])
 
         # Rename column names to make it more uniform
         self.base_acres_data.rename(columns={"State Name": "state",
@@ -227,34 +224,8 @@ class DataParser:
             self.base_acres_data["year"].between(self.start_year, self.end_year, inclusive="both")]
 
         # Import farmer count data
-        self.farm_payee_count_data = self.farm_payee_count_data.replace({
-            "AGRICULTURAL RISK COVERAGE - INDIVIDUAL": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-            "AGRICULTURAL RISK COVERAGE PROG - COUNTY": "Agriculture Risk Coverage County Option (ARC-CO)",
-            "AGRICULTURAL RISK COVERAGE -COUNTY PILOT": "Agriculture Risk Coverage County Option (ARC-CO)",
-
-            "PRICE LOSS COVERAGE PROGRAM": "Price Loss Coverage (PLC)",
-
-            "DAIRY MARGIN COVERAGE PROGRAM": "Dairy Margin Coverage Program (DMC)",
-            "DAIRY MARGIN COVERAGE": "Dairy Margin Coverage Program (DMC)",
-            "MARGIN PROTECTION PROGRAM - DAIRY": "Dairy Margin Coverage Program (DMC)",
-            "MARGIN PROTECTION  - DAIRY": "Dairy Margin Coverage Program (DMC)",
-
-            "TREE ASSISTANCE PROGRAM": "Tree Assistance Program (TAP)",
-            "TREE ASSISTANCE PROGRAM - PECAN": "Tree Assistance Program (TAP)",
-
-            "LIVESTOCK FORAGE DISASTER  PROGRAM": "Livestock Forage Disaster Program (LFP)",
-            "LIVESTOCK FORAGE DISASTER PROGRAM": "Livestock Forage Disaster Program (LFP)",
-            "LIVESTOCK FORAGE PROGRAM": "Livestock Forage Disaster Program (LFP)",
-
-            "LIVESTOCK INDEMNITY PROGRAM": "Livestock Indemnity Program (LIP)",
-
-            "EMERGENCY ASSISTANCE LIVESTOCK, HONEYBEE, FISH":
-                "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-            "EMERG ASSIST LIVESTOCK BEES FISH (ELAP)":
-                "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-            "\"EMERGENCY ASSISTANCE LIVESTOCK, HONEYBEE, FISH\"":
-                "Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish (ELAP)",
-        })
+        self.farm_payee_count_data = self.farm_payee_count_data.replace(
+            self.metadata[self.program_main_category_name]["value_names_map"])
 
         # Rename column names to make it more uniform
         self.farm_payee_count_data.rename(columns={"State Name": "state",
@@ -539,7 +510,7 @@ class DataParser:
                         average_base_acres = 0.0
 
                     if program_description in average_payee_count_series:
-                        average_recipient_count = int(average_payee_count_series[program_description])
+                        average_recipient_count = round(average_payee_count_series[program_description])
                     else:
                         average_recipient_count = 0
 
