@@ -1,8 +1,7 @@
-import numpy as np
-import pandas as pd
 import json
-
 from datetime import datetime
+
+import pandas as pd
 
 
 class AllProgramsParser:
@@ -59,7 +58,8 @@ class AllProgramsParser:
                     if topline_data_state_year.size != 0:
                         crop_insurance_amount = topline_data_state_year["ci_net_benefit"].item()
                         crop_insurance_total_amount += crop_insurance_amount
-                        self.all_programs_data.at[index, "Crop Insurance " + str(year)] = round(crop_insurance_amount, 2)
+                        self.all_programs_data.at[index, "Crop Insurance " + str(year)] = round(crop_insurance_amount,
+                                                                                                2)
 
                         snap_amount = topline_data_state_year["snap_cost"].item()
                         snap_total_amount += snap_amount
@@ -98,7 +98,8 @@ class AllProgramsParser:
             for year in range(self.start_year, self.end_year + 1):
                 year_all_programs_total = 0
                 for program in programs_list:
-                    year_all_programs_total += item[program + " " + str(year)]
+                    if item[program + " " + str(year)]:
+                        year_all_programs_total += item[program + " " + str(year)]
                 item[str(year) + " All Programs Total"] = round(year_all_programs_total, 2)
                 year_range_all_programs_total += year_all_programs_total
 
