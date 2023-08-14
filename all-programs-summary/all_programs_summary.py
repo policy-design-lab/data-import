@@ -20,6 +20,9 @@ class AllProgramsParser:
         # Import JSON files into a Pandas DataFrame
         self.all_programs_data = pd.read_json(self.all_programs_json_filepath)
         self.summary_data = pd.read_json(self.summary_json_filepath)
+        self.summary_data["Average Monthly Participation"] = self.summary_data["Average Monthly Participation"].astype(
+            "Int64")
+        
         topline_data = pd.read_csv(self.topline_csv_filepath)
 
         # Additional check to filter data for only required years
@@ -135,8 +138,8 @@ class AllProgramsParser:
 
     def write_updated_json_files(self):
         with open(self.summary_json_filepath + ".updated.json", "w") as summary_file_new:
-            summary_data_dict = self.summary_data.to_json(indent=2, orient="records", double_precision=2)
-            summary_file_new.write(summary_data_dict)
+            summary_file_new.write(
+                json.dumps([row.dropna().to_dict() for index, row in self.summary_data.iterrows()], indent=2))
 
         with open(self.all_programs_json_filepath + ".updated.json", "w") as all_programs_file_new:
             all_programs_file_new.write(json.dumps(self.all_programs_dict, indent=2))
