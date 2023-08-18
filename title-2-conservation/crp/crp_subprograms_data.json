@@ -5,7 +5,7 @@
       "totalContracts": 781552,
       "totalFarms": 568030,
       "totalAcre": 60870302,
-      "totalRent1K": 3242519,
+      "totalRentInDollars": 3242519000,
       "totalRentAcre": 13565.92,
       "subPrograms": []
     },
@@ -14,7 +14,7 @@
       "totalContracts": 781552,
       "totalFarms": 568030,
       "totalAcre": 60870302,
-      "totalRent1K": 3242519,
+      "totalRentInDollars": 3242519000,
       "totalRentAcre": 13565.92,
       "subPrograms": [
         {
@@ -22,7 +22,7 @@
           "totalContracts": 269155,
           "totalFarms": 183070,
           "totalAcre": 4425600,
-          "totalRent1K": 773731,
+          "totalRentInDollars": 773731000,
           "totalRentAcre": 28623.07
         },
         {
@@ -30,7 +30,7 @@
           "totalContracts": 1782815,
           "totalFarms": 1180174,
           "totalAcre": 33456676,
-          "totalRent1K": 4539271,
+          "totalRentInDollars": 4539271000,
           "totalRentAcre": 21132.77
         },
         {
@@ -38,7 +38,7 @@
           "totalContracts": 72903,
           "totalFarms": 56346,
           "totalAcre": 1914225,
-          "totalRent1K": 304597,
+          "totalRentInDollars": 304597000,
           "totalRentAcre": 13422.48
         }
       ]
@@ -48,7 +48,7 @@
       "totalContracts": 28838,
       "totalFarms": 16654,
       "totalAcre": 9265067,
-      "totalRent1K": 140631,
+      "totalRentInDollars": 140631000,
       "totalRentAcre": 3049.22,
       "subPrograms": []
     }
