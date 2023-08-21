@@ -39,6 +39,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   data. [#31](https://github.com/policy-design-lab/data-import/issues/31)
 - Data import program to process Title - 1 commodities raw data in the new
   format. [#38](https://github.com/policy-design-lab/data-import/issues/38)
+- Total liabilities to average liabilities in Crop Insurance
+  JSON. [#47](https://github.com/policy-design-lab/data-import/issues/47)
 - All programs and summary JSON files based on latest Title-1
   data. [#45](https://github.com/policy-design-lab/data-import/issues/45)
 
@@ -48,3 +50,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Title 2 CSP JSON files by adding zero entries. [#10](https://github.com/policy-design-lab/data-import/issues/10)
 - Error in calculating totals in the allprograms.json. [#27](https://github.com/policy-design-lab/data-import/issues/27)
 - Average calculation in Title 1 Commodities. [#36](https://github.com/policy-design-lab/data-import/issues/36)
+- Average payee count parsing in Title 1 Commodities. [#43](https://github.com/policy-design-lab/data-import/issues/43)
