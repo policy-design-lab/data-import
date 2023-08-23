@@ -41,6 +41,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   format. [#38](https://github.com/policy-design-lab/data-import/issues/38)
 - Total liabilities to average liabilities in Crop Insurance
   JSON. [#47](https://github.com/policy-design-lab/data-import/issues/47)
+- All programs and summary JSON files based on latest Title-1
+  data. [#45](https://github.com/policy-design-lab/data-import/issues/45)
 
 ### Fixed
 
