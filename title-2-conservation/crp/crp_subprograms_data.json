@@ -2,54 +2,54 @@
   "programs": [
     {
       "programName": "Total General Sign-Up",
-      "totalContracts": 781552,
-      "totalFarms": 568030,
-      "totalAcre": 60870302,
-      "totalRentInDollars": 3242519000,
-      "totalRentAcre": 13565.92,
+      "totalContracts": 793959,
+      "totalFarms": 576541,
+      "totalAcre": 61886172,
+      "paymentInDollars": 3282560000,
+      "paymentInAcre": 13582.62,
       "subPrograms": []
     },
     {
       "programName": "Total Continuous",
-      "totalContracts": 781552,
-      "totalFarms": 568030,
-      "totalAcre": 60870302,
-      "totalRentInDollars": 3242519000,
-      "totalRentAcre": 13565.92,
+      "totalContracts": 793959,
+      "totalFarms": 576541,
+      "totalAcre": 61886172,
+      "paymentInDollars": 3282560000,
+      "paymentInAcre": 13582.62,
       "subPrograms": [
         {
           "programName": "CREP Only",
-          "totalContracts": 269155,
-          "totalFarms": 183070,
-          "totalAcre": 4425600,
-          "totalRentInDollars": 773731000,
-          "totalRentAcre": 28623.07
+          "totalContracts": 272549,
+          "totalFarms": 185298,
+          "totalAcre": 4503059,
+          "paymentInDollars": 774709000,
+          "paymentInAcre": 24136.04
         },
         {
           "programName": "Continuous Non-CREP",
-          "totalContracts": 1782815,
-          "totalFarms": 1180174,
-          "totalAcre": 33456676,
-          "totalRentInDollars": 4539271000,
-          "totalRentAcre": 21132.77
+          "totalContracts": 1775211,
+          "totalFarms": 1175922,
+          "totalAcre": 32966061,
+          "paymentInDollars": 4468753000,
+          "paymentInAcre": 21104.57
         },
         {
           "programName": "Farmable Wetland",
-          "totalContracts": 72903,
-          "totalFarms": 56346,
-          "totalAcre": 1914225,
-          "totalRentInDollars": 304597000,
-          "totalRentAcre": 13422.48
+          "totalContracts": 73338,
+          "totalFarms": 56640,
+          "totalAcre": 1925576,
+          "paymentInDollars": 304190000,
+          "paymentInAcre": 13333.93
         }
       ]
     },
     {
       "programName": "Grassland",
-      "totalContracts": 28838,
-      "totalFarms": 16654,
-      "totalAcre": 9265067,
-      "totalRentInDollars": 140631000,
-      "totalRentAcre": 3049.22,
+      "totalContracts": 26773,
+      "totalFarms": 15836,
+      "totalAcre": 8087510,
+      "paymentInDollars": 116822000,
+      "paymentInAcre": 3701.39,
       "subPrograms": []
     }
   ]

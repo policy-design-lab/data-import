@@ -1380,21 +1380,21 @@ class DataParser:
                         "totalContracts": int(general_signup_by_contract_by_state[state].item()),
                         "totalFarms": int(general_signup_by_farm_by_state[state].item()),
                         "totalAcre": int(general_signup_by_acre_by_state[state].item()),
-                        "totalRentInDollars": int(general_signup_by_rental_1k_by_state[state].item()) * 1000,
-                        "totalRentAcre": round(general_signup_by_rental_acre_by_state[state].item(), 2),
-                        "contractPercentInNation": round(
+                        "paymentInDollars": int(general_signup_by_rental_1k_by_state[state].item()) * 1000,
+                        "paymentInAcre": round(general_signup_by_rental_acre_by_state[state].item(), 2),
+                        "contractInPercentageNationwide": round(
                             (general_signup_by_contract_by_state[state].item() /
                              total_general_signup_contract_at_national_level) * 100, 2),
-                        "farmPercentInNation": round(
+                        "farmInPercentageNationwide": round(
                             (general_signup_by_farm_by_state[state].item() /
                              total_general_signup_farm_at_national_level) * 100, 2),
-                        "acrePercentInNation": round(
+                        "acreInPercentageNationwide": round(
                             (general_signup_by_acre_by_state[state].item() /
                              total_general_signup_acre_at_national_level) * 100, 2),
-                        "rentDollarPercentInNation": round(
+                        "paymentInPercentageNationwide": round(
                             (general_signup_by_rental_1k_by_state[state].item() /
                              total_general_signup_rental_1k_at_national_level) * 100, 2),
-                        "rentAcrePercentInNation": round(
+                        "paymentInAcreInPercentageNationwide": round(
                             (general_signup_by_rental_acre_by_state[state].item() /
                              total_general_signup_rental_acre_at_national_level) * 100, 2),
                         "subPrograms": []
@@ -1404,21 +1404,21 @@ class DataParser:
                         "totalContracts": int(continuous_by_contract_by_state[state].item()),
                         "totalFarms": int(continuous_by_farm_by_state[state].item()),
                         "totalAcre": int(continuous_by_acre_by_state[state].item()),
-                        "totalRentInDollars": int(continuous_by_rental_1k_by_state[state].item()) * 1000,
-                        "totalRentAcre": round(continuous_by_rental_acre_by_state[state].item(), 2),
-                        "contractPercentInNation": round(
+                        "paymentInDollars": int(continuous_by_rental_1k_by_state[state].item()) * 1000,
+                        "paymentInAcre": round(continuous_by_rental_acre_by_state[state].item(), 2),
+                        "contractInPercentageNationwide": round(
                             (continuous_by_contract_by_state[state].item() /
                              total_continuous_contract_at_national_level) * 100, 2),
-                        "farmPercentInNation": round(
+                        "farmInPercentageNationwide": round(
                             (continuous_by_farm_by_state[state].item() /
                              total_continuous_farm_at_national_level) * 100, 2),
-                        "acrePercentInNation": round(
+                        "acreInPercentageNationwide": round(
                             (continuous_by_acre_by_state[state].item() /
                              total_continuous_acre_at_national_level) * 100, 2),
-                        "rentDollarPercentInNation": round(
+                        "paymentInPercentageNationwide": round(
                             (continuous_by_rental_1k_by_state[state].item() /
                              total_continuous_rental_1k_at_national_level) * 100, 2),
-                        "rentAcrePercentInNation": round(
+                        "paymentInAcreInPercentageNationwide": round(
                             (continuous_by_rental_acre_by_state[state].item() /
                              total_continuous_rental_acre_at_national_level) * 100, 2),
                         "subPrograms": [
@@ -1427,21 +1427,21 @@ class DataParser:
                                 "totalContracts": int(crep_only_by_contract_by_state[state].item()),
                                 "totalFarms": int(crep_only_by_farm_by_state[state].item()),
                                 "totalAcre": int(crep_only_by_acre_by_state[state].item()),
-                                "totalRentInDollars": int(crep_only_by_rental_1k_by_state[state].item()) * 1000,
-                                "totalRentAcre": round(crep_only_by_rental_acre_by_state[state].item(), 2),
-                                "contractPercentInNation": round(
+                                "paymentInDollars": int(crep_only_by_rental_1k_by_state[state].item()) * 1000,
+                                "paymentInAcre": round(crep_only_by_rental_acre_by_state[state].item(), 2),
+                                "contractInPercentageNationwide": round(
                                     (crep_only_by_contract_by_state[state].item() /
                                      crep_only_contract_at_national_level) * 100, 2),
-                                "farmPercentInNation": round(
+                                "farmInPercentageNationwide": round(
                                     (crep_only_by_farm_by_state[state].item() /
                                      crep_only_farm_at_national_level) * 100, 2),
-                                "acrePercentInNation": round(
+                                "acreInPercentageNationwide": round(
                                     (crep_only_by_acre_by_state[state].item() /
                                      crep_only_acre_at_national_level) * 100, 2),
-                                "rentDollarPercentInNation": round(
+                                "paymentInPercentageNationwide": round(
                                     (crep_only_by_rental_1k_by_state[state].item() /
                                      crep_only_rental_1k_at_national_level) * 100, 2),
-                                "rentAcrePercentInNation": round(
+                                "paymentInAcreInPercentageNationwide": round(
                                     (crep_only_by_rental_acre_by_state[state].item() /
                                      crep_only_rental_acre_at_national_level) * 100, 2),
                             },
@@ -1450,21 +1450,21 @@ class DataParser:
                                 "totalContracts": int(non_crep_by_contract_by_state[state].item()),
                                 "totalFarms": int(non_crep_by_farm_by_state[state].item()),
                                 "totalAcre": int(non_crep_by_acre_by_state[state].item()),
-                                "totalRentInDollars": int(non_crep_by_rental_1k_by_state[state].item()) * 1000,
-                                "totalRentAcre": round(non_crep_by_rental_acre_by_state[state].item(), 2),
-                                "contractPercentInNation": round(
+                                "paymentInDollars": int(non_crep_by_rental_1k_by_state[state].item()) * 1000,
+                                "paymentInAcre": round(non_crep_by_rental_acre_by_state[state].item(), 2),
+                                "contractInPercentageNationwide": round(
                                     (non_crep_by_contract_by_state[state].item() /
                                      non_crep_contract_at_national_level) * 100, 2),
-                                "farmPercentInNation": round(
+                                "farmInPercentageNationwide": round(
                                     (non_crep_by_farm_by_state[state].item() /
                                      non_crep_farm_at_national_level) * 100, 2),
-                                "acrePercentInNation": round(
+                                "acreInPercentageNationwide": round(
                                     (non_crep_by_acre_by_state[state].item() /
                                      non_crep_acre_at_national_level) * 100, 2),
-                                "rentDollarPercentInNation": round(
+                                "paymentInPercentageNationwide": round(
                                     (non_crep_by_rental_1k_by_state[state].item() /
                                      non_crep_rental_1k_at_national_level) * 100, 2),
-                                "rentAcrePercentInNation": round(
+                                "paymentInAcreInPercentageNationwide": round(
                                     (non_crep_by_rental_acre_by_state[state].item() /
                                      non_crep_rental_acre_at_national_level) * 100, 2),
                             },
@@ -1473,21 +1473,21 @@ class DataParser:
                                 "totalContracts": int(wetland_by_contract_by_state[state].item()),
                                 "totalFarms": int(wetland_by_farm_by_state[state].item()),
                                 "totalAcre": int(wetland_by_acre_by_state[state].item()),
-                                "totalRentInDollars": int(wetland_by_rental_1k_by_state[state].item()) * 1000,
-                                "totalRentAcre": round(wetland_by_rental_acre_by_state[state].item(), 2),
-                                "contractPercentInNation": round(
+                                "paymentInDollars": int(wetland_by_rental_1k_by_state[state].item()) * 1000,
+                                "paymentInAcre": round(wetland_by_rental_acre_by_state[state].item(), 2),
+                                "contractInPercentageNationwide": round(
                                     (wetland_by_contract_by_state[state].item() /
                                      wetland_contract_at_national_level) * 100, 2),
-                                "farmPercentInNation": round(
+                                "farmInPercentageNationwide": round(
                                     (wetland_by_farm_by_state[state].item() /
                                      wetland_farm_at_national_level) * 100, 2),
-                                "acrePercentInNation": round(
+                                "acreInPercentageNationwide": round(
                                     (wetland_by_acre_by_state[state].item() /
                                      wetland_acre_at_national_level) * 100, 2),
-                                "rentDollarPercentInNation": round(
+                                "paymentInPercentageNationwide": round(
                                     (wetland_by_rental_1k_by_state[state].item() /
                                      wetland_rental_1k_at_national_level) * 100, 2),
-                                "rentAcrePercentInNation": round(
+                                "paymentInAcreInPercentageNationwide": round(
                                     (wetland_by_rental_acre_by_state[state].item() /
                                      wetland_rental_acre_at_national_level) * 100, 2),
                             }
@@ -1498,21 +1498,21 @@ class DataParser:
                         "totalContracts": int(grassland_by_contract_by_state[state].item()),
                         "totalFarms": int(grassland_by_farm_by_state[state].item()),
                         "totalAcre": int(grassland_by_acre_by_state[state].item()),
-                        "totalRentInDollars": int(grassland_by_rental_1k_by_state[state].item()) * 1000,
-                        "totalRentAcre": round(grassland_by_rental_acre_by_state[state].item(), 2),
-                        "contractPercentInNation": round(
+                        "paymentInDollars": int(grassland_by_rental_1k_by_state[state].item()) * 1000,
+                        "paymentInAcre": round(grassland_by_rental_acre_by_state[state].item(), 2),
+                        "contractInPercentageNationwide": round(
                             (grassland_by_contract_by_state[state].item() /
                              grassland_contract_at_national_level) * 100, 2),
-                        "farmPercentInNation": round(
+                        "farmInPercentageNationwide": round(
                             (grassland_by_farm_by_state[state].item() /
                              grassland_farm_at_national_level) * 100, 2),
-                        "acrePercentInNation": round(
+                        "acreInPercentageNationwide": round(
                             (grassland_by_acre_by_state[state].item() /
                              grassland_acre_at_national_level) * 100, 2),
-                        "rentDollarPercentInNation": round(
+                        "paymentInPercentageNationwide": round(
                             (grassland_by_rental_1k_by_state[state].item() /
                              grassland_rental_1k_at_national_level) * 100, 2),
-                        "rentAcrePercentInNation": round(
+                        "paymentInAcreInPercentageNationwide": round(
                             (grassland_by_rental_acre_by_state[state].item() /
                              grassland_rental_acre_at_national_level) * 100, 2),
                         "subPrograms": []
@@ -1638,8 +1638,8 @@ class DataParser:
                     "totalContracts": int(general_signup_by_contract.item()),
                     "totalFarms": int(general_signup_by_farm.item()),
                     "totalAcre": int(general_signup_by_acre.item()),
-                    "totalRentInDollars": int(general_signup_by_rental_1k.item()) * 1000,
-                    "totalRentAcre": round(general_signup_by_rental_acre.item(), 2),
+                    "paymentInDollars": int(general_signup_by_rental_1k.item()) * 1000,
+                    "paymentInAcre": round(general_signup_by_rental_acre.item(), 2),
                     "subPrograms": []
                 },
                 {
@@ -1647,32 +1647,32 @@ class DataParser:
                     "totalContracts": int(general_signup_by_contract.item()),
                     "totalFarms": int(general_signup_by_farm.item()),
                     "totalAcre": int(general_signup_by_acre.item()),
-                    "totalRentInDollars": int(general_signup_by_rental_1k.item()) * 1000,
-                    "totalRentAcre": round(general_signup_by_rental_acre.item(), 2),
+                    "paymentInDollars": int(general_signup_by_rental_1k.item()) * 1000,
+                    "paymentInAcre": round(general_signup_by_rental_acre.item(), 2),
                     "subPrograms": [
                         {
                             "programName": "CREP Only",
                             "totalContracts": int(crep_only_by_contract.item()),
                             "totalFarms": int(crep_only_by_farm.item()),
                             "totalAcre": int(crep_only_by_acre.item()),
-                            "totalRentInDollars": int(crep_only_by_rental_1k.item()) * 1000,
-                            "totalRentAcre": round(crep_only_by_rental_acre.item(), 2)
+                            "paymentInDollars": int(crep_only_by_rental_1k.item()) * 1000,
+                            "paymentInAcre": round(crep_only_by_rental_acre.item(), 2)
                         },
                         {
                             "programName": "Continuous Non-CREP",
                             "totalContracts": int(non_crep_by_contract.item()),
                             "totalFarms": int(non_crep_by_farm.item()),
                             "totalAcre": int(non_crep_by_acre.item()),
-                            "totalRentInDollars": int(non_crep_by_rental_1k.item()) * 1000,
-                            "totalRentAcre": round(non_crep_by_rental_acre.item(), 2)
+                            "paymentInDollars": int(non_crep_by_rental_1k.item()) * 1000,
+                            "paymentInAcre": round(non_crep_by_rental_acre.item(), 2)
                         },
                         {
                             "programName": "Farmable Wetland",
                             "totalContracts": int(wetland_by_contract.item()),
                             "totalFarms": int(wetland_by_farm.item()),
                             "totalAcre": int(wetland_by_acre.item()),
-                            "totalRentInDollars": int(wetland_by_rental_1k.item()) * 1000,
-                            "totalRentAcre": round(wetland_by_rental_acre.item(), 2)
+                            "paymentInDollars": int(wetland_by_rental_1k.item()) * 1000,
+                            "paymentInAcre": round(wetland_by_rental_acre.item(), 2)
                         }
                     ]
                 },
@@ -1681,8 +1681,8 @@ class DataParser:
                     "totalContracts": int(grassland_by_contract.item()),
                     "totalFarms": int(grassland_by_farm.item()),
                     "totalAcre": int(grassland_by_acre.item()),
-                    "totalRentInDollars": int(grassland_by_rental_1k.item()) * 1000,
-                    "totalRentAcre": round(grassland_by_rental_acre.item(), 2),
+                    "paymentInDollars": int(grassland_by_rental_1k.item()) * 1000,
+                    "paymentInAcre": round(grassland_by_rental_acre.item(), 2),
                     "subPrograms": []
                 },
             ]
