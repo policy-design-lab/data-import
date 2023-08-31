@@ -850,7 +850,7 @@ class DataParser:
             program_data["liabilities"].mean()
 
         # Average area insured
-        average_acres_by_state = \
+        average_acres = \
             program_data["acres_insured"].mean()
 
         # Overall loss ratio
@@ -868,7 +868,7 @@ class DataParser:
                     "totalFarmerPaidPremiumInDollars": total_farmer_premium.item(),
                     "totalNetFarmerBenefitInDollars": total_net_farmer_benefit.item(),
                     "averageLiabilitiesInDollars": round(average_liabilities.item(), 2),
-                    "averageInsuredAreaInAcres": round(average_acres_by_state.item(), 2),
+                    "averageInsuredAreaInAcres": round(average_acres.item(), 2),
                     "totalPoliciesEarningPremium": total_policies_earning_premium.item(),
                     "lossRatio": round(overall_loss_ratio.item(), 3)
                 }
