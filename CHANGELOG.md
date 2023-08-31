@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Feature to parse topline numbers and generate updated JSON
   documents. [#21](https://github.com/policy-design-lab/data-import/issues/21)
 - Code to process crop insurance data and JSON files. [#19](https://github.com/policy-design-lab/data-import/issues/19)
+- Total area insured in Crop insurance JSON files. [#49](https://github.com/policy-design-lab/data-import/issues/49)
 
 ### Changed
 
@@ -43,6 +44,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   JSON. [#47](https://github.com/policy-design-lab/data-import/issues/47)
 - All programs and summary JSON files based on latest Title-1
   data. [#45](https://github.com/policy-design-lab/data-import/issues/45)
+- Crop Insurance JSON files after adding the latest
+  data. [#49](https://github.com/policy-design-lab/data-import/issues/49)
 
 ### Fixed
 

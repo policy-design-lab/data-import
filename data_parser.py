@@ -772,6 +772,14 @@ class DataParser:
                 ["state"]
             )["liabilities"].mean()
 
+        # Average acres insured by state
+        average_acres_by_state = \
+            program_data[
+                ["state", "acres_insured"]
+            ].groupby(
+                ["state"]
+            )["acres_insured"].mean()
+
         # Loss ratio by state
         loss_ratio_by_state = total_indemnities_by_state / total_premium_by_state
 
@@ -788,6 +796,7 @@ class DataParser:
                         "totalNetFarmerBenefitInDollars": total_net_farmer_benefit_by_state[state].item(),
                         "totalPoliciesEarningPremium": total_policies_earning_premium_by_state[state].item(),
                         "averageLiabilitiesInDollars": round(average_liabilities_by_state[state].item(), 2),
+                        "averageInsuredAreaInAcres": round(average_acres_by_state[state].item(), 2),
                         "lossRatio": round(loss_ratio_by_state[state].item(), 3),
                         "subPrograms": []
                     }
@@ -840,6 +849,10 @@ class DataParser:
         average_liabilities = \
             program_data["liabilities"].mean()
 
+        # Average area insured
+        average_acres = \
+            program_data["acres_insured"].mean()
+
         # Overall loss ratio
         overall_loss_ratio = total_indemnities / total_premium
 
@@ -855,6 +868,7 @@ class DataParser:
                     "totalFarmerPaidPremiumInDollars": total_farmer_premium.item(),
                     "totalNetFarmerBenefitInDollars": total_net_farmer_benefit.item(),
                     "averageLiabilitiesInDollars": round(average_liabilities.item(), 2),
+                    "averageInsuredAreaInAcres": round(average_acres.item(), 2),
                     "totalPoliciesEarningPremium": total_policies_earning_premium.item(),
                     "lossRatio": round(overall_loss_ratio.item(), 3)
                 }
