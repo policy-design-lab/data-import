@@ -1083,6 +1083,17 @@ class DataParser:
         self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
 
         # calculate total
+        total_contract_at_national_level = int(
+            program_data["Total CRP - NUMBER OF CONTRACTS"].sum())
+        total_farm_at_national_level = int(
+            program_data["Total CRP - NUMBER OF FARMS"].sum())
+        total_acre_at_national_level = int(
+            program_data["Total CRP - ACRES"].sum())
+        total_rental_1k_at_national_level = int(
+            program_data["Total CRP - ANNUAL RENTAL PAYMENTS ($1000)"].sum())
+        total_rental_acre_at_national_level = round(
+            program_data["Total CRP - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum(), 2)
+
         # general sign up
         total_general_signup_contract_at_national_level = int(
             program_data["Total General Sign-Up - NUMBER OF CONTRACTS"].sum())
@@ -1154,6 +1165,42 @@ class DataParser:
             program_data["Grassland - ANNUAL RENTAL PAYMENTS ($1000)"].sum())
         grassland_rental_acre_at_national_level = round(
             program_data["Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum(), 2)
+
+        # Group total data by state, then sum
+        total_by_contract_by_state = \
+            program_data[
+                ["year", "state", "Total CRP - NUMBER OF CONTRACTS"]
+            ].groupby(
+                ["state"]
+            )["Total CRP - NUMBER OF CONTRACTS"].sum()
+
+        total_by_farm_by_state = \
+            program_data[
+                ["year", "state", "Total CRP - NUMBER OF FARMS"]
+            ].groupby(
+                ["state"]
+            )["Total CRP - NUMBER OF FARMS"].sum()
+
+        total_by_acre_by_state = \
+            program_data[
+                ["year", "state", "Total CRP - ACRES"]
+            ].groupby(
+                ["state"]
+            )["Total CRP - ACRES"].sum()
+
+        total_by_rental_1k_by_state = \
+            program_data[
+                ["year", "state", "Total CRP - ANNUAL RENTAL PAYMENTS ($1000)"]
+            ].groupby(
+                ["state"]
+            )["Total CRP - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        total_by_rental_acre_by_state = \
+            program_data[
+                ["year", "state", "Total CRP - ANNUAL RENTAL PAYMENTS ($/ACRE)"]
+            ].groupby(
+                ["state"]
+            )["Total CRP - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
 
         # Group General Sign-up data by state, then sum
         general_signup_by_contract_by_state = \
@@ -1376,6 +1423,30 @@ class DataParser:
                 "state": state,
                 "programs": [
                     {
+                        "programName": "Total CRP",
+                        "totalContracts": int(total_by_contract_by_state[state].item()),
+                        "totalFarms": int(total_by_farm_by_state[state].item()),
+                        "totalAcre": int(total_by_acre_by_state[state].item()),
+                        "paymentInDollars": int(total_by_rental_1k_by_state[state].item()) * 1000,
+                        "paymentInAcre": round(total_by_rental_acre_by_state[state].item(), 2),
+                        "contractInPercentageNationwide": round(
+                            (total_by_contract_by_state[state].item() /
+                             total_contract_at_national_level) * 100, 2),
+                        "farmInPercentageNationwide": round(
+                            (total_by_farm_by_state[state].item() /
+                             total_farm_at_national_level) * 100, 2),
+                        "acreInPercentageNationwide": round(
+                            (total_by_acre_by_state[state].item() /
+                             total_acre_at_national_level) * 100, 2),
+                        "paymentInPercentageNationwide": round(
+                            (total_by_rental_1k_by_state[state].item() /
+                             total_rental_1k_at_national_level) * 100, 2),
+                        "paymentInAcreInPercentageNationwide": round(
+                            (total_by_rental_acre_by_state[state].item() /
+                             total_rental_acre_at_national_level) * 100, 2),
+                        "subPrograms": []
+                    },
+                    {
                         "programName": "Total General Sign-Up",
                         "totalContracts": int(general_signup_by_contract_by_state[state].item()),
                         "totalFarms": int(general_signup_by_farm_by_state[state].item()),
@@ -1536,6 +1607,24 @@ class DataParser:
             output_json_file.write(json.dumps(self.state_distribution_data_dict, indent=2))
 
         # 2. Generate Sub Programs Data
+
+        # Group total
+        total_by_contract = \
+            program_data["Total CRP - NUMBER OF CONTRACTS"].sum()
+
+        total_by_farm = \
+            program_data["Total CRP - NUMBER OF FARMS"].sum()
+
+        total_by_acre = \
+            program_data["Total CRP - ACRES"].sum()
+
+        total_by_rental_1k = \
+            program_data["Total CRP - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
+
+        total_by_rental_acre = \
+            program_data["Total CRP - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
+
+        # Group general sign up
         general_signup_by_contract = \
             program_data["Total General Sign-Up - NUMBER OF CONTRACTS"].sum()
 
@@ -1633,6 +1722,15 @@ class DataParser:
 
         self.program_data_dict = {
             "programs": [
+                {
+                    "programName": "Total CRP",
+                    "totalContracts": int(total_by_contract.item()),
+                    "totalFarms": int(total_by_farm.item()),
+                    "totalAcre": int(total_by_acre.item()),
+                    "paymentInDollars": int(total_by_rental_1k.item()) * 1000,
+                    "paymentInAcre": round(total_by_rental_acre.item(), 2),
+                    "subPrograms": []
+                },
                 {
                     "programName": "Total General Sign-Up",
                     "totalContracts": int(general_signup_by_contract.item()),

@@ -1,6 +1,15 @@
 {
   "programs": [
     {
+      "programName": "Total CRP",
+      "totalContracts": 2941626,
+      "totalFarms": 1658495,
+      "totalAcre": 109366879,
+      "paymentInDollars": 8945384000,
+      "paymentInAcre": 20338.16,
+      "subPrograms": []
+    },
+    {
       "programName": "Total General Sign-Up",
       "totalContracts": 793959,
       "totalFarms": 576541,
