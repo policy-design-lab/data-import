@@ -1,0 +1,65 @@
+{
+  "programs": [
+    {
+      "programName": "Total CRP",
+      "totalContracts": 2941626,
+      "totalFarms": 1658495,
+      "totalAcre": 109366879,
+      "paymentInDollars": 8945384000,
+      "paymentInAcre": 20338.16,
+      "subPrograms": []
+    },
+    {
+      "programName": "Total General Sign-Up",
+      "totalContracts": 793959,
+      "totalFarms": 576541,
+      "totalAcre": 61886172,
+      "paymentInDollars": 3282560000,
+      "paymentInAcre": 13582.62,
+      "subPrograms": []
+    },
+    {
+      "programName": "Total Continuous",
+      "totalContracts": 793959,
+      "totalFarms": 576541,
+      "totalAcre": 61886172,
+      "paymentInDollars": 3282560000,
+      "paymentInAcre": 13582.62,
+      "subPrograms": [
+        {
+          "programName": "CREP Only",
+          "totalContracts": 272549,
+          "totalFarms": 185298,
+          "totalAcre": 4503059,
+          "paymentInDollars": 774709000,
+          "paymentInAcre": 24136.04
+        },
+        {
+          "programName": "Continuous Non-CREP",
+          "totalContracts": 1775211,
+          "totalFarms": 1175922,
+          "totalAcre": 32966061,
+          "paymentInDollars": 4468753000,
+          "paymentInAcre": 21104.57
+        },
+        {
+          "programName": "Farmable Wetland",
+          "totalContracts": 73338,
+          "totalFarms": 56640,
+          "totalAcre": 1925576,
+          "paymentInDollars": 304190000,
+          "paymentInAcre": 13333.93
+        }
+      ]
+    },
+    {
+      "programName": "Grassland",
+      "totalContracts": 26773,
+      "totalFarms": 15836,
+      "totalAcre": 8087510,
+      "paymentInDollars": 116822000,
+      "paymentInAcre": 3701.39,
+      "subPrograms": []
+    }
+  ]
+}
