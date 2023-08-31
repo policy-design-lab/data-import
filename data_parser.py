@@ -1598,7 +1598,7 @@ class DataParser:
         for year in self.state_distribution_data_dict:
             self.state_distribution_data_dict[year] = sorted(self.state_distribution_data_dict[year],
                                                              key=lambda x: x["programs"][0][
-                                                                 "totalContracts"],
+                                                                 "paymentInDollars"],
                                                              reverse=True)
 
         # Write processed_data_dict as JSON data
