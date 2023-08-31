@@ -21,3 +21,7 @@ if __name__ == '__main__':
                                  os.path.join("title-2-conservation", "crp"),
                                  "CRP_total_compiled_August_24_2023.csv")
     crp_data_parser.parse_and_process_crp()
+
+    crop_insurance_data_parser = DataParser(2018, 2022, "Crop Insurance",
+                                            "crop-insurance", "ci_state_year_benefits 8-28-23.csv")
+    crop_insurance_data_parser.parse_and_process_crop_insurance()

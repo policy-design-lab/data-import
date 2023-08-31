@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Code to process crop insurance data and JSON files. [#19](https://github.com/policy-design-lab/data-import/issues/19)
 - CRP data import program and generate JSON
   files. [#40](https://github.com/policy-design-lab/data-import/issues/40)
+- Total area insured in Crop insurance JSON files. [#49](https://github.com/policy-design-lab/data-import/issues/49)
 
 ### Changed
 
@@ -41,6 +42,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   data. [#31](https://github.com/policy-design-lab/data-import/issues/31)
 - Data import program to process Title - 1 commodities raw data in the new
   format. [#38](https://github.com/policy-design-lab/data-import/issues/38)
+- Total liabilities to average liabilities in Crop Insurance
+  JSON. [#47](https://github.com/policy-design-lab/data-import/issues/47)
+- All programs and summary JSON files based on latest Title-1
+  data. [#45](https://github.com/policy-design-lab/data-import/issues/45)
+- Crop Insurance JSON files after adding the latest
+  data. [#49](https://github.com/policy-design-lab/data-import/issues/49)
 
 ### Fixed
 
