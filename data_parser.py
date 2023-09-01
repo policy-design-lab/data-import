@@ -1742,11 +1742,11 @@ class DataParser:
                 },
                 {
                     "programName": "Total Continuous",
-                    "totalContracts": int(general_signup_by_contract.item()),
-                    "totalFarms": int(general_signup_by_farm.item()),
-                    "totalAcre": int(general_signup_by_acre.item()),
-                    "paymentInDollars": int(general_signup_by_rental_1k.item()) * 1000,
-                    "paymentInAcre": round(general_signup_by_rental_acre.item(), 2),
+                    "totalContracts": int(continuous_by_contract.item()),
+                    "totalFarms": int(continuous_by_farm.item()),
+                    "totalAcre": int(continuous_by_acre.item()),
+                    "paymentInDollars": int(continuous_by_rental_1k.item()) * 1000,
+                    "paymentInAcre": round(continuous_by_rental_acre.item(), 2),
                     "subPrograms": [
                         {
                             "programName": "CREP Only",

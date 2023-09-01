@@ -20,11 +20,11 @@
     },
     {
       "programName": "Total Continuous",
-      "totalContracts": 793959,
-      "totalFarms": 576541,
-      "totalAcre": 61886172,
-      "paymentInDollars": 3282560000,
-      "paymentInAcre": 13582.62,
+      "totalContracts": 2120933,
+      "totalFarms": 1223725,
+      "totalAcre": 39393553,
+      "paymentInDollars": 5545998000,
+      "paymentInAcre": 24361.85,
       "subPrograms": [
         {
           "programName": "CREP Only",
