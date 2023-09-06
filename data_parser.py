@@ -1433,6 +1433,35 @@ class DataParser:
             )["Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
 
         for state in self.us_state_abbreviations:
+            # there was a zero division problem in with state percentage
+            # so the value will be calculated separately in here
+            within_state_general_sign_up = 0
+            within_state_continuous_sing_up = 0
+            within_state_crep_only = 0
+            within_state_no_crep = 0
+            within_state_farmable_wetland = 0
+            within_state_grassland = 0
+
+            if int(total_by_rental_1k_by_state[state].item()) != 0:
+                within_state_general_sign_up = \
+                    round((general_signup_by_rental_1k_by_state[state].item() /
+                           total_by_rental_1k_by_state[state].item()) * 100, 2)
+                within_state_continuous_sing_up = \
+                    round((continuous_by_rental_1k_by_state[state].item() /
+                           total_by_rental_1k_by_state[state].item()) * 100, 2)
+                within_state_crep_only = \
+                    round((crep_only_by_rental_1k_by_state[state].item() /
+                           total_by_rental_1k_by_state[state].item()) * 100, 2)
+                within_state_no_crep = \
+                    round((non_crep_by_rental_1k_by_state[state].item() /
+                           total_by_rental_1k_by_state[state].item()) * 100, 2)
+                within_state_farmable_wetland = \
+                    round((wetland_by_rental_1k_by_state[state].item() /
+                           total_by_rental_1k_by_state[state].item()) * 100, 2)
+                within_state_grassland = \
+                    round((grassland_by_rental_1k_by_state[state].item() /
+                           total_by_rental_1k_by_state[state].item()) * 100, 2)
+
             new_data_entry = {
                 "state": state,
                 "programs": [
@@ -1482,6 +1511,7 @@ class DataParser:
                         "paymentInAcreInPercentageNationwide": round(
                             (general_signup_by_rental_acre_by_state[state].item() /
                              total_general_signup_rental_acre_at_national_level) * 100, 2),
+                        "paymentInPercentageWithinState": within_state_general_sign_up,
                         "subPrograms": []
                     },
                     {
@@ -1506,6 +1536,7 @@ class DataParser:
                         "paymentInAcreInPercentageNationwide": round(
                             (continuous_by_rental_acre_by_state[state].item() /
                              total_continuous_rental_acre_at_national_level) * 100, 2),
+                        "paymentInPercentageWithinState": within_state_continuous_sing_up,
                         "subPrograms": [
                             {
                                 "programName": "CREP Only",
@@ -1529,6 +1560,7 @@ class DataParser:
                                 "paymentInAcreInPercentageNationwide": round(
                                     (crep_only_by_rental_acre_by_state[state].item() /
                                      crep_only_rental_acre_at_national_level) * 100, 2),
+                                "paymentInPercentageWithinState": within_state_crep_only
                             },
                             {
                                 "programName": "Continuous Non-CREP",
@@ -1552,6 +1584,7 @@ class DataParser:
                                 "paymentInAcreInPercentageNationwide": round(
                                     (non_crep_by_rental_acre_by_state[state].item() /
                                      non_crep_rental_acre_at_national_level) * 100, 2),
+                                "paymentInPercentageWithinState": within_state_no_crep
                             },
                             {
                                 "programName": "Farmable Wetland",
@@ -1575,6 +1608,7 @@ class DataParser:
                                 "paymentInAcreInPercentageNationwide": round(
                                     (wetland_by_rental_acre_by_state[state].item() /
                                      wetland_rental_acre_at_national_level) * 100, 2),
+                                "paymentInPercentageWithinState": within_state_farmable_wetland
                             }
                         ]
                     },
@@ -1600,6 +1634,7 @@ class DataParser:
                         "paymentInAcreInPercentageNationwide": round(
                             (grassland_by_rental_acre_by_state[state].item() /
                              grassland_rental_acre_at_national_level) * 100, 2),
+                        "paymentInPercentageWithinState": within_state_grassland,
                         "subPrograms": []
                     }
                 ]
