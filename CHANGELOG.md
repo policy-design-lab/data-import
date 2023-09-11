@@ -48,6 +48,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   data. [#45](https://github.com/policy-design-lab/data-import/issues/45)
 - Crop Insurance JSON files after adding the latest
   data. [#49](https://github.com/policy-design-lab/data-import/issues/49)
+- Calculate payment in percentage with the state data in CRP 
+  data. [#52](https://github.com/policy-design-lab/data-import/issues/52)
 
 ### Fixed
 

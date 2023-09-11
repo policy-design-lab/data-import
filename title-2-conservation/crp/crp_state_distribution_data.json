@@ -29,6 +29,7 @@
           "acreInPercentageNationwide": 3.82,
           "paymentInPercentageNationwide": 11.19,
           "paymentInAcreInPercentageNationwide": 5.75,
+          "paymentInPercentageWithinState": 18.93,
           "subPrograms": []
         },
         {
@@ -43,6 +44,7 @@
           "acreInPercentageNationwide": 15.81,
           "paymentInPercentageNationwide": 28.36,
           "paymentInAcreInPercentageNationwide": 5.18,
+          "paymentInPercentageWithinState": 81.04,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -55,7 +57,8 @@
               "farmInPercentageNationwide": 0.32,
               "acreInPercentageNationwide": 0.39,
               "paymentInPercentageNationwide": 0.69,
-              "paymentInAcreInPercentageNationwide": 6.33
+              "paymentInAcreInPercentageNationwide": 6.33,
+              "paymentInPercentageWithinState": 0.28
             },
             {
               "programName": "Continuous Non-CREP",
@@ -68,7 +71,8 @@
               "farmInPercentageNationwide": 20.13,
               "acreInPercentageNationwide": 17.43,
               "paymentInPercentageNationwide": 32.14,
-              "paymentInAcreInPercentageNationwide": 5.92
+              "paymentInAcreInPercentageNationwide": 5.92,
+              "paymentInPercentageWithinState": 73.99
             },
             {
               "programName": "Farmable Wetland",
@@ -81,7 +85,8 @@
               "farmInPercentageNationwide": 36.29,
               "acreInPercentageNationwide": 24.22,
               "paymentInPercentageNationwide": 43.7,
-              "paymentInAcreInPercentageNationwide": 10.68
+              "paymentInAcreInPercentageNationwide": 10.68,
+              "paymentInPercentageWithinState": 6.85
             }
           ]
         },
@@ -97,6 +102,7 @@
           "acreInPercentageNationwide": 0.2,
           "paymentInPercentageNationwide": 0.52,
           "paymentInAcreInPercentageNationwide": 5.06,
+          "paymentInPercentageWithinState": 0.03,
           "subPrograms": []
         }
       ]
@@ -130,6 +136,7 @@
           "acreInPercentageNationwide": 2.02,
           "paymentInPercentageNationwide": 5.1,
           "paymentInAcreInPercentageNationwide": 4.96,
+          "paymentInPercentageWithinState": 19.91,
           "subPrograms": []
         },
         {
@@ -144,6 +151,7 @@
           "acreInPercentageNationwide": 7.55,
           "paymentInPercentageNationwide": 12.15,
           "paymentInAcreInPercentageNationwide": 4.65,
+          "paymentInPercentageWithinState": 80.08,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -156,7 +164,8 @@
               "farmInPercentageNationwide": 8.16,
               "acreInPercentageNationwide": 6.91,
               "paymentInPercentageNationwide": 10.61,
-              "paymentInAcreInPercentageNationwide": 5.49
+              "paymentInAcreInPercentageNationwide": 5.49,
+              "paymentInPercentageWithinState": 9.77
             },
             {
               "programName": "Continuous Non-CREP",
@@ -169,7 +178,8 @@
               "farmInPercentageNationwide": 15.63,
               "acreInPercentageNationwide": 8.05,
               "paymentInPercentageNationwide": 13.18,
-              "paymentInAcreInPercentageNationwide": 5.26
+              "paymentInAcreInPercentageNationwide": 5.26,
+              "paymentInPercentageWithinState": 70.01
             },
             {
               "programName": "Farmable Wetland",
@@ -182,7 +192,8 @@
               "farmInPercentageNationwide": 0.86,
               "acreInPercentageNationwide": 0.47,
               "paymentInPercentageNationwide": 0.83,
-              "paymentInAcreInPercentageNationwide": 10.38
+              "paymentInAcreInPercentageNationwide": 10.38,
+              "paymentInPercentageWithinState": 0.3
             }
           ]
         },
@@ -198,6 +209,7 @@
           "acreInPercentageNationwide": 0.04,
           "paymentInPercentageNationwide": 0.08,
           "paymentInAcreInPercentageNationwide": 4.14,
+          "paymentInPercentageWithinState": 0.01,
           "subPrograms": []
         }
       ]
@@ -231,6 +243,7 @@
           "acreInPercentageNationwide": 2.81,
           "paymentInPercentageNationwide": 4.12,
           "paymentInAcreInPercentageNationwide": 2.93,
+          "paymentInPercentageWithinState": 19.59,
           "subPrograms": []
         },
         {
@@ -245,6 +258,7 @@
           "acreInPercentageNationwide": 8.76,
           "paymentInPercentageNationwide": 10.0,
           "paymentInAcreInPercentageNationwide": 3.3,
+          "paymentInPercentageWithinState": 80.32,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -257,7 +271,8 @@
               "farmInPercentageNationwide": 1.74,
               "acreInPercentageNationwide": 2.74,
               "paymentInPercentageNationwide": 4.34,
-              "paymentInAcreInPercentageNationwide": 5.41
+              "paymentInAcreInPercentageNationwide": 5.41,
+              "paymentInPercentageWithinState": 4.87
             },
             {
               "programName": "Continuous Non-CREP",
@@ -270,7 +285,8 @@
               "farmInPercentageNationwide": 10.45,
               "acreInPercentageNationwide": 9.51,
               "paymentInPercentageNationwide": 10.95,
-              "paymentInAcreInPercentageNationwide": 3.69
+              "paymentInAcreInPercentageNationwide": 3.69,
+              "paymentInPercentageWithinState": 70.82
             },
             {
               "programName": "Farmable Wetland",
@@ -283,7 +299,8 @@
               "farmInPercentageNationwide": 16.44,
               "acreInPercentageNationwide": 9.92,
               "paymentInPercentageNationwide": 10.52,
-              "paymentInAcreInPercentageNationwide": 6.31
+              "paymentInAcreInPercentageNationwide": 6.31,
+              "paymentInPercentageWithinState": 4.63
             }
           ]
         },
@@ -299,6 +316,7 @@
           "acreInPercentageNationwide": 0.31,
           "paymentInPercentageNationwide": 0.54,
           "paymentInAcreInPercentageNationwide": 3.21,
+          "paymentInPercentageWithinState": 0.09,
           "subPrograms": []
         }
       ]
@@ -332,6 +350,7 @@
           "acreInPercentageNationwide": 1.78,
           "paymentInPercentageNationwide": 1.82,
           "paymentInAcreInPercentageNationwide": 2.02,
+          "paymentInPercentageWithinState": 11.42,
           "subPrograms": []
         },
         {
@@ -346,6 +365,7 @@
           "acreInPercentageNationwide": 9.56,
           "paymentInPercentageNationwide": 7.89,
           "paymentInAcreInPercentageNationwide": 2.39,
+          "paymentInPercentageWithinState": 83.42,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -358,7 +378,8 @@
               "farmInPercentageNationwide": 1.66,
               "acreInPercentageNationwide": 8.67,
               "paymentInPercentageNationwide": 5.74,
-              "paymentInAcreInPercentageNationwide": 2.36
+              "paymentInAcreInPercentageNationwide": 2.36,
+              "paymentInPercentageWithinState": 8.48
             },
             {
               "programName": "Continuous Non-CREP",
@@ -371,7 +392,8 @@
               "farmInPercentageNationwide": 4.85,
               "acreInPercentageNationwide": 8.78,
               "paymentInPercentageNationwide": 7.35,
-              "paymentInAcreInPercentageNationwide": 2.69
+              "paymentInAcreInPercentageNationwide": 2.69,
+              "paymentInPercentageWithinState": 62.66
             },
             {
               "programName": "Farmable Wetland",
@@ -384,7 +406,8 @@
               "farmInPercentageNationwide": 24.68,
               "acreInPercentageNationwide": 24.94,
               "paymentInPercentageNationwide": 21.22,
-              "paymentInAcreInPercentageNationwide": 5.11
+              "paymentInAcreInPercentageNationwide": 5.11,
+              "paymentInPercentageWithinState": 12.3
             }
           ]
         },
@@ -400,6 +423,7 @@
           "acreInPercentageNationwide": 20.49,
           "paymentInPercentageNationwide": 23.15,
           "paymentInAcreInPercentageNationwide": 2.28,
+          "paymentInPercentageWithinState": 5.16,
           "subPrograms": []
         }
       ]
@@ -433,6 +457,7 @@
           "acreInPercentageNationwide": 4.32,
           "paymentInPercentageNationwide": 9.16,
           "paymentInAcreInPercentageNationwide": 4.15,
+          "paymentInPercentageWithinState": 60.57,
           "subPrograms": []
         },
         {
@@ -447,6 +472,7 @@
           "acreInPercentageNationwide": 3.57,
           "paymentInPercentageNationwide": 3.52,
           "paymentInAcreInPercentageNationwide": 2.85,
+          "paymentInPercentageWithinState": 39.37,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -459,7 +485,8 @@
               "farmInPercentageNationwide": 1.49,
               "acreInPercentageNationwide": 2.59,
               "paymentInPercentageNationwide": 1.54,
-              "paymentInAcreInPercentageNationwide": 2.12
+              "paymentInAcreInPercentageNationwide": 2.12,
+              "paymentInPercentageWithinState": 2.4
             },
             {
               "programName": "Continuous Non-CREP",
@@ -472,7 +499,8 @@
               "farmInPercentageNationwide": 4.24,
               "acreInPercentageNationwide": 3.91,
               "paymentInPercentageNationwide": 4.1,
-              "paymentInAcreInPercentageNationwide": 3.36
+              "paymentInAcreInPercentageNationwide": 3.36,
+              "paymentInPercentageWithinState": 36.94
             },
             {
               "programName": "Farmable Wetland",
@@ -485,7 +513,8 @@
               "farmInPercentageNationwide": 0.02,
               "acreInPercentageNationwide": 0.06,
               "paymentInPercentageNationwide": 0.04,
-              "paymentInAcreInPercentageNationwide": 4.23
+              "paymentInAcreInPercentageNationwide": 4.23,
+              "paymentInPercentageWithinState": 0.02
             }
           ]
         },
@@ -501,6 +530,7 @@
           "acreInPercentageNationwide": 0.15,
           "paymentInPercentageNationwide": 0.27,
           "paymentInAcreInPercentageNationwide": 3.49,
+          "paymentInPercentageWithinState": 0.06,
           "subPrograms": []
         }
       ]
@@ -534,6 +564,7 @@
           "acreInPercentageNationwide": 18.23,
           "paymentInPercentageNationwide": 12.39,
           "paymentInAcreInPercentageNationwide": 1.32,
+          "paymentInPercentageWithinState": 86.13,
           "subPrograms": []
         },
         {
@@ -548,6 +579,7 @@
           "acreInPercentageNationwide": 3.83,
           "paymentInPercentageNationwide": 1.11,
           "paymentInAcreInPercentageNationwide": 0.84,
+          "paymentInPercentageWithinState": 13.03,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -560,7 +592,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -573,7 +606,8 @@
               "farmInPercentageNationwide": 1.83,
               "acreInPercentageNationwide": 4.57,
               "paymentInPercentageNationwide": 1.38,
-              "paymentInAcreInPercentageNationwide": 0.97
+              "paymentInAcreInPercentageNationwide": 0.97,
+              "paymentInPercentageWithinState": 13.03
             },
             {
               "programName": "Farmable Wetland",
@@ -586,7 +620,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -602,6 +637,7 @@
           "acreInPercentageNationwide": 3.38,
           "paymentInPercentageNationwide": 3.43,
           "paymentInAcreInPercentageNationwide": 1.75,
+          "paymentInPercentageWithinState": 0.85,
           "subPrograms": []
         }
       ]
@@ -635,6 +671,7 @@
           "acreInPercentageNationwide": 12.07,
           "paymentInPercentageNationwide": 9.31,
           "paymentInAcreInPercentageNationwide": 1.51,
+          "paymentInPercentageWithinState": 75.04,
           "subPrograms": []
         },
         {
@@ -649,6 +686,7 @@
           "acreInPercentageNationwide": 4.03,
           "paymentInPercentageNationwide": 1.77,
           "paymentInAcreInPercentageNationwide": 1.27,
+          "paymentInPercentageWithinState": 24.07,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -661,7 +699,8 @@
               "farmInPercentageNationwide": 0.24,
               "acreInPercentageNationwide": 2.5,
               "paymentInPercentageNationwide": 1.88,
-              "paymentInAcreInPercentageNationwide": 2.68
+              "paymentInAcreInPercentageNationwide": 2.68,
+              "paymentInPercentageWithinState": 3.58
             },
             {
               "programName": "Continuous Non-CREP",
@@ -674,7 +713,8 @@
               "farmInPercentageNationwide": 4.57,
               "acreInPercentageNationwide": 4.44,
               "paymentInPercentageNationwide": 1.85,
-              "paymentInAcreInPercentageNationwide": 1.34
+              "paymentInAcreInPercentageNationwide": 1.34,
+              "paymentInPercentageWithinState": 20.35
             },
             {
               "programName": "Farmable Wetland",
@@ -687,7 +727,8 @@
               "farmInPercentageNationwide": 0.92,
               "acreInPercentageNationwide": 0.52,
               "paymentInPercentageNationwide": 0.19,
-              "paymentInAcreInPercentageNationwide": 2.17
+              "paymentInAcreInPercentageNationwide": 2.17,
+              "paymentInPercentageWithinState": 0.14
             }
           ]
         },
@@ -703,6 +744,7 @@
           "acreInPercentageNationwide": 3.2,
           "paymentInPercentageNationwide": 3.11,
           "paymentInAcreInPercentageNationwide": 1.73,
+          "paymentInPercentageWithinState": 0.89,
           "subPrograms": []
         }
       ]
@@ -736,6 +778,7 @@
           "acreInPercentageNationwide": 3.4,
           "paymentInPercentageNationwide": 3.69,
           "paymentInAcreInPercentageNationwide": 2.12,
+          "paymentInPercentageWithinState": 33.02,
           "subPrograms": []
         },
         {
@@ -750,6 +793,7 @@
           "acreInPercentageNationwide": 3.59,
           "paymentInPercentageNationwide": 3.87,
           "paymentInAcreInPercentageNationwide": 3.12,
+          "paymentInPercentageWithinState": 58.46,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -762,7 +806,8 @@
               "farmInPercentageNationwide": 2.51,
               "acreInPercentageNationwide": 5.32,
               "paymentInPercentageNationwide": 4.7,
-              "paymentInAcreInPercentageNationwide": 3.21
+              "paymentInAcreInPercentageNationwide": 3.21,
+              "paymentInPercentageWithinState": 9.93
             },
             {
               "programName": "Continuous Non-CREP",
@@ -775,7 +820,8 @@
               "farmInPercentageNationwide": 3.54,
               "acreInPercentageNationwide": 3.52,
               "paymentInPercentageNationwide": 3.93,
-              "paymentInAcreInPercentageNationwide": 3.58
+              "paymentInAcreInPercentageNationwide": 3.58,
+              "paymentInPercentageWithinState": 47.84
             },
             {
               "programName": "Farmable Wetland",
@@ -788,7 +834,8 @@
               "farmInPercentageNationwide": 2.29,
               "acreInPercentageNationwide": 0.79,
               "paymentInPercentageNationwide": 0.84,
-              "paymentInAcreInPercentageNationwide": 6.34
+              "paymentInAcreInPercentageNationwide": 6.34,
+              "paymentInPercentageWithinState": 0.7
             }
           ]
         },
@@ -804,6 +851,7 @@
           "acreInPercentageNationwide": 28.46,
           "paymentInPercentageNationwide": 26.74,
           "paymentInAcreInPercentageNationwide": 1.91,
+          "paymentInPercentageWithinState": 8.52,
           "subPrograms": []
         }
       ]
@@ -837,6 +885,7 @@
           "acreInPercentageNationwide": 6.99,
           "paymentInPercentageNationwide": 7.31,
           "paymentInAcreInPercentageNationwide": 2.04,
+          "paymentInPercentageWithinState": 71.48,
           "subPrograms": []
         },
         {
@@ -851,6 +900,7 @@
           "acreInPercentageNationwide": 3.09,
           "paymentInPercentageNationwide": 1.72,
           "paymentInAcreInPercentageNationwide": 1.61,
+          "paymentInPercentageWithinState": 28.39,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -863,7 +913,8 @@
               "farmInPercentageNationwide": 2.55,
               "acreInPercentageNationwide": 1.52,
               "paymentInPercentageNationwide": 2.36,
-              "paymentInAcreInPercentageNationwide": 5.52
+              "paymentInAcreInPercentageNationwide": 5.52,
+              "paymentInPercentageWithinState": 5.43
             },
             {
               "programName": "Continuous Non-CREP",
@@ -876,7 +927,8 @@
               "farmInPercentageNationwide": 1.07,
               "acreInPercentageNationwide": 3.49,
               "paymentInPercentageNationwide": 1.73,
-              "paymentInAcreInPercentageNationwide": 1.59
+              "paymentInAcreInPercentageNationwide": 1.59,
+              "paymentInPercentageWithinState": 22.95
             },
             {
               "programName": "Farmable Wetland",
@@ -889,7 +941,8 @@
               "farmInPercentageNationwide": 0.02,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 4.15
+              "paymentInAcreInPercentageNationwide": 4.15,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -905,6 +958,7 @@
           "acreInPercentageNationwide": 0.51,
           "paymentInPercentageNationwide": 0.39,
           "paymentInAcreInPercentageNationwide": 1.54,
+          "paymentInPercentageWithinState": 0.13,
           "subPrograms": []
         }
       ]
@@ -938,6 +992,7 @@
           "acreInPercentageNationwide": 4.74,
           "paymentInPercentageNationwide": 3.43,
           "paymentInAcreInPercentageNationwide": 1.42,
+          "paymentInPercentageWithinState": 33.89,
           "subPrograms": []
         },
         {
@@ -952,6 +1007,7 @@
           "acreInPercentageNationwide": 8.18,
           "paymentInPercentageNationwide": 3.91,
           "paymentInAcreInPercentageNationwide": 1.38,
+          "paymentInPercentageWithinState": 65.14,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -964,7 +1020,8 @@
               "farmInPercentageNationwide": 0.03,
               "acreInPercentageNationwide": 0.09,
               "paymentInPercentageNationwide": 0.03,
-              "paymentInAcreInPercentageNationwide": 1.03
+              "paymentInAcreInPercentageNationwide": 1.03,
+              "paymentInPercentageWithinState": 0.06
             },
             {
               "programName": "Continuous Non-CREP",
@@ -977,7 +1034,8 @@
               "farmInPercentageNationwide": 3.07,
               "acreInPercentageNationwide": 7.76,
               "paymentInPercentageNationwide": 3.52,
-              "paymentInAcreInPercentageNationwide": 1.45
+              "paymentInAcreInPercentageNationwide": 1.45,
+              "paymentInPercentageWithinState": 47.22
             },
             {
               "programName": "Farmable Wetland",
@@ -990,7 +1048,8 @@
               "farmInPercentageNationwide": 15.91,
               "acreInPercentageNationwide": 34.13,
               "paymentInPercentageNationwide": 19.54,
-              "paymentInAcreInPercentageNationwide": 3.39
+              "paymentInAcreInPercentageNationwide": 3.39,
+              "paymentInPercentageWithinState": 17.87
             }
           ]
         },
@@ -1006,6 +1065,7 @@
           "acreInPercentageNationwide": 2.46,
           "paymentInPercentageNationwide": 2.77,
           "paymentInAcreInPercentageNationwide": 2.22,
+          "paymentInPercentageWithinState": 0.97,
           "subPrograms": []
         }
       ]
@@ -1039,6 +1099,7 @@
           "acreInPercentageNationwide": 12.0,
           "paymentInPercentageNationwide": 7.38,
           "paymentInAcreInPercentageNationwide": 1.2,
+          "paymentInPercentageWithinState": 81.15,
           "subPrograms": []
         },
         {
@@ -1053,6 +1114,7 @@
           "acreInPercentageNationwide": 1.64,
           "paymentInPercentageNationwide": 0.76,
           "paymentInAcreInPercentageNationwide": 1.35,
+          "paymentInPercentageWithinState": 14.2,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1065,7 +1127,8 @@
               "farmInPercentageNationwide": 0.47,
               "acreInPercentageNationwide": 3.7,
               "paymentInPercentageNationwide": 2.93,
-              "paymentInAcreInPercentageNationwide": 2.85
+              "paymentInAcreInPercentageNationwide": 2.85,
+              "paymentInPercentageWithinState": 7.61
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1078,7 +1141,8 @@
               "farmInPercentageNationwide": 0.67,
               "acreInPercentageNationwide": 1.45,
               "paymentInPercentageNationwide": 0.44,
-              "paymentInAcreInPercentageNationwide": 0.97
+              "paymentInAcreInPercentageNationwide": 0.97,
+              "paymentInPercentageWithinState": 6.57
             },
             {
               "programName": "Farmable Wetland",
@@ -1091,7 +1155,8 @@
               "farmInPercentageNationwide": 0.01,
               "acreInPercentageNationwide": 0.04,
               "paymentInPercentageNationwide": 0.01,
-              "paymentInAcreInPercentageNationwide": 1.97
+              "paymentInAcreInPercentageNationwide": 1.97,
+              "paymentInPercentageWithinState": 0.01
             }
           ]
         },
@@ -1107,6 +1172,7 @@
           "acreInPercentageNationwide": 12.31,
           "paymentInPercentageNationwide": 11.9,
           "paymentInAcreInPercentageNationwide": 1.63,
+          "paymentInPercentageWithinState": 4.65,
           "subPrograms": []
         }
       ]
@@ -1140,6 +1206,7 @@
           "acreInPercentageNationwide": 0.29,
           "paymentInPercentageNationwide": 0.55,
           "paymentInAcreInPercentageNationwide": 3.66,
+          "paymentInPercentageWithinState": 8.18,
           "subPrograms": []
         },
         {
@@ -1154,6 +1221,7 @@
           "acreInPercentageNationwide": 2.47,
           "paymentInPercentageNationwide": 3.62,
           "paymentInAcreInPercentageNationwide": 4.25,
+          "paymentInPercentageWithinState": 91.55,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1166,7 +1234,8 @@
               "farmInPercentageNationwide": 26.68,
               "acreInPercentageNationwide": 13.0,
               "paymentInPercentageNationwide": 18.18,
-              "paymentInAcreInPercentageNationwide": 5.0
+              "paymentInAcreInPercentageNationwide": 5.0,
+              "paymentInPercentageWithinState": 64.17
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1179,7 +1248,8 @@
               "farmInPercentageNationwide": 5.46,
               "acreInPercentageNationwide": 1.17,
               "paymentInPercentageNationwide": 1.34,
-              "paymentInAcreInPercentageNationwide": 3.69
+              "paymentInAcreInPercentageNationwide": 3.69,
+              "paymentInPercentageWithinState": 27.27
             },
             {
               "programName": "Farmable Wetland",
@@ -1192,7 +1262,8 @@
               "farmInPercentageNationwide": 0.45,
               "acreInPercentageNationwide": 0.09,
               "paymentInPercentageNationwide": 0.08,
-              "paymentInAcreInPercentageNationwide": 5.44
+              "paymentInAcreInPercentageNationwide": 5.44,
+              "paymentInPercentageWithinState": 0.11
             }
           ]
         },
@@ -1208,6 +1279,7 @@
           "acreInPercentageNationwide": 0.36,
           "paymentInPercentageNationwide": 0.52,
           "paymentInAcreInPercentageNationwide": 2.79,
+          "paymentInPercentageWithinState": 0.28,
           "subPrograms": []
         }
       ]
@@ -1241,6 +1313,7 @@
           "acreInPercentageNationwide": 2.37,
           "paymentInPercentageNationwide": 2.51,
           "paymentInAcreInPercentageNationwide": 2.08,
+          "paymentInPercentageWithinState": 37.69,
           "subPrograms": []
         },
         {
@@ -1255,6 +1328,7 @@
           "acreInPercentageNationwide": 3.55,
           "paymentInPercentageNationwide": 2.45,
           "paymentInAcreInPercentageNationwide": 2.0,
+          "paymentInPercentageWithinState": 62.29,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1267,7 +1341,8 @@
               "farmInPercentageNationwide": 0.22,
               "acreInPercentageNationwide": 0.46,
               "paymentInPercentageNationwide": 0.38,
-              "paymentInAcreInPercentageNationwide": 2.9
+              "paymentInAcreInPercentageNationwide": 2.9,
+              "paymentInPercentageWithinState": 1.34
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1280,7 +1355,8 @@
               "farmInPercentageNationwide": 2.67,
               "acreInPercentageNationwide": 4.0,
               "paymentInPercentageNationwide": 2.86,
-              "paymentInAcreInPercentageNationwide": 2.29
+              "paymentInAcreInPercentageNationwide": 2.29,
+              "paymentInPercentageWithinState": 58.4
             },
             {
               "programName": "Farmable Wetland",
@@ -1293,7 +1369,8 @@
               "farmInPercentageNationwide": 0.7,
               "acreInPercentageNationwide": 2.96,
               "paymentInPercentageNationwide": 1.83,
-              "paymentInAcreInPercentageNationwide": 3.67
+              "paymentInAcreInPercentageNationwide": 3.67,
+              "paymentInPercentageWithinState": 2.55
             }
           ]
         },
@@ -1309,6 +1386,7 @@
           "acreInPercentageNationwide": 0.03,
           "paymentInPercentageNationwide": 0.03,
           "paymentInAcreInPercentageNationwide": 1.99,
+          "paymentInPercentageWithinState": 0.02,
           "subPrograms": []
         }
       ]
@@ -1342,6 +1420,7 @@
           "acreInPercentageNationwide": 0.36,
           "paymentInPercentageNationwide": 0.84,
           "paymentInAcreInPercentageNationwide": 4.5,
+          "paymentInPercentageWithinState": 13.7,
           "subPrograms": []
         },
         {
@@ -1356,6 +1435,7 @@
           "acreInPercentageNationwide": 2.12,
           "paymentInPercentageNationwide": 3.12,
           "paymentInAcreInPercentageNationwide": 4.26,
+          "paymentInPercentageWithinState": 86.29,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1368,7 +1448,8 @@
               "farmInPercentageNationwide": 3.69,
               "acreInPercentageNationwide": 2.11,
               "paymentInPercentageNationwide": 3.29,
-              "paymentInAcreInPercentageNationwide": 5.54
+              "paymentInAcreInPercentageNationwide": 5.54,
+              "paymentInPercentageWithinState": 12.72
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1381,7 +1462,8 @@
               "farmInPercentageNationwide": 6.98,
               "acreInPercentageNationwide": 2.23,
               "paymentInPercentageNationwide": 3.28,
-              "paymentInAcreInPercentageNationwide": 4.74
+              "paymentInAcreInPercentageNationwide": 4.74,
+              "paymentInPercentageWithinState": 73.21
             },
             {
               "programName": "Farmable Wetland",
@@ -1394,7 +1476,8 @@
               "farmInPercentageNationwide": 0.71,
               "acreInPercentageNationwide": 0.21,
               "paymentInPercentageNationwide": 0.24,
-              "paymentInAcreInPercentageNationwide": 6.76
+              "paymentInAcreInPercentageNationwide": 6.76,
+              "paymentInPercentageWithinState": 0.36
             }
           ]
         },
@@ -1410,6 +1493,7 @@
           "acreInPercentageNationwide": 0.01,
           "paymentInPercentageNationwide": 0.02,
           "paymentInAcreInPercentageNationwide": 5.07,
+          "paymentInPercentageWithinState": 0.01,
           "subPrograms": []
         }
       ]
@@ -1443,6 +1527,7 @@
           "acreInPercentageNationwide": 0.49,
           "paymentInPercentageNationwide": 1.11,
           "paymentInAcreInPercentageNationwide": 4.41,
+          "paymentInPercentageWithinState": 21.88,
           "subPrograms": []
         },
         {
@@ -1457,6 +1542,7 @@
           "acreInPercentageNationwide": 1.79,
           "paymentInPercentageNationwide": 2.33,
           "paymentInAcreInPercentageNationwide": 3.77,
+          "paymentInPercentageWithinState": 77.85,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1469,7 +1555,8 @@
               "farmInPercentageNationwide": 2.9,
               "acreInPercentageNationwide": 7.69,
               "paymentInPercentageNationwide": 8.65,
-              "paymentInAcreInPercentageNationwide": 4.02
+              "paymentInAcreInPercentageNationwide": 4.02,
+              "paymentInPercentageWithinState": 40.37
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1482,7 +1569,8 @@
               "farmInPercentageNationwide": 1.99,
               "acreInPercentageNationwide": 1.09,
               "paymentInPercentageNationwide": 1.39,
-              "paymentInAcreInPercentageNationwide": 4.11
+              "paymentInAcreInPercentageNationwide": 4.11,
+              "paymentInPercentageWithinState": 37.48
             },
             {
               "programName": "Farmable Wetland",
@@ -1495,7 +1583,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -1511,6 +1600,7 @@
           "acreInPercentageNationwide": 0.23,
           "paymentInPercentageNationwide": 0.39,
           "paymentInAcreInPercentageNationwide": 3.38,
+          "paymentInPercentageWithinState": 0.28,
           "subPrograms": []
         }
       ]
@@ -1544,6 +1634,7 @@
           "acreInPercentageNationwide": 0.68,
           "paymentInPercentageNationwide": 1.31,
           "paymentInAcreInPercentageNationwide": 3.8,
+          "paymentInPercentageWithinState": 27.47,
           "subPrograms": []
         },
         {
@@ -1558,6 +1649,7 @@
           "acreInPercentageNationwide": 1.51,
           "paymentInPercentageNationwide": 2.04,
           "paymentInAcreInPercentageNationwide": 3.91,
+          "paymentInPercentageWithinState": 72.46,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1570,7 +1662,8 @@
               "farmInPercentageNationwide": 7.04,
               "acreInPercentageNationwide": 4.01,
               "paymentInPercentageNationwide": 5.16,
-              "paymentInAcreInPercentageNationwide": 4.59
+              "paymentInAcreInPercentageNationwide": 4.59,
+              "paymentInPercentageWithinState": 25.62
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1583,7 +1676,8 @@
               "farmInPercentageNationwide": 2.09,
               "acreInPercentageNationwide": 1.25,
               "paymentInPercentageNationwide": 1.63,
-              "paymentInAcreInPercentageNationwide": 4.2
+              "paymentInAcreInPercentageNationwide": 4.2,
+              "paymentInPercentageWithinState": 46.76
             },
             {
               "programName": "Farmable Wetland",
@@ -1596,7 +1690,8 @@
               "farmInPercentageNationwide": 0.11,
               "acreInPercentageNationwide": 0.04,
               "paymentInPercentageNationwide": 0.04,
-              "paymentInAcreInPercentageNationwide": 6.6
+              "paymentInAcreInPercentageNationwide": 6.6,
+              "paymentInPercentageWithinState": 0.08
             }
           ]
         },
@@ -1612,6 +1707,7 @@
           "acreInPercentageNationwide": 0.05,
           "paymentInPercentageNationwide": 0.09,
           "paymentInAcreInPercentageNationwide": 3.34,
+          "paymentInPercentageWithinState": 0.07,
           "subPrograms": []
         }
       ]
@@ -1645,6 +1741,7 @@
           "acreInPercentageNationwide": 5.58,
           "paymentInPercentageNationwide": 3.12,
           "paymentInAcreInPercentageNationwide": 1.09,
+          "paymentInPercentageWithinState": 71.3,
           "subPrograms": []
         },
         {
@@ -1659,6 +1756,7 @@
           "acreInPercentageNationwide": 2.42,
           "paymentInPercentageNationwide": 0.66,
           "paymentInAcreInPercentageNationwide": 0.79,
+          "paymentInPercentageWithinState": 25.56,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1671,7 +1769,8 @@
               "farmInPercentageNationwide": 0.14,
               "acreInPercentageNationwide": 1.32,
               "paymentInPercentageNationwide": 0.5,
-              "paymentInAcreInPercentageNationwide": 1.35
+              "paymentInAcreInPercentageNationwide": 1.35,
+              "paymentInPercentageWithinState": 2.69
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1684,7 +1783,8 @@
               "farmInPercentageNationwide": 0.49,
               "acreInPercentageNationwide": 2.71,
               "paymentInPercentageNationwide": 0.73,
-              "paymentInAcreInPercentageNationwide": 0.87
+              "paymentInAcreInPercentageNationwide": 0.87,
+              "paymentInPercentageWithinState": 22.84
             },
             {
               "programName": "Farmable Wetland",
@@ -1697,7 +1797,8 @@
               "farmInPercentageNationwide": 0.05,
               "acreInPercentageNationwide": 0.08,
               "paymentInPercentageNationwide": 0.02,
-              "paymentInAcreInPercentageNationwide": 1.61
+              "paymentInAcreInPercentageNationwide": 1.61,
+              "paymentInPercentageWithinState": 0.05
             }
           ]
         },
@@ -1713,6 +1814,7 @@
           "acreInPercentageNationwide": 4.66,
           "paymentInPercentageNationwide": 3.87,
           "paymentInAcreInPercentageNationwide": 1.68,
+          "paymentInPercentageWithinState": 3.14,
           "subPrograms": []
         }
       ]
@@ -1746,6 +1848,7 @@
           "acreInPercentageNationwide": 2.96,
           "paymentInPercentageNationwide": 3.36,
           "paymentInAcreInPercentageNationwide": 2.22,
+          "paymentInPercentageWithinState": 77.1,
           "subPrograms": []
         },
         {
@@ -1760,6 +1863,7 @@
           "acreInPercentageNationwide": 0.96,
           "paymentInPercentageNationwide": 0.55,
           "paymentInAcreInPercentageNationwide": 1.67,
+          "paymentInPercentageWithinState": 21.47,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1772,7 +1876,8 @@
               "farmInPercentageNationwide": 2.77,
               "acreInPercentageNationwide": 5.1,
               "paymentInPercentageNationwide": 2.69,
-              "paymentInAcreInPercentageNationwide": 1.88
+              "paymentInAcreInPercentageNationwide": 1.88,
+              "paymentInPercentageWithinState": 14.6
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1785,7 +1890,8 @@
               "farmInPercentageNationwide": 0.23,
               "acreInPercentageNationwide": 0.45,
               "paymentInPercentageNationwide": 0.22,
-              "paymentInAcreInPercentageNationwide": 1.57
+              "paymentInAcreInPercentageNationwide": 1.57,
+              "paymentInPercentageWithinState": 6.87
             },
             {
               "programName": "Farmable Wetland",
@@ -1798,7 +1904,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -1814,6 +1921,7 @@
           "acreInPercentageNationwide": 1.84,
           "paymentInPercentageNationwide": 1.75,
           "paymentInAcreInPercentageNationwide": 1.92,
+          "paymentInPercentageWithinState": 1.43,
           "subPrograms": []
         }
       ]
@@ -1847,6 +1955,7 @@
           "acreInPercentageNationwide": 2.32,
           "paymentInPercentageNationwide": 2.29,
           "paymentInAcreInPercentageNationwide": 1.92,
+          "paymentInPercentageWithinState": 57.74,
           "subPrograms": []
         },
         {
@@ -1861,6 +1970,7 @@
           "acreInPercentageNationwide": 2.32,
           "paymentInPercentageNationwide": 0.96,
           "paymentInAcreInPercentageNationwide": 1.2,
+          "paymentInPercentageWithinState": 40.97,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1873,7 +1983,8 @@
               "farmInPercentageNationwide": 0.31,
               "acreInPercentageNationwide": 1.88,
               "paymentInPercentageNationwide": 1.55,
-              "paymentInAcreInPercentageNationwide": 3.03
+              "paymentInAcreInPercentageNationwide": 3.03,
+              "paymentInPercentageWithinState": 9.21
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1886,7 +1997,8 @@
               "farmInPercentageNationwide": 0.39,
               "acreInPercentageNationwide": 2.51,
               "paymentInPercentageNationwide": 0.92,
-              "paymentInAcreInPercentageNationwide": 1.18
+              "paymentInAcreInPercentageNationwide": 1.18,
+              "paymentInPercentageWithinState": 31.76
             },
             {
               "programName": "Farmable Wetland",
@@ -1899,7 +2011,8 @@
               "farmInPercentageNationwide": 0.01,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 2.95
+              "paymentInAcreInPercentageNationwide": 2.95,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -1915,6 +2028,7 @@
           "acreInPercentageNationwide": 1.73,
           "paymentInPercentageNationwide": 1.43,
           "paymentInAcreInPercentageNationwide": 1.67,
+          "paymentInPercentageWithinState": 1.28,
           "subPrograms": []
         }
       ]
@@ -1948,6 +2062,7 @@
           "acreInPercentageNationwide": 0.33,
           "paymentInPercentageNationwide": 0.36,
           "paymentInAcreInPercentageNationwide": 2.1,
+          "paymentInPercentageWithinState": 9.47,
           "subPrograms": []
         },
         {
@@ -1962,6 +2077,7 @@
           "acreInPercentageNationwide": 2.87,
           "paymentInPercentageNationwide": 2.02,
           "paymentInAcreInPercentageNationwide": 2.03,
+          "paymentInPercentageWithinState": 90.42,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -1974,7 +2090,8 @@
               "farmInPercentageNationwide": 1.0,
               "acreInPercentageNationwide": 3.6,
               "paymentInPercentageNationwide": 1.66,
-              "paymentInAcreInPercentageNationwide": 1.65
+              "paymentInAcreInPercentageNationwide": 1.65,
+              "paymentInPercentageWithinState": 10.42
             },
             {
               "programName": "Continuous Non-CREP",
@@ -1987,7 +2104,8 @@
               "farmInPercentageNationwide": 0.99,
               "acreInPercentageNationwide": 2.88,
               "paymentInPercentageNationwide": 2.18,
-              "paymentInAcreInPercentageNationwide": 2.42
+              "paymentInAcreInPercentageNationwide": 2.42,
+              "paymentInPercentageWithinState": 78.6
             },
             {
               "programName": "Farmable Wetland",
@@ -2000,7 +2118,8 @@
               "farmInPercentageNationwide": 0.3,
               "acreInPercentageNationwide": 0.92,
               "paymentInPercentageNationwide": 0.57,
-              "paymentInAcreInPercentageNationwide": 3.67
+              "paymentInAcreInPercentageNationwide": 3.67,
+              "paymentInPercentageWithinState": 1.41
             }
           ]
         },
@@ -2016,6 +2135,7 @@
           "acreInPercentageNationwide": 0.09,
           "paymentInPercentageNationwide": 0.11,
           "paymentInAcreInPercentageNationwide": 2.59,
+          "paymentInPercentageWithinState": 0.11,
           "subPrograms": []
         }
       ]
@@ -2049,6 +2169,7 @@
           "acreInPercentageNationwide": 4.28,
           "paymentInPercentageNationwide": 2.65,
           "paymentInAcreInPercentageNationwide": 1.2,
+          "paymentInPercentageWithinState": 91.66,
           "subPrograms": []
         },
         {
@@ -2063,6 +2184,7 @@
           "acreInPercentageNationwide": 0.18,
           "paymentInPercentageNationwide": 0.05,
           "paymentInAcreInPercentageNationwide": 0.86,
+          "paymentInPercentageWithinState": 3.09,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2075,7 +2197,8 @@
               "farmInPercentageNationwide": 0.15,
               "acreInPercentageNationwide": 0.06,
               "paymentInPercentageNationwide": 0.02,
-              "paymentInAcreInPercentageNationwide": 1.31
+              "paymentInAcreInPercentageNationwide": 1.31,
+              "paymentInPercentageWithinState": 0.19
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2088,7 +2211,8 @@
               "farmInPercentageNationwide": 0.4,
               "acreInPercentageNationwide": 0.2,
               "paymentInPercentageNationwide": 0.06,
-              "paymentInAcreInPercentageNationwide": 0.96
+              "paymentInAcreInPercentageNationwide": 0.96,
+              "paymentInPercentageWithinState": 2.84
             },
             {
               "programName": "Farmable Wetland",
@@ -2101,7 +2225,8 @@
               "farmInPercentageNationwide": 0.03,
               "acreInPercentageNationwide": 0.04,
               "paymentInPercentageNationwide": 0.02,
-              "paymentInAcreInPercentageNationwide": 2.36
+              "paymentInAcreInPercentageNationwide": 2.36,
+              "paymentInPercentageWithinState": 0.06
             }
           ]
         },
@@ -2117,6 +2242,7 @@
           "acreInPercentageNationwide": 4.02,
           "paymentInPercentageNationwide": 4.28,
           "paymentInAcreInPercentageNationwide": 1.83,
+          "paymentInPercentageWithinState": 5.25,
           "subPrograms": []
         }
       ]
@@ -2150,6 +2276,7 @@
           "acreInPercentageNationwide": 0.36,
           "paymentInPercentageNationwide": 0.43,
           "paymentInAcreInPercentageNationwide": 2.37,
+          "paymentInPercentageWithinState": 16.81,
           "subPrograms": []
         },
         {
@@ -2164,6 +2291,7 @@
           "acreInPercentageNationwide": 2.16,
           "paymentInPercentageNationwide": 1.26,
           "paymentInAcreInPercentageNationwide": 1.69,
+          "paymentInPercentageWithinState": 83.18,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2176,7 +2304,8 @@
               "farmInPercentageNationwide": 0.06,
               "acreInPercentageNationwide": 0.13,
               "paymentInPercentageNationwide": 0.08,
-              "paymentInAcreInPercentageNationwide": 2.3
+              "paymentInAcreInPercentageNationwide": 2.3,
+              "paymentInPercentageWithinState": 0.73
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2189,7 +2318,8 @@
               "farmInPercentageNationwide": 1.11,
               "acreInPercentageNationwide": 2.53,
               "paymentInPercentageNationwide": 1.54,
-              "paymentInAcreInPercentageNationwide": 1.95
+              "paymentInAcreInPercentageNationwide": 1.95,
+              "paymentInPercentageWithinState": 81.46
             },
             {
               "programName": "Farmable Wetland",
@@ -2202,7 +2332,8 @@
               "farmInPercentageNationwide": 0.11,
               "acreInPercentageNationwide": 0.52,
               "paymentInPercentageNationwide": 0.28,
-              "paymentInAcreInPercentageNationwide": 3.16
+              "paymentInAcreInPercentageNationwide": 3.16,
+              "paymentInPercentageWithinState": 1.0
             }
           ]
         },
@@ -2218,6 +2349,7 @@
           "acreInPercentageNationwide": 0.01,
           "paymentInPercentageNationwide": 0.01,
           "paymentInAcreInPercentageNationwide": 1.61,
+          "paymentInPercentageWithinState": 0.01,
           "subPrograms": []
         }
       ]
@@ -2251,6 +2383,7 @@
           "acreInPercentageNationwide": 0.01,
           "paymentInPercentageNationwide": 0.01,
           "paymentInAcreInPercentageNationwide": 1.84,
+          "paymentInPercentageWithinState": 0.29,
           "subPrograms": []
         },
         {
@@ -2265,6 +2398,7 @@
           "acreInPercentageNationwide": 1.43,
           "paymentInPercentageNationwide": 1.38,
           "paymentInAcreInPercentageNationwide": 2.8,
+          "paymentInPercentageWithinState": 99.63,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2277,7 +2411,8 @@
               "farmInPercentageNationwide": 12.9,
               "acreInPercentageNationwide": 12.54,
               "paymentInPercentageNationwide": 9.87,
-              "paymentInAcreInPercentageNationwide": 2.82
+              "paymentInAcreInPercentageNationwide": 2.82,
+              "paymentInPercentageWithinState": 99.61
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2290,7 +2425,8 @@
               "farmInPercentageNationwide": 0.45,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 1.95
+              "paymentInAcreInPercentageNationwide": 1.95,
+              "paymentInPercentageWithinState": 0.02
             },
             {
               "programName": "Farmable Wetland",
@@ -2303,7 +2439,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -2319,6 +2456,7 @@
           "acreInPercentageNationwide": 0.04,
           "paymentInPercentageNationwide": 0.06,
           "paymentInAcreInPercentageNationwide": 2.79,
+          "paymentInPercentageWithinState": 0.09,
           "subPrograms": []
         }
       ]
@@ -2352,6 +2490,7 @@
           "acreInPercentageNationwide": 0.26,
           "paymentInPercentageNationwide": 0.44,
           "paymentInAcreInPercentageNationwide": 3.42,
+          "paymentInPercentageWithinState": 19.39,
           "subPrograms": []
         },
         {
@@ -2366,6 +2505,7 @@
           "acreInPercentageNationwide": 0.93,
           "paymentInPercentageNationwide": 1.07,
           "paymentInAcreInPercentageNationwide": 3.32,
+          "paymentInPercentageWithinState": 79.38,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2378,7 +2518,8 @@
               "farmInPercentageNationwide": 4.58,
               "acreInPercentageNationwide": 3.07,
               "paymentInPercentageNationwide": 2.98,
-              "paymentInAcreInPercentageNationwide": 3.48
+              "paymentInAcreInPercentageNationwide": 3.48,
+              "paymentInPercentageWithinState": 30.83
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2391,7 +2532,8 @@
               "farmInPercentageNationwide": 1.45,
               "acreInPercentageNationwide": 0.7,
               "paymentInPercentageNationwide": 0.81,
-              "paymentInAcreInPercentageNationwide": 3.75
+              "paymentInAcreInPercentageNationwide": 3.75,
+              "paymentInPercentageWithinState": 48.52
             },
             {
               "programName": "Farmable Wetland",
@@ -2404,7 +2546,8 @@
               "farmInPercentageNationwide": 0.05,
               "acreInPercentageNationwide": 0.01,
               "paymentInPercentageNationwide": 0.01,
-              "paymentInAcreInPercentageNationwide": 3.93
+              "paymentInAcreInPercentageNationwide": 3.93,
+              "paymentInPercentageWithinState": 0.04
             }
           ]
         },
@@ -2420,6 +2563,7 @@
           "acreInPercentageNationwide": 0.75,
           "paymentInPercentageNationwide": 0.79,
           "paymentInAcreInPercentageNationwide": 2.1,
+          "paymentInPercentageWithinState": 1.23,
           "subPrograms": []
         }
       ]
@@ -2453,6 +2597,7 @@
           "acreInPercentageNationwide": 2.02,
           "paymentInPercentageNationwide": 1.42,
           "paymentInAcreInPercentageNationwide": 1.36,
+          "paymentInPercentageWithinState": 68.85,
           "subPrograms": []
         },
         {
@@ -2467,6 +2612,7 @@
           "acreInPercentageNationwide": 0.84,
           "paymentInPercentageNationwide": 0.2,
           "paymentInAcreInPercentageNationwide": 0.68,
+          "paymentInPercentageWithinState": 16.15,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2479,7 +2625,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2492,7 +2639,8 @@
               "farmInPercentageNationwide": 0.17,
               "acreInPercentageNationwide": 1.0,
               "paymentInPercentageNationwide": 0.24,
-              "paymentInAcreInPercentageNationwide": 0.79
+              "paymentInAcreInPercentageNationwide": 0.79,
+              "paymentInPercentageWithinState": 16.15
             },
             {
               "programName": "Farmable Wetland",
@@ -2505,7 +2653,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -2521,6 +2670,7 @@
           "acreInPercentageNationwide": 8.94,
           "paymentInPercentageNationwide": 8.67,
           "paymentInAcreInPercentageNationwide": 1.8,
+          "paymentInPercentageWithinState": 15.0,
           "subPrograms": []
         }
       ]
@@ -2554,6 +2704,7 @@
           "acreInPercentageNationwide": 0.52,
           "paymentInPercentageNationwide": 0.58,
           "paymentInAcreInPercentageNationwide": 2.19,
+          "paymentInPercentageWithinState": 28.77,
           "subPrograms": []
         },
         {
@@ -2568,6 +2719,7 @@
           "acreInPercentageNationwide": 1.74,
           "paymentInPercentageNationwide": 0.84,
           "paymentInAcreInPercentageNationwide": 1.4,
+          "paymentInPercentageWithinState": 70.71,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2580,7 +2732,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2593,7 +2746,8 @@
               "farmInPercentageNationwide": 1.41,
               "acreInPercentageNationwide": 2.08,
               "paymentInPercentageNationwide": 1.04,
-              "paymentInAcreInPercentageNationwide": 1.61
+              "paymentInAcreInPercentageNationwide": 1.61,
+              "paymentInPercentageWithinState": 70.71
             },
             {
               "programName": "Farmable Wetland",
@@ -2606,7 +2760,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -2622,6 +2777,7 @@
           "acreInPercentageNationwide": 0.21,
           "paymentInPercentageNationwide": 0.3,
           "paymentInAcreInPercentageNationwide": 2.88,
+          "paymentInPercentageWithinState": 0.52,
           "subPrograms": []
         }
       ]
@@ -2655,6 +2811,7 @@
           "acreInPercentageNationwide": 0.62,
           "paymentInPercentageNationwide": 1.06,
           "paymentInAcreInPercentageNationwide": 3.33,
+          "paymentInPercentageWithinState": 59.51,
           "subPrograms": []
         },
         {
@@ -2669,6 +2826,7 @@
           "acreInPercentageNationwide": 0.51,
           "paymentInPercentageNationwide": 0.42,
           "paymentInAcreInPercentageNationwide": 2.4,
+          "paymentInPercentageWithinState": 40.11,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2681,7 +2839,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2694,7 +2853,8 @@
               "farmInPercentageNationwide": 0.9,
               "acreInPercentageNationwide": 0.61,
               "paymentInPercentageNationwide": 0.52,
-              "paymentInAcreInPercentageNationwide": 2.77
+              "paymentInAcreInPercentageNationwide": 2.77,
+              "paymentInPercentageWithinState": 40.11
             },
             {
               "programName": "Farmable Wetland",
@@ -2707,7 +2867,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -2723,6 +2884,7 @@
           "acreInPercentageNationwide": 0.19,
           "paymentInPercentageNationwide": 0.19,
           "paymentInAcreInPercentageNationwide": 1.99,
+          "paymentInPercentageWithinState": 0.38,
           "subPrograms": []
         }
       ]
@@ -2756,6 +2918,7 @@
           "acreInPercentageNationwide": 0.01,
           "paymentInPercentageNationwide": 0.02,
           "paymentInAcreInPercentageNationwide": 3.39,
+          "paymentInPercentageWithinState": 1.06,
           "subPrograms": []
         },
         {
@@ -2770,6 +2933,7 @@
           "acreInPercentageNationwide": 0.59,
           "paymentInPercentageNationwide": 0.95,
           "paymentInAcreInPercentageNationwide": 4.66,
+          "paymentInPercentageWithinState": 98.61,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2782,7 +2946,8 @@
               "farmInPercentageNationwide": 6.97,
               "acreInPercentageNationwide": 5.04,
               "paymentInPercentageNationwide": 6.74,
-              "paymentInAcreInPercentageNationwide": 4.77
+              "paymentInAcreInPercentageNationwide": 4.77,
+              "paymentInPercentageWithinState": 97.41
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2795,7 +2960,8 @@
               "farmInPercentageNationwide": 0.32,
               "acreInPercentageNationwide": 0.02,
               "paymentInPercentageNationwide": 0.01,
-              "paymentInAcreInPercentageNationwide": 2.57
+              "paymentInAcreInPercentageNationwide": 2.57,
+              "paymentInPercentageWithinState": 1.21
             },
             {
               "programName": "Farmable Wetland",
@@ -2808,7 +2974,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -2824,6 +2991,7 @@
           "acreInPercentageNationwide": 0.06,
           "paymentInPercentageNationwide": 0.15,
           "paymentInAcreInPercentageNationwide": 4.87,
+          "paymentInPercentageWithinState": 0.33,
           "subPrograms": []
         }
       ]
@@ -2857,6 +3025,7 @@
           "acreInPercentageNationwide": 1.1,
           "paymentInPercentageNationwide": 0.93,
           "paymentInAcreInPercentageNationwide": 1.66,
+          "paymentInPercentageWithinState": 73.17,
           "subPrograms": []
         },
         {
@@ -2871,6 +3040,7 @@
           "acreInPercentageNationwide": 0.54,
           "paymentInPercentageNationwide": 0.2,
           "paymentInAcreInPercentageNationwide": 1.05,
+          "paymentInPercentageWithinState": 25.9,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2883,7 +3053,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2896,7 +3067,8 @@
               "farmInPercentageNationwide": 0.65,
               "acreInPercentageNationwide": 0.64,
               "paymentInPercentageNationwide": 0.24,
-              "paymentInAcreInPercentageNationwide": 1.21
+              "paymentInAcreInPercentageNationwide": 1.21,
+              "paymentInPercentageWithinState": 25.89
             },
             {
               "programName": "Farmable Wetland",
@@ -2909,7 +3081,8 @@
               "farmInPercentageNationwide": 0.03,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 1.37
+              "paymentInAcreInPercentageNationwide": 1.37,
+              "paymentInPercentageWithinState": 0.01
             }
           ]
         },
@@ -2925,6 +3098,7 @@
           "acreInPercentageNationwide": 0.3,
           "paymentInPercentageNationwide": 0.33,
           "paymentInAcreInPercentageNationwide": 2.19,
+          "paymentInPercentageWithinState": 0.93,
           "subPrograms": []
         }
       ]
@@ -2958,6 +3132,7 @@
           "acreInPercentageNationwide": 1.15,
           "paymentInPercentageNationwide": 0.56,
           "paymentInAcreInPercentageNationwide": 0.94,
+          "paymentInPercentageWithinState": 78.7,
           "subPrograms": []
         },
         {
@@ -2972,6 +3147,7 @@
           "acreInPercentageNationwide": 0.17,
           "paymentInPercentageNationwide": 0.03,
           "paymentInAcreInPercentageNationwide": 0.6,
+          "paymentInPercentageWithinState": 8.28,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -2984,7 +3160,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -2997,7 +3174,8 @@
               "farmInPercentageNationwide": 0.06,
               "acreInPercentageNationwide": 0.2,
               "paymentInPercentageNationwide": 0.04,
-              "paymentInAcreInPercentageNationwide": 0.7
+              "paymentInAcreInPercentageNationwide": 0.7,
+              "paymentInPercentageWithinState": 8.28
             },
             {
               "programName": "Farmable Wetland",
@@ -3010,7 +3188,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3026,6 +3205,7 @@
           "acreInPercentageNationwide": 3.27,
           "paymentInPercentageNationwide": 2.59,
           "paymentInAcreInPercentageNationwide": 1.37,
+          "paymentInPercentageWithinState": 13.03,
           "subPrograms": []
         }
       ]
@@ -3059,6 +3239,7 @@
           "acreInPercentageNationwide": 1.11,
           "paymentInPercentageNationwide": 0.69,
           "paymentInAcreInPercentageNationwide": 1.19,
+          "paymentInPercentageWithinState": 98.16,
           "subPrograms": []
         },
         {
@@ -3073,6 +3254,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.89,
+          "paymentInPercentageWithinState": 0.24,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3085,7 +3267,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3098,7 +3281,8 @@
               "farmInPercentageNationwide": 0.05,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 1.03
+              "paymentInAcreInPercentageNationwide": 1.03,
+              "paymentInPercentageWithinState": 0.24
             },
             {
               "programName": "Farmable Wetland",
@@ -3111,7 +3295,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3127,6 +3312,7 @@
           "acreInPercentageNationwide": 0.61,
           "paymentInPercentageNationwide": 0.31,
           "paymentInAcreInPercentageNationwide": 1.46,
+          "paymentInPercentageWithinState": 1.59,
           "subPrograms": []
         }
       ]
@@ -3160,6 +3346,7 @@
           "acreInPercentageNationwide": 0.18,
           "paymentInPercentageNationwide": 0.18,
           "paymentInAcreInPercentageNationwide": 1.99,
+          "paymentInPercentageWithinState": 37.54,
           "subPrograms": []
         },
         {
@@ -3174,6 +3361,7 @@
           "acreInPercentageNationwide": 0.26,
           "paymentInPercentageNationwide": 0.18,
           "paymentInAcreInPercentageNationwide": 1.94,
+          "paymentInPercentageWithinState": 62.09,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3186,7 +3374,8 @@
               "farmInPercentageNationwide": 1.21,
               "acreInPercentageNationwide": 0.8,
               "paymentInPercentageNationwide": 0.56,
-              "paymentInAcreInPercentageNationwide": 2.54
+              "paymentInAcreInPercentageNationwide": 2.54,
+              "paymentInPercentageWithinState": 27.36
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3199,7 +3388,8 @@
               "farmInPercentageNationwide": 0.5,
               "acreInPercentageNationwide": 0.2,
               "paymentInPercentageNationwide": 0.12,
-              "paymentInAcreInPercentageNationwide": 1.93
+              "paymentInAcreInPercentageNationwide": 1.93,
+              "paymentInPercentageWithinState": 34.57
             },
             {
               "programName": "Farmable Wetland",
@@ -3212,7 +3402,8 @@
               "farmInPercentageNationwide": 0.01,
               "acreInPercentageNationwide": 0.02,
               "paymentInPercentageNationwide": 0.01,
-              "paymentInAcreInPercentageNationwide": 3.73
+              "paymentInAcreInPercentageNationwide": 3.73,
+              "paymentInPercentageWithinState": 0.19
             }
           ]
         },
@@ -3228,6 +3419,7 @@
           "acreInPercentageNationwide": 0.04,
           "paymentInPercentageNationwide": 0.05,
           "paymentInAcreInPercentageNationwide": 2.43,
+          "paymentInPercentageWithinState": 0.35,
           "subPrograms": []
         }
       ]
@@ -3261,6 +3453,7 @@
           "acreInPercentageNationwide": 0.08,
           "paymentInPercentageNationwide": 0.06,
           "paymentInAcreInPercentageNationwide": 1.55,
+          "paymentInPercentageWithinState": 17.72,
           "subPrograms": []
         },
         {
@@ -3275,6 +3468,7 @@
           "acreInPercentageNationwide": 0.28,
           "paymentInPercentageNationwide": 0.17,
           "paymentInAcreInPercentageNationwide": 1.7,
+          "paymentInPercentageWithinState": 80.96,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3287,7 +3481,8 @@
               "farmInPercentageNationwide": 5.72,
               "acreInPercentageNationwide": 2.07,
               "paymentInPercentageNationwide": 1.03,
-              "paymentInAcreInPercentageNationwide": 1.77
+              "paymentInAcreInPercentageNationwide": 1.77,
+              "paymentInPercentageWithinState": 69.94
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3300,7 +3495,8 @@
               "farmInPercentageNationwide": 0.37,
               "acreInPercentageNationwide": 0.06,
               "paymentInPercentageNationwide": 0.03,
-              "paymentInAcreInPercentageNationwide": 1.63
+              "paymentInAcreInPercentageNationwide": 1.63,
+              "paymentInPercentageWithinState": 11.02
             },
             {
               "programName": "Farmable Wetland",
@@ -3313,7 +3509,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3329,6 +3526,7 @@
           "acreInPercentageNationwide": 0.11,
           "paymentInPercentageNationwide": 0.13,
           "paymentInAcreInPercentageNationwide": 2.12,
+          "paymentInPercentageWithinState": 1.32,
           "subPrograms": []
         }
       ]
@@ -3362,6 +3560,7 @@
           "acreInPercentageNationwide": 0.31,
           "paymentInPercentageNationwide": 0.3,
           "paymentInAcreInPercentageNationwide": 1.9,
+          "paymentInPercentageWithinState": 93.49,
           "subPrograms": []
         },
         {
@@ -3376,6 +3575,7 @@
           "acreInPercentageNationwide": 0.02,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.66,
+          "paymentInPercentageWithinState": 2.1,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3388,7 +3588,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3401,7 +3602,8 @@
               "farmInPercentageNationwide": 0.01,
               "acreInPercentageNationwide": 0.02,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.76
+              "paymentInAcreInPercentageNationwide": 0.76,
+              "paymentInPercentageWithinState": 2.1
             },
             {
               "programName": "Farmable Wetland",
@@ -3414,7 +3616,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3430,6 +3633,7 @@
           "acreInPercentageNationwide": 0.36,
           "paymentInPercentageNationwide": 0.4,
           "paymentInAcreInPercentageNationwide": 2.05,
+          "paymentInPercentageWithinState": 4.39,
           "subPrograms": []
         }
       ]
@@ -3463,6 +3667,7 @@
           "acreInPercentageNationwide": 0.21,
           "paymentInPercentageNationwide": 0.13,
           "paymentInAcreInPercentageNationwide": 1.21,
+          "paymentInPercentageWithinState": 39.72,
           "subPrograms": []
         },
         {
@@ -3477,6 +3682,7 @@
           "acreInPercentageNationwide": 0.32,
           "paymentInPercentageNationwide": 0.11,
           "paymentInAcreInPercentageNationwide": 1.02,
+          "paymentInPercentageWithinState": 59.56,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3489,7 +3695,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3502,7 +3709,8 @@
               "farmInPercentageNationwide": 0.45,
               "acreInPercentageNationwide": 0.38,
               "paymentInPercentageNationwide": 0.14,
-              "paymentInAcreInPercentageNationwide": 1.18
+              "paymentInAcreInPercentageNationwide": 1.18,
+              "paymentInPercentageWithinState": 59.56
             },
             {
               "programName": "Farmable Wetland",
@@ -3515,7 +3723,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3531,6 +3740,7 @@
           "acreInPercentageNationwide": 0.05,
           "paymentInPercentageNationwide": 0.06,
           "paymentInAcreInPercentageNationwide": 2.91,
+          "paymentInPercentageWithinState": 0.71,
           "subPrograms": []
         }
       ]
@@ -3564,6 +3774,7 @@
           "acreInPercentageNationwide": 0.04,
           "paymentInPercentageNationwide": 0.04,
           "paymentInAcreInPercentageNationwide": 1.89,
+          "paymentInPercentageWithinState": 12.11,
           "subPrograms": []
         },
         {
@@ -3578,6 +3789,7 @@
           "acreInPercentageNationwide": 0.19,
           "paymentInPercentageNationwide": 0.15,
           "paymentInAcreInPercentageNationwide": 2.32,
+          "paymentInPercentageWithinState": 86.01,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3590,7 +3802,8 @@
               "farmInPercentageNationwide": 1.87,
               "acreInPercentageNationwide": 1.26,
               "paymentInPercentageNationwide": 0.95,
-              "paymentInAcreInPercentageNationwide": 2.68
+              "paymentInAcreInPercentageNationwide": 2.68,
+              "paymentInPercentageWithinState": 76.05
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3603,7 +3816,8 @@
               "farmInPercentageNationwide": 0.14,
               "acreInPercentageNationwide": 0.05,
               "paymentInPercentageNationwide": 0.02,
-              "paymentInAcreInPercentageNationwide": 1.36
+              "paymentInAcreInPercentageNationwide": 1.36,
+              "paymentInPercentageWithinState": 9.97
             },
             {
               "programName": "Farmable Wetland",
@@ -3616,7 +3830,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3632,6 +3847,7 @@
           "acreInPercentageNationwide": 0.11,
           "paymentInPercentageNationwide": 0.16,
           "paymentInAcreInPercentageNationwide": 2.78,
+          "paymentInPercentageWithinState": 1.87,
           "subPrograms": []
         }
       ]
@@ -3665,6 +3881,7 @@
           "acreInPercentageNationwide": 0.13,
           "paymentInPercentageNationwide": 0.12,
           "paymentInAcreInPercentageNationwide": 1.81,
+          "paymentInPercentageWithinState": 83.32,
           "subPrograms": []
         },
         {
@@ -3679,6 +3896,7 @@
           "acreInPercentageNationwide": 0.03,
           "paymentInPercentageNationwide": 0.01,
           "paymentInAcreInPercentageNationwide": 1.2,
+          "paymentInPercentageWithinState": 15.38,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3691,7 +3909,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3704,7 +3923,8 @@
               "farmInPercentageNationwide": 0.06,
               "acreInPercentageNationwide": 0.04,
               "paymentInPercentageNationwide": 0.02,
-              "paymentInAcreInPercentageNationwide": 1.39
+              "paymentInAcreInPercentageNationwide": 1.39,
+              "paymentInPercentageWithinState": 15.38
             },
             {
               "programName": "Farmable Wetland",
@@ -3717,7 +3937,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3733,6 +3954,7 @@
           "acreInPercentageNationwide": 0.04,
           "paymentInPercentageNationwide": 0.05,
           "paymentInAcreInPercentageNationwide": 2.75,
+          "paymentInPercentageWithinState": 1.28,
           "subPrograms": []
         }
       ]
@@ -3766,6 +3988,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 2.79,
+          "paymentInPercentageWithinState": 2.74,
           "subPrograms": []
         },
         {
@@ -3780,6 +4003,7 @@
           "acreInPercentageNationwide": 0.04,
           "paymentInPercentageNationwide": 0.04,
           "paymentInAcreInPercentageNationwide": 3.02,
+          "paymentInPercentageWithinState": 97.3,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3792,7 +4016,8 @@
               "farmInPercentageNationwide": 0.47,
               "acreInPercentageNationwide": 0.36,
               "paymentInPercentageNationwide": 0.31,
-              "paymentInAcreInPercentageNationwide": 3.07
+              "paymentInAcreInPercentageNationwide": 3.07,
+              "paymentInPercentageWithinState": 94.75
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3805,7 +4030,8 @@
               "farmInPercentageNationwide": 0.02,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 2.61
+              "paymentInAcreInPercentageNationwide": 2.61,
+              "paymentInPercentageWithinState": 2.5
             },
             {
               "programName": "Farmable Wetland",
@@ -3818,7 +4044,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3834,6 +4061,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         }
       ]
@@ -3867,6 +4095,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 1.04,
+          "paymentInPercentageWithinState": 0.33,
           "subPrograms": []
         },
         {
@@ -3881,6 +4110,7 @@
           "acreInPercentageNationwide": 0.07,
           "paymentInPercentageNationwide": 0.04,
           "paymentInAcreInPercentageNationwide": 1.72,
+          "paymentInPercentageWithinState": 92.9,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3893,7 +4123,8 @@
               "farmInPercentageNationwide": 1.02,
               "acreInPercentageNationwide": 0.6,
               "paymentInPercentageNationwide": 0.29,
-              "paymentInAcreInPercentageNationwide": 1.74
+              "paymentInAcreInPercentageNationwide": 1.74,
+              "paymentInPercentageWithinState": 92.9
             },
             {
               "programName": "Continuous Non-CREP",
@@ -3906,7 +4137,8 @@
               "farmInPercentageNationwide": 0.04,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.91
+              "paymentInAcreInPercentageNationwide": 0.91,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Farmable Wetland",
@@ -3919,7 +4151,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -3935,6 +4168,7 @@
           "acreInPercentageNationwide": 0.14,
           "paymentInPercentageNationwide": 0.14,
           "paymentInAcreInPercentageNationwide": 1.94,
+          "paymentInPercentageWithinState": 6.77,
           "subPrograms": []
         }
       ]
@@ -3968,6 +4202,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 1.88,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         },
         {
@@ -3982,6 +4217,7 @@
           "acreInPercentageNationwide": 0.03,
           "paymentInPercentageNationwide": 0.02,
           "paymentInAcreInPercentageNationwide": 2.38,
+          "paymentInPercentageWithinState": 99.85,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -3994,7 +4230,8 @@
               "farmInPercentageNationwide": 0.68,
               "acreInPercentageNationwide": 0.25,
               "paymentInPercentageNationwide": 0.17,
-              "paymentInAcreInPercentageNationwide": 2.43
+              "paymentInAcreInPercentageNationwide": 2.43,
+              "paymentInPercentageWithinState": 98.97
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4007,7 +4244,8 @@
               "farmInPercentageNationwide": 0.03,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 1.38
+              "paymentInAcreInPercentageNationwide": 1.38,
+              "paymentInPercentageWithinState": 0.96
             },
             {
               "programName": "Farmable Wetland",
@@ -4020,7 +4258,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4036,6 +4275,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         }
       ]
@@ -4069,6 +4309,7 @@
           "acreInPercentageNationwide": 0.02,
           "paymentInPercentageNationwide": 0.01,
           "paymentInAcreInPercentageNationwide": 1.2,
+          "paymentInPercentageWithinState": 37.6,
           "subPrograms": []
         },
         {
@@ -4083,6 +4324,7 @@
           "acreInPercentageNationwide": 0.03,
           "paymentInPercentageNationwide": 0.01,
           "paymentInAcreInPercentageNationwide": 1.42,
+          "paymentInPercentageWithinState": 62.32,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4095,7 +4337,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4108,7 +4351,8 @@
               "farmInPercentageNationwide": 0.04,
               "acreInPercentageNationwide": 0.03,
               "paymentInPercentageNationwide": 0.02,
-              "paymentInAcreInPercentageNationwide": 1.64
+              "paymentInAcreInPercentageNationwide": 1.64,
+              "paymentInPercentageWithinState": 62.32
             },
             {
               "programName": "Farmable Wetland",
@@ -4121,7 +4365,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4137,6 +4382,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.81,
+          "paymentInPercentageWithinState": 0.16,
           "subPrograms": []
         }
       ]
@@ -4170,6 +4416,7 @@
           "acreInPercentageNationwide": 0.04,
           "paymentInPercentageNationwide": 0.03,
           "paymentInAcreInPercentageNationwide": 1.37,
+          "paymentInPercentageWithinState": 92.14,
           "subPrograms": []
         },
         {
@@ -4184,6 +4431,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 1.31,
+          "paymentInPercentageWithinState": 7.86,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4196,7 +4444,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4209,7 +4458,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 1.51
+              "paymentInAcreInPercentageNationwide": 1.51,
+              "paymentInPercentageWithinState": 7.86
             },
             {
               "programName": "Farmable Wetland",
@@ -4222,7 +4472,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4238,6 +4489,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         }
       ]
@@ -4271,6 +4523,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 1.28,
+          "paymentInPercentageWithinState": 2.58,
           "subPrograms": []
         },
         {
@@ -4285,6 +4538,7 @@
           "acreInPercentageNationwide": 0.02,
           "paymentInPercentageNationwide": 0.01,
           "paymentInAcreInPercentageNationwide": 2.04,
+          "paymentInPercentageWithinState": 96.01,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4297,7 +4551,8 @@
               "farmInPercentageNationwide": 0.4,
               "acreInPercentageNationwide": 0.08,
               "paymentInPercentageNationwide": 0.07,
-              "paymentInAcreInPercentageNationwide": 3.08
+              "paymentInAcreInPercentageNationwide": 3.08,
+              "paymentInPercentageWithinState": 62.6
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4310,7 +4565,8 @@
               "farmInPercentageNationwide": 0.04,
               "acreInPercentageNationwide": 0.01,
               "paymentInPercentageNationwide": 0.01,
-              "paymentInAcreInPercentageNationwide": 1.45
+              "paymentInAcreInPercentageNationwide": 1.45,
+              "paymentInPercentageWithinState": 33.41
             },
             {
               "programName": "Farmable Wetland",
@@ -4323,7 +4579,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4339,6 +4596,7 @@
           "acreInPercentageNationwide": 0.01,
           "paymentInPercentageNationwide": 0.01,
           "paymentInAcreInPercentageNationwide": 2.48,
+          "paymentInPercentageWithinState": 1.52,
           "subPrograms": []
         }
       ]
@@ -4372,6 +4630,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         },
         {
@@ -4386,6 +4645,7 @@
           "acreInPercentageNationwide": 0.02,
           "paymentInPercentageNationwide": 0.01,
           "paymentInAcreInPercentageNationwide": 1.0,
+          "paymentInPercentageWithinState": 79.37,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4398,7 +4658,8 @@
               "farmInPercentageNationwide": 0.05,
               "acreInPercentageNationwide": 0.14,
               "paymentInPercentageNationwide": 0.04,
-              "paymentInAcreInPercentageNationwide": 1.01
+              "paymentInAcreInPercentageNationwide": 1.01,
+              "paymentInPercentageWithinState": 79.37
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4411,7 +4672,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Farmable Wetland",
@@ -4424,7 +4686,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4440,6 +4703,7 @@
           "acreInPercentageNationwide": 0.09,
           "paymentInPercentageNationwide": 0.07,
           "paymentInAcreInPercentageNationwide": 0.59,
+          "paymentInPercentageWithinState": 20.89,
           "subPrograms": []
         }
       ]
@@ -4473,6 +4737,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         },
         {
@@ -4487,6 +4752,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4499,7 +4765,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4512,7 +4779,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Farmable Wetland",
@@ -4525,7 +4793,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4541,6 +4810,7 @@
           "acreInPercentageNationwide": 0.13,
           "paymentInPercentageNationwide": 0.13,
           "paymentInAcreInPercentageNationwide": 0.41,
+          "paymentInPercentageWithinState": 100.0,
           "subPrograms": []
         }
       ]
@@ -4574,6 +4844,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.3,
+          "paymentInPercentageWithinState": 10.0,
           "subPrograms": []
         },
         {
@@ -4588,6 +4859,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4600,7 +4872,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4613,7 +4886,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Farmable Wetland",
@@ -4626,7 +4900,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4642,6 +4917,7 @@
           "acreInPercentageNationwide": 0.05,
           "paymentInPercentageNationwide": 0.03,
           "paymentInAcreInPercentageNationwide": 0.46,
+          "paymentInPercentageWithinState": 92.5,
           "subPrograms": []
         }
       ]
@@ -4675,6 +4951,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         },
         {
@@ -4689,6 +4966,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 2.72,
+          "paymentInPercentageWithinState": 100.0,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4701,7 +4979,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4714,7 +4993,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 3.15
+              "paymentInAcreInPercentageNationwide": 3.15,
+              "paymentInPercentageWithinState": 100.0
             },
             {
               "programName": "Farmable Wetland",
@@ -4727,7 +5007,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4743,6 +5024,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         }
       ]
@@ -4776,6 +5058,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         },
         {
@@ -4790,6 +5073,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 1.52,
+          "paymentInPercentageWithinState": 166.67,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4802,7 +5086,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4815,7 +5100,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 1.75
+              "paymentInAcreInPercentageNationwide": 1.75,
+              "paymentInPercentageWithinState": 166.67
             },
             {
               "programName": "Farmable Wetland",
@@ -4828,7 +5114,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4844,6 +5131,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         }
       ]
@@ -4877,6 +5165,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 1.7,
+          "paymentInPercentageWithinState": 150.0,
           "subPrograms": []
         },
         {
@@ -4891,6 +5180,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 1.1,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -4903,7 +5193,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -4916,7 +5207,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 1.27
+              "paymentInAcreInPercentageNationwide": 1.27,
+              "paymentInPercentageWithinState": 0.0
             },
             {
               "programName": "Farmable Wetland",
@@ -4929,7 +5221,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4945,6 +5238,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0.0,
           "subPrograms": []
         }
       ]
@@ -4978,6 +5272,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0,
           "subPrograms": []
         },
         {
@@ -4992,6 +5287,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.78,
+          "paymentInPercentageWithinState": 0,
           "subPrograms": [
             {
               "programName": "CREP Only",
@@ -5004,7 +5300,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0
             },
             {
               "programName": "Continuous Non-CREP",
@@ -5017,7 +5314,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.9
+              "paymentInAcreInPercentageNationwide": 0.9,
+              "paymentInPercentageWithinState": 0
             },
             {
               "programName": "Farmable Wetland",
@@ -5030,7 +5328,8 @@
               "farmInPercentageNationwide": 0.0,
               "acreInPercentageNationwide": 0.0,
               "paymentInPercentageNationwide": 0.0,
-              "paymentInAcreInPercentageNationwide": 0.0
+              "paymentInAcreInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0
             }
           ]
         },
@@ -5046,6 +5345,7 @@
           "acreInPercentageNationwide": 0.0,
           "paymentInPercentageNationwide": 0.0,
           "paymentInAcreInPercentageNationwide": 0.0,
+          "paymentInPercentageWithinState": 0,
           "subPrograms": []
         }
       ]
