@@ -193,6 +193,38 @@ class RcppParser:
                     round((sum_by_tech_payments_by_state[state].item() /
                            sum_by_total_payments_by_state[state].item()) * 100, 2)
 
+                contract_percentage_nation = 0.00
+                acres_percentage_nation = 0.00
+                assistant_percentage_nation = 0.00
+                reimburse_percentage_nation = 0.00
+                tech_percentage_nation = 0.00
+                total_payment_percentage_nation = 0.00
+
+                if total_contract_at_national_level > 0:
+                    contract_percentage_nation = \
+                        round((sum_by_contract_by_state[state].item() /
+                               total_contract_at_national_level) * 100, 2)
+                if total_assistance_payments_at_national_level > 0:
+                    acres_percentage_nation = \
+                        round((sum_by_acre_by_state[state].item() /
+                               total_acre_at_national_level) * 100, 2)
+                if total_assistance_payments_at_national_level > 0:
+                    assistant_percentage_nation = \
+                        round((sum_by_assistance_payments_by_state[state].item() /
+                               total_assistance_payments_at_national_level) * 100, 2)
+                if total_reimburse_payments_at_national_level > 0:
+                    reimburse_percentage_nation = \
+                        round((sum_by_reimburse_payments_by_state[state].item() /
+                               total_reimburse_payments_at_national_level) * 100, 2)
+                if total_tech_payments_at_national_level:
+                    tech_percentage_nation = \
+                        round((sum_by_tech_payments_by_state[state].item() /
+                               total_tech_payments_at_national_level) * 100, 2)
+                if total_payment_percentage_nation > 0:
+                    total_payment_percentage_nation = \
+                        round((sum_by_total_payments_by_state[state].item() /
+                               total_payments_at_national_level) * 100, 2)
+
             new_data_entry = {
                 "state": state,
                 "programs": [
@@ -204,24 +236,12 @@ class RcppParser:
                         "reimbursePaymentInDollars": int(sum_by_reimburse_payments_by_state[state].item() * 1000),
                         "techPaymentInDollars": int(sum_by_tech_payments_by_state[state].item() * 1000),
                         "paymentInDollars": int(sum_by_total_payments_by_state[state].item() * 1000),
-                        "contractsInPercentageNationwide": round(
-                            (sum_by_contract_by_state[state].item() /
-                             total_contract_at_national_level) * 100, 2),
-                        "acresInPercentageNationwide": round(
-                            (sum_by_acre_by_state[state].item() /
-                             total_acre_at_national_level) * 100, 2),
-                        "assistancePaymentInPercentageNationwide": round(
-                            (sum_by_assistance_payments_by_state[state].item() /
-                             total_assistance_payments_at_national_level) * 100, 2),
-                        "reimbursePaymentInPercentageNationwide": round(
-                            (sum_by_reimburse_payments_by_state[state].item() /
-                             total_reimburse_payments_at_national_level) * 100, 2),
-                        "techPaymentInPercentageNationwide": round(
-                            (sum_by_tech_payments_by_state[state].item() /
-                             total_tech_payments_at_national_level) * 100, 2),
-                        "totalPaymentInPercentageNationwide": round(
-                            (sum_by_total_payments_by_state[state].item() /
-                             total_payments_at_national_level) * 100, 2),
+                        "contractsInPercentageNationwide": contract_percentage_nation,
+                        "acresInPercentageNationwide": acres_percentage_nation,
+                        "assistancePaymentInPercentageNationwide": assistant_percentage_nation,
+                        "reimbursePaymentInPercentageNationwide": reimburse_percentage_nation,
+                        "techPaymentInPercentageNationwide": tech_percentage_nation,
+                        "totalPaymentInPercentageNationwide": total_payment_percentage_nation,
                         "assistancePaymentInPercentageWithinState": within_state_assistance_payments,
                         "reimbursePaymentInPercentageWithinState": within_state_reimburse_payments,
                         "techPaymentInPercentageWithinState": within_state_tech_payments,
