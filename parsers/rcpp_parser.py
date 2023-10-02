@@ -197,7 +197,7 @@ class RcppParser:
                 "state": state,
                 "programs": [
                     {
-                        "programName": "ACEP",
+                        "programName": "RCPP",
                         "totalContracts": int(sum_by_contract_by_state[state].item()),
                         "totalAcres": int(sum_by_acre_by_state[state].item()),
                         "assistancePaymentInDollars": int(sum_by_assistance_payments_by_state[state].item() * 1000),
@@ -241,7 +241,7 @@ class RcppParser:
                                                              reverse=True)
 
         # Write processed_data_dict as JSON data
-        with open(os.path.join(self.data_folder, "acep_state_distribution_data.json"),
+        with open(os.path.join(self.data_folder, "rcpp_state_distribution_data.json"),
                   "w") as output_json_file:
             output_json_file.write(json.dumps(self.state_distribution_data_dict, indent=2))
 
@@ -268,7 +268,7 @@ class RcppParser:
         self.program_data_dict = {
             "programs": [
                 {
-                    "programName": "ACEP",
+                    "programName": "RCPP",
                     "totalContracts": int(total_by_contract.item()),
                     "totalAcre": int(total_by_acre.item()),
                     "assistancePaymentInDollars": int(total_by_assistance_payments.item() * 1000),
@@ -281,5 +281,5 @@ class RcppParser:
         }
 
         # Write processed_data_dict as JSON data
-        with open(os.path.join(self.data_folder, "acep_subprograms_data.json"), "w") as output_json_file:
+        with open(os.path.join(self.data_folder, "rcpp_subprograms_data.json"), "w") as output_json_file:
             output_json_file.write(json.dumps(self.program_data_dict, indent=2))
