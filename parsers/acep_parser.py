@@ -42,7 +42,7 @@ class AcepParser:
             'DE': 'Delaware',
             'FL': 'Florida',
             'GA': 'Georgia',
-            'HI': 'Hawaii/Pacific',
+            'HI': 'Hawaii',
             'ID': 'Idaho',
             'IL': 'Illinois',
             'IN': 'Indiana',
@@ -91,6 +91,10 @@ class AcepParser:
 
         # Rename column names to make it more uniform
         program_data.rename(columns=self.metadata["column_names_map"], inplace=True)
+
+        # Replace Hawaii/Pacific to Hawaii
+        program_data["state"] = program_data["state"].apply(
+            lambda x: x.replace("Hawaii/Pacific", "Hawaii"))
 
         # some columns have empty values and this makes the rows type as object
         # this makes the process of SUM errors since those are object not number
@@ -219,7 +223,7 @@ class AcepParser:
                         "techPaymentInPercentageNationwide": round(
                             (sum_by_tech_payments_by_state[state].item() /
                              total_tech_payments_at_national_level) * 100, 2),
-                        "totalPaymentInPercentageNationwide": round(
+                        "paymentInPercentageNationwide": round(
                             (sum_by_total_payments_by_state[state].item() /
                              total_payments_at_national_level) * 100, 2),
                         "assistancePaymentInPercentageWithinState": within_state_assistance_payments,
