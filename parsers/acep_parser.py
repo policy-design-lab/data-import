@@ -223,7 +223,7 @@ class AcepParser:
                         "techPaymentInPercentageNationwide": round(
                             (sum_by_tech_payments_by_state[state].item() /
                              total_tech_payments_at_national_level) * 100, 2),
-                        "paymentInPercentageNationwide": round(
+                        "totalPaymentInPercentageNationwide": round(
                             (sum_by_total_payments_by_state[state].item() /
                              total_payments_at_national_level) * 100, 2),
                         "assistancePaymentInPercentageWithinState": within_state_assistance_payments,
