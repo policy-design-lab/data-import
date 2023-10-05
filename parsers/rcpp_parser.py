@@ -42,7 +42,7 @@ class RcppParser:
             'DE': 'Delaware',
             'FL': 'Florida',
             'GA': 'Georgia',
-            'HI': 'Hawaii/Pacific',
+            'HI': 'Hawaii',
             'ID': 'Idaho',
             'IL': 'Illinois',
             'IN': 'Indiana',
@@ -91,6 +91,10 @@ class RcppParser:
 
         # Rename column names to make it more uniform
         program_data.rename(columns=self.metadata["column_names_map"], inplace=True)
+
+        # Replace Hawaii/Pacific to Hawaii
+        program_data["state"] = program_data["state"].apply(
+            lambda x: x.replace("Hawaii/Pacific", "Hawaii"))
 
         # some columns have empty values and this makes the rows type as object
         # this makes the process of SUM errors since those are object not number
@@ -241,7 +245,7 @@ class RcppParser:
                         "assistancePaymentInPercentageNationwide": assistant_percentage_nation,
                         "reimbursePaymentInPercentageNationwide": reimburse_percentage_nation,
                         "techPaymentInPercentageNationwide": tech_percentage_nation,
-                        "totalPaymentInPercentageNationwide": total_payment_percentage_nation,
+                        "paymentInPercentageNationwide": total_payment_percentage_nation,
                         "assistancePaymentInPercentageWithinState": within_state_assistance_payments,
                         "reimbursePaymentInPercentageWithinState": within_state_reimburse_payments,
                         "techPaymentInPercentageWithinState": within_state_tech_payments,
