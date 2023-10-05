@@ -245,7 +245,7 @@ class RcppParser:
                         "assistancePaymentInPercentageNationwide": assistant_percentage_nation,
                         "reimbursePaymentInPercentageNationwide": reimburse_percentage_nation,
                         "techPaymentInPercentageNationwide": tech_percentage_nation,
-                        "paymentInPercentageNationwide": total_payment_percentage_nation,
+                        "totalPaymentInPercentageNationwide": total_payment_percentage_nation,
                         "assistancePaymentInPercentageWithinState": within_state_assistance_payments,
                         "reimbursePaymentInPercentageWithinState": within_state_reimburse_payments,
                         "techPaymentInPercentageWithinState": within_state_tech_payments,
