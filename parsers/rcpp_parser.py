@@ -228,6 +228,17 @@ class RcppParser:
                     total_payment_percentage_nation = \
                         round((sum_by_total_payments_by_state[state].item() /
                                total_payments_at_national_level) * 100, 2)
+            else:
+                within_state_assistance_payments = 0
+                within_state_reimburse_payments = 0
+                within_state_tech_payments = 0
+
+                contract_percentage_nation = 0.00
+                acres_percentage_nation = 0.00
+                assistant_percentage_nation = 0.00
+                reimburse_percentage_nation = 0.00
+                tech_percentage_nation = 0.00
+                total_payment_percentage_nation = 0.00
 
             new_data_entry = {
                 "state": state,
