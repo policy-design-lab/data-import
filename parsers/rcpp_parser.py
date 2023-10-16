@@ -268,11 +268,11 @@ class RcppParser:
             self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
                 new_data_entry)
 
-        # Sort states by decreasing order of total indemnities
+        # Sort states by decreasing order of financial assistance payments
         for year in self.state_distribution_data_dict:
             self.state_distribution_data_dict[year] = sorted(self.state_distribution_data_dict[year],
                                                              key=lambda x: x["programs"][0][
-                                                                 "paymentInDollars"],
+                                                                 "assistancePaymentInDollars"],
                                                              reverse=True)
 
         # Write processed_data_dict as JSON data
