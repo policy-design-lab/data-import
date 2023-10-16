@@ -1,30 +1,6 @@
 {
   "2018-2022": [
     {
-      "state": "Florida",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 7,
-          "totalAcres": 30941,
-          "assistancePaymentInDollars": 113265600,
-          "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 26807700,
-          "paymentInDollars": 140073300,
-          "contractsInPercentageNationwide": 0.57,
-          "acresInPercentageNationwide": 22.98,
-          "assistancePaymentInPercentageNationwide": 7.16,
-          "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 8.46,
-          "totalPaymentInPercentageNationwide": 7.38,
-          "assistancePaymentInPercentageWithinState": 80.86,
-          "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 19.14,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
       "state": "Louisiana",
       "programs": [
         {
@@ -44,6 +20,30 @@
           "assistancePaymentInPercentageWithinState": 87.47,
           "reimbursePaymentInPercentageWithinState": 0.15,
           "techPaymentInPercentageWithinState": 12.38,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Florida",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 7,
+          "totalAcres": 30941,
+          "assistancePaymentInDollars": 113265600,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 26807700,
+          "paymentInDollars": 140073300,
+          "contractsInPercentageNationwide": 0.57,
+          "acresInPercentageNationwide": 22.98,
+          "assistancePaymentInPercentageNationwide": 7.16,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 8.46,
+          "totalPaymentInPercentageNationwide": 7.38,
+          "assistancePaymentInPercentageWithinState": 80.86,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 19.14,
           "subPrograms": []
         }
       ]
@@ -169,25 +169,25 @@
       ]
     },
     {
-      "state": "Texas",
+      "state": "Colorado",
       "programs": [
         {
           "programName": "ACEP",
-          "totalContracts": 21,
-          "totalAcres": 4223,
-          "assistancePaymentInDollars": 51727600,
+          "totalContracts": 16,
+          "totalAcres": 684,
+          "assistancePaymentInDollars": 54473800,
           "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 15953700,
-          "paymentInDollars": 67681300,
-          "contractsInPercentageNationwide": 1.7,
-          "acresInPercentageNationwide": 3.14,
-          "assistancePaymentInPercentageNationwide": 3.27,
+          "techPaymentInDollars": 5564400,
+          "paymentInDollars": 60038200,
+          "contractsInPercentageNationwide": 1.3,
+          "acresInPercentageNationwide": 0.51,
+          "assistancePaymentInPercentageNationwide": 3.45,
           "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 5.04,
-          "totalPaymentInPercentageNationwide": 3.56,
-          "assistancePaymentInPercentageWithinState": 76.43,
+          "techPaymentInPercentageNationwide": 1.76,
+          "totalPaymentInPercentageNationwide": 3.16,
+          "assistancePaymentInPercentageWithinState": 90.73,
           "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 23.57,
+          "techPaymentInPercentageWithinState": 9.27,
           "subPrograms": []
         }
       ]
@@ -217,25 +217,25 @@
       ]
     },
     {
-      "state": "Colorado",
+      "state": "Texas",
       "programs": [
         {
           "programName": "ACEP",
-          "totalContracts": 16,
-          "totalAcres": 684,
-          "assistancePaymentInDollars": 54473800,
+          "totalContracts": 21,
+          "totalAcres": 4223,
+          "assistancePaymentInDollars": 51727600,
           "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 5564400,
-          "paymentInDollars": 60038200,
-          "contractsInPercentageNationwide": 1.3,
-          "acresInPercentageNationwide": 0.51,
-          "assistancePaymentInPercentageNationwide": 3.45,
+          "techPaymentInDollars": 15953700,
+          "paymentInDollars": 67681300,
+          "contractsInPercentageNationwide": 1.7,
+          "acresInPercentageNationwide": 3.14,
+          "assistancePaymentInPercentageNationwide": 3.27,
           "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 1.76,
-          "totalPaymentInPercentageNationwide": 3.16,
-          "assistancePaymentInPercentageWithinState": 90.73,
+          "techPaymentInPercentageNationwide": 5.04,
+          "totalPaymentInPercentageNationwide": 3.56,
+          "assistancePaymentInPercentageWithinState": 76.43,
           "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 9.27,
+          "techPaymentInPercentageWithinState": 23.57,
           "subPrograms": []
         }
       ]
@@ -361,54 +361,6 @@
       ]
     },
     {
-      "state": "Ohio",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 6,
-          "totalAcres": 397,
-          "assistancePaymentInDollars": 30646900,
-          "reimbursePaymentInDollars": 72100,
-          "techPaymentInDollars": 6106300,
-          "paymentInDollars": 36825300,
-          "contractsInPercentageNationwide": 0.49,
-          "acresInPercentageNationwide": 0.29,
-          "assistancePaymentInPercentageNationwide": 1.94,
-          "reimbursePaymentInPercentageNationwide": 7.67,
-          "techPaymentInPercentageNationwide": 1.93,
-          "totalPaymentInPercentageNationwide": 1.94,
-          "assistancePaymentInPercentageWithinState": 83.22,
-          "reimbursePaymentInPercentageWithinState": 0.2,
-          "techPaymentInPercentageWithinState": 16.58,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
-      "state": "North Carolina",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 5,
-          "totalAcres": 695,
-          "assistancePaymentInDollars": 31336699,
-          "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 5072300,
-          "paymentInDollars": 36409000,
-          "contractsInPercentageNationwide": 0.41,
-          "acresInPercentageNationwide": 0.52,
-          "assistancePaymentInPercentageNationwide": 1.98,
-          "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 1.6,
-          "totalPaymentInPercentageNationwide": 1.92,
-          "assistancePaymentInPercentageWithinState": 86.07,
-          "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 13.93,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
       "state": "Utah",
       "programs": [
         {
@@ -457,6 +409,54 @@
       ]
     },
     {
+      "state": "North Carolina",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 5,
+          "totalAcres": 695,
+          "assistancePaymentInDollars": 31336699,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 5072300,
+          "paymentInDollars": 36409000,
+          "contractsInPercentageNationwide": 0.41,
+          "acresInPercentageNationwide": 0.52,
+          "assistancePaymentInPercentageNationwide": 1.98,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.6,
+          "totalPaymentInPercentageNationwide": 1.92,
+          "assistancePaymentInPercentageWithinState": 86.07,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 13.93,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Ohio",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 6,
+          "totalAcres": 397,
+          "assistancePaymentInDollars": 30646900,
+          "reimbursePaymentInDollars": 72100,
+          "techPaymentInDollars": 6106300,
+          "paymentInDollars": 36825300,
+          "contractsInPercentageNationwide": 0.49,
+          "acresInPercentageNationwide": 0.29,
+          "assistancePaymentInPercentageNationwide": 1.94,
+          "reimbursePaymentInPercentageNationwide": 7.67,
+          "techPaymentInPercentageNationwide": 1.93,
+          "totalPaymentInPercentageNationwide": 1.94,
+          "assistancePaymentInPercentageWithinState": 83.22,
+          "reimbursePaymentInPercentageWithinState": 0.2,
+          "techPaymentInPercentageWithinState": 16.58,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
       "state": "Wisconsin",
       "programs": [
         {
@@ -476,6 +476,30 @@
           "assistancePaymentInPercentageWithinState": 83.89,
           "reimbursePaymentInPercentageWithinState": 0.39,
           "techPaymentInPercentageWithinState": 15.72,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Wyoming",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 0,
+          "totalAcres": 0,
+          "assistancePaymentInDollars": 27301000,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 4095200,
+          "paymentInDollars": 31396200,
+          "contractsInPercentageNationwide": 0.0,
+          "acresInPercentageNationwide": 0.0,
+          "assistancePaymentInPercentageNationwide": 1.73,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.29,
+          "totalPaymentInPercentageNationwide": 1.65,
+          "assistancePaymentInPercentageWithinState": 86.96,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 13.04,
           "subPrograms": []
         }
       ]
@@ -529,25 +553,25 @@
       ]
     },
     {
-      "state": "Wyoming",
+      "state": "Idaho",
       "programs": [
         {
           "programName": "ACEP",
           "totalContracts": 0,
           "totalAcres": 0,
-          "assistancePaymentInDollars": 27301000,
+          "assistancePaymentInDollars": 24359699,
           "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 4095200,
-          "paymentInDollars": 31396200,
+          "techPaymentInDollars": 4087100,
+          "paymentInDollars": 28446800,
           "contractsInPercentageNationwide": 0.0,
           "acresInPercentageNationwide": 0.0,
-          "assistancePaymentInPercentageNationwide": 1.73,
+          "assistancePaymentInPercentageNationwide": 1.54,
           "reimbursePaymentInPercentageNationwide": 0.0,
           "techPaymentInPercentageNationwide": 1.29,
-          "totalPaymentInPercentageNationwide": 1.65,
-          "assistancePaymentInPercentageWithinState": 86.96,
+          "totalPaymentInPercentageNationwide": 1.5,
+          "assistancePaymentInPercentageWithinState": 85.63,
           "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 13.04,
+          "techPaymentInPercentageWithinState": 14.37,
           "subPrograms": []
         }
       ]
@@ -572,30 +596,6 @@
           "assistancePaymentInPercentageWithinState": 77.26,
           "reimbursePaymentInPercentageWithinState": 0.0,
           "techPaymentInPercentageWithinState": 22.74,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
-      "state": "Idaho",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 0,
-          "totalAcres": 0,
-          "assistancePaymentInDollars": 24359699,
-          "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 4087100,
-          "paymentInDollars": 28446800,
-          "contractsInPercentageNationwide": 0.0,
-          "acresInPercentageNationwide": 0.0,
-          "assistancePaymentInPercentageNationwide": 1.54,
-          "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 1.29,
-          "totalPaymentInPercentageNationwide": 1.5,
-          "assistancePaymentInPercentageWithinState": 85.63,
-          "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 14.37,
           "subPrograms": []
         }
       ]
@@ -649,30 +649,6 @@
       ]
     },
     {
-      "state": "Kansas",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 39,
-          "totalAcres": 2546,
-          "assistancePaymentInDollars": 16562300,
-          "reimbursePaymentInDollars": 65200,
-          "techPaymentInDollars": 4852400,
-          "paymentInDollars": 21479899,
-          "contractsInPercentageNationwide": 3.16,
-          "acresInPercentageNationwide": 1.89,
-          "assistancePaymentInPercentageNationwide": 1.05,
-          "reimbursePaymentInPercentageNationwide": 6.94,
-          "techPaymentInPercentageNationwide": 1.53,
-          "totalPaymentInPercentageNationwide": 1.13,
-          "assistancePaymentInPercentageWithinState": 77.11,
-          "reimbursePaymentInPercentageWithinState": 0.3,
-          "techPaymentInPercentageWithinState": 22.59,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
       "state": "Massachusetts",
       "programs": [
         {
@@ -697,25 +673,25 @@
       ]
     },
     {
-      "state": "Michigan",
+      "state": "Kansas",
       "programs": [
         {
           "programName": "ACEP",
-          "totalContracts": 28,
-          "totalAcres": 206,
-          "assistancePaymentInDollars": 16069600,
-          "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 3840799,
-          "paymentInDollars": 19910399,
-          "contractsInPercentageNationwide": 2.27,
-          "acresInPercentageNationwide": 0.15,
-          "assistancePaymentInPercentageNationwide": 1.02,
-          "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 1.21,
-          "totalPaymentInPercentageNationwide": 1.05,
-          "assistancePaymentInPercentageWithinState": 80.71,
-          "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 19.29,
+          "totalContracts": 39,
+          "totalAcres": 2546,
+          "assistancePaymentInDollars": 16562300,
+          "reimbursePaymentInDollars": 65200,
+          "techPaymentInDollars": 4852400,
+          "paymentInDollars": 21479899,
+          "contractsInPercentageNationwide": 3.16,
+          "acresInPercentageNationwide": 1.89,
+          "assistancePaymentInPercentageNationwide": 1.05,
+          "reimbursePaymentInPercentageNationwide": 6.94,
+          "techPaymentInPercentageNationwide": 1.53,
+          "totalPaymentInPercentageNationwide": 1.13,
+          "assistancePaymentInPercentageWithinState": 77.11,
+          "reimbursePaymentInPercentageWithinState": 0.3,
+          "techPaymentInPercentageWithinState": 22.59,
           "subPrograms": []
         }
       ]
@@ -745,6 +721,30 @@
       ]
     },
     {
+      "state": "Michigan",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 28,
+          "totalAcres": 206,
+          "assistancePaymentInDollars": 16069600,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3840799,
+          "paymentInDollars": 19910399,
+          "contractsInPercentageNationwide": 2.27,
+          "acresInPercentageNationwide": 0.15,
+          "assistancePaymentInPercentageNationwide": 1.02,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.21,
+          "totalPaymentInPercentageNationwide": 1.05,
+          "assistancePaymentInPercentageWithinState": 80.71,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 19.29,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
       "state": "Oklahoma",
       "programs": [
         {
@@ -764,78 +764,6 @@
           "assistancePaymentInPercentageWithinState": 77.52,
           "reimbursePaymentInPercentageWithinState": 0.0,
           "techPaymentInPercentageWithinState": 22.48,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
-      "state": "Alabama",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 7,
-          "totalAcres": 141,
-          "assistancePaymentInDollars": 11548700,
-          "reimbursePaymentInDollars": 9900,
-          "techPaymentInDollars": 3467000,
-          "paymentInDollars": 15025599,
-          "contractsInPercentageNationwide": 0.57,
-          "acresInPercentageNationwide": 0.1,
-          "assistancePaymentInPercentageNationwide": 0.73,
-          "reimbursePaymentInPercentageNationwide": 1.05,
-          "techPaymentInPercentageNationwide": 1.09,
-          "totalPaymentInPercentageNationwide": 0.79,
-          "assistancePaymentInPercentageWithinState": 76.86,
-          "reimbursePaymentInPercentageWithinState": 0.07,
-          "techPaymentInPercentageWithinState": 23.07,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
-      "state": "New York",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 0,
-          "totalAcres": 0,
-          "assistancePaymentInDollars": 8754600,
-          "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 5156600,
-          "paymentInDollars": 13911200,
-          "contractsInPercentageNationwide": 0.0,
-          "acresInPercentageNationwide": 0.0,
-          "assistancePaymentInPercentageNationwide": 0.55,
-          "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 1.63,
-          "totalPaymentInPercentageNationwide": 0.73,
-          "assistancePaymentInPercentageWithinState": 62.93,
-          "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 37.07,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
-      "state": "North Dakota",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 33,
-          "totalAcres": 5632,
-          "assistancePaymentInDollars": 9361500,
-          "reimbursePaymentInDollars": 113700,
-          "techPaymentInDollars": 4376500,
-          "paymentInDollars": 13851699,
-          "contractsInPercentageNationwide": 2.68,
-          "acresInPercentageNationwide": 4.18,
-          "assistancePaymentInPercentageNationwide": 0.59,
-          "reimbursePaymentInPercentageNationwide": 12.1,
-          "techPaymentInPercentageNationwide": 1.38,
-          "totalPaymentInPercentageNationwide": 0.73,
-          "assistancePaymentInPercentageWithinState": 67.58,
-          "reimbursePaymentInPercentageWithinState": 0.82,
-          "techPaymentInPercentageWithinState": 31.6,
           "subPrograms": []
         }
       ]
@@ -884,6 +812,30 @@
           "assistancePaymentInPercentageWithinState": 84.67,
           "reimbursePaymentInPercentageWithinState": 0.03,
           "techPaymentInPercentageWithinState": 15.3,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Alabama",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 7,
+          "totalAcres": 141,
+          "assistancePaymentInDollars": 11548700,
+          "reimbursePaymentInDollars": 9900,
+          "techPaymentInDollars": 3467000,
+          "paymentInDollars": 15025599,
+          "contractsInPercentageNationwide": 0.57,
+          "acresInPercentageNationwide": 0.1,
+          "assistancePaymentInPercentageNationwide": 0.73,
+          "reimbursePaymentInPercentageNationwide": 1.05,
+          "techPaymentInPercentageNationwide": 1.09,
+          "totalPaymentInPercentageNationwide": 0.79,
+          "assistancePaymentInPercentageWithinState": 76.86,
+          "reimbursePaymentInPercentageWithinState": 0.07,
+          "techPaymentInPercentageWithinState": 23.07,
           "subPrograms": []
         }
       ]
@@ -961,6 +913,30 @@
       ]
     },
     {
+      "state": "North Dakota",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 33,
+          "totalAcres": 5632,
+          "assistancePaymentInDollars": 9361500,
+          "reimbursePaymentInDollars": 113700,
+          "techPaymentInDollars": 4376500,
+          "paymentInDollars": 13851699,
+          "contractsInPercentageNationwide": 2.68,
+          "acresInPercentageNationwide": 4.18,
+          "assistancePaymentInPercentageNationwide": 0.59,
+          "reimbursePaymentInPercentageNationwide": 12.1,
+          "techPaymentInPercentageNationwide": 1.38,
+          "totalPaymentInPercentageNationwide": 0.73,
+          "assistancePaymentInPercentageWithinState": 67.58,
+          "reimbursePaymentInPercentageWithinState": 0.82,
+          "techPaymentInPercentageWithinState": 31.6,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
       "state": "Washington",
       "programs": [
         {
@@ -985,25 +961,25 @@
       ]
     },
     {
-      "state": "Minnesota",
+      "state": "New York",
       "programs": [
         {
           "programName": "ACEP",
-          "totalContracts": 26,
-          "totalAcres": 1765,
-          "assistancePaymentInDollars": 8169100,
+          "totalContracts": 0,
+          "totalAcres": 0,
+          "assistancePaymentInDollars": 8754600,
           "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 3859500,
-          "paymentInDollars": 12028600,
-          "contractsInPercentageNationwide": 2.11,
-          "acresInPercentageNationwide": 1.31,
-          "assistancePaymentInPercentageNationwide": 0.52,
+          "techPaymentInDollars": 5156600,
+          "paymentInDollars": 13911200,
+          "contractsInPercentageNationwide": 0.0,
+          "acresInPercentageNationwide": 0.0,
+          "assistancePaymentInPercentageNationwide": 0.55,
           "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 1.22,
-          "totalPaymentInPercentageNationwide": 0.63,
-          "assistancePaymentInPercentageWithinState": 67.91,
+          "techPaymentInPercentageNationwide": 1.63,
+          "totalPaymentInPercentageNationwide": 0.73,
+          "assistancePaymentInPercentageWithinState": 62.93,
           "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 32.09,
+          "techPaymentInPercentageWithinState": 37.07,
           "subPrograms": []
         }
       ]
@@ -1028,6 +1004,30 @@
           "assistancePaymentInPercentageWithinState": 78.86,
           "reimbursePaymentInPercentageWithinState": 0.0,
           "techPaymentInPercentageWithinState": 21.14,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Minnesota",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 26,
+          "totalAcres": 1765,
+          "assistancePaymentInDollars": 8169100,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3859500,
+          "paymentInDollars": 12028600,
+          "contractsInPercentageNationwide": 2.11,
+          "acresInPercentageNationwide": 1.31,
+          "assistancePaymentInPercentageNationwide": 0.52,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.22,
+          "totalPaymentInPercentageNationwide": 0.63,
+          "assistancePaymentInPercentageWithinState": 67.91,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 32.09,
           "subPrograms": []
         }
       ]
@@ -1105,30 +1105,6 @@
       ]
     },
     {
-      "state": "Nevada",
-      "programs": [
-        {
-          "programName": "ACEP",
-          "totalContracts": 6,
-          "totalAcres": 157,
-          "assistancePaymentInDollars": 1479800,
-          "reimbursePaymentInDollars": 0,
-          "techPaymentInDollars": 1554700,
-          "paymentInDollars": 3034500,
-          "contractsInPercentageNationwide": 0.49,
-          "acresInPercentageNationwide": 0.12,
-          "assistancePaymentInPercentageNationwide": 0.09,
-          "reimbursePaymentInPercentageNationwide": 0.0,
-          "techPaymentInPercentageNationwide": 0.49,
-          "totalPaymentInPercentageNationwide": 0.16,
-          "assistancePaymentInPercentageWithinState": 48.77,
-          "reimbursePaymentInPercentageWithinState": 0.0,
-          "techPaymentInPercentageWithinState": 51.23,
-          "subPrograms": []
-        }
-      ]
-    },
-    {
       "state": "Maine",
       "programs": [
         {
@@ -1148,6 +1124,30 @@
           "assistancePaymentInPercentageWithinState": 54.08,
           "reimbursePaymentInPercentageWithinState": 0.0,
           "techPaymentInPercentageWithinState": 45.92,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Nevada",
+      "programs": [
+        {
+          "programName": "ACEP",
+          "totalContracts": 6,
+          "totalAcres": 157,
+          "assistancePaymentInDollars": 1479800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1554700,
+          "paymentInDollars": 3034500,
+          "contractsInPercentageNationwide": 0.49,
+          "acresInPercentageNationwide": 0.12,
+          "assistancePaymentInPercentageNationwide": 0.09,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.49,
+          "totalPaymentInPercentageNationwide": 0.16,
+          "assistancePaymentInPercentageWithinState": 48.77,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 51.23,
           "subPrograms": []
         }
       ]
