@@ -1,6 +1,7 @@
 import os
 
 from data_parser import DataParser
+from parsers.rcpp_parser import RcppParser
 
 if __name__ == '__main__':
     commodities_data_parser = DataParser(2014, 2021, "Title 1: Commodities",
@@ -25,3 +26,9 @@ if __name__ == '__main__':
     crop_insurance_data_parser = DataParser(2018, 2022, "Crop Insurance",
                                             "crop-insurance", "ci_state_year_benefits 8-28-23.csv")
     crop_insurance_data_parser.parse_and_process_crop_insurance()
+
+    rcpp_data_parser = RcppParser(2018, 2022, "Title 2: Conservation: ACEP",
+                                  os.path.join("title-2-conservation", "rcpp"),
+                                  "RCPP.csv")
+
+    rcpp_data_parser.parse_and_process()
