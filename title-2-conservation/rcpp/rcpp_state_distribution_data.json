@@ -1,0 +1,1204 @@
+{
+  "2018-2022": [
+    {
+      "state": "California",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 3318,
+          "totalAcres": 982684,
+          "assistancePaymentInDollars": 23082800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 7498500,
+          "paymentInDollars": 30581300,
+          "contractsInPercentageNationwide": 2.46,
+          "acresInPercentageNationwide": 4.9,
+          "assistancePaymentInPercentageNationwide": 9.22,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 5.97,
+          "totalPaymentInPercentageNationwide": 8.14,
+          "assistancePaymentInPercentageWithinState": 75.48,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 24.52,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Florida",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 581,
+          "totalAcres": 68967,
+          "assistancePaymentInDollars": 18559700,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 4615800,
+          "paymentInDollars": 23175500,
+          "contractsInPercentageNationwide": 0.43,
+          "acresInPercentageNationwide": 0.34,
+          "assistancePaymentInPercentageNationwide": 7.42,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 3.68,
+          "totalPaymentInPercentageNationwide": 6.17,
+          "assistancePaymentInPercentageWithinState": 80.08,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 19.92,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Iowa",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 7458,
+          "totalAcres": 353320,
+          "assistancePaymentInDollars": 17324600,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 7182700,
+          "paymentInDollars": 24507300,
+          "contractsInPercentageNationwide": 5.54,
+          "acresInPercentageNationwide": 1.76,
+          "assistancePaymentInPercentageNationwide": 6.92,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 5.72,
+          "totalPaymentInPercentageNationwide": 6.52,
+          "assistancePaymentInPercentageWithinState": 70.69,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 29.31,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Michigan",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 6451,
+          "totalAcres": 446096,
+          "assistancePaymentInDollars": 16737700,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 5857799,
+          "paymentInDollars": 22595500,
+          "contractsInPercentageNationwide": 4.79,
+          "acresInPercentageNationwide": 2.23,
+          "assistancePaymentInPercentageNationwide": 6.69,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 4.67,
+          "totalPaymentInPercentageNationwide": 6.01,
+          "assistancePaymentInPercentageWithinState": 74.08,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 25.92,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Alabama",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 1614,
+          "totalAcres": 64050,
+          "assistancePaymentInDollars": 13529000,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1860000,
+          "paymentInDollars": 15389000,
+          "contractsInPercentageNationwide": 1.2,
+          "acresInPercentageNationwide": 0.32,
+          "assistancePaymentInPercentageNationwide": 5.41,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.48,
+          "totalPaymentInPercentageNationwide": 4.09,
+          "assistancePaymentInPercentageWithinState": 87.91,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 12.09,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Oregon",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 3172,
+          "totalAcres": 2945884,
+          "assistancePaymentInDollars": 13003300,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 7040900,
+          "paymentInDollars": 20044200,
+          "contractsInPercentageNationwide": 2.35,
+          "acresInPercentageNationwide": 14.69,
+          "assistancePaymentInPercentageNationwide": 5.2,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 5.61,
+          "totalPaymentInPercentageNationwide": 5.33,
+          "assistancePaymentInPercentageWithinState": 64.87,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 35.13,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Arizona",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 394,
+          "totalAcres": 1594550,
+          "assistancePaymentInDollars": 11339200,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3918700,
+          "paymentInDollars": 15257900,
+          "contractsInPercentageNationwide": 0.29,
+          "acresInPercentageNationwide": 7.95,
+          "assistancePaymentInPercentageNationwide": 4.53,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 3.12,
+          "totalPaymentInPercentageNationwide": 4.06,
+          "assistancePaymentInPercentageWithinState": 74.32,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 25.68,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Georgia",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 1229,
+          "totalAcres": 47132,
+          "assistancePaymentInDollars": 10470500,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 2397400,
+          "paymentInDollars": 12867900,
+          "contractsInPercentageNationwide": 0.91,
+          "acresInPercentageNationwide": 0.24,
+          "assistancePaymentInPercentageNationwide": 4.18,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.91,
+          "totalPaymentInPercentageNationwide": 3.42,
+          "assistancePaymentInPercentageWithinState": 81.37,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 18.63,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Illinois",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 4760,
+          "totalAcres": 166819,
+          "assistancePaymentInDollars": 7814700,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1531000,
+          "paymentInDollars": 9345700,
+          "contractsInPercentageNationwide": 3.53,
+          "acresInPercentageNationwide": 0.83,
+          "assistancePaymentInPercentageNationwide": 3.12,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.22,
+          "totalPaymentInPercentageNationwide": 2.49,
+          "assistancePaymentInPercentageWithinState": 83.62,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 16.38,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Minnesota",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 5586,
+          "totalAcres": 268927,
+          "assistancePaymentInDollars": 7410900,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3851000,
+          "paymentInDollars": 11261900,
+          "contractsInPercentageNationwide": 4.15,
+          "acresInPercentageNationwide": 1.34,
+          "assistancePaymentInPercentageNationwide": 2.96,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 3.07,
+          "totalPaymentInPercentageNationwide": 3.0,
+          "assistancePaymentInPercentageWithinState": 65.81,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 34.19,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 2242,
+          "totalAcres": 27120,
+          "assistancePaymentInDollars": 7109200,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 5038000,
+          "paymentInDollars": 12147200,
+          "contractsInPercentageNationwide": 1.66,
+          "acresInPercentageNationwide": 0.14,
+          "assistancePaymentInPercentageNationwide": 2.84,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 4.01,
+          "totalPaymentInPercentageNationwide": 3.23,
+          "assistancePaymentInPercentageWithinState": 58.53,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 41.47,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Colorado",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 278,
+          "totalAcres": 41778,
+          "assistancePaymentInDollars": 6931500,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1406900,
+          "paymentInDollars": 8338400,
+          "contractsInPercentageNationwide": 0.21,
+          "acresInPercentageNationwide": 0.21,
+          "assistancePaymentInPercentageNationwide": 2.77,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.12,
+          "totalPaymentInPercentageNationwide": 2.22,
+          "assistancePaymentInPercentageWithinState": 83.13,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 16.87,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 3740,
+          "totalAcres": 265579,
+          "assistancePaymentInDollars": 6796800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3789100,
+          "paymentInDollars": 10585900,
+          "contractsInPercentageNationwide": 2.78,
+          "acresInPercentageNationwide": 1.32,
+          "assistancePaymentInPercentageNationwide": 2.72,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 3.02,
+          "totalPaymentInPercentageNationwide": 2.82,
+          "assistancePaymentInPercentageWithinState": 64.21,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 35.79,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Arkansas",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 12978,
+          "totalAcres": 741010,
+          "assistancePaymentInDollars": 6735900,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3622300,
+          "paymentInDollars": 10358199,
+          "contractsInPercentageNationwide": 9.63,
+          "acresInPercentageNationwide": 3.7,
+          "assistancePaymentInPercentageNationwide": 2.69,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 2.89,
+          "totalPaymentInPercentageNationwide": 2.76,
+          "assistancePaymentInPercentageWithinState": 65.03,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 34.97,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Maryland",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 4083,
+          "totalAcres": 72226,
+          "assistancePaymentInDollars": 6105900,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 2035200,
+          "paymentInDollars": 8141100,
+          "contractsInPercentageNationwide": 3.03,
+          "acresInPercentageNationwide": 0.36,
+          "assistancePaymentInPercentageNationwide": 2.44,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.62,
+          "totalPaymentInPercentageNationwide": 2.17,
+          "assistancePaymentInPercentageWithinState": 75.0,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 25.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Washington",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 2961,
+          "totalAcres": 266809,
+          "assistancePaymentInDollars": 5636900,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 2603900,
+          "paymentInDollars": 8240799,
+          "contractsInPercentageNationwide": 2.2,
+          "acresInPercentageNationwide": 1.33,
+          "assistancePaymentInPercentageNationwide": 2.25,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 2.07,
+          "totalPaymentInPercentageNationwide": 2.19,
+          "assistancePaymentInPercentageWithinState": 68.4,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 31.6,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Vermont",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 2242,
+          "totalAcres": 99375,
+          "assistancePaymentInDollars": 5272100,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 4182700,
+          "paymentInDollars": 9454800,
+          "contractsInPercentageNationwide": 1.66,
+          "acresInPercentageNationwide": 0.5,
+          "assistancePaymentInPercentageNationwide": 2.11,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 3.33,
+          "totalPaymentInPercentageNationwide": 2.52,
+          "assistancePaymentInPercentageWithinState": 55.76,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 44.24,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Missouri",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 9212,
+          "totalAcres": 465530,
+          "assistancePaymentInDollars": 5255000,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1818100,
+          "paymentInDollars": 7073100,
+          "contractsInPercentageNationwide": 6.84,
+          "acresInPercentageNationwide": 2.32,
+          "assistancePaymentInPercentageNationwide": 2.1,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.45,
+          "totalPaymentInPercentageNationwide": 1.88,
+          "assistancePaymentInPercentageWithinState": 74.3,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 25.7,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Wyoming",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 576,
+          "totalAcres": 440971,
+          "assistancePaymentInDollars": 4653500,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 464900,
+          "paymentInDollars": 5118400,
+          "contractsInPercentageNationwide": 0.43,
+          "acresInPercentageNationwide": 2.2,
+          "assistancePaymentInPercentageNationwide": 1.86,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.37,
+          "totalPaymentInPercentageNationwide": 1.36,
+          "assistancePaymentInPercentageWithinState": 90.92,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 9.08,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Maine",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 288,
+          "totalAcres": 1816840,
+          "assistancePaymentInDollars": 4515800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 4499600,
+          "paymentInDollars": 9015400,
+          "contractsInPercentageNationwide": 0.21,
+          "acresInPercentageNationwide": 9.06,
+          "assistancePaymentInPercentageNationwide": 1.8,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 3.58,
+          "totalPaymentInPercentageNationwide": 2.4,
+          "assistancePaymentInPercentageWithinState": 50.09,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 49.91,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 5229,
+          "totalAcres": 484335,
+          "assistancePaymentInDollars": 4461600,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3633500,
+          "paymentInDollars": 8095100,
+          "contractsInPercentageNationwide": 3.88,
+          "acresInPercentageNationwide": 2.42,
+          "assistancePaymentInPercentageNationwide": 1.78,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 2.89,
+          "totalPaymentInPercentageNationwide": 2.15,
+          "assistancePaymentInPercentageWithinState": 55.11,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 44.89,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Texas",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 4329,
+          "totalAcres": 447126,
+          "assistancePaymentInDollars": 4239800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1866600,
+          "paymentInDollars": 6106400,
+          "contractsInPercentageNationwide": 3.21,
+          "acresInPercentageNationwide": 2.23,
+          "assistancePaymentInPercentageNationwide": 1.69,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.49,
+          "totalPaymentInPercentageNationwide": 1.62,
+          "assistancePaymentInPercentageWithinState": 69.43,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 30.57,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Wisconsin",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 3800,
+          "totalAcres": 135363,
+          "assistancePaymentInDollars": 3823600,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 4475500,
+          "paymentInDollars": 8299100,
+          "contractsInPercentageNationwide": 2.82,
+          "acresInPercentageNationwide": 0.68,
+          "assistancePaymentInPercentageNationwide": 1.53,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 3.56,
+          "totalPaymentInPercentageNationwide": 2.21,
+          "assistancePaymentInPercentageWithinState": 46.07,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 53.93,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Montana",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 955,
+          "totalAcres": 82776,
+          "assistancePaymentInDollars": 3349800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 2271400,
+          "paymentInDollars": 5621200,
+          "contractsInPercentageNationwide": 0.71,
+          "acresInPercentageNationwide": 0.41,
+          "assistancePaymentInPercentageNationwide": 1.34,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.81,
+          "totalPaymentInPercentageNationwide": 1.5,
+          "assistancePaymentInPercentageWithinState": 59.59,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 40.41,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Nebraska",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 2320,
+          "totalAcres": 221663,
+          "assistancePaymentInDollars": 3129400,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 4442700,
+          "paymentInDollars": 7572100,
+          "contractsInPercentageNationwide": 1.72,
+          "acresInPercentageNationwide": 1.11,
+          "assistancePaymentInPercentageNationwide": 1.25,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 3.54,
+          "totalPaymentInPercentageNationwide": 2.01,
+          "assistancePaymentInPercentageWithinState": 41.33,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 58.67,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Virginia",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 4318,
+          "totalAcres": 115030,
+          "assistancePaymentInDollars": 2799400,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1762800,
+          "paymentInDollars": 4562200,
+          "contractsInPercentageNationwide": 3.21,
+          "acresInPercentageNationwide": 0.57,
+          "assistancePaymentInPercentageNationwide": 1.12,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.4,
+          "totalPaymentInPercentageNationwide": 1.21,
+          "assistancePaymentInPercentageWithinState": 61.36,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 38.64,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "North Dakota",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 659,
+          "totalAcres": 153862,
+          "assistancePaymentInDollars": 2776900,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 5414299,
+          "paymentInDollars": 8191200,
+          "contractsInPercentageNationwide": 0.49,
+          "acresInPercentageNationwide": 0.77,
+          "assistancePaymentInPercentageNationwide": 1.11,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 4.31,
+          "totalPaymentInPercentageNationwide": 2.18,
+          "assistancePaymentInPercentageWithinState": 33.9,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 66.1,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Nevada",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 134,
+          "totalAcres": 26221,
+          "assistancePaymentInDollars": 2743799,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 335500,
+          "paymentInDollars": 3079300,
+          "contractsInPercentageNationwide": 0.1,
+          "acresInPercentageNationwide": 0.13,
+          "assistancePaymentInPercentageNationwide": 1.1,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.27,
+          "totalPaymentInPercentageNationwide": 0.82,
+          "assistancePaymentInPercentageWithinState": 89.1,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 10.9,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Ohio",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 3047,
+          "totalAcres": 60576,
+          "assistancePaymentInDollars": 2407000,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 966500,
+          "paymentInDollars": 3373500,
+          "contractsInPercentageNationwide": 2.26,
+          "acresInPercentageNationwide": 0.3,
+          "assistancePaymentInPercentageNationwide": 0.96,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.77,
+          "totalPaymentInPercentageNationwide": 0.9,
+          "assistancePaymentInPercentageWithinState": 71.35,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 28.65,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Mississippi",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 4582,
+          "totalAcres": 225118,
+          "assistancePaymentInDollars": 2191300,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 577600,
+          "paymentInDollars": 2768900,
+          "contractsInPercentageNationwide": 3.4,
+          "acresInPercentageNationwide": 1.12,
+          "assistancePaymentInPercentageNationwide": 0.88,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.46,
+          "totalPaymentInPercentageNationwide": 0.74,
+          "assistancePaymentInPercentageWithinState": 79.14,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 20.86,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 1827,
+          "totalAcres": 60555,
+          "assistancePaymentInDollars": 2121700,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1612700,
+          "paymentInDollars": 3734400,
+          "contractsInPercentageNationwide": 1.36,
+          "acresInPercentageNationwide": 0.3,
+          "assistancePaymentInPercentageNationwide": 0.85,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.28,
+          "totalPaymentInPercentageNationwide": 0.99,
+          "assistancePaymentInPercentageWithinState": 56.82,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 43.18,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "New Mexico",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 1057,
+          "totalAcres": 5122630,
+          "assistancePaymentInDollars": 2008199,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3403700,
+          "paymentInDollars": 5411900,
+          "contractsInPercentageNationwide": 0.78,
+          "acresInPercentageNationwide": 25.55,
+          "assistancePaymentInPercentageNationwide": 0.8,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 2.71,
+          "totalPaymentInPercentageNationwide": 1.44,
+          "assistancePaymentInPercentageWithinState": 37.11,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 62.89,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Utah",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 112,
+          "totalAcres": 184624,
+          "assistancePaymentInDollars": 1986500,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 3591700,
+          "paymentInDollars": 5578200,
+          "contractsInPercentageNationwide": 0.08,
+          "acresInPercentageNationwide": 0.92,
+          "assistancePaymentInPercentageNationwide": 0.79,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 2.86,
+          "totalPaymentInPercentageNationwide": 1.48,
+          "assistancePaymentInPercentageWithinState": 35.61,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 64.39,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Kansas",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 2696,
+          "totalAcres": 270724,
+          "assistancePaymentInDollars": 1954100,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 2837200,
+          "paymentInDollars": 4791300,
+          "contractsInPercentageNationwide": 2.0,
+          "acresInPercentageNationwide": 1.35,
+          "assistancePaymentInPercentageNationwide": 0.78,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 2.26,
+          "totalPaymentInPercentageNationwide": 1.27,
+          "assistancePaymentInPercentageWithinState": 40.78,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 59.22,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Rhode Island",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 148,
+          "totalAcres": 4182,
+          "assistancePaymentInDollars": 1421800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1259200,
+          "paymentInDollars": 2681000,
+          "contractsInPercentageNationwide": 0.11,
+          "acresInPercentageNationwide": 0.02,
+          "assistancePaymentInPercentageNationwide": 0.57,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.0,
+          "totalPaymentInPercentageNationwide": 0.71,
+          "assistancePaymentInPercentageWithinState": 53.03,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 46.97,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 12806,
+          "totalAcres": 518778,
+          "assistancePaymentInDollars": 1406100,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1132700,
+          "paymentInDollars": 2538800,
+          "contractsInPercentageNationwide": 9.51,
+          "acresInPercentageNationwide": 2.59,
+          "assistancePaymentInPercentageNationwide": 0.56,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.9,
+          "totalPaymentInPercentageNationwide": 0.68,
+          "assistancePaymentInPercentageWithinState": 55.38,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 44.62,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Massachusetts",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 333,
+          "totalAcres": 15869,
+          "assistancePaymentInDollars": 1375500,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1367000,
+          "paymentInDollars": 2742500,
+          "contractsInPercentageNationwide": 0.25,
+          "acresInPercentageNationwide": 0.08,
+          "assistancePaymentInPercentageNationwide": 0.55,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.09,
+          "totalPaymentInPercentageNationwide": 0.73,
+          "assistancePaymentInPercentageWithinState": 50.15,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 49.85,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 2203,
+          "totalAcres": 63345,
+          "assistancePaymentInDollars": 1359400,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1807200,
+          "paymentInDollars": 3166600,
+          "contractsInPercentageNationwide": 1.64,
+          "acresInPercentageNationwide": 0.32,
+          "assistancePaymentInPercentageNationwide": 0.54,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.44,
+          "totalPaymentInPercentageNationwide": 0.84,
+          "assistancePaymentInPercentageWithinState": 42.93,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 57.07,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "New York",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 1196,
+          "totalAcres": 25272,
+          "assistancePaymentInDollars": 1129200,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 569000,
+          "paymentInDollars": 1698200,
+          "contractsInPercentageNationwide": 0.89,
+          "acresInPercentageNationwide": 0.13,
+          "assistancePaymentInPercentageNationwide": 0.45,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.45,
+          "totalPaymentInPercentageNationwide": 0.45,
+          "assistancePaymentInPercentageWithinState": 66.49,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 33.51,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Indiana",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 3481,
+          "totalAcres": 117972,
+          "assistancePaymentInDollars": 1075900,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1328000,
+          "paymentInDollars": 2403900,
+          "contractsInPercentageNationwide": 2.58,
+          "acresInPercentageNationwide": 0.59,
+          "assistancePaymentInPercentageNationwide": 0.43,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 1.06,
+          "totalPaymentInPercentageNationwide": 0.64,
+          "assistancePaymentInPercentageWithinState": 44.76,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 55.24,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Connecticut",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 306,
+          "totalAcres": 5394,
+          "assistancePaymentInDollars": 1024099,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 824400,
+          "paymentInDollars": 1848500,
+          "contractsInPercentageNationwide": 0.23,
+          "acresInPercentageNationwide": 0.03,
+          "assistancePaymentInPercentageNationwide": 0.41,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.66,
+          "totalPaymentInPercentageNationwide": 0.49,
+          "assistancePaymentInPercentageWithinState": 55.4,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 44.6,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Delaware",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 1494,
+          "totalAcres": 25294,
+          "assistancePaymentInDollars": 1008300,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 474000,
+          "paymentInDollars": 1482300,
+          "contractsInPercentageNationwide": 1.11,
+          "acresInPercentageNationwide": 0.13,
+          "assistancePaymentInPercentageNationwide": 0.4,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.38,
+          "totalPaymentInPercentageNationwide": 0.39,
+          "assistancePaymentInPercentageWithinState": 68.02,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 31.98,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "West Virginia",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 265,
+          "totalAcres": 37456,
+          "assistancePaymentInDollars": 797800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1029900,
+          "paymentInDollars": 1827700,
+          "contractsInPercentageNationwide": 0.2,
+          "acresInPercentageNationwide": 0.19,
+          "assistancePaymentInPercentageNationwide": 0.32,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.82,
+          "totalPaymentInPercentageNationwide": 0.49,
+          "assistancePaymentInPercentageWithinState": 43.65,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 56.35,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Idaho",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 1957,
+          "totalAcres": 182331,
+          "assistancePaymentInDollars": 661800,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 980599,
+          "paymentInDollars": 1642400,
+          "contractsInPercentageNationwide": 1.45,
+          "acresInPercentageNationwide": 0.91,
+          "assistancePaymentInPercentageNationwide": 0.26,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.78,
+          "totalPaymentInPercentageNationwide": 0.44,
+          "assistancePaymentInPercentageWithinState": 40.29,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 59.71,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "New Hampshire",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 217,
+          "totalAcres": 202235,
+          "assistancePaymentInDollars": 399400,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 1150600,
+          "paymentInDollars": 1550000,
+          "contractsInPercentageNationwide": 0.16,
+          "acresInPercentageNationwide": 1.01,
+          "assistancePaymentInPercentageNationwide": 0.16,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.92,
+          "totalPaymentInPercentageNationwide": 0.41,
+          "assistancePaymentInPercentageWithinState": 25.77,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 74.23,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "New Jersey",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 1410,
+          "totalAcres": 28260,
+          "assistancePaymentInDollars": 336000,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 720200,
+          "paymentInDollars": 1056200,
+          "contractsInPercentageNationwide": 1.05,
+          "acresInPercentageNationwide": 0.14,
+          "assistancePaymentInPercentageNationwide": 0.13,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.57,
+          "totalPaymentInPercentageNationwide": 0.28,
+          "assistancePaymentInPercentageWithinState": 31.81,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 68.19,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Alaska",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 0,
+          "totalAcres": 0,
+          "assistancePaymentInDollars": 0,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 0,
+          "paymentInDollars": 0,
+          "contractsInPercentageNationwide": 0.0,
+          "acresInPercentageNationwide": 0.0,
+          "assistancePaymentInPercentageNationwide": 0.0,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.0,
+          "totalPaymentInPercentageNationwide": 0.0,
+          "assistancePaymentInPercentageWithinState": 0,
+          "reimbursePaymentInPercentageWithinState": 0,
+          "techPaymentInPercentageWithinState": 0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Hawaii",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 0,
+          "totalAcres": 0,
+          "assistancePaymentInDollars": 0,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 0,
+          "paymentInDollars": 0,
+          "contractsInPercentageNationwide": 0.0,
+          "acresInPercentageNationwide": 0.0,
+          "assistancePaymentInPercentageNationwide": 0.0,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.0,
+          "totalPaymentInPercentageNationwide": 0.0,
+          "assistancePaymentInPercentageWithinState": 0,
+          "reimbursePaymentInPercentageWithinState": 0,
+          "techPaymentInPercentageWithinState": 0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 449,
+          "totalAcres": 48728,
+          "assistancePaymentInDollars": 0,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 301800,
+          "paymentInDollars": 301800,
+          "contractsInPercentageNationwide": 0.33,
+          "acresInPercentageNationwide": 0.24,
+          "assistancePaymentInPercentageNationwide": 0.0,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.24,
+          "totalPaymentInPercentageNationwide": 0.08,
+          "assistancePaymentInPercentageWithinState": 0.0,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 100.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "programs": [
+        {
+          "programName": "RCPP",
+          "totalContracts": 218,
+          "totalAcres": 5743,
+          "assistancePaymentInDollars": 0,
+          "reimbursePaymentInDollars": 0,
+          "techPaymentInDollars": 192600,
+          "paymentInDollars": 192600,
+          "contractsInPercentageNationwide": 0.16,
+          "acresInPercentageNationwide": 0.03,
+          "assistancePaymentInPercentageNationwide": 0.0,
+          "reimbursePaymentInPercentageNationwide": 0.0,
+          "techPaymentInPercentageNationwide": 0.15,
+          "totalPaymentInPercentageNationwide": 0.05,
+          "assistancePaymentInPercentageWithinState": 0.0,
+          "reimbursePaymentInPercentageWithinState": 0.0,
+          "techPaymentInPercentageWithinState": 100.0,
+          "subPrograms": []
+        }
+      ]
+    }
+  ]
+}

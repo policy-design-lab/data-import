@@ -2,6 +2,7 @@ import os
 
 from data_parser import DataParser
 from parsers.acep_parser import AcepParser
+from parsers.rcpp_parser import RcppParser
 
 if __name__ == '__main__':
     commodities_data_parser = DataParser(2014, 2021, "Title 1: Commodities",
@@ -32,3 +33,9 @@ if __name__ == '__main__':
                                   "ACEP.csv")
 
     acep_data_parser.parse_and_process()
+
+    rcpp_data_parser = RcppParser(2018, 2022, "Title 2: Conservation: ACEP",
+                                  os.path.join("title-2-conservation", "rcpp"),
+                                  "RCPP.csv")
+
+    rcpp_data_parser.parse_and_process()
