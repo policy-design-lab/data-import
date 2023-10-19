@@ -3,6 +3,7 @@ import os
 from data_parser import DataParser
 from parsers.acep_parser import AcepParser
 from parsers.rcpp_parser import RcppParser
+from parsers.dairy_disaster_parser import DairyDisasterParser
 
 if __name__ == '__main__':
     commodities_data_parser = DataParser(2014, 2021, "Title 1: Commodities",
@@ -39,3 +40,8 @@ if __name__ == '__main__':
                                   "RCPP.csv")
 
     rcpp_data_parser.parse_and_process()
+
+    dairy_disaster_parser = DairyDisasterParser(2018, 2022, "Title 1: Commodities: Dairy and Disaster",
+                                                "title-1-commodities", "Dairy-Disaster.csv")
+
+    dairy_disaster_parser.parse_and_process()

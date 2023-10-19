@@ -21,6 +21,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   files. [#40](https://github.com/policy-design-lab/data-import/issues/40)
 - Total area insured in Crop insurance JSON files. [#49](https://github.com/policy-design-lab/data-import/issues/49)
 - ACEP data import program and generate JSON. [#54](https://github.com/policy-design-lab/data-import/issues/54)
+- RCPP data import program and generate JSON. [#57](https://github.com/policy-design-lab/data-import/issues/57)
+- Dairy and Disaster data import program and generate JSON files. [#59](https://github.com/policy-design-lab/data-import/issues/59)
 
 ### Changed
 
