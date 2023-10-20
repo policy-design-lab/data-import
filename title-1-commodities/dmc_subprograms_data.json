@@ -1,8 +1,8 @@
 {
   "programs": [
     {
-      "programName": "Dairy",
-      "totalPayments": 2038114204.51,
+      "programName": "DMC",
+      "paymentInDollars": 2038114204.51,
       "totalContacts": 1144714,
       "subPrograms": []
     }

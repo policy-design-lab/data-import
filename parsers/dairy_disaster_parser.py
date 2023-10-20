@@ -145,7 +145,7 @@ class DairyDisasterParser:
                 "state": state,
                 "programs": [
                     {
-                        "programName": "Dairy",
+                        "programName": "DMC",
                         "totalCounts": int(sum_by_dairy_count_by_state[state].item()),
                         "paymentInDollars": round(sum_by_dairy_payments_by_state[state].item(), 2),
                         "paymentInPercentageNationwide": dairy_payments_percentage_nation,
@@ -165,7 +165,7 @@ class DairyDisasterParser:
                        key=lambda x: x["programs"][0]["paymentInDollars"], reverse=True)
 
         # Write processed_data_dict as JSON data
-        with open(os.path.join(self.data_folder, "dairy_state_distribution_data.json"),
+        with open(os.path.join(self.data_folder, "dmc_state_distribution_data.json"),
                   "w") as output_json_file:
             output_json_file.write(json.dumps(self.dairy_state_distribution_data_dict, indent=2))
 
@@ -180,7 +180,7 @@ class DairyDisasterParser:
         self.dairy_program_data_dict = {
             "programs": [
                 {
-                    "programName": "Dairy",
+                    "programName": "DMC",
                     "paymentInDollars": round(dairy_total_by_payments.item(), 2),
                     "totalContacts": int(dairy_total_by_count.item()),
                     "subPrograms": []
@@ -189,7 +189,7 @@ class DairyDisasterParser:
         }
 
         # Write processed_data_dict as JSON data
-        with open(os.path.join(self.data_folder, "dairy_subprograms_data.json"), "w") as output_json_file:
+        with open(os.path.join(self.data_folder, "dmc_subprograms_data.json"), "w") as output_json_file:
             output_json_file.write(json.dumps(self.dairy_program_data_dict, indent=2))
 
         ###############################################################
@@ -386,7 +386,7 @@ class DairyDisasterParser:
                 "state": state,
                 "programs": [
                     {
-                        "programName": "Disaster",
+                        "programName": "SADA",
                         "totalCounts": int(sum_by_disaster_count_by_state[state].item()),
                         "paymentInDollars": round(sum_by_disaster_payments_by_state[state].item(),2),
                         "paymentInPercentageNationwide": disaster_payments_percentage_nation,
@@ -443,7 +443,7 @@ class DairyDisasterParser:
                        key=lambda x: x["programs"][0]["paymentInDollars"], reverse=True)
 
         # Write processed_data_dict as JSON data
-        with open(os.path.join(self.data_folder, "disaster_state_distribution_data.json"),
+        with open(os.path.join(self.data_folder, "sada_state_distribution_data.json"),
                   "w") as output_json_file:
             output_json_file.write(json.dumps(self.disaster_state_distribution_data_dict, indent=2))
 
@@ -473,7 +473,7 @@ class DairyDisasterParser:
         self.disaster_program_data_dict = {
             "programs": [
                 {
-                    "programName": "Disaster",
+                    "programName": "SADA",
                     "paymentInDollars": round(disaster_total_by_payments.item(), 2),
                     "totalCounts": int(disaster_total_by_count.item()),
                     "subPrograms": [
@@ -503,5 +503,5 @@ class DairyDisasterParser:
         }
 
         # Write processed_data_dict as JSON data
-        with open(os.path.join(self.data_folder, "disaster_subprograms_data.json"), "w") as output_json_file:
+        with open(os.path.join(self.data_folder, "sada_subprograms_data.json"), "w") as output_json_file:
             output_json_file.write(json.dumps(self.disaster_program_data_dict, indent=2))
