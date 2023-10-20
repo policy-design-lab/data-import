@@ -1,0 +1,2504 @@
+{
+  "2018-2022": [
+    {
+      "state": "Texas",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 136672,
+          "paymentInDollars": 586402195.7,
+          "paymentInPercentageNationwide": 16.62,
+          "countInPercentageNationwide": 24.19,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 624,
+              "paymentInDollars": 35165354.45,
+              "paymentInPercentageNationwide": 14.44,
+              "countInPercentageNationwide": 2.43,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 134240,
+              "paymentInDollars": 537009069.81,
+              "paymentInPercentageNationwide": 17.36,
+              "countInPercentageNationwide": 26.29,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1753,
+              "paymentInDollars": 11758098.0,
+              "paymentInPercentageNationwide": 7.1,
+              "countInPercentageNationwide": 6.37,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 55,
+              "paymentInDollars": 2469673.44,
+              "paymentInPercentageNationwide": 9.27,
+              "countInPercentageNationwide": 5.11,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 78096,
+          "paymentInDollars": 517692542.7,
+          "paymentInPercentageNationwide": 14.67,
+          "countInPercentageNationwide": 13.82,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 369,
+              "paymentInDollars": 1802578.64,
+              "paymentInPercentageNationwide": 0.74,
+              "countInPercentageNationwide": 1.43,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 75500,
+              "paymentInDollars": 508840454.47,
+              "paymentInPercentageNationwide": 16.45,
+              "countInPercentageNationwide": 14.79,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 2221,
+              "paymentInDollars": 6923921.87,
+              "paymentInPercentageNationwide": 4.18,
+              "countInPercentageNationwide": 8.07,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 6,
+              "paymentInDollars": 125587.72,
+              "paymentInPercentageNationwide": 0.47,
+              "countInPercentageNationwide": 0.56,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Missouri",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 48706,
+          "paymentInDollars": 216876010.39,
+          "paymentInPercentageNationwide": 6.15,
+          "countInPercentageNationwide": 8.62,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 570,
+              "paymentInDollars": 815253.77,
+              "paymentInPercentageNationwide": 0.33,
+              "countInPercentageNationwide": 2.22,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 47013,
+              "paymentInDollars": 214216066.71,
+              "paymentInPercentageNationwide": 6.93,
+              "countInPercentageNationwide": 9.21,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1117,
+              "paymentInDollars": 1829125.0,
+              "paymentInPercentageNationwide": 1.1,
+              "countInPercentageNationwide": 4.06,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 6,
+              "paymentInDollars": 15564.91,
+              "paymentInPercentageNationwide": 0.06,
+              "countInPercentageNationwide": 0.56,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 29415,
+          "paymentInDollars": 214516943.04,
+          "paymentInPercentageNationwide": 6.08,
+          "countInPercentageNationwide": 5.21,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 1390,
+              "paymentInDollars": 11082632.24,
+              "paymentInPercentageNationwide": 4.55,
+              "countInPercentageNationwide": 5.4,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 23737,
+              "paymentInDollars": 172767286.8,
+              "paymentInPercentageNationwide": 5.59,
+              "countInPercentageNationwide": 4.65,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 4288,
+              "paymentInDollars": 30667024.0,
+              "paymentInPercentageNationwide": 18.51,
+              "countInPercentageNationwide": 15.59,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Montana",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 16971,
+          "paymentInDollars": 199300618.43,
+          "paymentInPercentageNationwide": 5.65,
+          "countInPercentageNationwide": 3.0,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 525,
+              "paymentInDollars": 6720957.24,
+              "paymentInPercentageNationwide": 2.76,
+              "countInPercentageNationwide": 2.04,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 14470,
+              "paymentInDollars": 175451326.0,
+              "paymentInPercentageNationwide": 5.67,
+              "countInPercentageNationwide": 2.83,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1976,
+              "paymentInDollars": 17128335.19,
+              "paymentInPercentageNationwide": 10.34,
+              "countInPercentageNationwide": 7.18,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Nebraska",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 27798,
+          "paymentInDollars": 184682740.45,
+          "paymentInPercentageNationwide": 5.23,
+          "countInPercentageNationwide": 4.92,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 554,
+              "paymentInDollars": 5809224.04,
+              "paymentInPercentageNationwide": 2.39,
+              "countInPercentageNationwide": 2.15,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 23002,
+              "paymentInDollars": 149826927.0,
+              "paymentInPercentageNationwide": 4.84,
+              "countInPercentageNationwide": 4.5,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 4242,
+              "paymentInDollars": 29046589.41,
+              "paymentInPercentageNationwide": 17.54,
+              "countInPercentageNationwide": 15.42,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kansas",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 39382,
+          "paymentInDollars": 179509196.65,
+          "paymentInPercentageNationwide": 5.09,
+          "countInPercentageNationwide": 6.97,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 754,
+              "paymentInDollars": 1370120.55,
+              "paymentInPercentageNationwide": 0.56,
+              "countInPercentageNationwide": 2.93,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 35562,
+              "paymentInDollars": 164520175.88,
+              "paymentInPercentageNationwide": 5.32,
+              "countInPercentageNationwide": 6.96,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 3063,
+              "paymentInDollars": 13593410.0,
+              "paymentInPercentageNationwide": 8.21,
+              "countInPercentageNationwide": 11.13,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 3,
+              "paymentInDollars": 25490.22,
+              "paymentInPercentageNationwide": 0.1,
+              "countInPercentageNationwide": 0.28,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Colorado",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 16573,
+          "paymentInDollars": 147988058.25,
+          "paymentInPercentageNationwide": 4.19,
+          "countInPercentageNationwide": 2.93,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 309,
+              "paymentInDollars": 1784355.81,
+              "paymentInPercentageNationwide": 0.73,
+              "countInPercentageNationwide": 1.2,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 16064,
+              "paymentInDollars": 143139929.59,
+              "paymentInPercentageNationwide": 4.63,
+              "countInPercentageNationwide": 3.15,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 156,
+              "paymentInDollars": 2019130.0,
+              "paymentInPercentageNationwide": 1.22,
+              "countInPercentageNationwide": 0.57,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 44,
+              "paymentInDollars": 1044642.85,
+              "paymentInPercentageNationwide": 3.92,
+              "countInPercentageNationwide": 4.09,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "New Mexico",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 17014,
+          "paymentInDollars": 134708930.18,
+          "paymentInPercentageNationwide": 3.82,
+          "countInPercentageNationwide": 3.01,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 229,
+              "paymentInDollars": 833688.23,
+              "paymentInPercentageNationwide": 0.34,
+              "countInPercentageNationwide": 0.89,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 16697,
+              "paymentInDollars": 130448327.79,
+              "paymentInPercentageNationwide": 4.22,
+              "countInPercentageNationwide": 3.27,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 83,
+              "paymentInDollars": 3318270.19,
+              "paymentInPercentageNationwide": 2.0,
+              "countInPercentageNationwide": 0.3,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 5,
+              "paymentInDollars": 108643.97,
+              "paymentInPercentageNationwide": 0.41,
+              "countInPercentageNationwide": 0.46,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "California",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 9208,
+          "paymentInDollars": 129291149.72,
+          "paymentInPercentageNationwide": 3.66,
+          "countInPercentageNationwide": 1.63,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 762,
+              "paymentInDollars": 20744869.52,
+              "paymentInPercentageNationwide": 8.52,
+              "countInPercentageNationwide": 2.96,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 8192,
+              "paymentInDollars": 99606552.0,
+              "paymentInPercentageNationwide": 3.22,
+              "countInPercentageNationwide": 1.6,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 115,
+              "paymentInDollars": 2133304.0,
+              "paymentInPercentageNationwide": 1.29,
+              "countInPercentageNationwide": 0.42,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 139,
+              "paymentInDollars": 6806424.2,
+              "paymentInPercentageNationwide": 25.54,
+              "countInPercentageNationwide": 12.92,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Wyoming",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 8415,
+          "paymentInDollars": 129186466.94,
+          "paymentInPercentageNationwide": 3.66,
+          "countInPercentageNationwide": 1.49,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 295,
+              "paymentInDollars": 5049693.0,
+              "paymentInPercentageNationwide": 2.07,
+              "countInPercentageNationwide": 1.15,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 7759,
+              "paymentInDollars": 120519399.94,
+              "paymentInPercentageNationwide": 3.9,
+              "countInPercentageNationwide": 1.52,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 361,
+              "paymentInDollars": 3617374.0,
+              "paymentInPercentageNationwide": 2.18,
+              "countInPercentageNationwide": 1.31,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Utah",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 11416,
+          "paymentInDollars": 121765575.99,
+          "paymentInPercentageNationwide": 3.45,
+          "countInPercentageNationwide": 2.02,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 773,
+              "paymentInDollars": 3962152.89,
+              "paymentInPercentageNationwide": 1.63,
+              "countInPercentageNationwide": 3.01,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 10538,
+              "paymentInDollars": 117000294.1,
+              "paymentInPercentageNationwide": 3.78,
+              "countInPercentageNationwide": 2.06,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 105,
+              "paymentInDollars": 803129.0,
+              "paymentInPercentageNationwide": 0.48,
+              "countInPercentageNationwide": 0.38,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Oregon",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 10128,
+          "paymentInDollars": 120250288.65,
+          "paymentInPercentageNationwide": 3.41,
+          "countInPercentageNationwide": 1.79,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 735,
+              "paymentInDollars": 8248436.09,
+              "paymentInPercentageNationwide": 3.39,
+              "countInPercentageNationwide": 2.86,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 8991,
+              "paymentInDollars": 107565749.3,
+              "paymentInPercentageNationwide": 3.48,
+              "countInPercentageNationwide": 1.76,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 342,
+              "paymentInDollars": 3521413.0,
+              "paymentInPercentageNationwide": 2.13,
+              "countInPercentageNationwide": 1.24,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 60,
+              "paymentInDollars": 914690.26,
+              "paymentInPercentageNationwide": 3.43,
+              "countInPercentageNationwide": 5.58,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "North Dakota",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 15900,
+          "paymentInDollars": 110253025.97,
+          "paymentInPercentageNationwide": 3.12,
+          "countInPercentageNationwide": 2.81,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 426,
+              "paymentInDollars": 9096459.62,
+              "paymentInPercentageNationwide": 3.74,
+              "countInPercentageNationwide": 1.66,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 14797,
+              "paymentInDollars": 96210605.35,
+              "paymentInPercentageNationwide": 3.11,
+              "countInPercentageNationwide": 2.9,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 677,
+              "paymentInDollars": 4945961.0,
+              "paymentInPercentageNationwide": 2.99,
+              "countInPercentageNationwide": 2.46,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Arkansas",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 17081,
+          "paymentInDollars": 93856641.61,
+          "paymentInPercentageNationwide": 2.66,
+          "countInPercentageNationwide": 3.02,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 227,
+              "paymentInDollars": 2688107.61,
+              "paymentInPercentageNationwide": 1.1,
+              "countInPercentageNationwide": 0.88,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 15816,
+              "paymentInDollars": 87486447.0,
+              "paymentInPercentageNationwide": 2.83,
+              "countInPercentageNationwide": 3.1,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1036,
+              "paymentInDollars": 3676246.0,
+              "paymentInPercentageNationwide": 2.22,
+              "countInPercentageNationwide": 3.77,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 2,
+              "paymentInDollars": 5841.0,
+              "paymentInPercentageNationwide": 0.02,
+              "countInPercentageNationwide": 0.19,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Arizona",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 12676,
+          "paymentInDollars": 55394484.62,
+          "paymentInPercentageNationwide": 1.57,
+          "countInPercentageNationwide": 2.24,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 138,
+              "paymentInDollars": 3853553.0,
+              "paymentInPercentageNationwide": 1.58,
+              "countInPercentageNationwide": 0.54,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 12537,
+              "paymentInDollars": 51518995.62,
+              "paymentInPercentageNationwide": 1.67,
+              "countInPercentageNationwide": 2.46,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1,
+              "paymentInDollars": 21936.0,
+              "paymentInPercentageNationwide": 0.01,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Idaho",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 4346,
+          "paymentInDollars": 49992283.71,
+          "paymentInPercentageNationwide": 1.42,
+          "countInPercentageNationwide": 0.77,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 235,
+              "paymentInDollars": 5717202.08,
+              "paymentInPercentageNationwide": 2.35,
+              "countInPercentageNationwide": 0.91,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 4032,
+              "paymentInDollars": 43410500.63,
+              "paymentInPercentageNationwide": 1.4,
+              "countInPercentageNationwide": 0.79,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 79,
+              "paymentInDollars": 864581.0,
+              "paymentInPercentageNationwide": 0.52,
+              "countInPercentageNationwide": 0.29,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Nevada",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 2152,
+          "paymentInDollars": 44120258.8,
+          "paymentInPercentageNationwide": 1.25,
+          "countInPercentageNationwide": 0.38,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 24,
+              "paymentInDollars": 181570.0,
+              "paymentInPercentageNationwide": 0.07,
+              "countInPercentageNationwide": 0.09,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 2119,
+              "paymentInDollars": 43860984.8,
+              "paymentInPercentageNationwide": 1.42,
+              "countInPercentageNationwide": 0.42,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 9,
+              "paymentInDollars": 77704.0,
+              "paymentInPercentageNationwide": 0.05,
+              "countInPercentageNationwide": 0.03,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Florida",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 1430,
+          "paymentInDollars": 35242975.32,
+          "paymentInPercentageNationwide": 1.0,
+          "countInPercentageNationwide": 0.25,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 727,
+              "paymentInDollars": 29638847.76,
+              "paymentInPercentageNationwide": 12.17,
+              "countInPercentageNationwide": 2.83,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 414,
+              "paymentInDollars": 987387.0,
+              "paymentInPercentageNationwide": 0.03,
+              "countInPercentageNationwide": 0.08,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 80,
+              "paymentInDollars": 463446.0,
+              "paymentInPercentageNationwide": 0.28,
+              "countInPercentageNationwide": 0.29,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 209,
+              "paymentInDollars": 4153294.56,
+              "paymentInPercentageNationwide": 15.58,
+              "countInPercentageNationwide": 19.42,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 5140,
+          "paymentInDollars": 33815533.59,
+          "paymentInPercentageNationwide": 0.96,
+          "countInPercentageNationwide": 0.91,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 326,
+              "paymentInDollars": 7101187.81,
+              "paymentInPercentageNationwide": 2.92,
+              "countInPercentageNationwide": 1.27,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 4536,
+              "paymentInDollars": 23244329.11,
+              "paymentInPercentageNationwide": 0.75,
+              "countInPercentageNationwide": 0.89,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 258,
+              "paymentInDollars": 2173601.0,
+              "paymentInPercentageNationwide": 1.31,
+              "countInPercentageNationwide": 0.94,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 20,
+              "paymentInDollars": 1296415.67,
+              "paymentInPercentageNationwide": 4.86,
+              "countInPercentageNationwide": 1.86,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Minnesota",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 8570,
+          "paymentInDollars": 31392995.54,
+          "paymentInPercentageNationwide": 0.89,
+          "countInPercentageNationwide": 1.52,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 2054,
+              "paymentInDollars": 12861119.24,
+              "paymentInPercentageNationwide": 5.28,
+              "countInPercentageNationwide": 7.99,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 6032,
+              "paymentInDollars": 15230194.0,
+              "paymentInPercentageNationwide": 0.49,
+              "countInPercentageNationwide": 1.18,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 482,
+              "paymentInDollars": 3291364.0,
+              "paymentInPercentageNationwide": 1.99,
+              "countInPercentageNationwide": 1.75,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 2,
+              "paymentInDollars": 10318.3,
+              "paymentInPercentageNationwide": 0.04,
+              "countInPercentageNationwide": 0.19,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Iowa",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 11890,
+          "paymentInDollars": 30274033.67,
+          "paymentInPercentageNationwide": 0.86,
+          "countInPercentageNationwide": 2.1,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 1063,
+              "paymentInDollars": 4040165.06,
+              "paymentInPercentageNationwide": 1.66,
+              "countInPercentageNationwide": 4.13,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 10394,
+              "paymentInDollars": 23340747.0,
+              "paymentInPercentageNationwide": 0.75,
+              "countInPercentageNationwide": 2.04,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 431,
+              "paymentInDollars": 2884973.0,
+              "paymentInPercentageNationwide": 1.74,
+              "countInPercentageNationwide": 1.57,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 2,
+              "paymentInDollars": 8148.61,
+              "paymentInPercentageNationwide": 0.03,
+              "countInPercentageNationwide": 0.19,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Washington",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 2442,
+          "paymentInDollars": 26930706.31,
+          "paymentInPercentageNationwide": 0.76,
+          "countInPercentageNationwide": 0.43,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 289,
+              "paymentInDollars": 4278838.45,
+              "paymentInPercentageNationwide": 1.76,
+              "countInPercentageNationwide": 1.12,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 1887,
+              "paymentInDollars": 14452472.6,
+              "paymentInPercentageNationwide": 0.47,
+              "countInPercentageNationwide": 0.37,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 240,
+              "paymentInDollars": 7794554.78,
+              "paymentInPercentageNationwide": 4.71,
+              "countInPercentageNationwide": 0.87,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 26,
+              "paymentInDollars": 404840.48,
+              "paymentInPercentageNationwide": 1.52,
+              "countInPercentageNationwide": 2.42,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Georgia",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 3891,
+          "paymentInDollars": 25438354.42,
+          "paymentInPercentageNationwide": 0.72,
+          "countInPercentageNationwide": 0.69,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 437,
+              "paymentInDollars": 14009051.9,
+              "paymentInPercentageNationwide": 5.75,
+              "countInPercentageNationwide": 1.7,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 3222,
+              "paymentInDollars": 8698695.64,
+              "paymentInPercentageNationwide": 0.28,
+              "countInPercentageNationwide": 0.63,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 129,
+              "paymentInDollars": 1263498.0,
+              "paymentInPercentageNationwide": 0.76,
+              "countInPercentageNationwide": 0.47,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 103,
+              "paymentInDollars": 1467108.88,
+              "paymentInPercentageNationwide": 5.5,
+              "countInPercentageNationwide": 9.57,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Hawaii",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 1326,
+          "paymentInDollars": 15856790.25,
+          "paymentInPercentageNationwide": 0.45,
+          "countInPercentageNationwide": 0.23,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 4,
+              "paymentInDollars": 173022.0,
+              "paymentInPercentageNationwide": 0.07,
+              "countInPercentageNationwide": 0.02,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 1284,
+              "paymentInDollars": 15068211.0,
+              "paymentInPercentageNationwide": 0.49,
+              "countInPercentageNationwide": 0.25,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 7,
+              "paymentInDollars": 394442.0,
+              "paymentInPercentageNationwide": 0.24,
+              "countInPercentageNationwide": 0.03,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 31,
+              "paymentInDollars": 221115.25,
+              "paymentInPercentageNationwide": 0.83,
+              "countInPercentageNationwide": 2.88,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Wisconsin",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 4670,
+          "paymentInDollars": 15742098.71,
+          "paymentInPercentageNationwide": 0.45,
+          "countInPercentageNationwide": 0.83,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 4251,
+              "paymentInDollars": 13909408.23,
+              "paymentInPercentageNationwide": 5.71,
+              "countInPercentageNationwide": 16.53,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 208,
+              "paymentInDollars": 156345.0,
+              "paymentInPercentageNationwide": 0.01,
+              "countInPercentageNationwide": 0.04,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 203,
+              "paymentInDollars": 1604536.0,
+              "paymentInPercentageNationwide": 0.97,
+              "countInPercentageNationwide": 0.74,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 8,
+              "paymentInDollars": 71809.48,
+              "paymentInPercentageNationwide": 0.27,
+              "countInPercentageNationwide": 0.74,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Alabama",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 4247,
+          "paymentInDollars": 11636844.79,
+          "paymentInPercentageNationwide": 0.33,
+          "countInPercentageNationwide": 0.75,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 15,
+              "paymentInDollars": 42165.82,
+              "paymentInPercentageNationwide": 0.02,
+              "countInPercentageNationwide": 0.06,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 4146,
+              "paymentInDollars": 11242727.0,
+              "paymentInPercentageNationwide": 0.36,
+              "countInPercentageNationwide": 0.81,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 78,
+              "paymentInDollars": 324948.0,
+              "paymentInPercentageNationwide": 0.2,
+              "countInPercentageNationwide": 0.28,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 8,
+              "paymentInDollars": 27003.97,
+              "paymentInPercentageNationwide": 0.1,
+              "countInPercentageNationwide": 0.74,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 1047,
+          "paymentInDollars": 8501897.02,
+          "paymentInPercentageNationwide": 0.24,
+          "countInPercentageNationwide": 0.19,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 371,
+              "paymentInDollars": 2318446.22,
+              "paymentInPercentageNationwide": 0.95,
+              "countInPercentageNationwide": 1.44,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 318,
+              "paymentInDollars": 692480.0,
+              "paymentInPercentageNationwide": 0.02,
+              "countInPercentageNationwide": 0.06,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 286,
+              "paymentInDollars": 2295301.84,
+              "paymentInPercentageNationwide": 1.39,
+              "countInPercentageNationwide": 1.04,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 72,
+              "paymentInDollars": 3195668.96,
+              "paymentInPercentageNationwide": 11.99,
+              "countInPercentageNationwide": 6.69,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Michigan",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 625,
+          "paymentInDollars": 7115045.2,
+          "paymentInPercentageNationwide": 0.2,
+          "countInPercentageNationwide": 0.11,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 522,
+              "paymentInDollars": 5376534.76,
+              "paymentInPercentageNationwide": 2.21,
+              "countInPercentageNationwide": 2.03,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 1,
+              "paymentInDollars": 4212.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 21,
+              "paymentInDollars": 249582.0,
+              "paymentInPercentageNationwide": 0.15,
+              "countInPercentageNationwide": 0.08,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 81,
+              "paymentInDollars": 1484716.44,
+              "paymentInPercentageNationwide": 5.57,
+              "countInPercentageNationwide": 7.53,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 4094,
+          "paymentInDollars": 6947383.8,
+          "paymentInPercentageNationwide": 0.2,
+          "countInPercentageNationwide": 0.72,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 250,
+              "paymentInDollars": 712927.87,
+              "paymentInPercentageNationwide": 0.29,
+              "countInPercentageNationwide": 0.97,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 1337,
+              "paymentInDollars": 2732379.0,
+              "paymentInPercentageNationwide": 0.09,
+              "countInPercentageNationwide": 0.26,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 2507,
+              "paymentInDollars": 3502076.93,
+              "paymentInPercentageNationwide": 2.11,
+              "countInPercentageNationwide": 9.11,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 2037,
+          "paymentInDollars": 6546463.06,
+          "paymentInPercentageNationwide": 0.19,
+          "countInPercentageNationwide": 0.36,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 77,
+              "paymentInDollars": 337918.29,
+              "paymentInPercentageNationwide": 0.14,
+              "countInPercentageNationwide": 0.3,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 1753,
+              "paymentInDollars": 3939544.0,
+              "paymentInPercentageNationwide": 0.13,
+              "countInPercentageNationwide": 0.34,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 141,
+              "paymentInDollars": 492564.0,
+              "paymentInPercentageNationwide": 0.3,
+              "countInPercentageNationwide": 0.51,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 66,
+              "paymentInDollars": 1776436.77,
+              "paymentInPercentageNationwide": 6.67,
+              "countInPercentageNationwide": 6.13,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Mississippi",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 1764,
+          "paymentInDollars": 5676936.71,
+          "paymentInPercentageNationwide": 0.16,
+          "countInPercentageNationwide": 0.31,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 72,
+              "paymentInDollars": 1107583.95,
+              "paymentInPercentageNationwide": 0.45,
+              "countInPercentageNationwide": 0.28,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 1460,
+              "paymentInDollars": 3530295.0,
+              "paymentInPercentageNationwide": 0.11,
+              "countInPercentageNationwide": 0.29,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 230,
+              "paymentInDollars": 1037492.0,
+              "paymentInPercentageNationwide": 0.63,
+              "countInPercentageNationwide": 0.84,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 2,
+              "paymentInDollars": 1565.76,
+              "paymentInPercentageNationwide": 0.01,
+              "countInPercentageNationwide": 0.19,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 1546,
+          "paymentInDollars": 5309214.44,
+          "paymentInPercentageNationwide": 0.15,
+          "countInPercentageNationwide": 0.27,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 1520,
+              "paymentInDollars": 5036796.6,
+              "paymentInPercentageNationwide": 2.07,
+              "countInPercentageNationwide": 5.91,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 5,
+              "paymentInDollars": 8076.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.02,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 21,
+              "paymentInDollars": 264341.84,
+              "paymentInPercentageNationwide": 0.99,
+              "countInPercentageNationwide": 1.95,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 1667,
+          "paymentInDollars": 5120148.98,
+          "paymentInPercentageNationwide": 0.15,
+          "countInPercentageNationwide": 0.3,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 34,
+              "paymentInDollars": 184051.98,
+              "paymentInPercentageNationwide": 0.08,
+              "countInPercentageNationwide": 0.13,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 1597,
+              "paymentInDollars": 4826161.0,
+              "paymentInPercentageNationwide": 0.16,
+              "countInPercentageNationwide": 0.31,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 36,
+              "paymentInDollars": 109936.0,
+              "paymentInPercentageNationwide": 0.07,
+              "countInPercentageNationwide": 0.13,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Massachusetts",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 430,
+          "paymentInDollars": 4840446.92,
+          "paymentInPercentageNationwide": 0.14,
+          "countInPercentageNationwide": 0.08,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 85,
+              "paymentInDollars": 4274935.92,
+              "paymentInPercentageNationwide": 1.76,
+              "countInPercentageNationwide": 0.33,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 345,
+              "paymentInDollars": 565511.0,
+              "paymentInPercentageNationwide": 0.02,
+              "countInPercentageNationwide": 0.07,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "New York",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 1524,
+          "paymentInDollars": 4374305.68,
+          "paymentInPercentageNationwide": 0.12,
+          "countInPercentageNationwide": 0.27,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 1493,
+              "paymentInDollars": 4256370.91,
+              "paymentInPercentageNationwide": 1.75,
+              "countInPercentageNationwide": 5.8,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 10,
+              "paymentInDollars": 37248.0,
+              "paymentInPercentageNationwide": 0.02,
+              "countInPercentageNationwide": 0.04,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 21,
+              "paymentInDollars": 80686.77,
+              "paymentInPercentageNationwide": 0.3,
+              "countInPercentageNationwide": 1.95,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Ohio",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 913,
+          "paymentInDollars": 3067178.09,
+          "paymentInPercentageNationwide": 0.09,
+          "countInPercentageNationwide": 0.16,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 765,
+              "paymentInDollars": 2582439.91,
+              "paymentInPercentageNationwide": 1.06,
+              "countInPercentageNationwide": 2.97,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 124,
+              "paymentInDollars": 358581.0,
+              "paymentInPercentageNationwide": 0.22,
+              "countInPercentageNationwide": 0.45,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 24,
+              "paymentInDollars": 126157.18,
+              "paymentInPercentageNationwide": 0.47,
+              "countInPercentageNationwide": 2.23,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Illinois",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 650,
+          "paymentInDollars": 1838772.36,
+          "paymentInPercentageNationwide": 0.05,
+          "countInPercentageNationwide": 0.12,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 470,
+              "paymentInDollars": 1443333.48,
+              "paymentInPercentageNationwide": 0.59,
+              "countInPercentageNationwide": 1.83,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 106,
+              "paymentInDollars": 234584.0,
+              "paymentInPercentageNationwide": 0.01,
+              "countInPercentageNationwide": 0.02,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 68,
+              "paymentInDollars": 131381.0,
+              "paymentInPercentageNationwide": 0.08,
+              "countInPercentageNationwide": 0.25,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 6,
+              "paymentInDollars": 29473.88,
+              "paymentInPercentageNationwide": 0.11,
+              "countInPercentageNationwide": 0.56,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Vermont",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 326,
+          "paymentInDollars": 1205470.18,
+          "paymentInPercentageNationwide": 0.03,
+          "countInPercentageNationwide": 0.06,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 325,
+              "paymentInDollars": 1198714.18,
+              "paymentInPercentageNationwide": 0.49,
+              "countInPercentageNationwide": 1.26,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1,
+              "paymentInDollars": 6756.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Virginia",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 365,
+          "paymentInDollars": 1144515.51,
+          "paymentInPercentageNationwide": 0.03,
+          "countInPercentageNationwide": 0.06,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 235,
+              "paymentInDollars": 706541.2,
+              "paymentInPercentageNationwide": 0.29,
+              "countInPercentageNationwide": 0.91,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 108,
+              "paymentInDollars": 177160.0,
+              "paymentInPercentageNationwide": 0.11,
+              "countInPercentageNationwide": 0.39,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 22,
+              "paymentInDollars": 260814.31,
+              "paymentInPercentageNationwide": 0.98,
+              "countInPercentageNationwide": 2.04,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "West Virginia",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 1142,
+          "paymentInDollars": 1064249.35,
+          "paymentInPercentageNationwide": 0.03,
+          "countInPercentageNationwide": 0.2,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 736,
+              "paymentInDollars": 532956.35,
+              "paymentInPercentageNationwide": 0.22,
+              "countInPercentageNationwide": 2.86,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 406,
+              "paymentInDollars": 531293.0,
+              "paymentInPercentageNationwide": 0.32,
+              "countInPercentageNationwide": 1.48,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Indiana",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 244,
+          "paymentInDollars": 1021491.14,
+          "paymentInPercentageNationwide": 0.03,
+          "countInPercentageNationwide": 0.04,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 213,
+              "paymentInDollars": 509453.93,
+              "paymentInPercentageNationwide": 0.21,
+              "countInPercentageNationwide": 0.83,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 26,
+              "paymentInDollars": 492754.0,
+              "paymentInPercentageNationwide": 0.3,
+              "countInPercentageNationwide": 0.09,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 5,
+              "paymentInDollars": 19283.21,
+              "paymentInPercentageNationwide": 0.07,
+              "countInPercentageNationwide": 0.46,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Maine",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 446,
+          "paymentInDollars": 911241.5,
+          "paymentInPercentageNationwide": 0.03,
+          "countInPercentageNationwide": 0.08,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 166,
+              "paymentInDollars": 490425.96,
+              "paymentInPercentageNationwide": 0.2,
+              "countInPercentageNationwide": 0.65,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 275,
+              "paymentInDollars": 374679.0,
+              "paymentInPercentageNationwide": 0.01,
+              "countInPercentageNationwide": 0.05,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 2,
+              "paymentInDollars": 13104.0,
+              "paymentInPercentageNationwide": 0.01,
+              "countInPercentageNationwide": 0.01,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 3,
+              "paymentInDollars": 33032.54,
+              "paymentInPercentageNationwide": 0.12,
+              "countInPercentageNationwide": 0.28,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "New Jersey",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 45,
+          "paymentInDollars": 842169.99,
+          "paymentInPercentageNationwide": 0.02,
+          "countInPercentageNationwide": 0.01,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 40,
+              "paymentInDollars": 745690.72,
+              "paymentInPercentageNationwide": 0.31,
+              "countInPercentageNationwide": 0.16,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1,
+              "paymentInDollars": 52683.0,
+              "paymentInPercentageNationwide": 0.03,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 4,
+              "paymentInDollars": 43796.27,
+              "paymentInPercentageNationwide": 0.16,
+              "countInPercentageNationwide": 0.37,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Connecticut",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 123,
+          "paymentInDollars": 507502.93,
+          "paymentInPercentageNationwide": 0.01,
+          "countInPercentageNationwide": 0.02,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 39,
+              "paymentInDollars": 278770.81,
+              "paymentInPercentageNationwide": 0.11,
+              "countInPercentageNationwide": 0.15,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 82,
+              "paymentInDollars": 185512.0,
+              "paymentInPercentageNationwide": 0.01,
+              "countInPercentageNationwide": 0.02,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1,
+              "paymentInDollars": 1697.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 1,
+              "paymentInDollars": 41523.12,
+              "paymentInPercentageNationwide": 0.16,
+              "countInPercentageNationwide": 0.09,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "New Hampshire",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 131,
+          "paymentInDollars": 359794.45,
+          "paymentInPercentageNationwide": 0.01,
+          "countInPercentageNationwide": 0.02,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 64,
+              "paymentInDollars": 179378.43,
+              "paymentInPercentageNationwide": 0.07,
+              "countInPercentageNationwide": 0.25,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 62,
+              "paymentInDollars": 126529.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.01,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1,
+              "paymentInDollars": 329.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 4,
+              "paymentInDollars": 53558.02,
+              "paymentInPercentageNationwide": 0.2,
+              "countInPercentageNationwide": 0.37,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Maryland",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 118,
+          "paymentInDollars": 228285.32,
+          "paymentInPercentageNationwide": 0.01,
+          "countInPercentageNationwide": 0.02,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 114,
+              "paymentInDollars": 189316.97,
+              "paymentInPercentageNationwide": 0.08,
+              "countInPercentageNationwide": 0.44,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 1,
+              "paymentInDollars": 1145.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 3,
+              "paymentInDollars": 37823.35,
+              "paymentInPercentageNationwide": 0.14,
+              "countInPercentageNationwide": 0.28,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Rhode Island",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 105,
+          "paymentInDollars": 185799.9,
+          "paymentInPercentageNationwide": 0.01,
+          "countInPercentageNationwide": 0.02,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 15,
+              "paymentInDollars": 7619.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.06,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 76,
+              "paymentInDollars": 146104.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.01,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 2,
+              "paymentInDollars": 4599.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.01,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 12,
+              "paymentInDollars": 27477.9,
+              "paymentInPercentageNationwide": 0.1,
+              "countInPercentageNationwide": 1.12,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Delaware",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 11,
+          "paymentInDollars": 57089.42,
+          "paymentInPercentageNationwide": 0.0,
+          "countInPercentageNationwide": 0.0,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 11,
+              "paymentInDollars": 57089.42,
+              "paymentInPercentageNationwide": 0.02,
+              "countInPercentageNationwide": 0.04,
+              "paymentInPercentageWithinState": 100.0,
+              "countInPercentageWithinState": 100.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Alaska",
+      "programs": [
+        {
+          "programName": "SADA",
+          "totalCounts": 0,
+          "paymentInDollars": 0.0,
+          "paymentInPercentageNationwide": 0.0,
+          "countInPercentageNationwide": 0.0,
+          "subPrograms": [
+            {
+              "programName": "ELAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LFP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "LIP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            },
+            {
+              "programName": "TAP",
+              "totalCounts": 0,
+              "paymentInDollars": 0.0,
+              "paymentInPercentageNationwide": 0.0,
+              "countInPercentageNationwide": 0.0,
+              "paymentInPercentageWithinState": 0.0,
+              "countInPercentageWithinState": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

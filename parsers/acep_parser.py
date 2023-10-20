@@ -12,7 +12,6 @@ class AcepParser:
         self.program_main_category_name = program_main_category_name
         self.data_folder = data_folder
         self.program_csv_filepath = os.path.join(data_folder, program_csv_filename)
-        self.program_main_category_name = program_main_category_name
         self.program_data = None
 
         # Output data dictionaries

@@ -1,0 +1,654 @@
+{
+  "2018-2022": [
+    {
+      "state": "Wisconsin",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 157477,
+          "paymentInDollars": 471885327.03,
+          "paymentInPercentageNationwide": 23.15,
+          "countInPercentageNationwide": 27.16,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Minnesota",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 69560,
+          "paymentInDollars": 191955717.58,
+          "paymentInPercentageNationwide": 9.42,
+          "countInPercentageNationwide": 12.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "New York",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 60074,
+          "paymentInDollars": 183873705.09,
+          "paymentInPercentageNationwide": 9.02,
+          "countInPercentageNationwide": 10.36,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "California",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 22082,
+          "paymentInDollars": 181094058.58,
+          "paymentInPercentageNationwide": 8.89,
+          "countInPercentageNationwide": 3.81,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 51536,
+          "paymentInDollars": 150765052.17,
+          "paymentInPercentageNationwide": 7.4,
+          "countInPercentageNationwide": 8.89,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Michigan",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 21795,
+          "paymentInDollars": 97030756.05,
+          "paymentInPercentageNationwide": 4.76,
+          "countInPercentageNationwide": 3.76,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Iowa",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 27631,
+          "paymentInDollars": 84496208.44,
+          "paymentInPercentageNationwide": 4.15,
+          "countInPercentageNationwide": 4.77,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Ohio",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 22702,
+          "paymentInDollars": 79681409.25,
+          "paymentInPercentageNationwide": 3.91,
+          "countInPercentageNationwide": 3.92,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Vermont",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 13999,
+          "paymentInDollars": 45363819.74,
+          "paymentInPercentageNationwide": 2.23,
+          "countInPercentageNationwide": 2.41,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Texas",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 6826,
+          "paymentInDollars": 44684835.06,
+          "paymentInPercentageNationwide": 2.19,
+          "countInPercentageNationwide": 1.18,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Illinois",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 14583,
+          "paymentInDollars": 41795155.35,
+          "paymentInPercentageNationwide": 2.05,
+          "countInPercentageNationwide": 2.52,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Idaho",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 5917,
+          "paymentInDollars": 41517039.5,
+          "paymentInPercentageNationwide": 2.04,
+          "countInPercentageNationwide": 1.02,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Washington",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 6006,
+          "paymentInDollars": 38524765.96,
+          "paymentInPercentageNationwide": 1.89,
+          "countInPercentageNationwide": 1.04,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Virginia",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 7658,
+          "paymentInDollars": 31636484.27,
+          "paymentInPercentageNationwide": 1.55,
+          "countInPercentageNationwide": 1.32,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Indiana",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 7986,
+          "paymentInDollars": 27983933.67,
+          "paymentInPercentageNationwide": 1.37,
+          "countInPercentageNationwide": 1.38,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Missouri",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 12091,
+          "paymentInDollars": 27408403.31,
+          "paymentInPercentageNationwide": 1.34,
+          "countInPercentageNationwide": 2.09,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Oregon",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 3575,
+          "paymentInDollars": 21580148.49,
+          "paymentInPercentageNationwide": 1.06,
+          "countInPercentageNationwide": 0.62,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Maryland",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 5463,
+          "paymentInDollars": 20491283.27,
+          "paymentInPercentageNationwide": 1.01,
+          "countInPercentageNationwide": 0.94,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 7654,
+          "paymentInDollars": 19487091.46,
+          "paymentInPercentageNationwide": 0.96,
+          "countInPercentageNationwide": 1.32,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Utah",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 3492,
+          "paymentInDollars": 19316568.37,
+          "paymentInPercentageNationwide": 0.95,
+          "countInPercentageNationwide": 0.6,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 4126,
+          "paymentInDollars": 17055775.55,
+          "paymentInPercentageNationwide": 0.84,
+          "countInPercentageNationwide": 0.71,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Kansas",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 4616,
+          "paymentInDollars": 16316878.45,
+          "paymentInPercentageNationwide": 0.8,
+          "countInPercentageNationwide": 0.8,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Colorado",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 1928,
+          "paymentInDollars": 15808112.99,
+          "paymentInPercentageNationwide": 0.78,
+          "countInPercentageNationwide": 0.33,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "New Mexico",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 1479,
+          "paymentInDollars": 15422204.02,
+          "paymentInPercentageNationwide": 0.76,
+          "countInPercentageNationwide": 0.26,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Georgia",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 2778,
+          "paymentInDollars": 14773650.45,
+          "paymentInPercentageNationwide": 0.72,
+          "countInPercentageNationwide": 0.48,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 4026,
+          "paymentInDollars": 13153270.56,
+          "paymentInPercentageNationwide": 0.65,
+          "countInPercentageNationwide": 0.69,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 2849,
+          "paymentInDollars": 13022287.58,
+          "paymentInPercentageNationwide": 0.64,
+          "countInPercentageNationwide": 0.49,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Maine",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 4307,
+          "paymentInDollars": 12492360.57,
+          "paymentInPercentageNationwide": 0.61,
+          "countInPercentageNationwide": 0.74,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Nebraska",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 3201,
+          "paymentInDollars": 12140613.35,
+          "paymentInPercentageNationwide": 0.6,
+          "countInPercentageNationwide": 0.55,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Arizona",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 1081,
+          "paymentInDollars": 10081002.4,
+          "paymentInPercentageNationwide": 0.49,
+          "countInPercentageNationwide": 0.19,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Florida",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 977,
+          "paymentInDollars": 8487174.06,
+          "paymentInPercentageNationwide": 0.42,
+          "countInPercentageNationwide": 0.17,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 2548,
+          "paymentInDollars": 8139983.0,
+          "paymentInPercentageNationwide": 0.4,
+          "countInPercentageNationwide": 0.44,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Massachusetts",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 2644,
+          "paymentInDollars": 7590286.22,
+          "paymentInPercentageNationwide": 0.37,
+          "countInPercentageNationwide": 0.46,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Montana",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 1127,
+          "paymentInDollars": 6574267.75,
+          "paymentInPercentageNationwide": 0.32,
+          "countInPercentageNationwide": 0.19,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Connecticut",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 1694,
+          "paymentInDollars": 6217784.64,
+          "paymentInPercentageNationwide": 0.31,
+          "countInPercentageNationwide": 0.29,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 2557,
+          "paymentInDollars": 6083346.82,
+          "paymentInPercentageNationwide": 0.3,
+          "countInPercentageNationwide": 0.44,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "New Hampshire",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 1641,
+          "paymentInDollars": 5826680.32,
+          "paymentInPercentageNationwide": 0.29,
+          "countInPercentageNationwide": 0.28,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "North Dakota",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 1705,
+          "paymentInDollars": 4713157.82,
+          "paymentInPercentageNationwide": 0.23,
+          "countInPercentageNationwide": 0.29,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 850,
+          "paymentInDollars": 4218410.56,
+          "paymentInPercentageNationwide": 0.21,
+          "countInPercentageNationwide": 0.15,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Nevada",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 517,
+          "paymentInDollars": 4147455.45,
+          "paymentInPercentageNationwide": 0.2,
+          "countInPercentageNationwide": 0.09,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Mississippi",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 1247,
+          "paymentInDollars": 3992196.4,
+          "paymentInPercentageNationwide": 0.2,
+          "countInPercentageNationwide": 0.22,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "New Jersey",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 914,
+          "paymentInDollars": 2769670.84,
+          "paymentInPercentageNationwide": 0.14,
+          "countInPercentageNationwide": 0.16,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Arkansas",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 954,
+          "paymentInDollars": 2671377.25,
+          "paymentInPercentageNationwide": 0.13,
+          "countInPercentageNationwide": 0.16,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "West Virginia",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 782,
+          "paymentInDollars": 1856079.77,
+          "paymentInPercentageNationwide": 0.09,
+          "countInPercentageNationwide": 0.13,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Delaware",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 384,
+          "paymentInDollars": 1564478.38,
+          "paymentInPercentageNationwide": 0.08,
+          "countInPercentageNationwide": 0.07,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Alabama",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 475,
+          "paymentInDollars": 1327159.73,
+          "paymentInPercentageNationwide": 0.07,
+          "countInPercentageNationwide": 0.08,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Wyoming",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 118,
+          "paymentInDollars": 777648.04,
+          "paymentInPercentageNationwide": 0.04,
+          "countInPercentageNationwide": 0.02,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Rhode Island",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 174,
+          "paymentInDollars": 319128.9,
+          "paymentInPercentageNationwide": 0.02,
+          "countInPercentageNationwide": 0.03,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Alaska",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 0,
+          "paymentInDollars": 0.0,
+          "paymentInPercentageNationwide": 0.0,
+          "countInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    },
+    {
+      "state": "Hawaii",
+      "programs": [
+        {
+          "programName": "DMC",
+          "totalCounts": 0,
+          "paymentInDollars": 0.0,
+          "paymentInPercentageNationwide": 0.0,
+          "countInPercentageNationwide": 0.0,
+          "subPrograms": []
+        }
+      ]
+    }
+  ]
+}
