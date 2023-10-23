@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     rcpp_data_parser.parse_and_process()
 
-    dairy_disaster_parser = DairyDisasterParser(2018, 2022, "Title 1: Commodities: Dairy and Disaster",
+    dairy_disaster_parser = DairyDisasterParser(2014, 2021, "Title 1: Commodities: Dairy and Disaster",
                                                 "title-1-commodities", "Dairy-Disaster.csv")
 
     dairy_disaster_parser.parse_and_process()
