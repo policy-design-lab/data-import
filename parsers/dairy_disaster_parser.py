@@ -154,7 +154,7 @@ class DairyDisasterParser:
                 "state": state_abbr,
                 "programs": [
                     {
-                        "programName": "Dairy Programs; Dairy margin coverage (DMC)",
+                        "programName": "Dairy Margin Coverage, Subtitle D",
                         "totalCounts": int(sum_by_dairy_count_by_state[state].item()),
                         "programPaymentInDollars": round(sum_by_dairy_payments_by_state[state].item(), 2),
                         "averageRecipientCount": round(sum_by_dairy_count_by_state[state].item() / total_years, 2),
@@ -191,7 +191,7 @@ class DairyDisasterParser:
         self.dairy_program_data_dict = {
             "programs": [
                 {
-                    "programName": "Dairy Programs; Dairy margin coverage (DMC)",
+                    "programName": "Dairy Margin Coverage, Subtitle D",
                     "paymentInDollars": round(dairy_total_by_payments.item(), 2),
                     "totalCounts": int(dairy_total_by_count.item()),
                     "averageRecipientCount": round(dairy_total_by_count.item() / total_years, 2),
@@ -448,7 +448,7 @@ class DairyDisasterParser:
                 "state": state_abbr,
                 "programs": [
                     {
-                        "programName": "Supplemental Agricultural Disaster Assistance",
+                        "programName": "Supplemental Agricultural Disaster Assistance, Subtitle E",
                         "totalCounts": int(sum_by_disaster_count_by_state[state].item()),
                         "programPaymentInDollars": round(sum_by_disaster_payments_by_state[state].item(), 2),
                         "averageRecipientCount": round(sum_by_disaster_count_by_state[state].item() / total_years, 2),
@@ -549,7 +549,7 @@ class DairyDisasterParser:
         self.disaster_program_data_dict = {
             "programs": [
                 {
-                    "programName": "Supplemental Agricultural Disaster Assistance",
+                    "programName": "Supplemental Agricultural Disaster Assistance, Subtitle E",
                     "paymentInDollars": round(disaster_total_by_payments.item(), 2),
                     "totalCounts": int(disaster_total_by_count.item()),
                     "averageRecipientCount": round(disaster_total_by_count.item() / total_years, 2),
