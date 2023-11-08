@@ -1,9 +1,10 @@
 {
   "programs": [
     {
-      "programName": "DMC",
-      "paymentInDollars": 2038114204.51,
-      "totalContacts": 1144714,
+      "programName": "Dairy Margin Coverage, Subtitle D",
+      "paymentInDollars": 1969315257.26,
+      "totalCounts": 1259532,
+      "averageRecipientCount": 157441.5,
       "subPrograms": []
     }
   ]

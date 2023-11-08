@@ -1,29 +1,34 @@
 {
   "programs": [
     {
-      "programName": "SADA",
-      "paymentInDollars": 3528983146.35,
-      "totalCounts": 564908,
+      "programName": "Supplemental Agricultural Disaster Assistance, Subtitle E",
+      "paymentInDollars": 4589389922.13,
+      "totalCounts": 716888,
+      "averageRecipientCount": 89611.0,
       "subPrograms": [
         {
-          "programName": "ELAP",
-          "paymentInDollars": 243507311.91,
-          "totalCounts": 25722
+          "programName": "Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program (ELAP)",
+          "paymentInDollars": 336365634.1,
+          "totalCounts": 27330,
+          "averageRecipientCount": 3416.25
         },
         {
-          "programName": "LFP",
-          "paymentInDollars": 3093178191.14,
-          "totalCounts": 510601
+          "programName": "Livestock Forage Program (LFP)",
+          "paymentInDollars": 3881887342.49,
+          "totalCounts": 640521,
+          "averageRecipientCount": 80065.12
         },
         {
-          "programName": "LIP",
-          "paymentInDollars": 165644673.21,
-          "totalCounts": 27509
+          "programName": "Livestock Indemnity Payments (LIP)",
+          "paymentInDollars": 284805659.06,
+          "totalCounts": 45063,
+          "averageRecipientCount": 5632.88
         },
         {
-          "programName": "TAP",
-          "paymentInDollars": 26652970.09,
-          "totalCounts": 1076
+          "programName": "Tree Assistance Program (TAP)",
+          "paymentInDollars": 86331286.48,
+          "totalCounts": 3974,
+          "averageRecipientCount": 496.75
         }
       ]
     }
