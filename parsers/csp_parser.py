@@ -212,9 +212,16 @@ class CSPDataParser:
                         # Sort categories by name
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
+            # add year to the data
+            tmp_output = dict()
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            # add year to the tmp_output
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)].append(self.processed_data_dict)
+
             # Write processed_data_dict as JSON data
-            with open("csp_map_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(self.processed_data_dict, indent=4))
+            with open("../title-2-conservation/csp/csp_map_data.json", "w") as output_json_file:
+                output_json_file.write(json.dumps(tmp_output, indent=4))
 
         # 2. Generate state distribution data
         if True:
@@ -240,7 +247,6 @@ class CSPDataParser:
                 yearly_state_payment = round(payment, 2)
 
                 new_data_entry = {
-                    "years": str(self.start_year) + "-" + str(self.end_year),
                     "statutes": [
                         {
                             "statuteName": "2018 Practices",
@@ -312,9 +318,16 @@ class CSPDataParser:
                                                             key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
                                                             reverse=True))
 
+            # add year to the data
+            tmp_output = dict()
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            # add year to the tmp_output
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)].append(self.state_distribution_data_dict)
+
             # Write processed_data_dict as JSON data
-            with open("csp_state_distribution_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(self.state_distribution_data_dict, indent=4))
+            with open("../title-2-conservation/csp/csp_state_distribution_data.json", "w") as output_json_file:
+                output_json_file.write(json.dumps(tmp_output, indent=4))
 
         # 3. Generate practice categories data for the donut chart
         if True:
@@ -369,10 +382,10 @@ class CSPDataParser:
                 statute["practiceCategories"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
 
             # Write processed_data_dict as JSON data
-            with open("csp_practice_categories_data.json", "w") as output_json_file:
+            with open("../title-2-conservation/csp/csp_practice_categories_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(statutes_data, indent=4))
 
 
 if __name__ == '__main__':
-    commodities_data_parser = CSPDataParser(2018, 2022, "CSPcategoriesUPDATE.csv")
+    commodities_data_parser = CSPDataParser(2018, 2022, "../title-2-conservation/csp/CSPcategoriesUPDATE.csv")
     commodities_data_parser.parse_and_process()
