@@ -152,10 +152,11 @@ class DairyDisasterParser:
                 "state": state_abbr,
                 "subtitleName": "Dairy Margin Coverage, Subtitle D",
                 "totalCounts": int(sum_by_dairy_count_by_state[state].item()),
-                "programPaymentInDollars": round(sum_by_dairy_payments_by_state[state].item(), 2),
+                "subtitlePaymentInDollars": round(sum_by_dairy_payments_by_state[state].item(), 2),
                 "averageRecipientCount": round(sum_by_dairy_count_by_state[state].item() / total_years, 2),
                 "paymentInPercentageNationwide": dairy_payments_percentage_nation,
                 "averageRecipientCountInPercentageNationwide": average_dairy_count_percentage_nation,
+                "programs": []
             }
 
             self.dairy_state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
@@ -165,7 +166,7 @@ class DairyDisasterParser:
         for year in self.dairy_state_distribution_data_dict:
             self.dairy_state_distribution_data_dict[year] = \
                 sorted(self.dairy_state_distribution_data_dict[year],
-                       key=lambda x: x["programPaymentInDollars"], reverse=True)
+                       key=lambda x: x["subtitlePaymentInDollars"], reverse=True)
 
         # Write processed_data_dict as JSON data
         with open(os.path.join(self.data_folder, "dmc_state_distribution_data.json"),
@@ -182,7 +183,7 @@ class DairyDisasterParser:
 
         self.dairy_program_data_dict = {
             "subtitleName": "Dairy Margin Coverage, Subtitle D",
-            "paymentInDollars": round(dairy_total_by_payments.item(), 2),
+            "subtitlePaymentInDollars": round(dairy_total_by_payments.item(), 2),
             "totalCounts": int(dairy_total_by_count.item()),
             "averageRecipientCount": round(dairy_total_by_count.item() / total_years, 2)
         }
@@ -500,7 +501,7 @@ class DairyDisasterParser:
         for year in self.disaster_state_distribution_data_dict:
             self.disaster_state_distribution_data_dict[year] = \
                 sorted(self.disaster_state_distribution_data_dict[year],
-                       key=lambda x: ["programPaymentInDollars"], reverse=True)
+                       key=lambda x: ["subtitlePaymentInDollars"], reverse=True)
 
         # Write processed_data_dict as JSON data
         with open(os.path.join(self.data_folder, "sada_state_distribution_data.json"),
