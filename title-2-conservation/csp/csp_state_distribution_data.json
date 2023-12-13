@@ -4237,12 +4237,12 @@
                                     "paymentInPercentageWithinState": 0.39
                                 },
                                 {
-                                    "practiceCategoryName": "Pastured cropland",
+                                    "practiceCategoryName": "Non-industrial private forestland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Non-industrial private forestland",
+                                    "practiceCategoryName": "Pastured cropland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -4569,12 +4569,12 @@
                                     "paymentInPercentageWithinState": 1.03
                                 },
                                 {
-                                    "practiceCategoryName": "Pastured cropland",
+                                    "practiceCategoryName": "Rangeland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Rangeland",
+                                    "practiceCategoryName": "Pastured cropland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -4840,12 +4840,7 @@
                                     "paymentInPercentageWithinState": 0.01
                                 },
                                 {
-                                    "practiceCategoryName": "Bundles",
-                                    "paymentInDollars": 0.0,
-                                    "paymentInPercentageWithinState": 0.0
-                                },
-                                {
-                                    "practiceCategoryName": "Soil testing",
+                                    "practiceCategoryName": "Forest management",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
@@ -4855,12 +4850,17 @@
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Forest management",
+                                    "practiceCategoryName": "Soil remediation",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Soil remediation",
+                                    "practiceCategoryName": "Bundles",
+                                    "paymentInDollars": 0.0,
+                                    "paymentInPercentageWithinState": 0.0
+                                },
+                                {
+                                    "practiceCategoryName": "Soil testing",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -4965,12 +4965,12 @@
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Soil remediation",
+                                    "practiceCategoryName": "Soil testing",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Soil testing",
+                                    "practiceCategoryName": "Soil remediation",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -5075,12 +5075,12 @@
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Soil remediation",
+                                    "practiceCategoryName": "Soil testing",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Soil testing",
+                                    "practiceCategoryName": "Soil remediation",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -5179,17 +5179,17 @@
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Soil remediation",
-                                    "paymentInDollars": 0.0,
-                                    "paymentInPercentageWithinState": 0.0
-                                },
-                                {
                                     "practiceCategoryName": "Other improvement",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
                                     "practiceCategoryName": "Soil testing",
+                                    "paymentInDollars": 0.0,
+                                    "paymentInPercentageWithinState": 0.0
+                                },
+                                {
+                                    "practiceCategoryName": "Soil remediation",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -5447,12 +5447,12 @@
                                     "paymentInPercentageWithinState": 2.17
                                 },
                                 {
-                                    "practiceCategoryName": "Pastured cropland",
+                                    "practiceCategoryName": "Rangeland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Rangeland",
+                                    "practiceCategoryName": "Pastured cropland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -5491,17 +5491,7 @@
                                     "paymentInPercentageWithinState": 0.01
                                 },
                                 {
-                                    "practiceCategoryName": "Bundles",
-                                    "paymentInDollars": 0.0,
-                                    "paymentInPercentageWithinState": 0.0
-                                },
-                                {
-                                    "practiceCategoryName": "Structural",
-                                    "paymentInDollars": 0.0,
-                                    "paymentInPercentageWithinState": 0.0
-                                },
-                                {
-                                    "practiceCategoryName": "Soil testing",
+                                    "practiceCategoryName": "Other improvement",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
@@ -5511,12 +5501,22 @@
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Other improvement",
+                                    "practiceCategoryName": "Soil remediation",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Soil remediation",
+                                    "practiceCategoryName": "Structural",
+                                    "paymentInDollars": 0.0,
+                                    "paymentInPercentageWithinState": 0.0
+                                },
+                                {
+                                    "practiceCategoryName": "Bundles",
+                                    "paymentInDollars": 0.0,
+                                    "paymentInPercentageWithinState": 0.0
+                                },
+                                {
+                                    "practiceCategoryName": "Soil testing",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -5547,7 +5547,7 @@
                                     "paymentInPercentageWithinState": 8.79
                                 },
                                 {
-                                    "practiceCategoryName": "Pastureland",
+                                    "practiceCategoryName": "Rangeland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
@@ -5557,7 +5557,7 @@
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Rangeland",
+                                    "practiceCategoryName": "Pastureland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -5656,17 +5656,17 @@
                                     "paymentInPercentageWithinState": 7.55
                                 },
                                 {
+                                    "practiceCategoryName": "Rangeland",
+                                    "paymentInDollars": 0.0,
+                                    "paymentInPercentageWithinState": 0.0
+                                },
+                                {
                                     "practiceCategoryName": "Pastured cropland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
                                     "practiceCategoryName": "Non-industrial private forestland",
-                                    "paymentInDollars": 0.0,
-                                    "paymentInPercentageWithinState": 0.0
-                                },
-                                {
-                                    "practiceCategoryName": "Rangeland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }
@@ -5723,12 +5723,12 @@
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Bundles",
+                                    "practiceCategoryName": "Structural",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Structural",
+                                    "practiceCategoryName": "Bundles",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
@@ -5770,12 +5770,12 @@
                                     "paymentInPercentageWithinState": 4.1
                                 },
                                 {
-                                    "practiceCategoryName": "Pastured cropland",
+                                    "practiceCategoryName": "Rangeland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 },
                                 {
-                                    "practiceCategoryName": "Rangeland",
+                                    "practiceCategoryName": "Pastured cropland",
                                     "paymentInDollars": 0.0,
                                     "paymentInPercentageWithinState": 0.0
                                 }

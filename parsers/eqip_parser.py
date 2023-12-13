@@ -6,7 +6,7 @@ from deepmerge import always_merger
 from datetime import datetime
 
 
-class EqipDataParser:
+class EqipParser:
     def __init__(self, start_year, end_year, summary_filepath, all_programs_filepath, csv_filepath):
 
         self.summary_filepath = summary_filepath
@@ -270,9 +270,16 @@ class EqipDataParser:
                         # Sort categories by name
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
+            # add year to the data
+            tmp_output = dict()
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            # add year to the tmp_output
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)].append(self.processed_data_dict)
+
             # Write processed_data_dict as JSON data
-            with open("eqip_map_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(self.processed_data_dict, indent=4))
+            with open("../title-2-conservation/eqip/eqip_map_data.json", "w") as output_json_file:
+                output_json_file.write(json.dumps(tmp_output, indent=2))
 
         # 2. Get data for the table
         if True:
@@ -293,7 +300,6 @@ class EqipDataParser:
                 yearly_state_payment = round(payment, 2)
 
                 new_data_entry = {
-                    "years": str(self.start_year) + "-" + str(self.end_year),
                     "statutes": [
                         {
                             "statuteName": "(6)(A) Practices",
@@ -360,9 +366,16 @@ class EqipDataParser:
                                                      key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
                                                      reverse=True))
 
+            # add year to the data
+            tmp_output = dict()
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            # add year to the tmp_output
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)].append(self.percentages_data_dict)
+
             # Write processed_data_dict as JSON data
-            with open("eqip_state_distribution_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(self.percentages_data_dict, indent=4))
+            with open("../title-2-conservation/eqip/eqip_state_distribution_data.json", "w") as output_json_file:
+                output_json_file.write(json.dumps(tmp_output, indent=2))
 
         # 3. Get data for the Semi-donut chart
         if True:
@@ -415,7 +428,7 @@ class EqipDataParser:
                 statute["practiceCategories"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
 
             # Write processed_data_dict as JSON data
-            with open("eqip_practice_categories_data.json", "w") as output_json_file:
+            with open("../title-2-conservation/eqip/eqip_practice_categories_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(statutes_data, indent=4))
 
         # TODO: Remove the below block soon.
@@ -474,6 +487,9 @@ class EqipDataParser:
             json.dump(self.all_programs__dict, all_programs_file_new, indent=2)
 
 if __name__ == '__main__':
-    eqip_data_parser = EqipDataParser(2018, 2022, "summary.json", "allPrograms.json", "eqip-category-update.csv")
+    summary_filepath = "../title-2-conservation/eqip/summary.json"
+    all_programs_filepath = "../title-2-conservation/eqip/allPrograms.json"
+    category_filepath = "../title-2-conservation/eqip/eqip-category-update.csv"
+    eqip_data_parser = EqipParser(2018, 2022, summary_filepath, all_programs_filepath, category_filepath)
     eqip_data_parser.parse_and_process()
     eqip_data_parser.update_json_files()
