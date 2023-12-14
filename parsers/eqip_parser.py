@@ -29,6 +29,7 @@ class EqipParser:
         self.us_state_abbreviation = {
             'AL': 'Alabama',
             'AK': 'Alaska',
+            'AS': 'American Samoa',
             'AZ': 'Arizona',
             'AR': 'Arkansas',
             'CA': 'California',
@@ -81,7 +82,7 @@ class EqipParser:
             'MP': 'Northern Mariana Islands',
             'PW': 'Palau',
             'PR': 'Puerto Rico',
-            'VI': 'Virgin Islands',
+            'VI': 'Virgin Islands of the U.S.',
             'AA': 'Armed Forces Americas (Except Canada)',
             'AE': 'Armed Forces Africa/Canada/Europe/Middle East',
             'AP': 'Armed Forces Pacific'
@@ -270,6 +271,20 @@ class EqipParser:
                         # Sort categories by name
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
+            # remap state names to abbreviations
+            # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
+            state_names = list(self.processed_data_dict.keys())
+
+            # Iterate over the state names
+            for state_name in state_names:
+                # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
+                if state_name in self.us_state_abbreviation.values():
+                    # Replace the state_name with the corresponding abbreviation
+                    state_abbr = \
+                    [abbr for abbr, name in self.us_state_abbreviation.items() if name == state_name][0]
+                    # Create a new entry with the updated key
+                    self.processed_data_dict[state_abbr] = self.processed_data_dict.pop(state_name)
+
             # add year to the data
             tmp_output = dict()
             tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
@@ -365,6 +380,20 @@ class EqipParser:
             self.percentages_data_dict = dict(sorted(self.percentages_data_dict.items(),
                                                      key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
                                                      reverse=True))
+
+            # remap state names to abbreviations
+            # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
+            state_names = list(self.percentages_data_dict.keys())
+
+            # Iterate over the state names
+            for state_name in state_names:
+                # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
+                if state_name in self.us_state_abbreviation.values():
+                    # Replace the state_name with the corresponding abbreviation
+                    state_abbr = \
+                        [abbr for abbr, name in self.us_state_abbreviation.items() if name == state_name][0]
+                    # Create a new entry with the updated key
+                    self.percentages_data_dict[state_abbr] = self.percentages_data_dict.pop(state_name)
 
             # add year to the data
             tmp_output = dict()

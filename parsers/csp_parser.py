@@ -17,6 +17,61 @@ class CSPDataParser:
                                    "Non-industrial private forestland", "Other: supplemental, adjustment & other"],
         }
 
+        self.us_state_abbreviations = {
+            'AL': 'Alabama',
+            'AK': 'Alaska',
+            'AZ': 'Arizona',
+            'AR': 'Arkansas',
+            'CA': 'California',
+            'CO': 'Colorado',
+            'CT': 'Connecticut',
+            'DE': 'Delaware',
+            'FL': 'Florida',
+            'GA': 'Georgia',
+            'HI': 'Hawaii',
+            'ID': 'Idaho',
+            'IL': 'Illinois',
+            'IN': 'Indiana',
+            'IA': 'Iowa',
+            'KS': 'Kansas',
+            'KY': 'Kentucky',
+            'LA': 'Louisiana',
+            'ME': 'Maine',
+            'MD': 'Maryland',
+            'MA': 'Massachusetts',
+            'MI': 'Michigan',
+            'MN': 'Minnesota',
+            'MS': 'Mississippi',
+            'MO': 'Missouri',
+            'MT': 'Montana',
+            'NE': 'Nebraska',
+            'NV': 'Nevada',
+            'NH': 'New Hampshire',
+            'NJ': 'New Jersey',
+            'NM': 'New Mexico',
+            'NY': 'New York',
+            'NC': 'North Carolina',
+            'ND': 'North Dakota',
+            'OH': 'Ohio',
+            'OK': 'Oklahoma',
+            'OR': 'Oregon',
+            'PA': 'Pennsylvania',
+            'PR': 'Puerto Rico',
+            'PB': 'Pacific Basin',
+            'RI': 'Rhode Island',
+            'SC': 'South Carolina',
+            'SD': 'South Dakota',
+            'TN': 'Tennessee',
+            'TX': 'Texas',
+            'UT': 'Utah',
+            'VT': 'Vermont',
+            'VA': 'Virginia',
+            'WA': 'Washington',
+            'WV': 'West Virginia',
+            'WI': 'Wisconsin',
+            'WY': 'Wyoming'
+        }
+
         self.processed_data_dict = dict()
         self.state_distribution_data_dict = dict()
         self.practice_categories_data_dict = dict()
@@ -212,6 +267,19 @@ class CSPDataParser:
                         # Sort categories by name
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
+            # remap state names to abbreviations
+            # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
+            state_names = list(self.processed_data_dict.keys())
+
+            # Iterate over the state names
+            for state_name in state_names:
+                # Check if the value of state_name is in the values of the us_state_abbreviations dictionary
+                if state_name in self.us_state_abbreviations.values():
+                    # Replace the state_name with the corresponding abbreviation
+                    state_abbr = [abbr for abbr, name in self.us_state_abbreviations.items() if name == state_name][0]
+                    # Create a new entry with the updated key
+                    self.processed_data_dict[state_abbr] = self.processed_data_dict.pop(state_name)
+
             # add year to the data
             tmp_output = dict()
             tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
@@ -317,6 +385,18 @@ class CSPDataParser:
             self.state_distribution_data_dict = dict(sorted(self.state_distribution_data_dict.items(),
                                                             key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
                                                             reverse=True))
+            # remap state names to abbreviations
+            # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
+            state_names = list(self.state_distribution_data_dict.keys())
+
+            # Iterate over the state names
+            for state_name in state_names:
+                # Check if the value of state_name is in the values of the us_state_abbreviations dictionary
+                if state_name in self.us_state_abbreviations.values():
+                    # Replace the state_name with the corresponding abbreviation
+                    state_abbr = [abbr for abbr, name in self.us_state_abbreviations.items() if name == state_name][0]
+                    # Create a new entry with the updated key
+                    self.state_distribution_data_dict[state_abbr] = self.state_distribution_data_dict.pop(state_name)
 
             # add year to the data
             tmp_output = dict()
