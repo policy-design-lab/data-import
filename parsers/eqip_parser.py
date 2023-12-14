@@ -272,18 +272,7 @@ class EqipParser:
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
             # remap state names to abbreviations
-            # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
-            state_names = list(self.processed_data_dict.keys())
-
-            # Iterate over the state names
-            for state_name in state_names:
-                # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
-                if state_name in self.us_state_abbreviation.values():
-                    # Replace the state_name with the corresponding abbreviation
-                    state_abbr = \
-                    [abbr for abbr, name in self.us_state_abbreviation.items() if name == state_name][0]
-                    # Create a new entry with the updated key
-                    self.processed_data_dict[state_abbr] = self.processed_data_dict.pop(state_name)
+            # self.processed_data_dict = self.remap_statename_to_abbreviation(self.processed_data_dict)
 
             # add year to the data
             tmp_output = dict()
@@ -382,18 +371,7 @@ class EqipParser:
                                                      reverse=True))
 
             # remap state names to abbreviations
-            # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
-            state_names = list(self.percentages_data_dict.keys())
-
-            # Iterate over the state names
-            for state_name in state_names:
-                # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
-                if state_name in self.us_state_abbreviation.values():
-                    # Replace the state_name with the corresponding abbreviation
-                    state_abbr = \
-                        [abbr for abbr, name in self.us_state_abbreviation.items() if name == state_name][0]
-                    # Create a new entry with the updated key
-                    self.percentages_data_dict[state_abbr] = self.percentages_data_dict.pop(state_name)
+            # self.percentages_data_dict = self.remap_statename_to_abbreviation(self.percentages_data_dict)
 
             # add year to the data
             tmp_output = dict()
@@ -514,6 +492,24 @@ class EqipParser:
 
         with open(self.all_programs_filepath + ".updated.json", "w") as all_programs_file_new:
             json.dump(self.all_programs__dict, all_programs_file_new, indent=2)
+
+    def remap_statename_to_abbreviation(self, input_dict):
+        # remap state names to abbreviations
+        # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
+        state_names = list(input_dict.keys())
+
+        # Iterate over the state names
+        for state_name in state_names:
+            # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
+            if state_name in self.us_state_abbreviation.values():
+                # Replace the state_name with the corresponding abbreviation
+                state_abbr = \
+                    [abbr for abbr, name in self.us_state_abbreviation.items() if name == state_name][0]
+                # Create a new entry with the updated key
+                input_dict[state_abbr] = input_dict.pop(state_name)
+
+        return input_dict
+
 
 if __name__ == '__main__':
     summary_filepath = "../title-2-conservation/eqip/summary.json"
