@@ -185,7 +185,8 @@ class DairyDisasterParser:
             "subtitleName": "Dairy Margin Coverage, Subtitle D",
             "subtitlePaymentInDollars": round(dairy_total_by_payments.item(), 2),
             "totalCounts": int(dairy_total_by_count.item()),
-            "averageRecipientCount": round(dairy_total_by_count.item() / total_years, 2)
+            "averageRecipientCount": round(dairy_total_by_count.item() / total_years, 2),
+            "programs": []
         }
 
         # Write processed_data_dict as JSON data
