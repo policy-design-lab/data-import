@@ -1,7 +1,7 @@
 {
     "2018-2022": [
         {
-            "AL": [
+            "Alabama": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -459,7 +459,7 @@
                     "totalPaymentInDollars": 31191204
                 }
             ],
-            "AK": [
+            "Alaska": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -917,7 +917,7 @@
                     "totalPaymentInDollars": 2649652
                 }
             ],
-            "AZ": [
+            "Arizona": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -1375,7 +1375,7 @@
                     "totalPaymentInDollars": 8104232
                 }
             ],
-            "AR": [
+            "Arkansas": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -1833,7 +1833,7 @@
                     "totalPaymentInDollars": 293398765
                 }
             ],
-            "CA": [
+            "California": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -2291,7 +2291,7 @@
                     "totalPaymentInDollars": 17292904
                 }
             ],
-            "CO": [
+            "Colorado": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -2749,7 +2749,7 @@
                     "totalPaymentInDollars": 84649516
                 }
             ],
-            "CT": [
+            "Connecticut": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -3207,7 +3207,7 @@
                     "totalPaymentInDollars": 743827
                 }
             ],
-            "DE": [
+            "Delaware": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -3665,7 +3665,7 @@
                     "totalPaymentInDollars": 5854495
                 }
             ],
-            "FL": [
+            "Florida": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -4123,7 +4123,7 @@
                     "totalPaymentInDollars": 12963872
                 }
             ],
-            "GA": [
+            "Georgia": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -4581,7 +4581,7 @@
                     "totalPaymentInDollars": 196619858
                 }
             ],
-            "HI": [
+            "Hawaii": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -5039,7 +5039,7 @@
                     "totalPaymentInDollars": 1186264
                 }
             ],
-            "ID": [
+            "Idaho": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -5497,7 +5497,7 @@
                     "totalPaymentInDollars": 27144959
                 }
             ],
-            "IL": [
+            "Illinois": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -5955,7 +5955,7 @@
                     "totalPaymentInDollars": 152828212
                 }
             ],
-            "IN": [
+            "Indiana": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -6413,7 +6413,7 @@
                     "totalPaymentInDollars": 46224196
                 }
             ],
-            "IA": [
+            "Iowa": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -6871,7 +6871,7 @@
                     "totalPaymentInDollars": 136891392
                 }
             ],
-            "KS": [
+            "Kansas": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -7329,7 +7329,7 @@
                     "totalPaymentInDollars": 166500158
                 }
             ],
-            "KY": [
+            "Kentucky": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -7787,7 +7787,7 @@
                     "totalPaymentInDollars": 29378981
                 }
             ],
-            "LA": [
+            "Louisiana": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -8245,7 +8245,7 @@
                     "totalPaymentInDollars": 126589042
                 }
             ],
-            "ME": [
+            "Maine": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -8703,7 +8703,7 @@
                     "totalPaymentInDollars": 1878085
                 }
             ],
-            "MD": [
+            "Maryland": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -9161,7 +9161,7 @@
                     "totalPaymentInDollars": 4520665
                 }
             ],
-            "MA": [
+            "Massachusetts": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -9619,7 +9619,7 @@
                     "totalPaymentInDollars": 798490
                 }
             ],
-            "MI": [
+            "Michigan": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -10077,7 +10077,7 @@
                     "totalPaymentInDollars": 29020607
                 }
             ],
-            "MN": [
+            "Minnesota": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -10535,7 +10535,7 @@
                     "totalPaymentInDollars": 297149211
                 }
             ],
-            "MS": [
+            "Mississippi": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -10993,7 +10993,7 @@
                     "totalPaymentInDollars": 283283885
                 }
             ],
-            "MO": [
+            "Missouri": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -11451,7 +11451,7 @@
                     "totalPaymentInDollars": 124737395
                 }
             ],
-            "MT": [
+            "Montana": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -11909,7 +11909,7 @@
                     "totalPaymentInDollars": 143460367
                 }
             ],
-            "NE": [
+            "Nebraska": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -12367,7 +12367,7 @@
                     "totalPaymentInDollars": 225430774
                 }
             ],
-            "NV": [
+            "Nevada": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -12825,7 +12825,7 @@
                     "totalPaymentInDollars": 1699431
                 }
             ],
-            "NH": [
+            "New Hampshire": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -13283,7 +13283,7 @@
                     "totalPaymentInDollars": 1772610
                 }
             ],
-            "NJ": [
+            "New Jersey": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -13741,7 +13741,7 @@
                     "totalPaymentInDollars": 1124210
                 }
             ],
-            "NM": [
+            "New Mexico": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -14199,7 +14199,7 @@
                     "totalPaymentInDollars": 57688117
                 }
             ],
-            "NY": [
+            "New York": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -14657,7 +14657,7 @@
                     "totalPaymentInDollars": 22217687
                 }
             ],
-            "NC": [
+            "North Carolina": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -15115,7 +15115,7 @@
                     "totalPaymentInDollars": 15729631
                 }
             ],
-            "ND": [
+            "North Dakota": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -15573,7 +15573,7 @@
                     "totalPaymentInDollars": 273940606
                 }
             ],
-            "OH": [
+            "Ohio": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -16031,7 +16031,7 @@
                     "totalPaymentInDollars": 28512759
                 }
             ],
-            "OK": [
+            "Oklahoma": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -16489,7 +16489,7 @@
                     "totalPaymentInDollars": 183291848
                 }
             ],
-            "OR": [
+            "Oregon": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -16947,7 +16947,7 @@
                     "totalPaymentInDollars": 91211169
                 }
             ],
-            "PA": [
+            "Pennsylvania": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -17405,7 +17405,7 @@
                     "totalPaymentInDollars": 29312551
                 }
             ],
-            "PR": [
+            "Puerto Rico": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -17863,7 +17863,7 @@
                     "totalPaymentInDollars": 949971
                 }
             ],
-            "RI": [
+            "Rhode Island": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -18321,7 +18321,7 @@
                     "totalPaymentInDollars": 859891
                 }
             ],
-            "SC": [
+            "South Carolina": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -18779,7 +18779,7 @@
                     "totalPaymentInDollars": 30140650
                 }
             ],
-            "SD": [
+            "South Dakota": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -19237,7 +19237,7 @@
                     "totalPaymentInDollars": 336714317
                 }
             ],
-            "TN": [
+            "Tennessee": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -19695,7 +19695,7 @@
                     "totalPaymentInDollars": 33140189
                 }
             ],
-            "TX": [
+            "Texas": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -20153,7 +20153,7 @@
                     "totalPaymentInDollars": 111808990
                 }
             ],
-            "UT": [
+            "Utah": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -20611,7 +20611,7 @@
                     "totalPaymentInDollars": 25835338
                 }
             ],
-            "VT": [
+            "Vermont": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -21069,7 +21069,7 @@
                     "totalPaymentInDollars": 1261026
                 }
             ],
-            "VA": [
+            "Virginia": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -21527,7 +21527,7 @@
                     "totalPaymentInDollars": 30678163
                 }
             ],
-            "WA": [
+            "Washington": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -21985,7 +21985,7 @@
                     "totalPaymentInDollars": 81201037
                 }
             ],
-            "WV": [
+            "West Virginia": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -22443,7 +22443,7 @@
                     "totalPaymentInDollars": 11148723
                 }
             ],
-            "WI": [
+            "Wisconsin": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -22901,7 +22901,7 @@
                     "totalPaymentInDollars": 92607190
                 }
             ],
-            "WY": [
+            "Wyoming": [
                 {
                     "years": "2018",
                     "statutes": [
@@ -23359,7 +23359,7 @@
                     "totalPaymentInDollars": 18031961
                 }
             ],
-            "PB": [
+            "Pacific Basin": [
                 {
                     "years": "2019",
                     "statutes": [

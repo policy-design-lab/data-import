@@ -304,6 +304,7 @@ class EqipParser:
                 yearly_state_payment = round(payment, 2)
 
                 new_data_entry = {
+                    "state": state_name,
                     "statutes": [
                         {
                             "statuteName": "(6)(A) Practices",
@@ -370,6 +371,16 @@ class EqipParser:
                                                      key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
                                                      reverse=True))
 
+            # restructure json to equivalent to acep or rcpp
+            restructured_list = []
+
+            for state, state_data in self.percentages_data_dict.items():
+                for entry in state_data:
+                    restructured_list.append({
+                        'state': entry['state'],
+                        'statutes': entry['statutes']
+                    })
+
             # remap state names to abbreviations
             # self.percentages_data_dict = self.remap_statename_to_abbreviation(self.percentages_data_dict)
 
@@ -378,7 +389,7 @@ class EqipParser:
             tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
 
             # add year to the tmp_output
-            tmp_output[str(self.start_year) + "-" + str(self.end_year)].append(self.percentages_data_dict)
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = restructured_list
 
             # Write processed_data_dict as JSON data
             with open("../title-2-conservation/eqip/eqip_state_distribution_data.json", "w") as output_json_file:
