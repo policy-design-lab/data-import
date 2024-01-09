@@ -54,6 +54,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Calculate payment in percentage with the state data in CRP 
   data. [#52](https://github.com/policy-design-lab/data-import/issues/52)
 - DMC and SADA json updated with new title [#61](https://github.com/policy-design-lab/data-import/issues/61)
+- Title 1's subtitle D and E json updated with new structure [#64](https://github.com/policy-design-lab/data-import/issues/64)
 
 ### Fixed
 

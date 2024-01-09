@@ -150,18 +150,13 @@ class DairyDisasterParser:
 
             new_data_entry = {
                 "state": state_abbr,
-                "programs": [
-                    {
-                        "programName": "Dairy Margin Coverage, Subtitle D",
-                        "totalCounts": int(sum_by_dairy_count_by_state[state].item()),
-                        "programPaymentInDollars": round(sum_by_dairy_payments_by_state[state].item(), 2),
-                        "averageRecipientCount": round(sum_by_dairy_count_by_state[state].item() / total_years, 2),
-                        "paymentInPercentageNationwide": dairy_payments_percentage_nation,
-                        "countInPercentageNationwide": dairy_count_percentage_nation,
-                        "averageRecipientCountInPercentageNationwide": average_dairy_count_percentage_nation,
-                        "subPrograms": []
-                    },
-                ]
+                "subtitleName": "Dairy Margin Coverage, Subtitle D",
+                "totalCounts": int(sum_by_dairy_count_by_state[state].item()),
+                "subtitlePaymentInDollars": round(sum_by_dairy_payments_by_state[state].item(), 2),
+                "averageRecipientCount": round(sum_by_dairy_count_by_state[state].item() / total_years, 2),
+                "paymentInPercentageNationwide": dairy_payments_percentage_nation,
+                "averageRecipientCountInPercentageNationwide": average_dairy_count_percentage_nation,
+                "programs": []
             }
 
             self.dairy_state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
@@ -171,7 +166,7 @@ class DairyDisasterParser:
         for year in self.dairy_state_distribution_data_dict:
             self.dairy_state_distribution_data_dict[year] = \
                 sorted(self.dairy_state_distribution_data_dict[year],
-                       key=lambda x: x["programs"][0]["programPaymentInDollars"], reverse=True)
+                       key=lambda x: x["subtitlePaymentInDollars"], reverse=True)
 
         # Write processed_data_dict as JSON data
         with open(os.path.join(self.data_folder, "dmc_state_distribution_data.json"),
@@ -187,15 +182,11 @@ class DairyDisasterParser:
             program_data["count"].sum()
 
         self.dairy_program_data_dict = {
-            "programs": [
-                {
-                    "programName": "Dairy Margin Coverage, Subtitle D",
-                    "paymentInDollars": round(dairy_total_by_payments.item(), 2),
-                    "totalCounts": int(dairy_total_by_count.item()),
-                    "averageRecipientCount": round(dairy_total_by_count.item() / total_years, 2),
-                    "subPrograms": []
-                },
-            ]
+            "subtitleName": "Dairy Margin Coverage, Subtitle D",
+            "subtitlePaymentInDollars": round(dairy_total_by_payments.item(), 2),
+            "totalCounts": int(dairy_total_by_count.item()),
+            "averageRecipientCount": round(dairy_total_by_count.item() / total_years, 2),
+            "programs": []
         }
 
         # Write processed_data_dict as JSON data
@@ -442,70 +433,65 @@ class DairyDisasterParser:
 
             new_data_entry = {
                 "state": state_abbr,
+                "subtitleName": "Supplemental Agricultural Disaster Assistance, Subtitle E",
+                "totalCounts": int(sum_by_disaster_count_by_state[state].item()),
+                "subtitlePaymentInDollars": round(sum_by_disaster_payments_by_state[state].item(), 2),
+                "averageRecipientCount": round(sum_by_disaster_count_by_state[state].item() / total_years, 2),
+                "paymentInPercentageNationwide": disaster_payments_percentage_nation,
+                "averageRecipientCountInPercentageNationwide": average_disaster_count_percentage_nation,
                 "programs": [
                     {
-                        "programName": "Supplemental Agricultural Disaster Assistance, Subtitle E",
-                        "totalCounts": int(sum_by_disaster_count_by_state[state].item()),
-                        "programPaymentInDollars": round(sum_by_disaster_payments_by_state[state].item(), 2),
-                        "averageRecipientCount": round(sum_by_disaster_count_by_state[state].item() / total_years, 2),
-                        "paymentInPercentageNationwide": disaster_payments_percentage_nation,
-                        "countInPercentageNationwide": disaster_count_percentage_nation,
-                        "averageRecipientCountInPercentageNationwide": average_disaster_count_percentage_nation,
-                        "subPrograms": [
-                            {
-                                "subProgramName": "Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program (ELAP)",
-                                "totalCounts": int(sum_by_elap_count_by_state[state].item()),
-                                "paymentInDollars": round(sum_by_elap_payments_by_state[state].item(), 2),
-                                "averageRecipientCount": round(sum_by_elap_count_by_state[state].item() / total_years,
-                                                               2),
-                                "paymentInPercentageNationwide": elap_payments_percentage_nation,
-                                "countInPercentageNationwide": elap_count_percentage_nation,
-                                "averageRecipientCountInPercentageNationwide": average_elap_count_percentage_nation,
-                                "paymentInPercentageWithinState": within_state_elap_percentage_payments,
-                                "countInPercentageWithinState": within_state_elap_percentage_count,
-                                "averageRecipientCountInPercentageWithinState": within_state_elap_average_percentage_count
-                            },
-                            {
-                                "subProgramName": "Livestock Forage Program (LFP)",
-                                "totalCounts": int(sum_by_lfp_count_by_state[state].item()),
-                                "paymentInDollars": round(sum_by_lfp_payments_by_state[state].item(), 2),
-                                "averageRecipientCount": round(sum_by_lfp_count_by_state[state].item() / total_years,
-                                                               2),
-                                "paymentInPercentageNationwide": lfp_payments_percentage_nation,
-                                "countInPercentageNationwide": lfp_count_percentage_nation,
-                                "averageRecipientCountInPercentageNationwide": average_lfp_count_percentage_nation,
-                                "paymentInPercentageWithinState": within_state_lfp_percentage_payments,
-                                "countInPercentageWithinState": within_state_lfp_percentage_count,
-                                "averageRecipientCountInPercentageWithinState": within_state_lfp_average_percentage_count
-                            },
-                            {
-                                "subProgramName": "Livestock Indemnity Payments (LIP)",
-                                "totalCounts": int(sum_by_lip_count_by_state[state].item()),
-                                "paymentInDollars": round(sum_by_lip_payments_by_state[state].item(), 2),
-                                "averageRecipientCount": round(sum_by_lip_count_by_state[state].item() / total_years,
-                                                               2),
-                                "paymentInPercentageNationwide": lip_payments_percentage_nation,
-                                "countInPercentageNationwide": lip_count_percentage_nation,
-                                "averageRecipientCountInPercentageNationwide": average_lip_count_percentage_nation,
-                                "paymentInPercentageWithinState": within_state_lip_percentage_payments,
-                                "countInPercentageWithinState": within_state_lip_percentage_count,
-                                "averageRecipientCountInPercentageWithinState": within_state_lip_average_percentage_count
-                            },
-                            {
-                                "subProgramName": "Tree Assistance Program (TAP)",
-                                "totalCounts": int(sum_by_tap_count_by_state[state].item()),
-                                "paymentInDollars": round(sum_by_tap_payments_by_state[state].item(), 2),
-                                "averageRecipientCount": round(sum_by_tap_count_by_state[state].item() / total_years,
-                                                               2),
-                                "paymentInPercentageNationwide": tap_payments_percentage_nation,
-                                "countInPercentageNationwide": tap_count_percentage_nation,
-                                "averageRecipientCountInPercentageNationwide": average_tap_count_percentage_nation,
-                                "paymentInPercentageWithinState": within_state_tap_percentage_payments,
-                                "countInPercentageWithinState": within_state_tap_percentage_count,
-                                "averageRecipientCountInPercentageWithinState": within_state_tap_average_percentage_count,
-                            }
-                        ]
+                        "programName": "Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program (ELAP)",
+                        "totalCounts": int(sum_by_elap_count_by_state[state].item()),
+                        "paymentInDollars": round(sum_by_elap_payments_by_state[state].item(), 2),
+                        "averageRecipientCount": round(sum_by_elap_count_by_state[state].item() / total_years,
+                                                       2),
+                        "paymentInPercentageNationwide": elap_payments_percentage_nation,
+                        "countInPercentageNationwide": elap_count_percentage_nation,
+                        "averageRecipientCountInPercentageNationwide": average_elap_count_percentage_nation,
+                        "paymentInPercentageWithinState": within_state_elap_percentage_payments,
+                        "averageRecipientCountInPercentageWithinState": within_state_elap_average_percentage_count,
+                        "subPrograms": []
                     },
+                    {
+                        "programName": "Livestock Forage Program (LFP)",
+                        "totalCounts": int(sum_by_lfp_count_by_state[state].item()),
+                        "paymentInDollars": round(sum_by_lfp_payments_by_state[state].item(), 2),
+                        "averageRecipientCount": round(sum_by_lfp_count_by_state[state].item() / total_years,
+                                                       2),
+                        "paymentInPercentageNationwide": lfp_payments_percentage_nation,
+                        "countInPercentageNationwide": lfp_count_percentage_nation,
+                        "averageRecipientCountInPercentageNationwide": average_lfp_count_percentage_nation,
+                        "paymentInPercentageWithinState": within_state_lfp_percentage_payments,
+                        "averageRecipientCountInPercentageWithinState": within_state_lfp_average_percentage_count,
+                        "subPrograms": []
+                    },
+                    {
+                        "programName": "Livestock Indemnity Payments (LIP)",
+                        "totalCounts": int(sum_by_lip_count_by_state[state].item()),
+                        "paymentInDollars": round(sum_by_lip_payments_by_state[state].item(), 2),
+                        "averageRecipientCount": round(sum_by_lip_count_by_state[state].item() / total_years,
+                                                       2),
+                        "paymentInPercentageNationwide": lip_payments_percentage_nation,
+                        "countInPercentageNationwide": lip_count_percentage_nation,
+                        "averageRecipientCountInPercentageNationwide": average_lip_count_percentage_nation,
+                        "paymentInPercentageWithinState": within_state_lip_percentage_payments,
+                        "averageRecipientCountInPercentageWithinState": within_state_lip_average_percentage_count,
+                        "subPrograms": []
+                    },
+                    {
+                        "programName": "Tree Assistance Program (TAP)",
+                        "totalCounts": int(sum_by_tap_count_by_state[state].item()),
+                        "paymentInDollars": round(sum_by_tap_payments_by_state[state].item(), 2),
+                        "averageRecipientCount": round(sum_by_tap_count_by_state[state].item() / total_years,
+                                                       2),
+                        "paymentInPercentageNationwide": tap_payments_percentage_nation,
+                        "countInPercentageNationwide": tap_count_percentage_nation,
+                        "averageRecipientCountInPercentageNationwide": average_tap_count_percentage_nation,
+                        "paymentInPercentageWithinState": within_state_tap_percentage_payments,
+                        "averageRecipientCountInPercentageWithinState": within_state_tap_average_percentage_count,
+                        "subPrograms": []
+                    }
                 ]
             }
 
@@ -516,7 +502,7 @@ class DairyDisasterParser:
         for year in self.disaster_state_distribution_data_dict:
             self.disaster_state_distribution_data_dict[year] = \
                 sorted(self.disaster_state_distribution_data_dict[year],
-                       key=lambda x: x["programs"][0]["programPaymentInDollars"], reverse=True)
+                       key=lambda x: ["subtitlePaymentInDollars"], reverse=True)
 
         # Write processed_data_dict as JSON data
         with open(os.path.join(self.data_folder, "sada_state_distribution_data.json"),
@@ -547,39 +533,35 @@ class DairyDisasterParser:
             tap_data["count"].sum()
 
         self.disaster_program_data_dict = {
+            "subtitleName": "Supplemental Agricultural Disaster Assistance, Subtitle E",
+            "subtitlePaymentInDollars": round(disaster_total_by_payments.item(), 2),
+            "totalCounts": int(disaster_total_by_count.item()),
+            "averageRecipientCount": round(disaster_total_by_count.item() / total_years, 2),
             "programs": [
                 {
-                    "programName": "Supplemental Agricultural Disaster Assistance, Subtitle E",
-                    "paymentInDollars": round(disaster_total_by_payments.item(), 2),
-                    "totalCounts": int(disaster_total_by_count.item()),
-                    "averageRecipientCount": round(disaster_total_by_count.item() / total_years, 2),
-                    "subPrograms": [
-                        {
-                            "programName": "Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program (ELAP)",
-                            "paymentInDollars": round(elap_total_by_payments.item(), 2),
-                            "totalCounts": int(elap_total_by_count.item()),
-                            "averageRecipientCount": round(elap_total_by_count.item() / total_years, 2),
-                        },
-                        {
-                            "programName": "Livestock Forage Program (LFP)",
-                            "paymentInDollars": round(lfp_total_by_payments.item(), 2),
-                            "totalCounts": int(lfp_total_by_count.item()),
-                            "averageRecipientCount": round(lfp_total_by_count.item() / total_years, 2),
-                        },
-                        {
-                            "programName": "Livestock Indemnity Payments (LIP)",
-                            "paymentInDollars": round(lip_total_by_payments.item(), 2),
-                            "totalCounts": int(lip_total_by_count.item()),
-                            "averageRecipientCount": round(lip_total_by_count.item() / total_years, 2),
-                        },
-                        {
-                            "programName": "Tree Assistance Program (TAP)",
-                            "paymentInDollars": round(tap_total_by_payments.item(), 2),
-                            "totalCounts": int(tap_total_by_count.item()),
-                            "averageRecipientCount": round(tap_total_by_count.item() / total_years, 2),
-                        }
-                    ]
+                    "programName": "Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program (ELAP)",
+                    "paymentInDollars": round(elap_total_by_payments.item(), 2),
+                    "totalCounts": int(elap_total_by_count.item()),
+                    "averageRecipientCount": round(elap_total_by_count.item() / total_years, 2),
                 },
+                {
+                    "programName": "Livestock Forage Program (LFP)",
+                    "paymentInDollars": round(lfp_total_by_payments.item(), 2),
+                    "totalCounts": int(lfp_total_by_count.item()),
+                    "averageRecipientCount": round(lfp_total_by_count.item() / total_years, 2),
+                },
+                {
+                    "programName": "Livestock Indemnity Payments (LIP)",
+                    "paymentInDollars": round(lip_total_by_payments.item(), 2),
+                    "totalCounts": int(lip_total_by_count.item()),
+                    "averageRecipientCount": round(lip_total_by_count.item() / total_years, 2),
+                },
+                {
+                    "programName": "Tree Assistance Program (TAP)",
+                    "paymentInDollars": round(tap_total_by_payments.item(), 2),
+                    "totalCounts": int(tap_total_by_count.item()),
+                    "averageRecipientCount": round(tap_total_by_count.item() / total_years, 2),
+                }
             ]
         }
 
