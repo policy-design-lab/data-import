@@ -56,6 +56,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - DMC and SADA json updated with new title [#61](https://github.com/policy-design-lab/data-import/issues/61)
 - CSP data structure updated with years information [#66](https://github.com/policy-design-lab/data-import/issues/66)
 - EQIP data structure updated with years information [#67](https://github.com/policy-design-lab/data-import/issues/67)
+- Title 1's subtitle D and E json updated with new structure [#64](https://github.com/policy-design-lab/data-import/issues/64)
 
 ### Fixed
 

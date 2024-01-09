@@ -2,753 +2,503 @@
   "2014-2021": [
     {
       "state": "WI",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 147440,
-          "programPaymentInDollars": 455805834.33,
-          "averageRecipientCount": 18430.0,
-          "paymentInPercentageNationwide": 23.15,
-          "countInPercentageNationwide": 27.17,
-          "averageRecipientCountInPercentageNationwide": 27.17,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 147440,
+      "subtitlePaymentInDollars": 455805834.33,
+      "averageRecipientCount": 18430.0,
+      "paymentInPercentageNationwide": 23.15,
+      "averageRecipientCountInPercentageNationwide": 27.17,
+      "programs": []
     },
     {
       "state": "MN",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 65798,
-          "programPaymentInDollars": 186846464.5,
-          "averageRecipientCount": 8224.75,
-          "paymentInPercentageNationwide": 9.49,
-          "countInPercentageNationwide": 12.13,
-          "averageRecipientCountInPercentageNationwide": 12.13,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 65798,
+      "subtitlePaymentInDollars": 186846464.5,
+      "averageRecipientCount": 8224.75,
+      "paymentInPercentageNationwide": 9.49,
+      "averageRecipientCountInPercentageNationwide": 12.13,
+      "programs": []
     },
     {
       "state": "NY",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 55947,
-          "programPaymentInDollars": 177252647.44,
-          "averageRecipientCount": 6993.38,
-          "paymentInPercentageNationwide": 9.0,
-          "countInPercentageNationwide": 10.31,
-          "averageRecipientCountInPercentageNationwide": 10.31,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 55947,
+      "subtitlePaymentInDollars": 177252647.44,
+      "averageRecipientCount": 6993.38,
+      "paymentInPercentageNationwide": 9.0,
+      "averageRecipientCountInPercentageNationwide": 10.31,
+      "programs": []
     },
     {
       "state": "CA",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 20180,
-          "programPaymentInDollars": 173723422.73,
-          "averageRecipientCount": 2522.5,
-          "paymentInPercentageNationwide": 8.82,
-          "countInPercentageNationwide": 3.72,
-          "averageRecipientCountInPercentageNationwide": 3.72,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 20180,
+      "subtitlePaymentInDollars": 173723422.73,
+      "averageRecipientCount": 2522.5,
+      "paymentInPercentageNationwide": 8.82,
+      "averageRecipientCountInPercentageNationwide": 3.72,
+      "programs": []
     },
     {
       "state": "PA",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 47750,
-          "programPaymentInDollars": 145000484.12,
-          "averageRecipientCount": 5968.75,
-          "paymentInPercentageNationwide": 7.36,
-          "countInPercentageNationwide": 8.8,
-          "averageRecipientCountInPercentageNationwide": 8.8,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 47750,
+      "subtitlePaymentInDollars": 145000484.12,
+      "averageRecipientCount": 5968.75,
+      "paymentInPercentageNationwide": 7.36,
+      "averageRecipientCountInPercentageNationwide": 8.8,
+      "programs": []
     },
     {
       "state": "MI",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 20490,
-          "programPaymentInDollars": 93707768.23,
-          "averageRecipientCount": 2561.25,
-          "paymentInPercentageNationwide": 4.76,
-          "countInPercentageNationwide": 3.78,
-          "averageRecipientCountInPercentageNationwide": 3.78,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 20490,
+      "subtitlePaymentInDollars": 93707768.23,
+      "averageRecipientCount": 2561.25,
+      "paymentInPercentageNationwide": 4.76,
+      "averageRecipientCountInPercentageNationwide": 3.78,
+      "programs": []
     },
     {
       "state": "IA",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 25951,
-          "programPaymentInDollars": 81936880.53,
-          "averageRecipientCount": 3243.88,
-          "paymentInPercentageNationwide": 4.16,
-          "countInPercentageNationwide": 4.78,
-          "averageRecipientCountInPercentageNationwide": 4.78,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 25951,
+      "subtitlePaymentInDollars": 81936880.53,
+      "averageRecipientCount": 3243.88,
+      "paymentInPercentageNationwide": 4.16,
+      "averageRecipientCountInPercentageNationwide": 4.78,
+      "programs": []
     },
     {
       "state": "OH",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 21043,
-          "programPaymentInDollars": 76705792.14,
-          "averageRecipientCount": 2630.38,
-          "paymentInPercentageNationwide": 3.9,
-          "countInPercentageNationwide": 3.88,
-          "averageRecipientCountInPercentageNationwide": 3.88,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 21043,
+      "subtitlePaymentInDollars": 76705792.14,
+      "averageRecipientCount": 2630.38,
+      "paymentInPercentageNationwide": 3.9,
+      "averageRecipientCountInPercentageNationwide": 3.88,
+      "programs": []
     },
     {
       "state": "VT",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 12951,
-          "programPaymentInDollars": 43455737.51,
-          "averageRecipientCount": 1618.88,
-          "paymentInPercentageNationwide": 2.21,
-          "countInPercentageNationwide": 2.39,
-          "averageRecipientCountInPercentageNationwide": 2.39,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 12951,
+      "subtitlePaymentInDollars": 43455737.51,
+      "averageRecipientCount": 1618.88,
+      "paymentInPercentageNationwide": 2.21,
+      "averageRecipientCountInPercentageNationwide": 2.39,
+      "programs": []
     },
     {
       "state": "TX",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 6390,
-          "programPaymentInDollars": 43238231.78,
-          "averageRecipientCount": 798.75,
-          "paymentInPercentageNationwide": 2.2,
-          "countInPercentageNationwide": 1.18,
-          "averageRecipientCountInPercentageNationwide": 1.18,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 6390,
+      "subtitlePaymentInDollars": 43238231.78,
+      "averageRecipientCount": 798.75,
+      "paymentInPercentageNationwide": 2.2,
+      "averageRecipientCountInPercentageNationwide": 1.18,
+      "programs": []
     },
     {
       "state": "IL",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 13694,
-          "programPaymentInDollars": 40528014.63,
-          "averageRecipientCount": 1711.75,
-          "paymentInPercentageNationwide": 2.06,
-          "countInPercentageNationwide": 2.52,
-          "averageRecipientCountInPercentageNationwide": 2.52,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 13694,
+      "subtitlePaymentInDollars": 40528014.63,
+      "averageRecipientCount": 1711.75,
+      "paymentInPercentageNationwide": 2.06,
+      "averageRecipientCountInPercentageNationwide": 2.52,
+      "programs": []
     },
     {
       "state": "ID",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 5485,
-          "programPaymentInDollars": 40093715.33,
-          "averageRecipientCount": 685.62,
-          "paymentInPercentageNationwide": 2.04,
-          "countInPercentageNationwide": 1.01,
-          "averageRecipientCountInPercentageNationwide": 1.01,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 5485,
+      "subtitlePaymentInDollars": 40093715.33,
+      "averageRecipientCount": 685.62,
+      "paymentInPercentageNationwide": 2.04,
+      "averageRecipientCountInPercentageNationwide": 1.01,
+      "programs": []
     },
     {
       "state": "WA",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 5596,
-          "programPaymentInDollars": 37007277.45,
-          "averageRecipientCount": 699.5,
-          "paymentInPercentageNationwide": 1.88,
-          "countInPercentageNationwide": 1.03,
-          "averageRecipientCountInPercentageNationwide": 1.03,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 5596,
+      "subtitlePaymentInDollars": 37007277.45,
+      "averageRecipientCount": 699.5,
+      "paymentInPercentageNationwide": 1.88,
+      "averageRecipientCountInPercentageNationwide": 1.03,
+      "programs": []
     },
     {
       "state": "VA",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 7204,
-          "programPaymentInDollars": 30663137.46,
-          "averageRecipientCount": 900.5,
-          "paymentInPercentageNationwide": 1.56,
-          "countInPercentageNationwide": 1.33,
-          "averageRecipientCountInPercentageNationwide": 1.33,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 7204,
+      "subtitlePaymentInDollars": 30663137.46,
+      "averageRecipientCount": 900.5,
+      "paymentInPercentageNationwide": 1.56,
+      "averageRecipientCountInPercentageNationwide": 1.33,
+      "programs": []
     },
     {
       "state": "IN",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 7530,
-          "programPaymentInDollars": 27103881.66,
-          "averageRecipientCount": 941.25,
-          "paymentInPercentageNationwide": 1.38,
-          "countInPercentageNationwide": 1.39,
-          "averageRecipientCountInPercentageNationwide": 1.39,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 7530,
+      "subtitlePaymentInDollars": 27103881.66,
+      "averageRecipientCount": 941.25,
+      "paymentInPercentageNationwide": 1.38,
+      "averageRecipientCountInPercentageNationwide": 1.39,
+      "programs": []
     },
     {
       "state": "MO",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 11674,
-          "programPaymentInDollars": 26934162.96,
-          "averageRecipientCount": 1459.25,
-          "paymentInPercentageNationwide": 1.37,
-          "countInPercentageNationwide": 2.15,
-          "averageRecipientCountInPercentageNationwide": 2.15,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 11674,
+      "subtitlePaymentInDollars": 26934162.96,
+      "averageRecipientCount": 1459.25,
+      "paymentInPercentageNationwide": 1.37,
+      "averageRecipientCountInPercentageNationwide": 2.15,
+      "programs": []
     },
     {
       "state": "OR",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 3325,
-          "programPaymentInDollars": 20797872.04,
-          "averageRecipientCount": 415.62,
-          "paymentInPercentageNationwide": 1.06,
-          "countInPercentageNationwide": 0.61,
-          "averageRecipientCountInPercentageNationwide": 0.61,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 3325,
+      "subtitlePaymentInDollars": 20797872.04,
+      "averageRecipientCount": 415.62,
+      "paymentInPercentageNationwide": 1.06,
+      "averageRecipientCountInPercentageNationwide": 0.61,
+      "programs": []
     },
     {
       "state": "MD",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 5031,
-          "programPaymentInDollars": 19674943.45,
-          "averageRecipientCount": 628.88,
-          "paymentInPercentageNationwide": 1.0,
-          "countInPercentageNationwide": 0.93,
-          "averageRecipientCountInPercentageNationwide": 0.93,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 5031,
+      "subtitlePaymentInDollars": 19674943.45,
+      "averageRecipientCount": 628.88,
+      "paymentInPercentageNationwide": 1.0,
+      "averageRecipientCountInPercentageNationwide": 0.93,
+      "programs": []
     },
     {
       "state": "KY",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 7212,
-          "programPaymentInDollars": 18845717.12,
-          "averageRecipientCount": 901.5,
-          "paymentInPercentageNationwide": 0.96,
-          "countInPercentageNationwide": 1.33,
-          "averageRecipientCountInPercentageNationwide": 1.33,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 7212,
+      "subtitlePaymentInDollars": 18845717.12,
+      "averageRecipientCount": 901.5,
+      "paymentInPercentageNationwide": 0.96,
+      "averageRecipientCountInPercentageNationwide": 1.33,
+      "programs": []
     },
     {
       "state": "UT",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 3252,
-          "programPaymentInDollars": 18605351.04,
-          "averageRecipientCount": 406.5,
-          "paymentInPercentageNationwide": 0.94,
-          "countInPercentageNationwide": 0.6,
-          "averageRecipientCountInPercentageNationwide": 0.6,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 3252,
+      "subtitlePaymentInDollars": 18605351.04,
+      "averageRecipientCount": 406.5,
+      "paymentInPercentageNationwide": 0.94,
+      "averageRecipientCountInPercentageNationwide": 0.6,
+      "programs": []
     },
     {
       "state": "SD",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 3939,
-          "programPaymentInDollars": 16733451.98,
-          "averageRecipientCount": 492.38,
-          "paymentInPercentageNationwide": 0.85,
-          "countInPercentageNationwide": 0.73,
-          "averageRecipientCountInPercentageNationwide": 0.73,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 3939,
+      "subtitlePaymentInDollars": 16733451.98,
+      "averageRecipientCount": 492.38,
+      "paymentInPercentageNationwide": 0.85,
+      "averageRecipientCountInPercentageNationwide": 0.73,
+      "programs": []
     },
     {
       "state": "KS",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 4359,
-          "programPaymentInDollars": 15886122.02,
-          "averageRecipientCount": 544.88,
-          "paymentInPercentageNationwide": 0.81,
-          "countInPercentageNationwide": 0.8,
-          "averageRecipientCountInPercentageNationwide": 0.8,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 4359,
+      "subtitlePaymentInDollars": 15886122.02,
+      "averageRecipientCount": 544.88,
+      "paymentInPercentageNationwide": 0.81,
+      "averageRecipientCountInPercentageNationwide": 0.8,
+      "programs": []
     },
     {
       "state": "CO",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 1812,
-          "programPaymentInDollars": 15576267.29,
-          "averageRecipientCount": 226.5,
-          "paymentInPercentageNationwide": 0.79,
-          "countInPercentageNationwide": 0.33,
-          "averageRecipientCountInPercentageNationwide": 0.33,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 1812,
+      "subtitlePaymentInDollars": 15576267.29,
+      "averageRecipientCount": 226.5,
+      "paymentInPercentageNationwide": 0.79,
+      "averageRecipientCountInPercentageNationwide": 0.33,
+      "programs": []
     },
     {
       "state": "NM",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 1362,
-          "programPaymentInDollars": 14896407.2,
-          "averageRecipientCount": 170.25,
-          "paymentInPercentageNationwide": 0.76,
-          "countInPercentageNationwide": 0.25,
-          "averageRecipientCountInPercentageNationwide": 0.25,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 1362,
+      "subtitlePaymentInDollars": 14896407.2,
+      "averageRecipientCount": 170.25,
+      "paymentInPercentageNationwide": 0.76,
+      "averageRecipientCountInPercentageNationwide": 0.25,
+      "programs": []
     },
     {
       "state": "GA",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 2601,
-          "programPaymentInDollars": 14396042.46,
-          "averageRecipientCount": 325.12,
-          "paymentInPercentageNationwide": 0.73,
-          "countInPercentageNationwide": 0.48,
-          "averageRecipientCountInPercentageNationwide": 0.48,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 2601,
+      "subtitlePaymentInDollars": 14396042.46,
+      "averageRecipientCount": 325.12,
+      "paymentInPercentageNationwide": 0.73,
+      "averageRecipientCountInPercentageNationwide": 0.48,
+      "programs": []
     },
     {
       "state": "TN",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 3814,
-          "programPaymentInDollars": 12739523.71,
-          "averageRecipientCount": 476.75,
-          "paymentInPercentageNationwide": 0.65,
-          "countInPercentageNationwide": 0.7,
-          "averageRecipientCountInPercentageNationwide": 0.7,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 3814,
+      "subtitlePaymentInDollars": 12739523.71,
+      "averageRecipientCount": 476.75,
+      "paymentInPercentageNationwide": 0.65,
+      "averageRecipientCountInPercentageNationwide": 0.7,
+      "programs": []
     },
     {
       "state": "NC",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 2698,
-          "programPaymentInDollars": 12650313.9,
-          "averageRecipientCount": 337.25,
-          "paymentInPercentageNationwide": 0.64,
-          "countInPercentageNationwide": 0.5,
-          "averageRecipientCountInPercentageNationwide": 0.5,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 2698,
+      "subtitlePaymentInDollars": 12650313.9,
+      "averageRecipientCount": 337.25,
+      "paymentInPercentageNationwide": 0.64,
+      "averageRecipientCountInPercentageNationwide": 0.5,
+      "programs": []
     },
     {
       "state": "ME",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 3989,
-          "programPaymentInDollars": 12105454.36,
-          "averageRecipientCount": 498.62,
-          "paymentInPercentageNationwide": 0.61,
-          "countInPercentageNationwide": 0.74,
-          "averageRecipientCountInPercentageNationwide": 0.74,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 3989,
+      "subtitlePaymentInDollars": 12105454.36,
+      "averageRecipientCount": 498.62,
+      "paymentInPercentageNationwide": 0.61,
+      "averageRecipientCountInPercentageNationwide": 0.74,
+      "programs": []
     },
     {
       "state": "NE",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 3043,
-          "programPaymentInDollars": 11829434.37,
-          "averageRecipientCount": 380.38,
-          "paymentInPercentageNationwide": 0.6,
-          "countInPercentageNationwide": 0.56,
-          "averageRecipientCountInPercentageNationwide": 0.56,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 3043,
+      "subtitlePaymentInDollars": 11829434.37,
+      "averageRecipientCount": 380.38,
+      "paymentInPercentageNationwide": 0.6,
+      "averageRecipientCountInPercentageNationwide": 0.56,
+      "programs": []
     },
     {
       "state": "AZ",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 993,
-          "programPaymentInDollars": 9683370.65,
-          "averageRecipientCount": 124.12,
-          "paymentInPercentageNationwide": 0.49,
-          "countInPercentageNationwide": 0.18,
-          "averageRecipientCountInPercentageNationwide": 0.18,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 993,
+      "subtitlePaymentInDollars": 9683370.65,
+      "averageRecipientCount": 124.12,
+      "paymentInPercentageNationwide": 0.49,
+      "averageRecipientCountInPercentageNationwide": 0.18,
+      "programs": []
     },
     {
       "state": "FL",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 916,
-          "programPaymentInDollars": 8287392.72,
-          "averageRecipientCount": 114.5,
-          "paymentInPercentageNationwide": 0.42,
-          "countInPercentageNationwide": 0.17,
-          "averageRecipientCountInPercentageNationwide": 0.17,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 916,
+      "subtitlePaymentInDollars": 8287392.72,
+      "averageRecipientCount": 114.5,
+      "paymentInPercentageNationwide": 0.42,
+      "averageRecipientCountInPercentageNationwide": 0.17,
+      "programs": []
     },
     {
       "state": "OK",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 2415,
-          "programPaymentInDollars": 7894275.47,
-          "averageRecipientCount": 301.88,
-          "paymentInPercentageNationwide": 0.4,
-          "countInPercentageNationwide": 0.45,
-          "averageRecipientCountInPercentageNationwide": 0.45,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 2415,
+      "subtitlePaymentInDollars": 7894275.47,
+      "averageRecipientCount": 301.88,
+      "paymentInPercentageNationwide": 0.4,
+      "averageRecipientCountInPercentageNationwide": 0.45,
+      "programs": []
     },
     {
       "state": "MA",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 2496,
-          "programPaymentInDollars": 7345511.71,
-          "averageRecipientCount": 312.0,
-          "paymentInPercentageNationwide": 0.37,
-          "countInPercentageNationwide": 0.46,
-          "averageRecipientCountInPercentageNationwide": 0.46,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 2496,
+      "subtitlePaymentInDollars": 7345511.71,
+      "averageRecipientCount": 312.0,
+      "paymentInPercentageNationwide": 0.37,
+      "averageRecipientCountInPercentageNationwide": 0.46,
+      "programs": []
     },
     {
       "state": "MT",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 1056,
-          "programPaymentInDollars": 6374271.43,
-          "averageRecipientCount": 132.0,
-          "paymentInPercentageNationwide": 0.32,
-          "countInPercentageNationwide": 0.19,
-          "averageRecipientCountInPercentageNationwide": 0.19,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 1056,
+      "subtitlePaymentInDollars": 6374271.43,
+      "averageRecipientCount": 132.0,
+      "paymentInPercentageNationwide": 0.32,
+      "averageRecipientCountInPercentageNationwide": 0.19,
+      "programs": []
     },
     {
       "state": "CT",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 1584,
-          "programPaymentInDollars": 6017049.27,
-          "averageRecipientCount": 198.0,
-          "paymentInPercentageNationwide": 0.31,
-          "countInPercentageNationwide": 0.29,
-          "averageRecipientCountInPercentageNationwide": 0.29,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 1584,
+      "subtitlePaymentInDollars": 6017049.27,
+      "averageRecipientCount": 198.0,
+      "paymentInPercentageNationwide": 0.31,
+      "averageRecipientCountInPercentageNationwide": 0.29,
+      "programs": []
     },
     {
       "state": "LA",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 2401,
-          "programPaymentInDollars": 5888003.97,
-          "averageRecipientCount": 300.12,
-          "paymentInPercentageNationwide": 0.3,
-          "countInPercentageNationwide": 0.44,
-          "averageRecipientCountInPercentageNationwide": 0.44,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 2401,
+      "subtitlePaymentInDollars": 5888003.97,
+      "averageRecipientCount": 300.12,
+      "paymentInPercentageNationwide": 0.3,
+      "averageRecipientCountInPercentageNationwide": 0.44,
+      "programs": []
     },
     {
       "state": "NH",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 1539,
-          "programPaymentInDollars": 5640690.03,
-          "averageRecipientCount": 192.38,
-          "paymentInPercentageNationwide": 0.29,
-          "countInPercentageNationwide": 0.28,
-          "averageRecipientCountInPercentageNationwide": 0.28,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 1539,
+      "subtitlePaymentInDollars": 5640690.03,
+      "averageRecipientCount": 192.38,
+      "paymentInPercentageNationwide": 0.29,
+      "averageRecipientCountInPercentageNationwide": 0.28,
+      "programs": []
     },
     {
       "state": "ND",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 1616,
-          "programPaymentInDollars": 4569059.6,
-          "averageRecipientCount": 202.0,
-          "paymentInPercentageNationwide": 0.23,
-          "countInPercentageNationwide": 0.3,
-          "averageRecipientCountInPercentageNationwide": 0.3,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 1616,
+      "subtitlePaymentInDollars": 4569059.6,
+      "averageRecipientCount": 202.0,
+      "paymentInPercentageNationwide": 0.23,
+      "averageRecipientCountInPercentageNationwide": 0.3,
+      "programs": []
     },
     {
       "state": "SC",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 808,
-          "programPaymentInDollars": 4100511.96,
-          "averageRecipientCount": 101.0,
-          "paymentInPercentageNationwide": 0.21,
-          "countInPercentageNationwide": 0.15,
-          "averageRecipientCountInPercentageNationwide": 0.15,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 808,
+      "subtitlePaymentInDollars": 4100511.96,
+      "averageRecipientCount": 101.0,
+      "paymentInPercentageNationwide": 0.21,
+      "averageRecipientCountInPercentageNationwide": 0.15,
+      "programs": []
     },
     {
       "state": "NV",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 475,
-          "programPaymentInDollars": 3957676.51,
-          "averageRecipientCount": 59.38,
-          "paymentInPercentageNationwide": 0.2,
-          "countInPercentageNationwide": 0.09,
-          "averageRecipientCountInPercentageNationwide": 0.09,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 475,
+      "subtitlePaymentInDollars": 3957676.51,
+      "averageRecipientCount": 59.38,
+      "paymentInPercentageNationwide": 0.2,
+      "averageRecipientCountInPercentageNationwide": 0.09,
+      "programs": []
     },
     {
       "state": "MS",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 1197,
-          "programPaymentInDollars": 3884982.33,
-          "averageRecipientCount": 149.62,
-          "paymentInPercentageNationwide": 0.2,
-          "countInPercentageNationwide": 0.22,
-          "averageRecipientCountInPercentageNationwide": 0.22,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 1197,
+      "subtitlePaymentInDollars": 3884982.33,
+      "averageRecipientCount": 149.62,
+      "paymentInPercentageNationwide": 0.2,
+      "averageRecipientCountInPercentageNationwide": 0.22,
+      "programs": []
     },
     {
       "state": "NJ",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 851,
-          "programPaymentInDollars": 2662018.53,
-          "averageRecipientCount": 106.38,
-          "paymentInPercentageNationwide": 0.14,
-          "countInPercentageNationwide": 0.16,
-          "averageRecipientCountInPercentageNationwide": 0.16,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 851,
+      "subtitlePaymentInDollars": 2662018.53,
+      "averageRecipientCount": 106.38,
+      "paymentInPercentageNationwide": 0.14,
+      "averageRecipientCountInPercentageNationwide": 0.16,
+      "programs": []
     },
     {
       "state": "AR",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 899,
-          "programPaymentInDollars": 2599979.44,
-          "averageRecipientCount": 112.38,
-          "paymentInPercentageNationwide": 0.13,
-          "countInPercentageNationwide": 0.17,
-          "averageRecipientCountInPercentageNationwide": 0.17,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 899,
+      "subtitlePaymentInDollars": 2599979.44,
+      "averageRecipientCount": 112.38,
+      "paymentInPercentageNationwide": 0.13,
+      "averageRecipientCountInPercentageNationwide": 0.17,
+      "programs": []
     },
     {
       "state": "WV",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 745,
-          "programPaymentInDollars": 1794662.88,
-          "averageRecipientCount": 93.12,
-          "paymentInPercentageNationwide": 0.09,
-          "countInPercentageNationwide": 0.14,
-          "averageRecipientCountInPercentageNationwide": 0.14,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 745,
+      "subtitlePaymentInDollars": 1794662.88,
+      "averageRecipientCount": 93.12,
+      "paymentInPercentageNationwide": 0.09,
+      "averageRecipientCountInPercentageNationwide": 0.14,
+      "programs": []
     },
     {
       "state": "DE",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 363,
-          "programPaymentInDollars": 1519442.43,
-          "averageRecipientCount": 45.38,
-          "paymentInPercentageNationwide": 0.08,
-          "countInPercentageNationwide": 0.07,
-          "averageRecipientCountInPercentageNationwide": 0.07,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 363,
+      "subtitlePaymentInDollars": 1519442.43,
+      "averageRecipientCount": 45.38,
+      "paymentInPercentageNationwide": 0.08,
+      "averageRecipientCountInPercentageNationwide": 0.07,
+      "programs": []
     },
     {
       "state": "AL",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 454,
-          "programPaymentInDollars": 1301375.07,
-          "averageRecipientCount": 56.75,
-          "paymentInPercentageNationwide": 0.07,
-          "countInPercentageNationwide": 0.08,
-          "averageRecipientCountInPercentageNationwide": 0.08,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 454,
+      "subtitlePaymentInDollars": 1301375.07,
+      "averageRecipientCount": 56.75,
+      "paymentInPercentageNationwide": 0.07,
+      "averageRecipientCountInPercentageNationwide": 0.08,
+      "programs": []
     },
     {
       "state": "WY",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 112,
-          "programPaymentInDollars": 750768.71,
-          "averageRecipientCount": 14.0,
-          "paymentInPercentageNationwide": 0.04,
-          "countInPercentageNationwide": 0.02,
-          "averageRecipientCountInPercentageNationwide": 0.02,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 112,
+      "subtitlePaymentInDollars": 750768.71,
+      "averageRecipientCount": 14.0,
+      "paymentInPercentageNationwide": 0.04,
+      "averageRecipientCountInPercentageNationwide": 0.02,
+      "programs": []
     },
     {
       "state": "RI",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 164,
-          "programPaymentInDollars": 303860.81,
-          "averageRecipientCount": 20.5,
-          "paymentInPercentageNationwide": 0.02,
-          "countInPercentageNationwide": 0.03,
-          "averageRecipientCountInPercentageNationwide": 0.03,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 164,
+      "subtitlePaymentInDollars": 303860.81,
+      "averageRecipientCount": 20.5,
+      "paymentInPercentageNationwide": 0.02,
+      "averageRecipientCountInPercentageNationwide": 0.03,
+      "programs": []
     },
     {
       "state": "AK",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 0,
-          "programPaymentInDollars": 0.0,
-          "averageRecipientCount": 0.0,
-          "paymentInPercentageNationwide": 0.0,
-          "countInPercentageNationwide": 0.0,
-          "averageRecipientCountInPercentageNationwide": 0.0,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 0,
+      "subtitlePaymentInDollars": 0.0,
+      "averageRecipientCount": 0.0,
+      "paymentInPercentageNationwide": 0.0,
+      "averageRecipientCountInPercentageNationwide": 0.0,
+      "programs": []
     },
     {
       "state": "HI",
-      "programs": [
-        {
-          "programName": "Dairy Margin Coverage, Subtitle D",
-          "totalCounts": 0,
-          "programPaymentInDollars": 0.0,
-          "averageRecipientCount": 0.0,
-          "paymentInPercentageNationwide": 0.0,
-          "countInPercentageNationwide": 0.0,
-          "averageRecipientCountInPercentageNationwide": 0.0,
-          "subPrograms": []
-        }
-      ]
+      "subtitleName": "Dairy Margin Coverage, Subtitle D",
+      "totalCounts": 0,
+      "subtitlePaymentInDollars": 0.0,
+      "averageRecipientCount": 0.0,
+      "paymentInPercentageNationwide": 0.0,
+      "averageRecipientCountInPercentageNationwide": 0.0,
+      "programs": []
     }
   ]
 }
