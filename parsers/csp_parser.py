@@ -268,7 +268,7 @@ class CSPDataParser:
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
             # remap state names to abbreviations
-            # self.processed_data_dict = self.remap_statename_to_abbreviation(self.processed_data_dict)
+            self.processed_data_dict = self.remap_state_name_to_abbreviation(self.processed_data_dict)
 
             # add year to the data
             tmp_output = dict()
@@ -376,6 +376,10 @@ class CSPDataParser:
                                                             key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
                                                             reverse=True))
 
+            # remap state names to abbreviations
+            self.state_distribution_data_dict = \
+                self.remap_state_name_to_abbreviation(self.state_distribution_data_dict)
+
             # restructure json to equivalent to acep or rcpp
             restructured_list = []
 
@@ -385,9 +389,6 @@ class CSPDataParser:
                         'state': state,
                         'statutes': entry['statutes']
                     })
-
-            # remap state names to abbreviations
-            # self.state_distribution_data_dict = self.remap_statename_to_abbreviation(self.state_distribution_data_dict)
 
             # add year to the data
             tmp_output = dict()
@@ -456,7 +457,7 @@ class CSPDataParser:
             with open("../title-2-conservation/csp/csp_practice_categories_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(statutes_data, indent=4))
 
-    def remap_statename_to_abbreviation(self, input_dict):
+    def remap_state_name_to_abbreviation(self, input_dict):
         # remap state names to abbreviations
         # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
         state_names = list(input_dict.keys())
@@ -464,10 +465,10 @@ class CSPDataParser:
         # Iterate over the state names
         for state_name in state_names:
             # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
-            if state_name in self.us_state_abbreviation.values():
+            if state_name in self.us_state_abbreviations.values():
                 # Replace the state_name with the corresponding abbreviation
                 state_abbr = \
-                    [abbr for abbr, name in self.us_state_abbreviation.items() if name == state_name][0]
+                    [abbr for abbr, name in self.us_state_abbreviations.items() if name == state_name][0]
                 # Create a new entry with the updated key
                 input_dict[state_abbr] = input_dict.pop(state_name)
 

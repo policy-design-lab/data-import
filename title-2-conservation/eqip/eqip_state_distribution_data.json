@@ -1,7 +1,7 @@
 {
   "2018-2022": [
     {
-      "state": "Texas",
+      "state": "TX",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -67,11 +67,6 @@
               "paymentInPercentageWithinState": 0.01
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -80,13 +75,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "California",
+      "state": "CA",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "state": "Mississippi",
+      "state": "MS",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -246,12 +246,12 @@
               "paymentInPercentageWithinState": 0.04
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "state": "Georgia",
+      "state": "GA",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -332,12 +332,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "state": "Arkansas",
+      "state": "AR",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -406,7 +406,7 @@
               "paymentInPercentageWithinState": 0.65
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -416,12 +416,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -430,7 +430,7 @@
       ]
     },
     {
-      "state": "Colorado",
+      "state": "CO",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -496,11 +496,6 @@
               "paymentInPercentageWithinState": 0.01
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -509,13 +504,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Missouri",
+      "state": "MO",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -587,12 +587,12 @@
               "paymentInPercentageWithinState": 0.15
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -601,7 +601,7 @@
       ]
     },
     {
-      "state": "Wisconsin",
+      "state": "WI",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -688,7 +688,7 @@
       ]
     },
     {
-      "state": "Tennessee",
+      "state": "TN",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -760,12 +760,12 @@
               "paymentInPercentageWithinState": 0.06
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -774,7 +774,7 @@
       ]
     },
     {
-      "state": "Kansas",
+      "state": "KS",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -840,11 +840,6 @@
               "paymentInPercentageWithinState": 0.03
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Conservation planning assessment",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -853,13 +848,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Iowa",
+      "state": "IA",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -931,12 +931,12 @@
               "paymentInPercentageWithinState": 0.29
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -945,7 +945,7 @@
       ]
     },
     {
-      "state": "Nebraska",
+      "state": "NE",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1032,7 +1032,7 @@
       ]
     },
     {
-      "state": "South Carolina",
+      "state": "SC",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1104,12 +1104,12 @@
               "paymentInPercentageWithinState": 0.17
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -1118,7 +1118,7 @@
       ]
     },
     {
-      "state": "Indiana",
+      "state": "IN",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1190,12 +1190,12 @@
               "paymentInPercentageWithinState": 0.76
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -1204,7 +1204,7 @@
       ]
     },
     {
-      "state": "Minnesota",
+      "state": "MN",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1291,7 +1291,7 @@
       ]
     },
     {
-      "state": "Ohio",
+      "state": "OH",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1363,12 +1363,12 @@
               "paymentInPercentageWithinState": 0.34
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -1377,7 +1377,7 @@
       ]
     },
     {
-      "state": "Utah",
+      "state": "UT",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1443,11 +1443,6 @@
               "paymentInPercentageWithinState": 0.02
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -1456,13 +1451,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Alabama",
+      "state": "AL",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1528,11 +1528,6 @@
               "paymentInPercentageWithinState": 0.14
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -1541,13 +1536,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Montana",
+      "state": "MT",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1607,7 +1607,7 @@
               "paymentInPercentageWithinState": 0.08
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -1617,12 +1617,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -1631,7 +1631,7 @@
       ]
     },
     {
-      "state": "Oregon",
+      "state": "OR",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1703,12 +1703,12 @@
               "paymentInPercentageWithinState": 0.09
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -1717,7 +1717,7 @@
       ]
     },
     {
-      "state": "New Mexico",
+      "state": "NM",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1783,11 +1783,6 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -1796,13 +1791,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Oklahoma",
+      "state": "OK",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1862,7 +1862,7 @@
               "paymentInPercentageWithinState": 0.05
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -1872,12 +1872,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -1886,7 +1886,7 @@
       ]
     },
     {
-      "state": "North Carolina",
+      "state": "NC",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -1973,7 +1973,7 @@
       ]
     },
     {
-      "state": "Virginia",
+      "state": "VA",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2045,12 +2045,12 @@
               "paymentInPercentageWithinState": 0.02
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -2059,7 +2059,7 @@
       ]
     },
     {
-      "state": "Louisiana",
+      "state": "LA",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2119,7 +2119,7 @@
               "paymentInPercentageWithinState": 0.05
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -2129,12 +2129,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -2143,7 +2143,7 @@
       ]
     },
     {
-      "state": "Pennsylvania",
+      "state": "PA",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2230,7 +2230,7 @@
       ]
     },
     {
-      "state": "Florida",
+      "state": "FL",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2296,11 +2296,6 @@
               "paymentInPercentageWithinState": 0.07
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -2309,13 +2304,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Idaho",
+      "state": "ID",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2375,7 +2375,7 @@
               "paymentInPercentageWithinState": 0.31
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -2385,12 +2385,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -2399,7 +2399,7 @@
       ]
     },
     {
-      "state": "North Dakota",
+      "state": "ND",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2465,11 +2465,6 @@
               "paymentInPercentageWithinState": 0.02
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -2478,13 +2473,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Michigan",
+      "state": "MI",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2571,7 +2571,7 @@
       ]
     },
     {
-      "state": "Washington",
+      "state": "WA",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2643,12 +2643,12 @@
               "paymentInPercentageWithinState": 0.07
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -2657,7 +2657,7 @@
       ]
     },
     {
-      "state": "South Dakota",
+      "state": "SD",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2723,11 +2723,6 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Conservation planning assessment",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -2736,13 +2731,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Kentucky",
+      "state": "KY",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2829,7 +2829,7 @@
       ]
     },
     {
-      "state": "New York",
+      "state": "NY",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2916,7 +2916,7 @@
       ]
     },
     {
-      "state": "Wyoming",
+      "state": "WY",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -2982,11 +2982,6 @@
               "paymentInPercentageWithinState": 0.01
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -2995,13 +2990,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Arizona",
+      "state": "AZ",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3061,7 +3061,7 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -3071,12 +3071,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3085,7 +3085,7 @@
       ]
     },
     {
-      "state": "Illinois",
+      "state": "IL",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3172,7 +3172,7 @@
       ]
     },
     {
-      "state": "Maine",
+      "state": "ME",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3244,12 +3244,12 @@
               "paymentInPercentageWithinState": 0.44
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3258,7 +3258,7 @@
       ]
     },
     {
-      "state": "Maryland",
+      "state": "MD",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3324,11 +3324,6 @@
               "paymentInPercentageWithinState": 0.23
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -3337,13 +3332,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Vermont",
+      "state": "VT",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3430,7 +3430,7 @@
       ]
     },
     {
-      "state": "Alaska",
+      "state": "AK",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3490,7 +3490,7 @@
               "paymentInPercentageWithinState": 0.04
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -3500,12 +3500,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3514,7 +3514,7 @@
       ]
     },
     {
-      "state": "Delaware",
+      "state": "DE",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3580,11 +3580,6 @@
               "paymentInPercentageWithinState": 0.42
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -3593,13 +3588,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "West Virginia",
+      "state": "WV",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3671,12 +3671,12 @@
               "paymentInPercentageWithinState": 0.76
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3685,7 +3685,7 @@
       ]
     },
     {
-      "state": "Nevada",
+      "state": "NV",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3722,12 +3722,12 @@
               "paymentInPercentageWithinState": 0.11
             },
             {
-              "practiceCategoryName": "Soil testing",
+              "practiceCategoryName": "Soil remediation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Soil remediation",
+              "practiceCategoryName": "Soil testing",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3744,7 +3744,7 @@
               "paymentInPercentageWithinState": 0.03
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -3754,12 +3754,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3768,7 +3768,7 @@
       ]
     },
     {
-      "state": "Hawaii",
+      "state": "HI",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3828,7 +3828,7 @@
               "paymentInPercentageWithinState": 0.24
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -3838,12 +3838,12 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3852,7 +3852,7 @@
       ]
     },
     {
-      "state": "New Hampshire",
+      "state": "NH",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -3924,12 +3924,12 @@
               "paymentInPercentageWithinState": 0.09
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -3938,7 +3938,7 @@
       ]
     },
     {
-      "state": "New Jersey",
+      "state": "NJ",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -4010,12 +4010,12 @@
               "paymentInPercentageWithinState": 0.41
             },
             {
-              "practiceCategoryName": "Soil health",
+              "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Resource-conserving crop rotation",
+              "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -4024,7 +4024,7 @@
       ]
     },
     {
-      "state": "Connecticut",
+      "state": "CT",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -4090,11 +4090,6 @@
               "paymentInPercentageWithinState": 0.71
             },
             {
-              "practiceCategoryName": "Soil health",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Comprehensive Nutrient Mgt.",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
@@ -4103,13 +4098,18 @@
               "practiceCategoryName": "Resource-conserving crop rotation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Soil health",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         }
       ]
     },
     {
-      "state": "Massachusetts",
+      "state": "MA",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -4196,7 +4196,7 @@
       ]
     },
     {
-      "state": "Rhode Island",
+      "state": "RI",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -4233,12 +4233,12 @@
               "paymentInPercentageWithinState": 0.63
             },
             {
-              "practiceCategoryName": "Soil testing",
+              "practiceCategoryName": "Soil remediation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Soil remediation",
+              "practiceCategoryName": "Soil testing",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -4282,7 +4282,7 @@
       ]
     },
     {
-      "state": "Puerto Rico",
+      "state": "PR",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -4335,7 +4335,7 @@
           "statutePaymentInDollars": 0.0,
           "practiceCategories": [
             {
-              "practiceCategoryName": "Conservation planning assessment",
+              "practiceCategoryName": "Other planning",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -4345,17 +4345,17 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
               "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Other planning",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Conservation planning assessment",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -4364,7 +4364,7 @@
       ]
     },
     {
-      "state": "Northern Mariana Islands",
+      "state": "MP",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -4394,17 +4394,17 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
+              "practiceCategoryName": "Soil remediation",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
               "practiceCategoryName": "Forest management",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
               "practiceCategoryName": "Soil testing",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "practiceCategoryName": "Soil remediation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -4415,7 +4415,7 @@
           "statutePaymentInDollars": 0.0,
           "practiceCategories": [
             {
-              "practiceCategoryName": "Conservation planning assessment",
+              "practiceCategoryName": "Other planning",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -4425,17 +4425,17 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
               "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Other planning",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Conservation planning assessment",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -4444,7 +4444,7 @@
       ]
     },
     {
-      "state": "American Samoa",
+      "state": "AS",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -4457,22 +4457,7 @@
               "paymentInPercentageWithinState": 100.0
             },
             {
-              "practiceCategoryName": "Other improvement",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Soil testing",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "practiceCategoryName": "Vegetative",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "practiceCategoryName": "Forest management",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -4482,7 +4467,22 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
+              "practiceCategoryName": "Other improvement",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Forest management",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
               "practiceCategoryName": "Soil remediation",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Vegetative",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -4493,7 +4493,7 @@
           "statutePaymentInDollars": 0.0,
           "practiceCategories": [
             {
-              "practiceCategoryName": "Conservation planning assessment",
+              "practiceCategoryName": "Other planning",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -4503,17 +4503,17 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
               "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Other planning",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Conservation planning assessment",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
@@ -4522,7 +4522,7 @@
       ]
     },
     {
-      "state": "Virgin Islands of the U.S.",
+      "state": "VI",
       "statutes": [
         {
           "statuteName": "(6)(A) Practices",
@@ -4541,17 +4541,12 @@
               "paymentInPercentageWithinState": 48.16
             },
             {
-              "practiceCategoryName": "Other improvement",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
               "practiceCategoryName": "Soil testing",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Vegetative",
+              "practiceCategoryName": "Other improvement",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -4564,6 +4559,11 @@
               "practiceCategoryName": "Soil remediation",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
+            },
+            {
+              "practiceCategoryName": "Vegetative",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
             }
           ]
         },
@@ -4572,7 +4572,7 @@
           "statutePaymentInDollars": 0.0,
           "practiceCategories": [
             {
-              "practiceCategoryName": "Conservation planning assessment",
+              "practiceCategoryName": "Other planning",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
@@ -4582,17 +4582,17 @@
               "paymentInPercentageWithinState": 0.0
             },
             {
+              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "paymentInDollars": 0.0,
+              "paymentInPercentageWithinState": 0.0
+            },
+            {
               "practiceCategoryName": "Soil health",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             },
             {
-              "practiceCategoryName": "Other planning",
-              "paymentInDollars": 0.0,
-              "paymentInPercentageWithinState": 0.0
-            },
-            {
-              "practiceCategoryName": "Comprehensive Nutrient Mgt.",
+              "practiceCategoryName": "Conservation planning assessment",
               "paymentInDollars": 0.0,
               "paymentInPercentageWithinState": 0.0
             }
