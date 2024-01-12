@@ -17,6 +17,61 @@ class CSPDataParser:
                                    "Non-industrial private forestland", "Other: supplemental, adjustment & other"],
         }
 
+        self.us_state_abbreviations = {
+            'AL': 'Alabama',
+            'AK': 'Alaska',
+            'AZ': 'Arizona',
+            'AR': 'Arkansas',
+            'CA': 'California',
+            'CO': 'Colorado',
+            'CT': 'Connecticut',
+            'DE': 'Delaware',
+            'FL': 'Florida',
+            'GA': 'Georgia',
+            'HI': 'Hawaii',
+            'ID': 'Idaho',
+            'IL': 'Illinois',
+            'IN': 'Indiana',
+            'IA': 'Iowa',
+            'KS': 'Kansas',
+            'KY': 'Kentucky',
+            'LA': 'Louisiana',
+            'ME': 'Maine',
+            'MD': 'Maryland',
+            'MA': 'Massachusetts',
+            'MI': 'Michigan',
+            'MN': 'Minnesota',
+            'MS': 'Mississippi',
+            'MO': 'Missouri',
+            'MT': 'Montana',
+            'NE': 'Nebraska',
+            'NV': 'Nevada',
+            'NH': 'New Hampshire',
+            'NJ': 'New Jersey',
+            'NM': 'New Mexico',
+            'NY': 'New York',
+            'NC': 'North Carolina',
+            'ND': 'North Dakota',
+            'OH': 'Ohio',
+            'OK': 'Oklahoma',
+            'OR': 'Oregon',
+            'PA': 'Pennsylvania',
+            'PR': 'Puerto Rico',
+            'PB': 'Pacific Basin',
+            'RI': 'Rhode Island',
+            'SC': 'South Carolina',
+            'SD': 'South Dakota',
+            'TN': 'Tennessee',
+            'TX': 'Texas',
+            'UT': 'Utah',
+            'VT': 'Vermont',
+            'VA': 'Virginia',
+            'WA': 'Washington',
+            'WV': 'West Virginia',
+            'WI': 'Wisconsin',
+            'WY': 'Wyoming'
+        }
+
         self.processed_data_dict = dict()
         self.state_distribution_data_dict = dict()
         self.practice_categories_data_dict = dict()
@@ -212,9 +267,19 @@ class CSPDataParser:
                         # Sort categories by name
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
+            # remap state names to abbreviations
+            # self.processed_data_dict = self.remap_statename_to_abbreviation(self.processed_data_dict)
+
+            # add year to the data
+            tmp_output = dict()
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            # add year to the tmp_output
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)].append(self.processed_data_dict)
+
             # Write processed_data_dict as JSON data
-            with open("csp_map_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(self.processed_data_dict, indent=4))
+            with open("../title-2-conservation/csp/csp_map_data.json", "w") as output_json_file:
+                output_json_file.write(json.dumps(tmp_output, indent=4))
 
         # 2. Generate state distribution data
         if True:
@@ -240,7 +305,6 @@ class CSPDataParser:
                 yearly_state_payment = round(payment, 2)
 
                 new_data_entry = {
-                    "years": str(self.start_year) + "-" + str(self.end_year),
                     "statutes": [
                         {
                             "statuteName": "2018 Practices",
@@ -312,9 +376,29 @@ class CSPDataParser:
                                                             key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
                                                             reverse=True))
 
+            # restructure json to equivalent to acep or rcpp
+            restructured_list = []
+
+            for state, state_data in self.state_distribution_data_dict.items():
+                for entry in state_data:
+                    restructured_list.append({
+                        'state': state,
+                        'statutes': entry['statutes']
+                    })
+
+            # remap state names to abbreviations
+            # self.state_distribution_data_dict = self.remap_statename_to_abbreviation(self.state_distribution_data_dict)
+
+            # add year to the data
+            tmp_output = dict()
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            # add year to the tmp_output
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = restructured_list
+
             # Write processed_data_dict as JSON data
-            with open("csp_state_distribution_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(self.state_distribution_data_dict, indent=4))
+            with open("../title-2-conservation/csp/csp_state_distribution_data.json", "w") as output_json_file:
+                output_json_file.write(json.dumps(tmp_output, indent=4))
 
         # 3. Generate practice categories data for the donut chart
         if True:
@@ -369,10 +453,27 @@ class CSPDataParser:
                 statute["practiceCategories"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
 
             # Write processed_data_dict as JSON data
-            with open("csp_practice_categories_data.json", "w") as output_json_file:
+            with open("../title-2-conservation/csp/csp_practice_categories_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(statutes_data, indent=4))
+
+    def remap_statename_to_abbreviation(self, input_dict):
+        # remap state names to abbreviations
+        # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
+        state_names = list(input_dict.keys())
+
+        # Iterate over the state names
+        for state_name in state_names:
+            # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
+            if state_name in self.us_state_abbreviation.values():
+                # Replace the state_name with the corresponding abbreviation
+                state_abbr = \
+                    [abbr for abbr, name in self.us_state_abbreviation.items() if name == state_name][0]
+                # Create a new entry with the updated key
+                input_dict[state_abbr] = input_dict.pop(state_name)
+
+        return input_dict
 
 
 if __name__ == '__main__':
-    commodities_data_parser = CSPDataParser(2018, 2022, "CSPcategoriesUPDATE.csv")
+    commodities_data_parser = CSPDataParser(2018, 2022, "../title-2-conservation/csp/CSPcategoriesUPDATE.csv")
     commodities_data_parser.parse_and_process()

@@ -6,7 +6,7 @@ from deepmerge import always_merger
 from datetime import datetime
 
 
-class EqipDataParser:
+class EqipParser:
     def __init__(self, start_year, end_year, summary_filepath, all_programs_filepath, csv_filepath):
 
         self.summary_filepath = summary_filepath
@@ -29,6 +29,7 @@ class EqipDataParser:
         self.us_state_abbreviation = {
             'AL': 'Alabama',
             'AK': 'Alaska',
+            'AS': 'American Samoa',
             'AZ': 'Arizona',
             'AR': 'Arkansas',
             'CA': 'California',
@@ -81,7 +82,7 @@ class EqipDataParser:
             'MP': 'Northern Mariana Islands',
             'PW': 'Palau',
             'PR': 'Puerto Rico',
-            'VI': 'Virgin Islands',
+            'VI': 'Virgin Islands of the U.S.',
             'AA': 'Armed Forces Americas (Except Canada)',
             'AE': 'Armed Forces Africa/Canada/Europe/Middle East',
             'AP': 'Armed Forces Pacific'
@@ -270,9 +271,19 @@ class EqipDataParser:
                         # Sort categories by name
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
+            # remap state names to abbreviations
+            # self.processed_data_dict = self.remap_statename_to_abbreviation(self.processed_data_dict)
+
+            # add year to the data
+            tmp_output = dict()
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            # add year to the tmp_output
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)].append(self.processed_data_dict)
+
             # Write processed_data_dict as JSON data
-            with open("eqip_map_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(self.processed_data_dict, indent=4))
+            with open("../title-2-conservation/eqip/eqip_map_data.json", "w") as output_json_file:
+                output_json_file.write(json.dumps(tmp_output, indent=2))
 
         # 2. Get data for the table
         if True:
@@ -293,7 +304,7 @@ class EqipDataParser:
                 yearly_state_payment = round(payment, 2)
 
                 new_data_entry = {
-                    "years": str(self.start_year) + "-" + str(self.end_year),
+                    "state": state_name,
                     "statutes": [
                         {
                             "statuteName": "(6)(A) Practices",
@@ -360,9 +371,29 @@ class EqipDataParser:
                                                      key=lambda x: x[1][0]["totalPaymentInPercentageNationwide"],
                                                      reverse=True))
 
+            # restructure json to equivalent to acep or rcpp
+            restructured_list = []
+
+            for state, state_data in self.percentages_data_dict.items():
+                for entry in state_data:
+                    restructured_list.append({
+                        'state': entry['state'],
+                        'statutes': entry['statutes']
+                    })
+
+            # remap state names to abbreviations
+            # self.percentages_data_dict = self.remap_statename_to_abbreviation(self.percentages_data_dict)
+
+            # add year to the data
+            tmp_output = dict()
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = []
+
+            # add year to the tmp_output
+            tmp_output[str(self.start_year) + "-" + str(self.end_year)] = restructured_list
+
             # Write processed_data_dict as JSON data
-            with open("eqip_state_distribution_data.json", "w") as output_json_file:
-                output_json_file.write(json.dumps(self.percentages_data_dict, indent=4))
+            with open("../title-2-conservation/eqip/eqip_state_distribution_data.json", "w") as output_json_file:
+                output_json_file.write(json.dumps(tmp_output, indent=2))
 
         # 3. Get data for the Semi-donut chart
         if True:
@@ -415,7 +446,7 @@ class EqipDataParser:
                 statute["practiceCategories"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
 
             # Write processed_data_dict as JSON data
-            with open("eqip_practice_categories_data.json", "w") as output_json_file:
+            with open("../title-2-conservation/eqip/eqip_practice_categories_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(statutes_data, indent=4))
 
         # TODO: Remove the below block soon.
@@ -473,7 +504,28 @@ class EqipDataParser:
         with open(self.all_programs_filepath + ".updated.json", "w") as all_programs_file_new:
             json.dump(self.all_programs__dict, all_programs_file_new, indent=2)
 
+    def remap_statename_to_abbreviation(self, input_dict):
+        # remap state names to abbreviations
+        # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
+        state_names = list(input_dict.keys())
+
+        # Iterate over the state names
+        for state_name in state_names:
+            # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
+            if state_name in self.us_state_abbreviation.values():
+                # Replace the state_name with the corresponding abbreviation
+                state_abbr = \
+                    [abbr for abbr, name in self.us_state_abbreviation.items() if name == state_name][0]
+                # Create a new entry with the updated key
+                input_dict[state_abbr] = input_dict.pop(state_name)
+
+        return input_dict
+
+
 if __name__ == '__main__':
-    eqip_data_parser = EqipDataParser(2018, 2022, "summary.json", "allPrograms.json", "eqip-category-update.csv")
+    summary_filepath = "../title-2-conservation/eqip/summary.json"
+    all_programs_filepath = "../title-2-conservation/eqip/allPrograms.json"
+    category_filepath = "../title-2-conservation/eqip/eqip-category-update.csv"
+    eqip_data_parser = EqipParser(2018, 2022, summary_filepath, all_programs_filepath, category_filepath)
     eqip_data_parser.parse_and_process()
     eqip_data_parser.update_json_files()
