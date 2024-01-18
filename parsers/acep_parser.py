@@ -233,6 +233,9 @@ class AcepParser:
                 ]
             }
 
+            # convert state name to abbreviation
+            new_data_entry = self.remap_state_name_to_abbreviation(new_data_entry)
+
             self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
                 new_data_entry)
 
@@ -286,3 +289,18 @@ class AcepParser:
         # Write processed_data_dict as JSON data
         with open(os.path.join(self.data_folder, "acep_subprograms_data.json"), "w") as output_json_file:
             output_json_file.write(json.dumps(self.program_data_dict, indent=2))
+
+    def remap_state_name_to_abbreviation(self, data_entry):
+        temp_state = data_entry['state']
+        data_entry['state'] = \
+            [abbr for abbr, state in self.us_state_abbreviations.items() if state == data_entry['state']][0]
+        changed_state = data_entry['state']
+
+        return data_entry
+
+
+if __name__ == '__main__':
+    acep_data_parser = AcepParser(2018, 2022, "Title 2: Conservation: ACEP",
+                                  os.path.join("..", "title-2-conservation", "acep"),
+                                  "ACEP.csv")
+    acep_data_parser.parse_and_process()

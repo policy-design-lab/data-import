@@ -1,7 +1,7 @@
 {
   "2018-2022": [
     {
-      "state": "Louisiana",
+      "state": "LA",
       "programs": [
         {
           "programName": "ACEP",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "state": "Florida",
+      "state": "FL",
       "programs": [
         {
           "programName": "ACEP",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "state": "Arkansas",
+      "state": "AR",
       "programs": [
         {
           "programName": "ACEP",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "state": "Mississippi",
+      "state": "MS",
       "programs": [
         {
           "programName": "ACEP",
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "state": "California",
+      "state": "CA",
       "programs": [
         {
           "programName": "ACEP",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "state": "Montana",
+      "state": "MT",
       "programs": [
         {
           "programName": "ACEP",
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "state": "Kentucky",
+      "state": "KY",
       "programs": [
         {
           "programName": "ACEP",
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "state": "Colorado",
+      "state": "CO",
       "programs": [
         {
           "programName": "ACEP",
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "state": "Iowa",
+      "state": "IA",
       "programs": [
         {
           "programName": "ACEP",
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "state": "Texas",
+      "state": "TX",
       "programs": [
         {
           "programName": "ACEP",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "state": "Missouri",
+      "state": "MO",
       "programs": [
         {
           "programName": "ACEP",
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "state": "Oregon",
+      "state": "OR",
       "programs": [
         {
           "programName": "ACEP",
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "state": "Tennessee",
+      "state": "TN",
       "programs": [
         {
           "programName": "ACEP",
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "state": "Indiana",
+      "state": "IN",
       "programs": [
         {
           "programName": "ACEP",
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "state": "Illinois",
+      "state": "IL",
       "programs": [
         {
           "programName": "ACEP",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "state": "Utah",
+      "state": "UT",
       "programs": [
         {
           "programName": "ACEP",
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "state": "Arizona",
+      "state": "AZ",
       "programs": [
         {
           "programName": "ACEP",
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "state": "North Carolina",
+      "state": "NC",
       "programs": [
         {
           "programName": "ACEP",
@@ -433,7 +433,7 @@
       ]
     },
     {
-      "state": "Ohio",
+      "state": "OH",
       "programs": [
         {
           "programName": "ACEP",
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "state": "Wisconsin",
+      "state": "WI",
       "programs": [
         {
           "programName": "ACEP",
@@ -481,7 +481,7 @@
       ]
     },
     {
-      "state": "Wyoming",
+      "state": "WY",
       "programs": [
         {
           "programName": "ACEP",
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "state": "Nebraska",
+      "state": "NE",
       "programs": [
         {
           "programName": "ACEP",
@@ -529,7 +529,7 @@
       ]
     },
     {
-      "state": "South Dakota",
+      "state": "SD",
       "programs": [
         {
           "programName": "ACEP",
@@ -553,7 +553,7 @@
       ]
     },
     {
-      "state": "Idaho",
+      "state": "ID",
       "programs": [
         {
           "programName": "ACEP",
@@ -577,7 +577,7 @@
       ]
     },
     {
-      "state": "Georgia",
+      "state": "GA",
       "programs": [
         {
           "programName": "ACEP",
@@ -601,7 +601,7 @@
       ]
     },
     {
-      "state": "Vermont",
+      "state": "VT",
       "programs": [
         {
           "programName": "ACEP",
@@ -625,7 +625,7 @@
       ]
     },
     {
-      "state": "New Hampshire",
+      "state": "NH",
       "programs": [
         {
           "programName": "ACEP",
@@ -649,7 +649,7 @@
       ]
     },
     {
-      "state": "Massachusetts",
+      "state": "MA",
       "programs": [
         {
           "programName": "ACEP",
@@ -673,7 +673,7 @@
       ]
     },
     {
-      "state": "Kansas",
+      "state": "KS",
       "programs": [
         {
           "programName": "ACEP",
@@ -697,7 +697,7 @@
       ]
     },
     {
-      "state": "Connecticut",
+      "state": "CT",
       "programs": [
         {
           "programName": "ACEP",
@@ -721,7 +721,7 @@
       ]
     },
     {
-      "state": "Michigan",
+      "state": "MI",
       "programs": [
         {
           "programName": "ACEP",
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "state": "Oklahoma",
+      "state": "OK",
       "programs": [
         {
           "programName": "ACEP",
@@ -769,7 +769,7 @@
       ]
     },
     {
-      "state": "Virginia",
+      "state": "VA",
       "programs": [
         {
           "programName": "ACEP",
@@ -793,7 +793,7 @@
       ]
     },
     {
-      "state": "Delaware",
+      "state": "DE",
       "programs": [
         {
           "programName": "ACEP",
@@ -817,7 +817,7 @@
       ]
     },
     {
-      "state": "Alabama",
+      "state": "AL",
       "programs": [
         {
           "programName": "ACEP",
@@ -841,7 +841,7 @@
       ]
     },
     {
-      "state": "West Virginia",
+      "state": "WV",
       "programs": [
         {
           "programName": "ACEP",
@@ -865,7 +865,7 @@
       ]
     },
     {
-      "state": "New Jersey",
+      "state": "NJ",
       "programs": [
         {
           "programName": "ACEP",
@@ -889,7 +889,7 @@
       ]
     },
     {
-      "state": "Pennsylvania",
+      "state": "PA",
       "programs": [
         {
           "programName": "ACEP",
@@ -913,7 +913,7 @@
       ]
     },
     {
-      "state": "North Dakota",
+      "state": "ND",
       "programs": [
         {
           "programName": "ACEP",
@@ -937,7 +937,7 @@
       ]
     },
     {
-      "state": "Washington",
+      "state": "WA",
       "programs": [
         {
           "programName": "ACEP",
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "state": "New York",
+      "state": "NY",
       "programs": [
         {
           "programName": "ACEP",
@@ -985,7 +985,7 @@
       ]
     },
     {
-      "state": "South Carolina",
+      "state": "SC",
       "programs": [
         {
           "programName": "ACEP",
@@ -1009,7 +1009,7 @@
       ]
     },
     {
-      "state": "Minnesota",
+      "state": "MN",
       "programs": [
         {
           "programName": "ACEP",
@@ -1033,7 +1033,7 @@
       ]
     },
     {
-      "state": "New Mexico",
+      "state": "NM",
       "programs": [
         {
           "programName": "ACEP",
@@ -1057,7 +1057,7 @@
       ]
     },
     {
-      "state": "Maryland",
+      "state": "MD",
       "programs": [
         {
           "programName": "ACEP",
@@ -1081,7 +1081,7 @@
       ]
     },
     {
-      "state": "Rhode Island",
+      "state": "RI",
       "programs": [
         {
           "programName": "ACEP",
@@ -1105,7 +1105,7 @@
       ]
     },
     {
-      "state": "Maine",
+      "state": "ME",
       "programs": [
         {
           "programName": "ACEP",
@@ -1129,7 +1129,7 @@
       ]
     },
     {
-      "state": "Nevada",
+      "state": "NV",
       "programs": [
         {
           "programName": "ACEP",
@@ -1153,7 +1153,7 @@
       ]
     },
     {
-      "state": "Alaska",
+      "state": "AK",
       "programs": [
         {
           "programName": "ACEP",
@@ -1177,7 +1177,7 @@
       ]
     },
     {
-      "state": "Hawaii",
+      "state": "HI",
       "programs": [
         {
           "programName": "ACEP",

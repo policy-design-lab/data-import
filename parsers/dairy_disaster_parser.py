@@ -568,3 +568,9 @@ class DairyDisasterParser:
         # Write processed_data_dict as JSON data
         with open(os.path.join(self.data_folder, "sada_subprograms_data.json"), "w") as output_json_file:
             output_json_file.write(json.dumps(self.disaster_program_data_dict, indent=2))
+
+
+if __name__ == "__main__":
+    dairy_disaster_parser = DairyDisasterParser(2014, 2021, "Title 1: Commodities: Dairy and Disaster",
+                                                "../title-1-commodities", "Dairy-Disaster.csv")
+    dairy_disaster_parser.parse_and_process()

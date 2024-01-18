@@ -1,7 +1,7 @@
 {
     "2018-2022": [
         {
-            "state": "South Dakota",
+            "state": "SD",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -111,7 +111,7 @@
             ]
         },
         {
-            "state": "Minnesota",
+            "state": "MN",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -220,7 +220,7 @@
             ]
         },
         {
-            "state": "Arkansas",
+            "state": "AR",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -329,7 +329,7 @@
             ]
         },
         {
-            "state": "Mississippi",
+            "state": "MS",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -438,7 +438,7 @@
             ]
         },
         {
-            "state": "North Dakota",
+            "state": "ND",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -487,12 +487,12 @@
                             "paymentInPercentageWithinState": 0.06
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -547,7 +547,7 @@
             ]
         },
         {
-            "state": "Nebraska",
+            "state": "NE",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -657,7 +657,7 @@
             ]
         },
         {
-            "state": "Georgia",
+            "state": "GA",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -766,7 +766,7 @@
             ]
         },
         {
-            "state": "Oklahoma",
+            "state": "OK",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -876,7 +876,7 @@
             ]
         },
         {
-            "state": "Kansas",
+            "state": "KS",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -985,7 +985,7 @@
             ]
         },
         {
-            "state": "Illinois",
+            "state": "IL",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1034,12 +1034,12 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -1093,7 +1093,7 @@
             ]
         },
         {
-            "state": "Montana",
+            "state": "MT",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1203,7 +1203,7 @@
             ]
         },
         {
-            "state": "Iowa",
+            "state": "IA",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1312,7 +1312,7 @@
             ]
         },
         {
-            "state": "Louisiana",
+            "state": "LA",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1422,7 +1422,7 @@
             ]
         },
         {
-            "state": "Missouri",
+            "state": "MO",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1471,12 +1471,12 @@
                             "paymentInPercentageWithinState": 0.59
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -1530,7 +1530,7 @@
             ]
         },
         {
-            "state": "Texas",
+            "state": "TX",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1579,12 +1579,12 @@
                             "paymentInPercentageWithinState": 0.55
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -1639,7 +1639,7 @@
             ]
         },
         {
-            "state": "Wisconsin",
+            "state": "WI",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1748,7 +1748,7 @@
             ]
         },
         {
-            "state": "Oregon",
+            "state": "OR",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1858,7 +1858,7 @@
             ]
         },
         {
-            "state": "Colorado",
+            "state": "CO",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -1968,7 +1968,7 @@
             ]
         },
         {
-            "state": "Washington",
+            "state": "WA",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2078,7 +2078,7 @@
             ]
         },
         {
-            "state": "New Mexico",
+            "state": "NM",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2127,12 +2127,12 @@
                             "paymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -2187,7 +2187,7 @@
             ]
         },
         {
-            "state": "Indiana",
+            "state": "IN",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2236,12 +2236,12 @@
                             "paymentInPercentageWithinState": 0.23
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -2295,7 +2295,7 @@
             ]
         },
         {
-            "state": "Tennessee",
+            "state": "TN",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2404,7 +2404,7 @@
             ]
         },
         {
-            "state": "Alabama",
+            "state": "AL",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2513,7 +2513,7 @@
             ]
         },
         {
-            "state": "Virginia",
+            "state": "VA",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2621,7 +2621,7 @@
             ]
         },
         {
-            "state": "South Carolina",
+            "state": "SC",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2670,12 +2670,12 @@
                             "paymentInPercentageWithinState": 0.15
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -2729,7 +2729,7 @@
             ]
         },
         {
-            "state": "Kentucky",
+            "state": "KY",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2838,7 +2838,7 @@
             ]
         },
         {
-            "state": "Pennsylvania",
+            "state": "PA",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2947,7 +2947,7 @@
             ]
         },
         {
-            "state": "Michigan",
+            "state": "MI",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -2996,12 +2996,12 @@
                             "paymentInPercentageWithinState": 0.14
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -3055,7 +3055,7 @@
             ]
         },
         {
-            "state": "Ohio",
+            "state": "OH",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3104,12 +3104,12 @@
                             "paymentInPercentageWithinState": 0.24
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -3163,7 +3163,7 @@
             ]
         },
         {
-            "state": "Idaho",
+            "state": "ID",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3273,7 +3273,7 @@
             ]
         },
         {
-            "state": "Utah",
+            "state": "UT",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3322,12 +3322,12 @@
                             "paymentInPercentageWithinState": 0.07
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -3382,7 +3382,7 @@
             ]
         },
         {
-            "state": "New York",
+            "state": "NY",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3431,12 +3431,12 @@
                             "paymentInPercentageWithinState": 0.08
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -3490,7 +3490,7 @@
             ]
         },
         {
-            "state": "Wyoming",
+            "state": "WY",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3539,12 +3539,12 @@
                             "paymentInPercentageWithinState": 0.04
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -3598,7 +3598,7 @@
             ]
         },
         {
-            "state": "California",
+            "state": "CA",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3708,7 +3708,7 @@
             ]
         },
         {
-            "state": "North Carolina",
+            "state": "NC",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3757,12 +3757,12 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -3816,7 +3816,7 @@
             ]
         },
         {
-            "state": "Florida",
+            "state": "FL",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3865,12 +3865,12 @@
                             "paymentInPercentageWithinState": 0.13
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -3925,7 +3925,7 @@
             ]
         },
         {
-            "state": "West Virginia",
+            "state": "WV",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -3974,12 +3974,12 @@
                             "paymentInPercentageWithinState": 0.02
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4033,7 +4033,7 @@
             ]
         },
         {
-            "state": "Arizona",
+            "state": "AZ",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4141,7 +4141,7 @@
             ]
         },
         {
-            "state": "Delaware",
+            "state": "DE",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4190,12 +4190,12 @@
                             "paymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4249,7 +4249,7 @@
             ]
         },
         {
-            "state": "Maryland",
+            "state": "MD",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4358,7 +4358,7 @@
             ]
         },
         {
-            "state": "Alaska",
+            "state": "AK",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4406,12 +4406,12 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4448,12 +4448,12 @@
                             "paymentInPercentageWithinState": 1.03
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Rangeland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
+                            "practiceCategoryName": "Pastured cropland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4464,7 +4464,7 @@
             ]
         },
         {
-            "state": "Maine",
+            "state": "ME",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4513,12 +4513,12 @@
                             "paymentInPercentageWithinState": 0.16
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4572,7 +4572,7 @@
             ]
         },
         {
-            "state": "New Hampshire",
+            "state": "NH",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4620,12 +4620,12 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4679,7 +4679,7 @@
             ]
         },
         {
-            "state": "Nevada",
+            "state": "NV",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4725,12 +4725,12 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Forest management",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Forest management",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4784,7 +4784,7 @@
             ]
         },
         {
-            "state": "Hawaii",
+            "state": "HI",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4827,17 +4827,17 @@
                             "paymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Soil remediation",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
                             "practiceCategoryName": "Bundles",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4891,7 +4891,7 @@
             ]
         },
         {
-            "state": "New Jersey",
+            "state": "NJ",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -4934,17 +4934,17 @@
                             "paymentInPercentageWithinState": 0.03
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Soil remediation",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
                             "practiceCategoryName": "Bundles",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -4998,7 +4998,7 @@
             ]
         },
         {
-            "state": "Vermont",
+            "state": "VT",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -5035,22 +5035,22 @@
                             "paymentInPercentageWithinState": 0.04
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
-                            "practiceCategoryName": "Soil testing",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Soil remediation",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
+                            "practiceCategoryName": "Other improvement",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
+                        },
+                        {
                             "practiceCategoryName": "Bundles",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5104,7 +5104,7 @@
             ]
         },
         {
-            "state": "Connecticut",
+            "state": "CT",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -5152,12 +5152,12 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5211,7 +5211,7 @@
             ]
         },
         {
-            "state": "Massachusetts",
+            "state": "MA",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -5260,12 +5260,12 @@
                             "paymentInPercentageWithinState": 0.19
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5302,12 +5302,12 @@
                             "paymentInPercentageWithinState": 2.17
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Rangeland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
+                            "practiceCategoryName": "Pastured cropland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5318,7 +5318,7 @@
             ]
         },
         {
-            "state": "Pacific Basin",
+            "state": "PB",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -5348,11 +5348,6 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Structural",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Other improvement",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
@@ -5363,12 +5358,17 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
+                            "practiceCategoryName": "Land management",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
+                        },
+                        {
                             "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Land management",
+                            "practiceCategoryName": "Structural",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5399,17 +5399,17 @@
                             "paymentInPercentageWithinState": 8.79
                         },
                         {
+                            "practiceCategoryName": "Rangeland",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
+                        },
+                        {
                             "practiceCategoryName": "Pastured cropland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
                             "practiceCategoryName": "Pastureland",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
-                            "practiceCategoryName": "Rangeland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5420,7 +5420,7 @@
             ]
         },
         {
-            "state": "Puerto Rico",
+            "state": "PR",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -5469,12 +5469,12 @@
                             "paymentInPercentageWithinState": 0.04
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5505,17 +5505,17 @@
                             "paymentInPercentageWithinState": 7.55
                         },
                         {
+                            "practiceCategoryName": "Rangeland",
+                            "paymentInDollars": 0.0,
+                            "paymentInPercentageWithinState": 0.0
+                        },
+                        {
                             "practiceCategoryName": "Pastured cropland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
                             "practiceCategoryName": "Non-industrial private forestland",
-                            "paymentInDollars": 0.0,
-                            "paymentInPercentageWithinState": 0.0
-                        },
-                        {
-                            "practiceCategoryName": "Rangeland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5526,7 +5526,7 @@
             ]
         },
         {
-            "state": "Rhode Island",
+            "state": "RI",
             "statutes": [
                 {
                     "statuteName": "2018 Practices",
@@ -5574,12 +5574,12 @@
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }
@@ -5616,12 +5616,12 @@
                             "paymentInPercentageWithinState": 4.1
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Rangeland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
+                            "practiceCategoryName": "Pastured cropland",
                             "paymentInDollars": 0.0,
                             "paymentInPercentageWithinState": 0.0
                         }

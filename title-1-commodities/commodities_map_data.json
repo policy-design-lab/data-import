@@ -1,5 +1,5 @@
 {
-  "Alabama": [
+  "AL": [
     {
       "years": "2014",
       "programs": [
@@ -226,7 +226,7 @@
       "totalPaymentInDollars": 47962170.78
     }
   ],
-  "Alaska": [
+  "AK": [
     {
       "years": "2014",
       "programs": [
@@ -453,7 +453,7 @@
       "totalPaymentInDollars": 20502.0
     }
   ],
-  "Arizona": [
+  "AZ": [
     {
       "years": "2014",
       "programs": [
@@ -680,7 +680,7 @@
       "totalPaymentInDollars": 414618.0
     }
   ],
-  "Arkansas": [
+  "AR": [
     {
       "years": "2014",
       "programs": [
@@ -907,7 +907,7 @@
       "totalPaymentInDollars": 230736559.04
     }
   ],
-  "California": [
+  "CA": [
     {
       "years": "2014",
       "programs": [
@@ -1134,7 +1134,7 @@
       "totalPaymentInDollars": 71291444.6
     }
   ],
-  "Colorado": [
+  "CO": [
     {
       "years": "2014",
       "programs": [
@@ -1361,7 +1361,7 @@
       "totalPaymentInDollars": 207571871.45
     }
   ],
-  "Connecticut": [
+  "CT": [
     {
       "years": "2014",
       "programs": [
@@ -1588,7 +1588,7 @@
       "totalPaymentInDollars": 1836865.0
     }
   ],
-  "Delaware": [
+  "DE": [
     {
       "years": "2014",
       "programs": [
@@ -1815,7 +1815,7 @@
       "totalPaymentInDollars": 25207990.15
     }
   ],
-  "Florida": [
+  "FL": [
     {
       "years": "2014",
       "programs": [
@@ -2042,7 +2042,7 @@
       "totalPaymentInDollars": 6901829.26
     }
   ],
-  "Georgia": [
+  "GA": [
     {
       "years": "2014",
       "programs": [
@@ -2269,7 +2269,7 @@
       "totalPaymentInDollars": 120207769.44
     }
   ],
-  "Hawaii": [
+  "HI": [
     {
       "years": "2014",
       "programs": [
@@ -2496,7 +2496,7 @@
       "totalPaymentInDollars": 0.0
     }
   ],
-  "Idaho": [
+  "ID": [
     {
       "years": "2014",
       "programs": [
@@ -2723,7 +2723,7 @@
       "totalPaymentInDollars": 105125787.1
     }
   ],
-  "Illinois": [
+  "IL": [
     {
       "years": "2014",
       "programs": [
@@ -2950,7 +2950,7 @@
       "totalPaymentInDollars": 1779044349.92
     }
   ],
-  "Indiana": [
+  "IN": [
     {
       "years": "2014",
       "programs": [
@@ -3177,7 +3177,7 @@
       "totalPaymentInDollars": 1157457893.75
     }
   ],
-  "Iowa": [
+  "IA": [
     {
       "years": "2014",
       "programs": [
@@ -3404,7 +3404,7 @@
       "totalPaymentInDollars": 1953958711.17
     }
   ],
-  "Kansas": [
+  "KS": [
     {
       "years": "2014",
       "programs": [
@@ -3631,7 +3631,7 @@
       "totalPaymentInDollars": 1101563684.4
     }
   ],
-  "Kentucky": [
+  "KY": [
     {
       "years": "2014",
       "programs": [
@@ -3858,7 +3858,7 @@
       "totalPaymentInDollars": 233709022.0
     }
   ],
-  "Louisiana": [
+  "LA": [
     {
       "years": "2014",
       "programs": [
@@ -4085,7 +4085,7 @@
       "totalPaymentInDollars": 179893794.93
     }
   ],
-  "Maine": [
+  "ME": [
     {
       "years": "2014",
       "programs": [
@@ -4312,7 +4312,7 @@
       "totalPaymentInDollars": 7121102.0
     }
   ],
-  "Maryland": [
+  "MD": [
     {
       "years": "2014",
       "programs": [
@@ -4539,7 +4539,7 @@
       "totalPaymentInDollars": 66218913.84
     }
   ],
-  "Massachusetts": [
+  "MA": [
     {
       "years": "2014",
       "programs": [
@@ -4766,7 +4766,7 @@
       "totalPaymentInDollars": 2790137.69
     }
   ],
-  "Michigan": [
+  "MI": [
     {
       "years": "2014",
       "programs": [
@@ -4993,7 +4993,7 @@
       "totalPaymentInDollars": 575784702.63
     }
   ],
-  "Minnesota": [
+  "MN": [
     {
       "years": "2014",
       "programs": [
@@ -5220,7 +5220,7 @@
       "totalPaymentInDollars": 1622846673.74
     }
   ],
-  "Mississippi": [
+  "MS": [
     {
       "years": "2014",
       "programs": [
@@ -5447,7 +5447,7 @@
       "totalPaymentInDollars": 194444156.88
     }
   ],
-  "Missouri": [
+  "MO": [
     {
       "years": "2014",
       "programs": [
@@ -5674,7 +5674,7 @@
       "totalPaymentInDollars": 394524585.78
     }
   ],
-  "Montana": [
+  "MT": [
     {
       "years": "2014",
       "programs": [
@@ -5901,7 +5901,7 @@
       "totalPaymentInDollars": 129290366.69
     }
   ],
-  "Nebraska": [
+  "NE": [
     {
       "years": "2014",
       "programs": [
@@ -6128,7 +6128,7 @@
       "totalPaymentInDollars": 1974502565.83
     }
   ],
-  "Nevada": [
+  "NV": [
     {
       "years": "2014",
       "programs": [
@@ -6355,7 +6355,7 @@
       "totalPaymentInDollars": 604647.0
     }
   ],
-  "New Hampshire": [
+  "NH": [
     {
       "years": "2014",
       "programs": [
@@ -6582,7 +6582,7 @@
       "totalPaymentInDollars": 1936199.0
     }
   ],
-  "New Jersey": [
+  "NJ": [
     {
       "years": "2014",
       "programs": [
@@ -6809,7 +6809,7 @@
       "totalPaymentInDollars": 12967056.91
     }
   ],
-  "New Mexico": [
+  "NM": [
     {
       "years": "2014",
       "programs": [
@@ -7036,7 +7036,7 @@
       "totalPaymentInDollars": 24616170.74
     }
   ],
-  "New York": [
+  "NY": [
     {
       "years": "2014",
       "programs": [
@@ -7263,7 +7263,7 @@
       "totalPaymentInDollars": 159477538.42
     }
   ],
-  "North Carolina": [
+  "NC": [
     {
       "years": "2014",
       "programs": [
@@ -7490,7 +7490,7 @@
       "totalPaymentInDollars": 243191573.35
     }
   ],
-  "North Dakota": [
+  "ND": [
     {
       "years": "2014",
       "programs": [
@@ -7717,7 +7717,7 @@
       "totalPaymentInDollars": 990817415.13
     }
   ],
-  "Ohio": [
+  "OH": [
     {
       "years": "2014",
       "programs": [
@@ -7944,7 +7944,7 @@
       "totalPaymentInDollars": 1065315953.52
     }
   ],
-  "Oklahoma": [
+  "OK": [
     {
       "years": "2014",
       "programs": [
@@ -8171,7 +8171,7 @@
       "totalPaymentInDollars": 242898668.57
     }
   ],
-  "Oregon": [
+  "OR": [
     {
       "years": "2014",
       "programs": [
@@ -8398,7 +8398,7 @@
       "totalPaymentInDollars": 106778577.39
     }
   ],
-  "Pennsylvania": [
+  "PA": [
     {
       "years": "2014",
       "programs": [
@@ -8625,7 +8625,7 @@
       "totalPaymentInDollars": 98009862.6
     }
   ],
-  "Rhode Island": [
+  "RI": [
     {
       "years": "2014",
       "programs": [
@@ -8852,7 +8852,7 @@
       "totalPaymentInDollars": 107830.0
     }
   ],
-  "South Carolina": [
+  "SC": [
     {
       "years": "2014",
       "programs": [
@@ -9079,7 +9079,7 @@
       "totalPaymentInDollars": 78166662.12
     }
   ],
-  "South Dakota": [
+  "SD": [
     {
       "years": "2014",
       "programs": [
@@ -9306,7 +9306,7 @@
       "totalPaymentInDollars": 1049582683.3
     }
   ],
-  "Tennessee": [
+  "TN": [
     {
       "years": "2014",
       "programs": [
@@ -9533,7 +9533,7 @@
       "totalPaymentInDollars": 136136550.97
     }
   ],
-  "Texas": [
+  "TX": [
     {
       "years": "2014",
       "programs": [
@@ -9760,7 +9760,7 @@
       "totalPaymentInDollars": 412476502.53
     }
   ],
-  "Utah": [
+  "UT": [
     {
       "years": "2014",
       "programs": [
@@ -9987,7 +9987,7 @@
       "totalPaymentInDollars": 10477918.0
     }
   ],
-  "Vermont": [
+  "VT": [
     {
       "years": "2014",
       "programs": [
@@ -10214,7 +10214,7 @@
       "totalPaymentInDollars": 8646289.78
     }
   ],
-  "Virginia": [
+  "VA": [
     {
       "years": "2014",
       "programs": [
@@ -10441,7 +10441,7 @@
       "totalPaymentInDollars": 79701122.31
     }
   ],
-  "Washington": [
+  "WA": [
     {
       "years": "2014",
       "programs": [
@@ -10668,7 +10668,7 @@
       "totalPaymentInDollars": 315445161.8
     }
   ],
-  "West Virginia": [
+  "WV": [
     {
       "years": "2014",
       "programs": [
@@ -10895,7 +10895,7 @@
       "totalPaymentInDollars": 7351034.89
     }
   ],
-  "Wisconsin": [
+  "WI": [
     {
       "years": "2014",
       "programs": [
@@ -11122,7 +11122,7 @@
       "totalPaymentInDollars": 527980768.39
     }
   ],
-  "Wyoming": [
+  "WY": [
     {
       "years": "2014",
       "programs": [

@@ -27,7 +27,7 @@ class CommoditiesDataParser:
         self.processed_data_dict = dict()
         self.state_distribution_data_dict = dict()
         self.programs_data_dict = dict()
-        self.us_state_abbreviation = {
+        self.us_state_abbreviations = {
             'AL': 'Alabama',
             'AK': 'Alaska',
             'AZ': 'Arizona',
@@ -377,6 +377,10 @@ class CommoditiesDataParser:
                         # Sort categories by name
                         program["subPrograms"].sort(key=lambda x: x["subProgramName"])
 
+            # remap state names to abbreviations
+            self.processed_data_dict = \
+                self.remap_state_name_to_abbreviation(self.processed_data_dict)
+
             # Write processed_data_dict as JSON data
             with open("commodities_map_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(self.processed_data_dict, indent=2))
@@ -408,8 +412,8 @@ class CommoditiesDataParser:
 
             self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
 
-            for state in self.us_state_abbreviation:
-                state_name = self.us_state_abbreviation[state]
+            for state in self.us_state_abbreviations:
+                state_name = self.us_state_abbreviations[state]
                 yearly_state_payment = total_payments_by_state[state_name]
 
                 new_data_entry = {
@@ -604,6 +608,23 @@ class CommoditiesDataParser:
             # Write processed_data_dict as JSON data
             with open("commodities_subprograms_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(self.programs_data_dict, indent=2))
+
+    def remap_state_name_to_abbreviation(self, input_dict):
+        # remap state names to abbreviations
+        # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
+        state_names = list(input_dict.keys())
+
+        # Iterate over the state names
+        for state_name in state_names:
+            # Check if the value of state_name is in the values of the us_state_abbreviation dictionary
+            if state_name in self.us_state_abbreviations.values():
+                # Replace the state_name with the corresponding abbreviation
+                state_abbr = \
+                    [abbr for abbr, name in self.us_state_abbreviations.items() if name == state_name][0]
+                # Create a new entry with the updated key
+                input_dict[state_abbr] = input_dict.pop(state_name)
+
+        return input_dict
 
 
 if __name__ == '__main__':

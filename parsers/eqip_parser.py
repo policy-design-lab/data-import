@@ -272,7 +272,7 @@ class EqipParser:
                         statute["practiceCategories"].sort(key=lambda x: x["practiceCategoryName"])
 
             # remap state names to abbreviations
-            # self.processed_data_dict = self.remap_statename_to_abbreviation(self.processed_data_dict)
+            self.processed_data_dict = self.remap_state_name_to_abbreviation(self.processed_data_dict)
 
             # add year to the data
             tmp_output = dict()
@@ -375,14 +375,13 @@ class EqipParser:
             restructured_list = []
 
             for state, state_data in self.percentages_data_dict.items():
+                state_abbr = \
+                    [abbr for abbr, name in self.us_state_abbreviation.items() if name == state][0]
                 for entry in state_data:
                     restructured_list.append({
-                        'state': entry['state'],
+                        'state': state_abbr,
                         'statutes': entry['statutes']
                     })
-
-            # remap state names to abbreviations
-            # self.percentages_data_dict = self.remap_statename_to_abbreviation(self.percentages_data_dict)
 
             # add year to the data
             tmp_output = dict()
@@ -504,7 +503,7 @@ class EqipParser:
         with open(self.all_programs_filepath + ".updated.json", "w") as all_programs_file_new:
             json.dump(self.all_programs__dict, all_programs_file_new, indent=2)
 
-    def remap_statename_to_abbreviation(self, input_dict):
+    def remap_state_name_to_abbreviation(self, input_dict):
         # remap state names to abbreviations
         # Create a copy of the keys to avoid the "dictionary keys changed during iteration" error
         state_names = list(input_dict.keys())
