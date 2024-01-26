@@ -2,6 +2,9 @@
   "2014-2021": [
     {
       "state": "TX",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 9.21,
+      "subtitlePaymentInDollars": 3246552626.73,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -36,12 +39,13 @@
           "paymentInPercentageNationwide": 16.22,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 9.21,
-      "totalPaymentInDollars": 3246552626.73
+      ]
     },
     {
       "state": "NE",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.88,
+      "subtitlePaymentInDollars": 2424852157.3,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -76,12 +80,13 @@
           "paymentInPercentageNationwide": 2.58,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.88,
-      "totalPaymentInDollars": 2424852157.3
+      ]
     },
     {
       "state": "AR",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.53,
+      "subtitlePaymentInDollars": 2300875136.74,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -116,12 +121,13 @@
           "paymentInPercentageNationwide": 11.85,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.53,
-      "totalPaymentInDollars": 2300875136.74
+      ]
     },
     {
       "state": "KS",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.45,
+      "subtitlePaymentInDollars": 2271878381.13,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -156,12 +162,13 @@
           "paymentInPercentageNationwide": 6.7,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.45,
-      "totalPaymentInDollars": 2271878381.13
+      ]
     },
     {
       "state": "IA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.34,
+      "subtitlePaymentInDollars": 2235916158.09,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -196,12 +203,13 @@
           "paymentInPercentageNationwide": 1.61,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.34,
-      "totalPaymentInDollars": 2235916158.09
+      ]
     },
     {
       "state": "ND",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.16,
+      "subtitlePaymentInDollars": 2169817568.43,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -236,12 +244,13 @@
           "paymentInPercentageNationwide": 6.75,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.16,
-      "totalPaymentInDollars": 2169817568.43
+      ]
     },
     {
       "state": "IL",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 5.86,
+      "subtitlePaymentInDollars": 2065807234.23,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -276,12 +285,13 @@
           "paymentInPercentageNationwide": 1.64,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 5.86,
-      "totalPaymentInDollars": 2065807234.23
+      ]
     },
     {
       "state": "MN",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 5.3,
+      "subtitlePaymentInDollars": 1868027507.32,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -316,12 +326,13 @@
           "paymentInPercentageNationwide": 1.4,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 5.3,
-      "totalPaymentInDollars": 1868027507.32
+      ]
     },
     {
       "state": "GA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 4.62,
+      "subtitlePaymentInDollars": 1627295339.74,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -356,12 +367,13 @@
           "paymentInPercentageNationwide": 8.63,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 4.62,
-      "totalPaymentInDollars": 1627295339.74
+      ]
     },
     {
       "state": "SD",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 3.84,
+      "subtitlePaymentInDollars": 1353853789.66,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -396,12 +408,13 @@
           "paymentInPercentageNationwide": 1.74,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 3.84,
-      "totalPaymentInDollars": 1353853789.66
+      ]
     },
     {
       "state": "IN",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 3.63,
+      "subtitlePaymentInDollars": 1280463896.81,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -436,12 +449,13 @@
           "paymentInPercentageNationwide": 0.7,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 3.63,
-      "totalPaymentInDollars": 1280463896.81
+      ]
     },
     {
       "state": "OH",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 3.33,
+      "subtitlePaymentInDollars": 1173090048.65,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -476,12 +490,13 @@
           "paymentInPercentageNationwide": 0.62,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 3.33,
-      "totalPaymentInDollars": 1173090048.65
+      ]
     },
     {
       "state": "MO",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 3.09,
+      "subtitlePaymentInDollars": 1089907212.09,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -516,12 +531,13 @@
           "paymentInPercentageNationwide": 3.98,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 3.09,
-      "totalPaymentInDollars": 1089907212.09
+      ]
     },
     {
       "state": "LA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 2.74,
+      "subtitlePaymentInDollars": 966709926.59,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -556,12 +572,13 @@
           "paymentInPercentageNationwide": 4.5,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 2.74,
-      "totalPaymentInDollars": 966709926.59
+      ]
     },
     {
       "state": "MT",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 2.58,
+      "subtitlePaymentInDollars": 908671285.91,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -596,12 +613,13 @@
           "paymentInPercentageNationwide": 4.46,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 2.58,
-      "totalPaymentInDollars": 908671285.91
+      ]
     },
     {
       "state": "OK",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 2.44,
+      "subtitlePaymentInDollars": 860505756.38,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -636,12 +654,13 @@
           "paymentInPercentageNationwide": 3.54,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 2.44,
-      "totalPaymentInDollars": 860505756.38
+      ]
     },
     {
       "state": "MS",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 2.4,
+      "subtitlePaymentInDollars": 844758369.75,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -676,12 +695,13 @@
           "paymentInPercentageNationwide": 3.72,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 2.4,
-      "totalPaymentInDollars": 844758369.75
+      ]
     },
     {
       "state": "MI",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.85,
+      "subtitlePaymentInDollars": 653287675.19,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -716,12 +736,13 @@
           "paymentInPercentageNationwide": 0.44,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.85,
-      "totalPaymentInDollars": 653287675.19
+      ]
     },
     {
       "state": "WI",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.7,
+      "subtitlePaymentInDollars": 599561541.1,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -756,12 +777,13 @@
           "paymentInPercentageNationwide": 0.41,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.7,
-      "totalPaymentInDollars": 599561541.1
+      ]
     },
     {
       "state": "NC",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.66,
+      "subtitlePaymentInDollars": 584213473.03,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -796,12 +818,13 @@
           "paymentInPercentageNationwide": 1.95,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.66,
-      "totalPaymentInDollars": 584213473.03
+      ]
     },
     {
       "state": "CO",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.63,
+      "subtitlePaymentInDollars": 575575054.32,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -836,12 +859,13 @@
           "paymentInPercentageNationwide": 2.11,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.63,
-      "totalPaymentInDollars": 575575054.32
+      ]
     },
     {
       "state": "WA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.57,
+      "subtitlePaymentInDollars": 554447451.2,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -876,12 +900,13 @@
           "paymentInPercentageNationwide": 1.37,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.57,
-      "totalPaymentInDollars": 554447451.2
+      ]
     },
     {
       "state": "ID",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.45,
+      "subtitlePaymentInDollars": 510097197.1,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -916,12 +941,13 @@
           "paymentInPercentageNationwide": 2.32,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.45,
-      "totalPaymentInDollars": 510097197.1
+      ]
     },
     {
       "state": "AL",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.37,
+      "subtitlePaymentInDollars": 482840228.87,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -956,12 +982,13 @@
           "paymentInPercentageNationwide": 2.49,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.37,
-      "totalPaymentInDollars": 482840228.87
+      ]
     },
     {
       "state": "CA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.88,
+      "subtitlePaymentInDollars": 311799238.71,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -996,12 +1023,13 @@
           "paymentInPercentageNationwide": 1.38,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.88,
-      "totalPaymentInDollars": 311799238.71
+      ]
     },
     {
       "state": "KY",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.85,
+      "subtitlePaymentInDollars": 299194159.85,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1036,12 +1064,13 @@
           "paymentInPercentageNationwide": 0.37,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.85,
-      "totalPaymentInDollars": 299194159.85
+      ]
     },
     {
       "state": "TN",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.77,
+      "subtitlePaymentInDollars": 271339625.1,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1076,12 +1105,13 @@
           "paymentInPercentageNationwide": 0.77,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.77,
-      "totalPaymentInDollars": 271339625.1
+      ]
     },
     {
       "state": "SC",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.73,
+      "subtitlePaymentInDollars": 256869847.46,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1116,12 +1146,13 @@
           "paymentInPercentageNationwide": 1.02,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.73,
-      "totalPaymentInDollars": 256869847.46
+      ]
     },
     {
       "state": "VA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.62,
+      "subtitlePaymentInDollars": 216922885.31,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1156,12 +1187,13 @@
           "paymentInPercentageNationwide": 0.79,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.62,
-      "totalPaymentInDollars": 216922885.31
+      ]
     },
     {
       "state": "FL",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.61,
+      "subtitlePaymentInDollars": 213849322.91,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1196,12 +1228,13 @@
           "paymentInPercentageNationwide": 1.18,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.61,
-      "totalPaymentInDollars": 213849322.91
+      ]
     },
     {
       "state": "OR",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.57,
+      "subtitlePaymentInDollars": 200051978.18,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1236,12 +1269,13 @@
           "paymentInPercentageNationwide": 0.53,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.57,
-      "totalPaymentInDollars": 200051978.18
+      ]
     },
     {
       "state": "NY",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.5,
+      "subtitlePaymentInDollars": 176411057.53,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1276,12 +1310,13 @@
           "paymentInPercentageNationwide": 0.1,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.5,
-      "totalPaymentInDollars": 176411057.53
+      ]
     },
     {
       "state": "NM",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.39,
+      "subtitlePaymentInDollars": 136648026.72,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1316,12 +1351,13 @@
           "paymentInPercentageNationwide": 0.64,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.39,
-      "totalPaymentInDollars": 136648026.72
+      ]
     },
     {
       "state": "AZ",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.35,
+      "subtitlePaymentInDollars": 124402492.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1356,12 +1392,13 @@
           "paymentInPercentageNationwide": 0.71,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.35,
-      "totalPaymentInDollars": 124402492.89
+      ]
     },
     {
       "state": "PA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.32,
+      "subtitlePaymentInDollars": 112004189.25,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1396,12 +1433,13 @@
           "paymentInPercentageNationwide": 0.08,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.32,
-      "totalPaymentInDollars": 112004189.25
+      ]
     },
     {
       "state": "MD",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.26,
+      "subtitlePaymentInDollars": 91149561.52,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1436,12 +1474,13 @@
           "paymentInPercentageNationwide": 0.14,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.26,
-      "totalPaymentInDollars": 91149561.52
+      ]
     },
     {
       "state": "UT",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.13,
+      "subtitlePaymentInDollars": 46879144.59,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1476,12 +1515,13 @@
           "paymentInPercentageNationwide": 0.21,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.13,
-      "totalPaymentInDollars": 46879144.59
+      ]
     },
     {
       "state": "WY",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.13,
+      "subtitlePaymentInDollars": 44350663.27,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1516,12 +1556,13 @@
           "paymentInPercentageNationwide": 0.21,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.13,
-      "totalPaymentInDollars": 44350663.27
+      ]
     },
     {
       "state": "DE",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.1,
+      "subtitlePaymentInDollars": 34724920.18,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1556,12 +1597,13 @@
           "paymentInPercentageNationwide": 0.05,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.1,
-      "totalPaymentInDollars": 34724920.18
+      ]
     },
     {
       "state": "NJ",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.04,
+      "subtitlePaymentInDollars": 14528512.91,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1596,12 +1638,13 @@
           "paymentInPercentageNationwide": 0.01,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.04,
-      "totalPaymentInDollars": 14528512.91
+      ]
     },
     {
       "state": "VT",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.03,
+      "subtitlePaymentInDollars": 9808698.78,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1636,12 +1679,13 @@
           "paymentInPercentageNationwide": 0.01,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.03,
-      "totalPaymentInDollars": 9808698.78
+      ]
     },
     {
       "state": "ME",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.02,
+      "subtitlePaymentInDollars": 8275537.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1676,12 +1720,13 @@
           "paymentInPercentageNationwide": 0.01,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.02,
-      "totalPaymentInDollars": 8275537.0
+      ]
     },
     {
       "state": "WV",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.02,
+      "subtitlePaymentInDollars": 7932184.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1716,12 +1761,13 @@
           "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.02,
-      "totalPaymentInDollars": 7932184.89
+      ]
     },
     {
       "state": "CT",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.01,
+      "subtitlePaymentInDollars": 2342670.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1756,12 +1802,13 @@
           "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.01,
-      "totalPaymentInDollars": 2342670.0
+      ]
     },
     {
       "state": "MA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.01,
+      "subtitlePaymentInDollars": 3003965.69,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1796,12 +1843,13 @@
           "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.01,
-      "totalPaymentInDollars": 3003965.69
+      ]
     },
     {
       "state": "NV",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.01,
+      "subtitlePaymentInDollars": 4663941.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1836,12 +1884,13 @@
           "paymentInPercentageNationwide": 0.02,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.01,
-      "totalPaymentInDollars": 4663941.0
+      ]
     },
     {
       "state": "NH",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.01,
+      "subtitlePaymentInDollars": 2179925.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1876,12 +1925,13 @@
           "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.01,
-      "totalPaymentInDollars": 2179925.0
+      ]
     },
     {
       "state": "AK",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.0,
+      "subtitlePaymentInDollars": 612830.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1916,12 +1966,13 @@
           "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.0,
-      "totalPaymentInDollars": 612830.0
+      ]
     },
     {
       "state": "HI",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.0,
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1956,12 +2007,13 @@
           "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.0,
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "state": "RI",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.0,
+      "subtitlePaymentInDollars": 282686.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1996,9 +2048,7 @@
           "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.0,
-      "totalPaymentInDollars": 282686.0
+      ]
     }
   ]
 }
