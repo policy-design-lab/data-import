@@ -279,7 +279,7 @@ class DataParser:
         zero_subprogram_entries = []
         for entry in diff_list:
             entry_dict = self.metadata[self.program_main_category_name]["zero_subprograms_map"].copy()
-            entry_dict["programName"] = entry
+            entry_dict["subProgramName"] = entry
             if not for_percentage_json:
                 del entry_dict["paymentInPercentageWithinState"]
                 zero_subprogram_entries.append(entry_dict)
@@ -356,27 +356,27 @@ class DataParser:
                     "years": str(year),
                     "programs": [
                         {
-                            "subtitleName": "Agriculture Risk Coverage (ARC)",
-                            "programs": [
+                            "programName": "Agriculture Risk Coverage (ARC)",
+                            "subPrograms": [
                             ],
                             "programPaymentInDollars": 0.0
 
                         },
                         {
-                            "subtitleName": "Price Loss Coverage (PLC)",
-                            "programs": [
+                            "programName": "Price Loss Coverage (PLC)",
+                            "subPrograms": [
                             ],
                             "programPaymentInDollars": 0.0
                         },
                         # {
-                        #     "subtitleName": "Dairy",
-                        #     "programs": [
+                        #     "programName": "Dairy",
+                        #     "subPrograms": [
                         #     ],
                         #     "programPaymentInDollars": 0.0
                         # },
                         # {
-                        #     "subtitleName": "Disaster Assistance",
-                        #     "programs": [
+                        #     "programName": "Disaster Assistance",
+                        #     "subPrograms": [
                         #     ],
                         #     "programPaymentInDollars": 0.0
                         # }
@@ -387,13 +387,13 @@ class DataParser:
                 program_subprogram_name = self.find_program_by_subprogram(program_description)
 
                 for program in new_data_entry["programs"]:
-                    if program["subtitleName"] == program_subprogram_name:
+                    if program["programName"] == program_subprogram_name:
                         if len(self.metadata[self.program_main_category_name]["programs_subprograms_map"][
                                    program_subprogram_name]) == 0:
                             program["programPaymentInDollars"] = rounded_payment
                         else:
-                            program["programs"].append({
-                                "programName": program_description,
+                            program["subPrograms"].append({
+                                "subProgramName": program_description,
                                 "paymentInDollars": rounded_payment
                             })
                         break
@@ -407,11 +407,11 @@ class DataParser:
                         if entry["years"] == new_data_entry["years"]:
                             for entry_program in entry["programs"]:
                                 for new_data_entry_program in new_data_entry["programs"]:
-                                    if entry_program["subtitleName"] == new_data_entry_program["subtitleName"]:
+                                    if entry_program["programName"] == new_data_entry_program["programName"]:
                                         # Merge existing entries and new data entries
-                                        entry_program["programs"] = always_merger.merge(
-                                            entry_program["programs"],
-                                            new_data_entry_program["programs"])
+                                        entry_program["subPrograms"] = always_merger.merge(
+                                            entry_program["subPrograms"],
+                                            new_data_entry_program["subPrograms"])
                             found = True
                             break
                     if not found:
@@ -432,26 +432,26 @@ class DataParser:
                     "years": str(self.start_year) + "-" + str(self.end_year),
                     "programs": [
                         {
-                            "subtitleName": "Agriculture Risk Coverage (ARC)",
-                            "programs": [
+                            "programName": "Agriculture Risk Coverage (ARC)",
+                            "subPrograms": [
                             ],
                             "programPaymentInDollars": 0.0
                         },
                         {
-                            "subtitleName": "Price Loss Coverage (PLC)",
-                            "programs": [
+                            "programName": "Price Loss Coverage (PLC)",
+                            "subPrograms": [
                             ],
                             "programPaymentInDollars": 0.0
                         },
                         # {
-                        #     "subtitleName": "Dairy",
-                        #     "programs": [
+                        #     "programName": "Dairy",
+                        #     "subPrograms": [
                         #     ],
                         #     "programPaymentInDollars": 0.0
                         # },
                         # {
-                        #     "subtitleName": "Disaster Assistance",
-                        #     "programs": [
+                        #     "programName": "Disaster Assistance",
+                        #     "subPrograms": [
                         #     ],
                         #     "programPaymentInDollars": 0.0
                         # }
@@ -462,13 +462,13 @@ class DataParser:
                 program_subprogram_name = self.find_program_by_subprogram(program_description)
 
                 for program in new_data_entry["programs"]:
-                    if program["subtitleName"] == program_subprogram_name:
+                    if program["programName"] == program_subprogram_name:
                         if len(self.metadata[self.program_main_category_name]["programs_subprograms_map"][
                                    program_subprogram_name]) == 0:
                             program["programPaymentInDollars"] = rounded_payment
                         else:
-                            program["programs"].append({
-                                "programName": program_description,
+                            program["subPrograms"].append({
+                                "subProgramName": program_description,
                                 "paymentInDollars": rounded_payment
                             })
 
@@ -478,10 +478,10 @@ class DataParser:
                     if entry["years"] == new_data_entry["years"]:
                         for entry_program in entry["programs"]:
                             for new_data_entry_program in new_data_entry["programs"]:
-                                if entry_program["subtitleName"] == new_data_entry_program["subtitleName"]:
-                                    entry_program["programs"] = always_merger.merge(
-                                        entry_program["programs"],
-                                        new_data_entry_program["programs"])
+                                if entry_program["programName"] == new_data_entry_program["programName"]:
+                                    entry_program["subPrograms"] = always_merger.merge(
+                                        entry_program["subPrograms"],
+                                        new_data_entry_program["subPrograms"])
                         found = True
                         break
                 if not found:
@@ -493,7 +493,7 @@ class DataParser:
                     total_payment_in_dollars = 0
                     for program in year_data["programs"]:
                         total_payment_in_dollars_program = 0
-                        for subprogram in program["programs"]:
+                        for subprogram in program["subPrograms"]:
                             total_payment_in_dollars += subprogram["paymentInDollars"]
                             total_payment_in_dollars_program += subprogram["paymentInDollars"]
                         program["programPaymentInDollars"] = round(total_payment_in_dollars_program, 2)
@@ -504,14 +504,14 @@ class DataParser:
                 for year_data in self.processed_data_dict[state_name]:
                     for program in year_data["programs"]:
                         subprograms_list = []
-                        for subprogram in program["programs"]:
-                            subprograms_list.append(subprogram["programName"])
-                        zero_entries = self.find_and_get_zero_subprogram_entries(program["subtitleName"],
+                        for subprogram in program["subPrograms"]:
+                            subprograms_list.append(subprogram["subProgramName"])
+                        zero_entries = self.find_and_get_zero_subprogram_entries(program["programName"],
                                                                                  subprograms_list)
-                        program["programs"] = always_merger.merge(program["programs"], zero_entries)
+                        program["subPrograms"] = always_merger.merge(program["subPrograms"], zero_entries)
 
                         # Sort categories by name
-                        program["programs"].sort(key=lambda x: x["programName"])
+                        program["subPrograms"].sort(key=lambda x: x["subProgramName"])
 
             # remap state names to abbreviations
             self.processed_data_dict = \
@@ -563,38 +563,38 @@ class DataParser:
                     "state": state,
                     "programs": [
                         {
-                            "subtitleName": "Agriculture Risk Coverage (ARC)",
+                            "programName": "Agriculture Risk Coverage (ARC)",
                             "programPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
                             "paymentInPercentageNationwide": round(
                                 (yearly_state_payment / total_payments_at_national_level) * 100, 2),
-                            "programs": [
+                            "subPrograms": [
                             ],
                         },
                         {
-                            "subtitleName": "Price Loss Coverage (PLC)",
+                            "programName": "Price Loss Coverage (PLC)",
                             "programPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
                             "paymentInPercentageNationwide": 0.0,
-                            "programs": [
+                            "subPrograms": [
                             ]
                         },
                         # {
-                        #     "subtitleName": "Dairy",
+                        #     "programName": "Dairy",
                         #     "programPaymentInDollars": 0.0,
                         #     "averageAreaInAcres": 0.0,
                         #     "averageRecipientCount": 0,
-                        #     "programs": [
+                        #     "subPrograms": [
                         #     ]
                         # },
                         # {
-                        #     "subtitleName": "Disaster Assistance",
+                        #     "programName": "Disaster Assistance",
                         #     "programPaymentInDollars": 0.0,
                         #     "averageAreaInAcres": 0.0,
                         #     "averageRecipientCount": 0,
-                        #     "programs": [
+                        #     "subPrograms": [
                         #     ]
                         # }
                     ],
@@ -637,14 +637,14 @@ class DataParser:
                         average_recipient_count = 0
 
                     for program in new_data_entry["programs"]:
-                        if program["subtitleName"] == program_subprogram_name:
+                        if program["programName"] == program_subprogram_name:
 
                             if len(self.metadata[self.program_main_category_name]["programs_subprograms_map"][
                                        program_subprogram_name]) == 0:
                                 pass
                             else:
-                                program["programs"].append({
-                                    "programName": program_description,
+                                program["subPrograms"].append({
+                                    "subProgramName": program_description,
                                     "paymentInDollars": rounded_program_payment,
                                     "paymentInPercentageNationwide": program_percentage_nationwide,
                                     "paymentInPercentageWithinState": program_percentage_within_state,
@@ -676,15 +676,15 @@ class DataParser:
                         program["averageAreaInAcres"] = round(program["averageAreaInAcres"], 2)
 
                         subprograms_list = []
-                        for subprogram in program["programs"]:
-                            subprograms_list.append(subprogram["programName"])
-                        zero_entries = self.find_and_get_zero_subprogram_entries(program["subtitleName"],
+                        for subprogram in program["subPrograms"]:
+                            subprograms_list.append(subprogram["subProgramName"])
+                        zero_entries = self.find_and_get_zero_subprogram_entries(program["programName"],
                                                                                  subprograms_list, True)
-                        program["programs"] = always_merger.merge(
-                            program["programs"], zero_entries)
+                        program["subPrograms"] = always_merger.merge(
+                            program["subPrograms"], zero_entries)
 
                         # Sort categories by percentages
-                        program["programs"].sort(reverse=True,
+                        program["subPrograms"].sort(reverse=True,
                                                     key=lambda x: x["paymentInPercentageWithinState"])
 
             # Sort states by decreasing order of totalPaymentInPercentageNationwide
@@ -703,23 +703,23 @@ class DataParser:
             self.program_data_dict = {
                 "programs": [
                     {
-                        "subtitleName": "Agriculture Risk Coverage (ARC)",
-                        "programs": [
+                        "programName": "Agriculture Risk Coverage (ARC)",
+                        "subPrograms": [
                         ]
                     },
                     {
-                        "subtitleName": "Price Loss Coverage (PLC)",
-                        "programs": [
+                        "programName": "Price Loss Coverage (PLC)",
+                        "subPrograms": [
                         ]
                     },
                     # {
-                    #     "subtitleName": "Dairy",
-                    #     "programs": [
+                    #     "programName": "Dairy",
+                    #     "subPrograms": [
                     #     ]
                     # },
                     # {
-                    #     "subtitleName": "Disaster Assistance",
-                    #     "programs": [
+                    #     "programName": "Disaster Assistance",
+                    #     "subPrograms": [
                     #     ]
                     # }
                 ]
@@ -733,41 +733,41 @@ class DataParser:
 
             for program in self.program_data_dict["programs"]:
                 if len(self.metadata[self.program_main_category_name]["programs_subprograms_map"][
-                           program["subtitleName"]]) > 0:
+                           program["programName"]]) > 0:
                     for program_subprogram_name in \
                             self.metadata[self.program_main_category_name]["programs_subprograms_map"][
-                                program["subtitleName"]]:
+                                program["programName"]]:
                         if program_subprogram_name in total_payments_by_program_at_national_level["payments"]:
                             subprogram_payment = round(
                                 total_payments_by_program_at_national_level["payments"][program_subprogram_name], 2)
                             entry_dict = {
-                                "programName": program_subprogram_name,
+                                "subProgramName": program_subprogram_name,
                                 "totalPaymentInDollars": subprogram_payment,
                             }
-                            total_for_program[program["subtitleName"]] += subprogram_payment
+                            total_for_program[program["programName"]] += subprogram_payment
                         # When subprogram is not existing in the actual data
                         else:
                             entry_dict = {
-                                "programName": program_subprogram_name,
+                                "subProgramName": program_subprogram_name,
                                 "totalPaymentInDollars": 0.0,
                             }
-                        program["programs"].append(entry_dict)
+                        program["subPrograms"].append(entry_dict)
                 else:
-                    program_subprogram_name = program["subtitleName"]
+                    program_subprogram_name = program["programName"]
                     if program_subprogram_name in total_payments_by_program_at_national_level["payments"]:
                         subprogram_payment = round(
                             total_payments_by_program_at_national_level["payments"][program_subprogram_name], 2)
-                        total_for_program[program["subtitleName"]] += subprogram_payment
+                        total_for_program[program["programName"]] += subprogram_payment
 
             for program in self.program_data_dict["programs"]:
-                for subprogram in program["programs"]:
+                for subprogram in program["subPrograms"]:
                     subprogram["totalPaymentInPercentage"] = round(
                         subprogram["totalPaymentInDollars"] / total_for_program[
-                            program["subtitleName"]] * 100, 2)
-                program["totalPaymentInDollars"] = round(total_for_program[program["subtitleName"]], 2)
+                            program["programName"]] * 100, 2)
+                program["totalPaymentInDollars"] = round(total_for_program[program["programName"]], 2)
                 program["totalPaymentInPercentage"] = round(
-                    total_for_program[program["subtitleName"]] / total_payments_at_national_level * 100, 2)
-                program["programs"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
+                    total_for_program[program["programName"]] / total_payments_at_national_level * 100, 2)
+                program["subPrograms"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
 
             # Write processed_data_dict as JSON data
             with open(os.path.join(self.data_folder, "commodities_subprograms_data.json"), "w") as output_json_file:
