@@ -553,9 +553,6 @@ class DataParser:
             plc_nationwide = \
                 total_payments_by_program_at_national_level.loc["Price Loss Coverage (PLC)", "payments"]
 
-            print(arc_nationwide)
-            print(plc_nationwide)
-
             self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
 
             for state in self.us_state_abbreviations:
@@ -570,8 +567,7 @@ class DataParser:
                             "programPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
-                            "paymentInPercentageNationwide": round(
-                                (yearly_state_payment / total_payments_at_national_level) * 100, 2),
+                            "paymentInPercentageNationwide": 0.0,
                             "subPrograms": [
                             ],
                         },
