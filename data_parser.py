@@ -546,6 +546,16 @@ class DataParser:
                 ["state", "program_description", "year"]
             )["recipient_count"].sum().groupby(["state", "program_description"]).mean()
 
+            arc_nationwide = total_payments_by_program_at_national_level.loc[
+                                 "Agriculture Risk Coverage County Option (ARC-CO)", "payments"] + \
+                             total_payments_by_program_at_national_level.loc[
+                                 "Agriculture Risk Coverage Individual Coverage (ARC-IC)", "payments"]
+            plc_nationwide = \
+                total_payments_by_program_at_national_level.loc["Price Loss Coverage (PLC)", "payments"]
+
+            print(arc_nationwide)
+            print(plc_nationwide)
+
             self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
 
             for state in self.us_state_abbreviations:
@@ -560,6 +570,8 @@ class DataParser:
                             "programPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
+                            "paymentInPercentageNationwide": round(
+                                (yearly_state_payment / total_payments_at_national_level) * 100, 2),
                             "subPrograms": [
                             ],
                         },
@@ -568,6 +580,7 @@ class DataParser:
                             "programPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
+                            "paymentInPercentageNationwide": 0.0,
                             "subPrograms": [
                             ]
                         },
@@ -644,6 +657,16 @@ class DataParser:
                             program["programPaymentInDollars"] += rounded_program_payment
                             program["averageAreaInAcres"] += average_base_acres
                             program["averageRecipientCount"] += average_recipient_count
+
+                            if program_subprogram_name == "Agriculture Risk Coverage (ARC)":
+                                nationwide_total = arc_nationwide
+                            elif program_subprogram_name == "Price Loss Coverage (PLC)":
+                                nationwide_total = plc_nationwide
+                            else:
+                                nationwide_total = 0.0
+
+                            program["paymentInPercentageNationwide"] = \
+                                round(program["programPaymentInDollars"] / nationwide_total * 100, 2)
 
                 self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
                     new_data_entry)
@@ -1770,7 +1793,7 @@ class DataParser:
         grassland_by_rental_1k = \
             program_data["Grassland - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
 
-        grassland_by_rental_acre= \
+        grassland_by_rental_acre = \
             program_data["Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
 
         self.program_data_dict = {
