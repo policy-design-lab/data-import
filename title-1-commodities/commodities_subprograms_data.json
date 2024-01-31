@@ -1,27 +1,29 @@
 {
+  "subtitleName": "Total Commodities Programs, Subtitle A",
+  "subtitlePaymentInDollars": 35239233081.1,
   "programs": [
     {
       "programName": "Agriculture Risk Coverage (ARC)",
       "subPrograms": [
         {
           "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
-          "totalPaymentInDollars": 17289301442.52,
-          "totalPaymentInPercentage": 97.29
+          "paymentInDollars": 17289301442.52,
+          "paymentInPercentage": 97.29
         },
         {
           "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
-          "totalPaymentInDollars": 482179963.35,
-          "totalPaymentInPercentage": 2.71
+          "paymentInDollars": 482179963.35,
+          "paymentInPercentage": 2.71
         }
       ],
-      "totalPaymentInDollars": 17771481405.87,
-      "totalPaymentInPercentage": 50.43
+      "paymentInDollars": 17771481405.87,
+      "paymentInPercentage": 50.43
     },
     {
       "programName": "Price Loss Coverage (PLC)",
       "subPrograms": [],
-      "totalPaymentInDollars": 17467751675.23,
-      "totalPaymentInPercentage": 49.57
+      "paymentInDollars": 17467751675.23,
+      "paymentInPercentage": 49.57
     }
   ]
 }

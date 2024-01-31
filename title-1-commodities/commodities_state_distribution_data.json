@@ -2,12 +2,16 @@
   "2014-2021": [
     {
       "state": "TX",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 9.21,
+      "subtitlePaymentInDollars": 3246552626.73,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 412476502.53,
           "averageAreaInAcres": 1598594.77,
           "averageRecipientCount": 7187,
+          "paymentInPercentageNationwide": 2.32,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -32,20 +36,23 @@
           "programPaymentInDollars": 2834076124.2,
           "averageAreaInAcres": 11872282.35,
           "averageRecipientCount": 37906,
+          "paymentInPercentageNationwide": 16.22,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 9.21,
-      "totalPaymentInDollars": 3246552626.73
+      ]
     },
     {
       "state": "NE",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.88,
+      "subtitlePaymentInDollars": 2424852157.3,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1974502565.83,
           "averageAreaInAcres": 10272467.15,
           "averageRecipientCount": 24818,
+          "paymentInPercentageNationwide": 11.11,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -70,20 +77,23 @@
           "programPaymentInDollars": 450349591.47,
           "averageAreaInAcres": 5730738.7,
           "averageRecipientCount": 14304,
+          "paymentInPercentageNationwide": 2.58,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.88,
-      "totalPaymentInDollars": 2424852157.3
+      ]
     },
     {
       "state": "AR",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.53,
+      "subtitlePaymentInDollars": 2300875136.74,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 230736559.04,
           "averageAreaInAcres": 2805163.74,
           "averageRecipientCount": 7389,
+          "paymentInPercentageNationwide": 1.3,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -108,20 +118,23 @@
           "programPaymentInDollars": 2070138577.7,
           "averageAreaInAcres": 3212211.42,
           "averageRecipientCount": 13814,
+          "paymentInPercentageNationwide": 11.85,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.53,
-      "totalPaymentInDollars": 2300875136.74
+      ]
     },
     {
       "state": "KS",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.45,
+      "subtitlePaymentInDollars": 2271878381.13,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1101563684.4,
           "averageAreaInAcres": 11848624.86,
           "averageRecipientCount": 35915,
+          "paymentInPercentageNationwide": 6.2,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -146,20 +159,23 @@
           "programPaymentInDollars": 1170314696.73,
           "averageAreaInAcres": 9203771.52,
           "averageRecipientCount": 34840,
+          "paymentInPercentageNationwide": 6.7,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.45,
-      "totalPaymentInDollars": 2271878381.13
+      ]
     },
     {
       "state": "IA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.34,
+      "subtitlePaymentInDollars": 2235916158.09,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1953958711.17,
           "averageAreaInAcres": 17522045.94,
           "averageRecipientCount": 33591,
+          "paymentInPercentageNationwide": 10.99,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -184,20 +200,23 @@
           "programPaymentInDollars": 281957446.92,
           "averageAreaInAcres": 4630050.05,
           "averageRecipientCount": 11004,
+          "paymentInPercentageNationwide": 1.61,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.34,
-      "totalPaymentInDollars": 2235916158.09
+      ]
     },
     {
       "state": "ND",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 6.16,
+      "subtitlePaymentInDollars": 2169817568.43,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 990817415.13,
           "averageAreaInAcres": 11767952.79,
           "averageRecipientCount": 12679,
+          "paymentInPercentageNationwide": 5.58,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -222,20 +241,23 @@
           "programPaymentInDollars": 1179000153.3,
           "averageAreaInAcres": 8568410.1,
           "averageRecipientCount": 12421,
+          "paymentInPercentageNationwide": 6.75,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 6.16,
-      "totalPaymentInDollars": 2169817568.43
+      ]
     },
     {
       "state": "IL",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 5.86,
+      "subtitlePaymentInDollars": 2065807234.23,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1779044349.92,
           "averageAreaInAcres": 16171684.86,
           "averageRecipientCount": 39397,
+          "paymentInPercentageNationwide": 10.01,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -260,20 +282,23 @@
           "programPaymentInDollars": 286762884.31,
           "averageAreaInAcres": 4590305.52,
           "averageRecipientCount": 18257,
+          "paymentInPercentageNationwide": 1.64,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 5.86,
-      "totalPaymentInDollars": 2065807234.23
+      ]
     },
     {
       "state": "MN",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 5.3,
+      "subtitlePaymentInDollars": 1868027507.32,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1622846673.74,
           "averageAreaInAcres": 13500231.63,
           "averageRecipientCount": 24761,
+          "paymentInPercentageNationwide": 9.13,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -298,20 +323,23 @@
           "programPaymentInDollars": 245180833.58,
           "averageAreaInAcres": 2960735.7,
           "averageRecipientCount": 7368,
+          "paymentInPercentageNationwide": 1.4,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 5.3,
-      "totalPaymentInDollars": 1868027507.32
+      ]
     },
     {
       "state": "GA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 4.62,
+      "subtitlePaymentInDollars": 1627295339.74,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 120207769.44,
           "averageAreaInAcres": 622645.37,
           "averageRecipientCount": 4666,
+          "paymentInPercentageNationwide": 0.68,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -336,20 +364,23 @@
           "programPaymentInDollars": 1507087570.3,
           "averageAreaInAcres": 1529258.09,
           "averageRecipientCount": 8970,
+          "paymentInPercentageNationwide": 8.63,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 4.62,
-      "totalPaymentInDollars": 1627295339.74
+      ]
     },
     {
       "state": "SD",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 3.84,
+      "subtitlePaymentInDollars": 1353853789.66,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1049582683.3,
           "averageAreaInAcres": 9685830.24,
           "averageRecipientCount": 17465,
+          "paymentInPercentageNationwide": 5.91,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -374,20 +405,23 @@
           "programPaymentInDollars": 304271106.36,
           "averageAreaInAcres": 3296021.66,
           "averageRecipientCount": 6895,
+          "paymentInPercentageNationwide": 1.74,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 3.84,
-      "totalPaymentInDollars": 1353853789.66
+      ]
     },
     {
       "state": "IN",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 3.63,
+      "subtitlePaymentInDollars": 1280463896.81,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1157457893.75,
           "averageAreaInAcres": 8457152.13,
           "averageRecipientCount": 23441,
+          "paymentInPercentageNationwide": 6.51,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -412,20 +446,23 @@
           "programPaymentInDollars": 123006003.06,
           "averageAreaInAcres": 2234014.63,
           "averageRecipientCount": 7902,
+          "paymentInPercentageNationwide": 0.7,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 3.63,
-      "totalPaymentInDollars": 1280463896.81
+      ]
     },
     {
       "state": "OH",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 3.33,
+      "subtitlePaymentInDollars": 1173090048.65,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1065315953.52,
           "averageAreaInAcres": 6455430.17,
           "averageRecipientCount": 21524,
+          "paymentInPercentageNationwide": 5.99,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -450,20 +487,23 @@
           "programPaymentInDollars": 107774095.13,
           "averageAreaInAcres": 1410824.6,
           "averageRecipientCount": 8594,
+          "paymentInPercentageNationwide": 0.62,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 3.33,
-      "totalPaymentInDollars": 1173090048.65
+      ]
     },
     {
       "state": "MO",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 3.09,
+      "subtitlePaymentInDollars": 1089907212.09,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 394524585.78,
           "averageAreaInAcres": 5164897.79,
           "averageRecipientCount": 14628,
+          "paymentInPercentageNationwide": 2.22,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -488,20 +528,23 @@
           "programPaymentInDollars": 695382626.31,
           "averageAreaInAcres": 4003410.07,
           "averageRecipientCount": 23657,
+          "paymentInPercentageNationwide": 3.98,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 3.09,
-      "totalPaymentInDollars": 1089907212.09
+      ]
     },
     {
       "state": "LA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 2.74,
+      "subtitlePaymentInDollars": 966709926.59,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 179893794.93,
           "averageAreaInAcres": 789792.58,
           "averageRecipientCount": 4441,
+          "paymentInPercentageNationwide": 1.01,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -526,20 +569,23 @@
           "programPaymentInDollars": 786816131.66,
           "averageAreaInAcres": 1373479.72,
           "averageRecipientCount": 9362,
+          "paymentInPercentageNationwide": 4.5,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 2.74,
-      "totalPaymentInDollars": 966709926.59
+      ]
     },
     {
       "state": "MT",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 2.58,
+      "subtitlePaymentInDollars": 908671285.91,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 129290366.69,
           "averageAreaInAcres": 1159291.3,
           "averageRecipientCount": 1997,
+          "paymentInPercentageNationwide": 0.73,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -564,20 +610,23 @@
           "programPaymentInDollars": 779380919.22,
           "averageAreaInAcres": 7689434.94,
           "averageRecipientCount": 8566,
+          "paymentInPercentageNationwide": 4.46,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 2.58,
-      "totalPaymentInDollars": 908671285.91
+      ]
     },
     {
       "state": "OK",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 2.44,
+      "subtitlePaymentInDollars": 860505756.38,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 242898668.57,
           "averageAreaInAcres": 3225401.23,
           "averageRecipientCount": 9271,
+          "paymentInPercentageNationwide": 1.37,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -602,20 +651,23 @@
           "programPaymentInDollars": 617607087.81,
           "averageAreaInAcres": 4435562.39,
           "averageRecipientCount": 12479,
+          "paymentInPercentageNationwide": 3.54,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 2.44,
-      "totalPaymentInDollars": 860505756.38
+      ]
     },
     {
       "state": "MS",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 2.4,
+      "subtitlePaymentInDollars": 844758369.75,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 194444156.88,
           "averageAreaInAcres": 1255007.21,
           "averageRecipientCount": 3570,
+          "paymentInPercentageNationwide": 1.09,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -640,20 +692,23 @@
           "programPaymentInDollars": 650314212.87,
           "averageAreaInAcres": 1302617.98,
           "averageRecipientCount": 3766,
+          "paymentInPercentageNationwide": 3.72,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 2.4,
-      "totalPaymentInDollars": 844758369.75
+      ]
     },
     {
       "state": "MI",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.85,
+      "subtitlePaymentInDollars": 653287675.19,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 575784702.63,
           "averageAreaInAcres": 3283869.31,
           "averageRecipientCount": 11347,
+          "paymentInPercentageNationwide": 3.24,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -678,20 +733,23 @@
           "programPaymentInDollars": 77502972.56,
           "averageAreaInAcres": 1004406.6,
           "averageRecipientCount": 4496,
+          "paymentInPercentageNationwide": 0.44,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.85,
-      "totalPaymentInDollars": 653287675.19
+      ]
     },
     {
       "state": "WI",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.7,
+      "subtitlePaymentInDollars": 599561541.1,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 527980768.39,
           "averageAreaInAcres": 3657449.29,
           "averageRecipientCount": 16079,
+          "paymentInPercentageNationwide": 2.97,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -716,20 +774,23 @@
           "programPaymentInDollars": 71580772.71,
           "averageAreaInAcres": 1495025.19,
           "averageRecipientCount": 6074,
+          "paymentInPercentageNationwide": 0.41,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.7,
-      "totalPaymentInDollars": 599561541.1
+      ]
     },
     {
       "state": "NC",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.66,
+      "subtitlePaymentInDollars": 584213473.03,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 243191573.35,
           "averageAreaInAcres": 2122019.06,
           "averageRecipientCount": 7204,
+          "paymentInPercentageNationwide": 1.37,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -754,20 +815,23 @@
           "programPaymentInDollars": 341021899.68,
           "averageAreaInAcres": 683132.22,
           "averageRecipientCount": 5289,
+          "paymentInPercentageNationwide": 1.95,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.66,
-      "totalPaymentInDollars": 584213473.03
+      ]
     },
     {
       "state": "CO",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.63,
+      "subtitlePaymentInDollars": 575575054.32,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 207571871.45,
           "averageAreaInAcres": 1501836.15,
           "averageRecipientCount": 3414,
+          "paymentInPercentageNationwide": 1.17,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -792,20 +856,23 @@
           "programPaymentInDollars": 368003182.87,
           "averageAreaInAcres": 3349667.83,
           "averageRecipientCount": 7009,
+          "paymentInPercentageNationwide": 2.11,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.63,
-      "totalPaymentInDollars": 575575054.32
+      ]
     },
     {
       "state": "WA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.57,
+      "subtitlePaymentInDollars": 554447451.2,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 315445161.8,
           "averageAreaInAcres": 1910327.58,
           "averageRecipientCount": 4333,
+          "paymentInPercentageNationwide": 1.78,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -830,20 +897,23 @@
           "programPaymentInDollars": 239002289.4,
           "averageAreaInAcres": 1445158.95,
           "averageRecipientCount": 3032,
+          "paymentInPercentageNationwide": 1.37,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.57,
-      "totalPaymentInDollars": 554447451.2
+      ]
     },
     {
       "state": "ID",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.45,
+      "subtitlePaymentInDollars": 510097197.1,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 105125787.1,
           "averageAreaInAcres": 556665.1,
           "averageRecipientCount": 1720,
+          "paymentInPercentageNationwide": 0.59,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -868,20 +938,23 @@
           "programPaymentInDollars": 404971410.0,
           "averageAreaInAcres": 2066342.45,
           "averageRecipientCount": 4809,
+          "paymentInPercentageNationwide": 2.32,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.45,
-      "totalPaymentInDollars": 510097197.1
+      ]
     },
     {
       "state": "AL",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 1.37,
+      "subtitlePaymentInDollars": 482840228.87,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 47962170.78,
           "averageAreaInAcres": 305926.05,
           "averageRecipientCount": 2244,
+          "paymentInPercentageNationwide": 0.27,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -906,20 +979,23 @@
           "programPaymentInDollars": 434878058.09,
           "averageAreaInAcres": 698656.72,
           "averageRecipientCount": 4682,
+          "paymentInPercentageNationwide": 2.49,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 1.37,
-      "totalPaymentInDollars": 482840228.87
+      ]
     },
     {
       "state": "CA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.88,
+      "subtitlePaymentInDollars": 311799238.71,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 71291444.6,
           "averageAreaInAcres": 465348.39,
           "averageRecipientCount": 878,
+          "paymentInPercentageNationwide": 0.4,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -944,20 +1020,23 @@
           "programPaymentInDollars": 240507794.11,
           "averageAreaInAcres": 1317090.13,
           "averageRecipientCount": 2406,
+          "paymentInPercentageNationwide": 1.38,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.88,
-      "totalPaymentInDollars": 311799238.71
+      ]
     },
     {
       "state": "KY",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.85,
+      "subtitlePaymentInDollars": 299194159.85,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 233709022.0,
           "averageAreaInAcres": 2267224.14,
           "averageRecipientCount": 11113,
+          "paymentInPercentageNationwide": 1.32,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -982,20 +1061,23 @@
           "programPaymentInDollars": 65485137.85,
           "averageAreaInAcres": 708446.54,
           "averageRecipientCount": 5806,
+          "paymentInPercentageNationwide": 0.37,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.85,
-      "totalPaymentInDollars": 299194159.85
+      ]
     },
     {
       "state": "TN",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.77,
+      "subtitlePaymentInDollars": 271339625.1,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 136136550.97,
           "averageAreaInAcres": 1569581.87,
           "averageRecipientCount": 7931,
+          "paymentInPercentageNationwide": 0.77,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1020,20 +1102,23 @@
           "programPaymentInDollars": 135203074.13,
           "averageAreaInAcres": 665607.52,
           "averageRecipientCount": 5343,
+          "paymentInPercentageNationwide": 0.77,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.77,
-      "totalPaymentInDollars": 271339625.1
+      ]
     },
     {
       "state": "SC",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.73,
+      "subtitlePaymentInDollars": 256869847.46,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 78166662.12,
           "averageAreaInAcres": 707084.46,
           "averageRecipientCount": 2546,
+          "paymentInPercentageNationwide": 0.44,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1058,20 +1143,23 @@
           "programPaymentInDollars": 178703185.34,
           "averageAreaInAcres": 339546.66,
           "averageRecipientCount": 2523,
+          "paymentInPercentageNationwide": 1.02,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.73,
-      "totalPaymentInDollars": 256869847.46
+      ]
     },
     {
       "state": "VA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.62,
+      "subtitlePaymentInDollars": 216922885.31,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 79701122.31,
           "averageAreaInAcres": 741809.38,
           "averageRecipientCount": 2868,
+          "paymentInPercentageNationwide": 0.45,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1096,20 +1184,23 @@
           "programPaymentInDollars": 137221763.0,
           "averageAreaInAcres": 392066.8,
           "averageRecipientCount": 2824,
+          "paymentInPercentageNationwide": 0.79,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.62,
-      "totalPaymentInDollars": 216922885.31
+      ]
     },
     {
       "state": "FL",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.61,
+      "subtitlePaymentInDollars": 213849322.91,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 6901829.26,
           "averageAreaInAcres": 70664.6,
           "averageRecipientCount": 548,
+          "paymentInPercentageNationwide": 0.04,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1134,20 +1225,23 @@
           "programPaymentInDollars": 206947493.65,
           "averageAreaInAcres": 205096.35,
           "averageRecipientCount": 1341,
+          "paymentInPercentageNationwide": 1.18,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.61,
-      "totalPaymentInDollars": 213849322.91
+      ]
     },
     {
       "state": "OR",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.57,
+      "subtitlePaymentInDollars": 200051978.18,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 106778577.39,
           "averageAreaInAcres": 663256.32,
           "averageRecipientCount": 1873,
+          "paymentInPercentageNationwide": 0.6,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1172,20 +1266,23 @@
           "programPaymentInDollars": 93273400.79,
           "averageAreaInAcres": 550607.13,
           "averageRecipientCount": 1496,
+          "paymentInPercentageNationwide": 0.53,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.57,
-      "totalPaymentInDollars": 200051978.18
+      ]
     },
     {
       "state": "NY",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.5,
+      "subtitlePaymentInDollars": 176411057.53,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 159477538.42,
           "averageAreaInAcres": 917150.03,
           "averageRecipientCount": 3376,
+          "paymentInPercentageNationwide": 0.9,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1210,20 +1307,23 @@
           "programPaymentInDollars": 16933519.11,
           "averageAreaInAcres": 331035.03,
           "averageRecipientCount": 1194,
+          "paymentInPercentageNationwide": 0.1,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.5,
-      "totalPaymentInDollars": 176411057.53
+      ]
     },
     {
       "state": "NM",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.39,
+      "subtitlePaymentInDollars": 136648026.72,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 24616170.74,
           "averageAreaInAcres": 88452.49,
           "averageRecipientCount": 193,
+          "paymentInPercentageNationwide": 0.14,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1248,20 +1348,23 @@
           "programPaymentInDollars": 112031855.98,
           "averageAreaInAcres": 820777.54,
           "averageRecipientCount": 1386,
+          "paymentInPercentageNationwide": 0.64,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.39,
-      "totalPaymentInDollars": 136648026.72
+      ]
     },
     {
       "state": "AZ",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.35,
+      "subtitlePaymentInDollars": 124402492.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 414618.0,
           "averageAreaInAcres": 6030.27,
           "averageRecipientCount": 13,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1286,20 +1389,23 @@
           "programPaymentInDollars": 123987874.89,
           "averageAreaInAcres": 302123.03,
           "averageRecipientCount": 408,
+          "paymentInPercentageNationwide": 0.71,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.35,
-      "totalPaymentInDollars": 124402492.89
+      ]
     },
     {
       "state": "PA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.32,
+      "subtitlePaymentInDollars": 112004189.25,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 98009862.6,
           "averageAreaInAcres": 885071.31,
           "averageRecipientCount": 3705,
+          "paymentInPercentageNationwide": 0.55,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1324,20 +1430,23 @@
           "programPaymentInDollars": 13994326.65,
           "averageAreaInAcres": 229697.72,
           "averageRecipientCount": 1747,
+          "paymentInPercentageNationwide": 0.08,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.32,
-      "totalPaymentInDollars": 112004189.25
+      ]
     },
     {
       "state": "MD",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.26,
+      "subtitlePaymentInDollars": 91149561.52,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 66218913.84,
           "averageAreaInAcres": 760753.38,
           "averageRecipientCount": 1565,
+          "paymentInPercentageNationwide": 0.37,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1362,20 +1471,23 @@
           "programPaymentInDollars": 24930647.68,
           "averageAreaInAcres": 236493.23,
           "averageRecipientCount": 1332,
+          "paymentInPercentageNationwide": 0.14,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.26,
-      "totalPaymentInDollars": 91149561.52
+      ]
     },
     {
       "state": "UT",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.13,
+      "subtitlePaymentInDollars": 46879144.59,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 10477918.0,
           "averageAreaInAcres": 42182.07,
           "averageRecipientCount": 400,
+          "paymentInPercentageNationwide": 0.06,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1400,20 +1512,23 @@
           "programPaymentInDollars": 36401226.59,
           "averageAreaInAcres": 328528.6,
           "averageRecipientCount": 1256,
+          "paymentInPercentageNationwide": 0.21,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.13,
-      "totalPaymentInDollars": 46879144.59
+      ]
     },
     {
       "state": "WY",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.13,
+      "subtitlePaymentInDollars": 44350663.27,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 8367151.08,
           "averageAreaInAcres": 96835.19,
           "averageRecipientCount": 338,
+          "paymentInPercentageNationwide": 0.05,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1438,20 +1553,23 @@
           "programPaymentInDollars": 35983512.19,
           "averageAreaInAcres": 390650.74,
           "averageRecipientCount": 1197,
+          "paymentInPercentageNationwide": 0.21,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.13,
-      "totalPaymentInDollars": 44350663.27
+      ]
     },
     {
       "state": "DE",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.1,
+      "subtitlePaymentInDollars": 34724920.18,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 25207990.15,
           "averageAreaInAcres": 259502.57,
           "averageRecipientCount": 412,
+          "paymentInPercentageNationwide": 0.14,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1476,20 +1594,23 @@
           "programPaymentInDollars": 9516930.03,
           "averageAreaInAcres": 97567.8,
           "averageRecipientCount": 431,
+          "paymentInPercentageNationwide": 0.05,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.1,
-      "totalPaymentInDollars": 34724920.18
+      ]
     },
     {
       "state": "NJ",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.04,
+      "subtitlePaymentInDollars": 14528512.91,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 12967056.91,
           "averageAreaInAcres": 131710.2,
           "averageRecipientCount": 335,
+          "paymentInPercentageNationwide": 0.07,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1514,20 +1635,23 @@
           "programPaymentInDollars": 1561456.0,
           "averageAreaInAcres": 21264.67,
           "averageRecipientCount": 159,
+          "paymentInPercentageNationwide": 0.01,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.04,
-      "totalPaymentInDollars": 14528512.91
+      ]
     },
     {
       "state": "VT",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.03,
+      "subtitlePaymentInDollars": 9808698.78,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 8646289.78,
           "averageAreaInAcres": 57423.88,
           "averageRecipientCount": 294,
+          "paymentInPercentageNationwide": 0.05,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1552,20 +1676,23 @@
           "programPaymentInDollars": 1162409.0,
           "averageAreaInAcres": 30023.84,
           "averageRecipientCount": 110,
+          "paymentInPercentageNationwide": 0.01,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.03,
-      "totalPaymentInDollars": 9808698.78
+      ]
     },
     {
       "state": "ME",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.02,
+      "subtitlePaymentInDollars": 8275537.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 7121102.0,
           "averageAreaInAcres": 51968.07,
           "averageRecipientCount": 274,
+          "paymentInPercentageNationwide": 0.04,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1590,20 +1717,23 @@
           "programPaymentInDollars": 1154435.0,
           "averageAreaInAcres": 26280.43,
           "averageRecipientCount": 101,
+          "paymentInPercentageNationwide": 0.01,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.02,
-      "totalPaymentInDollars": 8275537.0
+      ]
     },
     {
       "state": "WV",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.02,
+      "subtitlePaymentInDollars": 7932184.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 7351034.89,
           "averageAreaInAcres": 73209.12,
           "averageRecipientCount": 471,
+          "paymentInPercentageNationwide": 0.04,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1628,20 +1758,23 @@
           "programPaymentInDollars": 581150.0,
           "averageAreaInAcres": 8139.91,
           "averageRecipientCount": 130,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.02,
-      "totalPaymentInDollars": 7932184.89
+      ]
     },
     {
       "state": "CT",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.01,
+      "subtitlePaymentInDollars": 2342670.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1836865.0,
           "averageAreaInAcres": 14451.84,
           "averageRecipientCount": 49,
+          "paymentInPercentageNationwide": 0.01,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1666,20 +1799,23 @@
           "programPaymentInDollars": 505805.0,
           "averageAreaInAcres": 7581.12,
           "averageRecipientCount": 50,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.01,
-      "totalPaymentInDollars": 2342670.0
+      ]
     },
     {
       "state": "MA",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.01,
+      "subtitlePaymentInDollars": 3003965.69,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 2790137.69,
           "averageAreaInAcres": 11173.5,
           "averageRecipientCount": 111,
+          "paymentInPercentageNationwide": 0.02,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1704,20 +1840,23 @@
           "programPaymentInDollars": 213828.0,
           "averageAreaInAcres": 5491.41,
           "averageRecipientCount": 31,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.01,
-      "totalPaymentInDollars": 3003965.69
+      ]
     },
     {
       "state": "NV",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.01,
+      "subtitlePaymentInDollars": 4663941.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 604647.0,
           "averageAreaInAcres": 7602.18,
           "averageRecipientCount": 31,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1742,20 +1881,23 @@
           "programPaymentInDollars": 4059294.0,
           "averageAreaInAcres": 34806.36,
           "averageRecipientCount": 89,
+          "paymentInPercentageNationwide": 0.02,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.01,
-      "totalPaymentInDollars": 4663941.0
+      ]
     },
     {
       "state": "NH",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.01,
+      "subtitlePaymentInDollars": 2179925.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 1936199.0,
           "averageAreaInAcres": 9102.65,
           "averageRecipientCount": 68,
+          "paymentInPercentageNationwide": 0.01,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1780,20 +1922,23 @@
           "programPaymentInDollars": 243726.0,
           "averageAreaInAcres": 3312.23,
           "averageRecipientCount": 24,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.01,
-      "totalPaymentInDollars": 2179925.0
+      ]
     },
     {
       "state": "AK",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.0,
+      "subtitlePaymentInDollars": 612830.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 20502.0,
           "averageAreaInAcres": 0.0,
           "averageRecipientCount": 1,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage Individual Coverage (ARC-IC)",
@@ -1818,20 +1963,23 @@
           "programPaymentInDollars": 592328.0,
           "averageAreaInAcres": 13791.11,
           "averageRecipientCount": 13,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.0,
-      "totalPaymentInDollars": 612830.0
+      ]
     },
     {
       "state": "HI",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.0,
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 0.0,
           "averageAreaInAcres": 0.0,
           "averageRecipientCount": 0,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1856,20 +2004,23 @@
           "programPaymentInDollars": 0.0,
           "averageAreaInAcres": 0.0,
           "averageRecipientCount": 0,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.0,
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "state": "RI",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "paymentInPercentageNationwide": 0.0,
+      "subtitlePaymentInDollars": 282686.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
           "programPaymentInDollars": 107830.0,
           "averageAreaInAcres": 673.76,
           "averageRecipientCount": 10,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": [
             {
               "subProgramName": "Agriculture Risk Coverage County Option (ARC-CO)",
@@ -1894,11 +2045,10 @@
           "programPaymentInDollars": 174856.0,
           "averageAreaInAcres": 248.42,
           "averageRecipientCount": 8,
+          "paymentInPercentageNationwide": 0.0,
           "subPrograms": []
         }
-      ],
-      "totalPaymentInPercentageNationwide": 0.0,
-      "totalPaymentInDollars": 282686.0
+      ]
     }
   ]
 }

@@ -354,6 +354,8 @@ class DataParser:
 
                 new_data_entry = {
                     "years": str(year),
+                    "subtitleName": "Total Commodities Programs, Subtitle A",
+                    "subtitlePaymentInDollars": 0.0,
                     "programs": [
                         {
                             "programName": "Agriculture Risk Coverage (ARC)",
@@ -497,7 +499,7 @@ class DataParser:
                             total_payment_in_dollars += subprogram["paymentInDollars"]
                             total_payment_in_dollars_program += subprogram["paymentInDollars"]
                         program["programPaymentInDollars"] = round(total_payment_in_dollars_program, 2)
-                    year_data["totalPaymentInDollars"] = round(total_payment_in_dollars, 2)
+                    year_data["subtitlePaymentInDollars"] = round(total_payment_in_dollars, 2)
 
             # Add zero entries
             for state_name in self.processed_data_dict:
@@ -546,6 +548,13 @@ class DataParser:
                 ["state", "program_description", "year"]
             )["recipient_count"].sum().groupby(["state", "program_description"]).mean()
 
+            arc_nationwide = total_payments_by_program_at_national_level.loc[
+                                 "Agriculture Risk Coverage County Option (ARC-CO)", "payments"] + \
+                             total_payments_by_program_at_national_level.loc[
+                                 "Agriculture Risk Coverage Individual Coverage (ARC-IC)", "payments"]
+            plc_nationwide = \
+                total_payments_by_program_at_national_level.loc["Price Loss Coverage (PLC)", "payments"]
+
             self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)] = []
 
             for state in self.us_state_abbreviations:
@@ -554,12 +563,18 @@ class DataParser:
 
                 new_data_entry = {
                     "state": state,
+                    "subtitleName": "Total Commodities Programs, Subtitle A",
+                    "paymentInPercentageNationwide": round(
+                        (yearly_state_payment / total_payments_at_national_level) * 100, 2),
+                    "subtitlePaymentInDollars": round(yearly_state_payment, 2),
                     "programs": [
                         {
                             "programName": "Agriculture Risk Coverage (ARC)",
                             "programPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
+                            "paymentInPercentageNationwide": round(
+                                (yearly_state_payment / total_payments_at_national_level) * 100, 2),
                             "subPrograms": [
                             ],
                         },
@@ -568,9 +583,10 @@ class DataParser:
                             "programPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
+                            "paymentInPercentageNationwide": 0.0,
                             "subPrograms": [
                             ]
-                        },
+                        }
                         # {
                         #     "programName": "Dairy",
                         #     "programPaymentInDollars": 0.0,
@@ -588,9 +604,6 @@ class DataParser:
                         #     ]
                         # }
                     ],
-                    "totalPaymentInPercentageNationwide": round(
-                        (yearly_state_payment / total_payments_at_national_level) * 100, 2),
-                    "totalPaymentInDollars": round(yearly_state_payment, 2)
                 }
 
                 program_payments_series = total_payments_by_program_by_state[state_name]
@@ -645,6 +658,16 @@ class DataParser:
                             program["averageAreaInAcres"] += average_base_acres
                             program["averageRecipientCount"] += average_recipient_count
 
+                            if program_subprogram_name == "Agriculture Risk Coverage (ARC)":
+                                nationwide_total = arc_nationwide
+                            elif program_subprogram_name == "Price Loss Coverage (PLC)":
+                                nationwide_total = plc_nationwide
+                            else:
+                                nationwide_total = 0.0
+
+                            program["paymentInPercentageNationwide"] = \
+                                round(program["programPaymentInDollars"] / nationwide_total * 100, 2)
+
                 self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
                     new_data_entry)
 
@@ -670,7 +693,7 @@ class DataParser:
             # Sort states by decreasing order of totalPaymentInPercentageNationwide
             for year in self.state_distribution_data_dict:
                 self.state_distribution_data_dict[year] = sorted(self.state_distribution_data_dict[year],
-                                                                 key=lambda x: x["totalPaymentInPercentageNationwide"],
+                                                                 key=lambda x: x["paymentInPercentageNationwide"],
                                                                  reverse=True)
 
             # Write processed_data_dict as JSON data
@@ -681,6 +704,8 @@ class DataParser:
         # 3. Generate practice categories data for the donut chart
         if True:
             self.program_data_dict = {
+                "subtitleName": "Total Commodities Programs, Subtitle A",
+                "subtitlePaymentInDollars": round(total_payments_at_national_level, 2),
                 "programs": [
                     {
                         "programName": "Agriculture Risk Coverage (ARC)",
@@ -722,14 +747,14 @@ class DataParser:
                                 total_payments_by_program_at_national_level["payments"][program_subprogram_name], 2)
                             entry_dict = {
                                 "subProgramName": program_subprogram_name,
-                                "totalPaymentInDollars": subprogram_payment,
+                                "paymentInDollars": subprogram_payment,
                             }
                             total_for_program[program["programName"]] += subprogram_payment
                         # When subprogram is not existing in the actual data
                         else:
                             entry_dict = {
                                 "subProgramName": program_subprogram_name,
-                                "totalPaymentInDollars": 0.0,
+                                "paymentInDollars": 0.0,
                             }
                         program["subPrograms"].append(entry_dict)
                 else:
@@ -741,13 +766,13 @@ class DataParser:
 
             for program in self.program_data_dict["programs"]:
                 for subprogram in program["subPrograms"]:
-                    subprogram["totalPaymentInPercentage"] = round(
-                        subprogram["totalPaymentInDollars"] / total_for_program[
+                    subprogram["paymentInPercentage"] = round(
+                        subprogram["paymentInDollars"] / total_for_program[
                             program["programName"]] * 100, 2)
-                program["totalPaymentInDollars"] = round(total_for_program[program["programName"]], 2)
-                program["totalPaymentInPercentage"] = round(
+                program["paymentInDollars"] = round(total_for_program[program["programName"]], 2)
+                program["paymentInPercentage"] = round(
                     total_for_program[program["programName"]] / total_payments_at_national_level * 100, 2)
-                program["subPrograms"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
+                program["subPrograms"].sort(key=lambda x: x["paymentInPercentage"], reverse=True)
 
             # Write processed_data_dict as JSON data
             with open(os.path.join(self.data_folder, "commodities_subprograms_data.json"), "w") as output_json_file:
@@ -1770,7 +1795,7 @@ class DataParser:
         grassland_by_rental_1k = \
             program_data["Grassland - ANNUAL RENTAL PAYMENTS ($1000)"].sum()
 
-        grassland_by_rental_acre= \
+        grassland_by_rental_acre = \
             program_data["Grassland - ANNUAL RENTAL PAYMENTS ($/ACRE)"].sum()
 
         self.program_data_dict = {

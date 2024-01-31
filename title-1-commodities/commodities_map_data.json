@@ -2,6 +2,8 @@
   "AL": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5337555.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -22,11 +24,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5337555.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 13097331.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -47,11 +50,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 13097331.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 21449224.64,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -72,11 +76,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 21449224.64
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2420585.14,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -97,11 +102,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2420585.14
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1316871.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -122,11 +128,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1316871.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3667063.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -147,11 +154,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3667063.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 663279.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -172,11 +180,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 663279.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 10262.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -197,8 +206,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 10262.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -223,12 +231,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 47962170.78
+      "subtitlePaymentInDollars": 47962170.78
     }
   ],
   "AK": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -249,11 +259,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1694.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -274,11 +285,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1694.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2712.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -299,11 +311,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2712.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -324,11 +337,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8314.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -349,11 +363,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8314.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -374,11 +389,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7782.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -399,11 +415,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7782.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -424,8 +441,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -450,12 +466,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 20502.0
+      "subtitlePaymentInDollars": 20502.0
     }
   ],
   "AZ": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 26383.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -476,11 +494,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 26383.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 138958.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -501,11 +520,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 138958.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 114992.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -526,11 +546,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 114992.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 15208.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -551,11 +572,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 15208.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 46752.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -576,11 +598,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 46752.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 59921.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -601,11 +624,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 59921.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 12396.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -626,11 +650,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 12396.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -651,8 +676,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -677,12 +701,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 414618.0
+      "subtitlePaymentInDollars": 414618.0
     }
   ],
   "AR": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 17668389.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -703,11 +729,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 17668389.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 78415429.74,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -728,11 +755,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 78415429.74
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 80330651.28,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -753,11 +781,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 80330651.28
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 20563701.26,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -778,11 +807,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 20563701.26
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 12073492.76,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -803,11 +833,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 12073492.76
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 19249586.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -828,11 +859,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 19249586.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2416264.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -853,11 +885,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2416264.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 19045.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -878,8 +911,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 19045.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -904,12 +936,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 230736559.04
+      "subtitlePaymentInDollars": 230736559.04
     }
   ],
   "CA": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 11887247.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -930,11 +964,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 11887247.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 14518841.23,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -955,11 +990,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 14518841.23
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 32202777.37,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -980,11 +1016,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 32202777.37
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 6778882.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1005,11 +1042,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 6778882.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2849493.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1030,11 +1068,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2849493.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2794353.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1055,11 +1094,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2794353.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 153939.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1080,11 +1120,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 153939.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 105912.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1105,8 +1146,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 105912.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -1131,12 +1171,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 71291444.6
+      "subtitlePaymentInDollars": 71291444.6
     }
   ],
   "CO": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 57258024.3,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1157,11 +1199,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 57258024.3
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 62709810.98,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1182,11 +1225,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 62709810.98
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 47014895.39,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1207,11 +1251,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 47014895.39
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 9792163.7,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1232,11 +1277,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 9792163.7
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 18043013.08,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1257,11 +1303,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 18043013.08
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 6108638.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1282,11 +1329,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 6108638.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4530621.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1307,11 +1355,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4530621.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2114705.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1332,8 +1381,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2114705.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -1358,12 +1406,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 207571871.45
+      "subtitlePaymentInDollars": 207571871.45
     }
   ],
   "CT": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 666241.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1384,11 +1434,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 666241.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 619117.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1409,11 +1460,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 619117.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 417494.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1434,11 +1486,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 417494.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 29148.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1459,11 +1512,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 29148.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 95618.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1484,11 +1538,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 95618.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1509,11 +1564,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 9247.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1534,11 +1590,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 9247.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1559,8 +1616,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -1585,12 +1641,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1836865.0
+      "subtitlePaymentInDollars": 1836865.0
     }
   ],
   "DE": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4997.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1611,11 +1669,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4997.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7437073.32,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1636,11 +1695,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7437073.32
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 10200953.83,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1661,11 +1721,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 10200953.83
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 52115.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1686,11 +1747,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 52115.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5942725.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1711,11 +1773,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5942725.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1569384.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1736,11 +1799,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1569384.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 742.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1761,11 +1825,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 742.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1786,8 +1851,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -1812,12 +1876,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 25207990.15
+      "subtitlePaymentInDollars": 25207990.15
     }
   ],
   "FL": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1222869.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1838,11 +1904,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1222869.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1878096.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1863,11 +1930,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1878096.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1971142.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1888,11 +1956,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1971142.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 553825.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1913,11 +1982,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 553825.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 567941.26,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1938,11 +2008,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 567941.26
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 428590.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1963,11 +2034,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 428590.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 184408.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -1988,11 +2060,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 184408.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 94958.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2013,8 +2086,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 94958.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -2039,12 +2111,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 6901829.26
+      "subtitlePaymentInDollars": 6901829.26
     }
   ],
   "GA": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 24900324.66,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2065,11 +2139,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 24900324.66
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 31095399.3,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2090,11 +2165,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 31095399.3
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 35981623.4,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2115,11 +2191,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 35981623.4
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8765360.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2140,11 +2217,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8765360.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 15665010.08,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2165,11 +2243,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 15665010.08
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3247125.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2190,11 +2269,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3247125.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 530297.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2215,11 +2295,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 530297.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 22630.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2240,8 +2321,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 22630.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -2266,12 +2346,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 120207769.44
+      "subtitlePaymentInDollars": 120207769.44
     }
   ],
   "HI": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2292,11 +2374,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2317,11 +2400,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2342,11 +2426,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2367,11 +2452,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2392,11 +2478,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2417,11 +2504,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2442,11 +2530,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2467,8 +2556,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -2493,12 +2581,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 0.0
+      "subtitlePaymentInDollars": 0.0
     }
   ],
   "ID": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 25019015.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2519,11 +2609,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 25019015.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 29194913.65,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2544,11 +2635,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 29194913.65
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 24774130.29,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2569,11 +2661,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 24774130.29
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 20871739.16,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2594,11 +2687,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 20871739.16
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2684604.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2619,11 +2713,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2684604.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 963429.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2644,11 +2739,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 963429.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 49571.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2669,11 +2765,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 49571.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1568385.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2694,8 +2791,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1568385.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -2720,12 +2816,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 105125787.1
+      "subtitlePaymentInDollars": 105125787.1
     }
   ],
   "IL": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 242318033.8,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2746,11 +2844,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 242318033.8
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 921593428.5,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2771,11 +2870,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 921593428.5
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 353505298.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2796,11 +2896,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 353505298.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 39829528.62,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2821,11 +2922,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 39829528.62
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5118690.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2846,11 +2948,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5118690.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 213134215.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2871,11 +2974,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 213134215.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3267863.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2896,11 +3000,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3267863.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 277293.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2921,8 +3026,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 277293.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -2947,12 +3051,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1779044349.92
+      "subtitlePaymentInDollars": 1779044349.92
     }
   ],
   "IN": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 157730239.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2973,11 +3079,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 157730239.9
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 537732447.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -2998,11 +3105,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 537732447.9
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 284727250.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3023,11 +3131,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 284727250.9
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 49101998.27,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3048,11 +3157,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 49101998.27
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3857596.78,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3073,11 +3183,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3857596.78
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 122071088.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3098,11 +3209,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 122071088.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2066621.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3123,11 +3235,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2066621.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 170651.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3148,8 +3261,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 170651.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -3174,12 +3286,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1157457893.75
+      "subtitlePaymentInDollars": 1157457893.75
     }
   ],
   "IA": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 937321766.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3200,11 +3314,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 937321766.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 660804696.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3225,11 +3340,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 660804696.9
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 215541505.8,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3250,11 +3366,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 215541505.8
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 30305267.22,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3275,11 +3392,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 30305267.22
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 38908261.25,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3300,11 +3418,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 38908261.25
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 62419951.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3325,11 +3444,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 62419951.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8604368.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3350,11 +3470,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8604368.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 52895.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3375,8 +3496,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 52895.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -3401,12 +3521,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1953958711.17
+      "subtitlePaymentInDollars": 1953958711.17
     }
   ],
   "KS": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 312710506.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3427,11 +3549,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 312710506.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 257130565.6,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3452,11 +3575,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 257130565.6
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 217972877.6,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3477,11 +3601,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 217972877.6
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 147092895.6,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3502,11 +3627,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 147092895.6
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 124516433.6,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3527,11 +3653,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 124516433.6
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 32430067.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3552,11 +3679,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 32430067.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7662993.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3577,11 +3705,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7662993.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2047346.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3602,8 +3731,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2047346.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -3628,12 +3756,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1101563684.4
+      "subtitlePaymentInDollars": 1101563684.4
     }
   ],
   "KY": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 55068756.68,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3654,11 +3784,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 55068756.68
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 56512348.75,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3679,11 +3810,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 56512348.75
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 83715971.88,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3704,11 +3836,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 83715971.88
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 9084772.45,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3729,11 +3862,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 9084772.45
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7440983.24,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3754,11 +3888,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7440983.24
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 21220154.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3779,11 +3914,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 21220154.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 641260.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3804,11 +3940,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 641260.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 24775.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3829,8 +3966,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 24775.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -3855,12 +3991,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 233709022.0
+      "subtitlePaymentInDollars": 233709022.0
     }
   ],
   "LA": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 15139834.28,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3881,11 +4019,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 15139834.28
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 76209312.38,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3906,11 +4045,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 76209312.38
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 58596638.69,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3931,11 +4071,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 58596638.69
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 6981376.58,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3956,11 +4097,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 6981376.58
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8919642.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -3981,11 +4123,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8919642.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 13108470.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4006,11 +4149,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 13108470.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 800628.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4031,11 +4175,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 800628.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 137893.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4056,8 +4201,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 137893.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -4082,12 +4226,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 179893794.93
+      "subtitlePaymentInDollars": 179893794.93
     }
   ],
   "ME": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1668776.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4108,11 +4254,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1668776.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1937774.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4133,11 +4280,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1937774.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1753381.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4158,11 +4306,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1753381.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1423192.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4183,11 +4332,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1423192.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 25653.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4208,11 +4358,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 25653.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 17288.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4233,11 +4384,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 17288.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 294903.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4258,11 +4410,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 294903.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 135.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4283,8 +4436,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 135.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -4309,12 +4461,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 7121102.0
+      "subtitlePaymentInDollars": 7121102.0
     }
   ],
   "MD": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2173745.66,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4335,11 +4489,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2173745.66
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 18236594.94,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4360,11 +4515,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 18236594.94
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 27630637.64,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4385,11 +4541,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 27630637.64
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1752769.13,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4410,11 +4567,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1752769.13
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8453296.47,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4435,11 +4593,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8453296.47
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7862795.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4460,11 +4619,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7862795.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 109075.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4485,11 +4645,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 109075.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4510,8 +4671,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -4536,12 +4696,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 66218913.84
+      "subtitlePaymentInDollars": 66218913.84
     }
   ],
   "MA": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 924873.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4562,11 +4724,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 924873.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 896907.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4587,11 +4750,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 896907.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 820879.69,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4612,11 +4776,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 820879.69
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 146512.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4637,11 +4802,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 146512.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 966.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4662,11 +4828,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 966.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4687,11 +4854,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4712,11 +4880,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4737,8 +4906,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -4763,12 +4931,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 2790137.69
+      "subtitlePaymentInDollars": 2790137.69
     }
   ],
   "MI": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 154718231.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4789,11 +4959,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 154718231.9
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 152218230.2,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4814,11 +4985,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 152218230.2
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 148812008.7,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4839,11 +5011,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 148812008.7
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 60262041.83,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4864,11 +5037,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 60262041.83
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 12538384.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4889,11 +5063,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 12538384.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 45514291.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4914,11 +5089,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 45514291.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1694487.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4939,11 +5115,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1694487.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 27028.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -4964,8 +5141,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 27028.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -4990,12 +5166,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 575784702.63
+      "subtitlePaymentInDollars": 575784702.63
     }
   ],
   "MN": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 698284786.3,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5016,11 +5194,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 698284786.3
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 397104477.55,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5041,11 +5220,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 397104477.55
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 205957956.5,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5066,11 +5246,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 205957956.5
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 30079406.8,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5091,11 +5272,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 30079406.8
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 53146912.59,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5116,11 +5298,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 53146912.59
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 225771197.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5141,11 +5324,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 225771197.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4277544.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5166,11 +5350,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4277544.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8224393.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5191,8 +5376,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8224393.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -5217,12 +5401,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1622846673.74
+      "subtitlePaymentInDollars": 1622846673.74
     }
   ],
   "MS": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4126851.51,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5243,11 +5429,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4126851.51
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 96291017.91,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5268,11 +5455,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 96291017.91
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 65816569.31,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5293,11 +5481,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 65816569.31
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5626907.63,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5318,11 +5507,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5626907.63
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5807996.52,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5343,11 +5533,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5807996.52
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 16038831.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5368,11 +5559,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 16038831.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 595297.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5393,11 +5585,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 595297.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 140686.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5418,8 +5611,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 140686.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -5444,12 +5636,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 194444156.88
+      "subtitlePaymentInDollars": 194444156.88
     }
   ],
   "MO": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8344906.48,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5470,11 +5664,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8344906.48
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 177708870.07,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5495,11 +5690,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 177708870.07
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 85044243.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5520,11 +5716,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 85044243.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7747610.45,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5545,11 +5742,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7747610.45
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 62742595.78,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5570,11 +5768,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 62742595.78
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 49610125.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5595,11 +5794,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 49610125.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2930903.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5620,11 +5820,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2930903.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 395332.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5645,8 +5846,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 395332.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -5671,12 +5871,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 394524585.78
+      "subtitlePaymentInDollars": 394524585.78
     }
   ],
   "MT": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 11777675.19,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5697,11 +5899,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 11777675.19
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 30569062.31,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5722,11 +5925,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 30569062.31
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 29402201.63,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5747,11 +5951,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 29402201.63
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 32442326.59,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5772,11 +5977,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 32442326.59
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 13432474.97,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5797,11 +6003,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 13432474.97
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1852250.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5822,11 +6029,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1852250.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 530715.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5847,11 +6055,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 530715.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 9283661.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5872,8 +6081,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 9283661.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -5898,12 +6106,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 129290366.69
+      "subtitlePaymentInDollars": 129290366.69
     }
   ],
   "NE": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 650769991.2,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5924,11 +6134,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 650769991.2
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 647966216.79,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5949,11 +6160,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 647966216.79
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 570964373.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5974,11 +6186,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 570964373.9
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 67831292.5,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -5999,11 +6212,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 67831292.5
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 16459012.54,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6024,11 +6238,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 16459012.54
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 15570495.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6049,11 +6264,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 15570495.9
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3244802.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6074,11 +6290,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3244802.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1696381.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6099,8 +6316,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1696381.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -6125,12 +6341,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1974502565.83
+      "subtitlePaymentInDollars": 1974502565.83
     }
   ],
   "NV": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 93338.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6151,11 +6369,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 93338.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 106124.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6176,11 +6395,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 106124.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 298517.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6201,11 +6421,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 298517.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 54716.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6226,11 +6447,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 54716.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 51952.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6251,11 +6473,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 51952.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6276,11 +6499,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6301,11 +6525,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6326,8 +6551,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -6352,12 +6576,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 604647.0
+      "subtitlePaymentInDollars": 604647.0
     }
   ],
   "NH": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 603722.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6378,11 +6604,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 603722.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 509144.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6403,11 +6630,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 509144.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 535543.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6428,11 +6656,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 535543.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 197487.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6453,11 +6682,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 197487.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 30659.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6478,11 +6708,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 30659.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1101.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6503,11 +6734,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1101.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 58543.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6528,11 +6760,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 58543.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6553,8 +6786,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -6579,12 +6811,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1936199.0
+      "subtitlePaymentInDollars": 1936199.0
     }
   ],
   "NJ": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1283577.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6605,11 +6839,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1283577.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4593825.54,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6630,11 +6865,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4593825.54
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4550344.22,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6655,11 +6891,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4550344.22
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 80079.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6680,11 +6917,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 80079.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1199078.78,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6705,11 +6943,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1199078.78
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1259443.37,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6730,11 +6969,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1259443.37
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 686.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6755,11 +6995,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 686.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 23.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6780,8 +7021,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 23.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -6806,12 +7046,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 12967056.91
+      "subtitlePaymentInDollars": 12967056.91
     }
   ],
   "NM": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5659813.12,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6832,11 +7074,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5659813.12
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 6683954.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6857,11 +7100,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 6683954.89
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5268067.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6882,11 +7126,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5268067.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3709052.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6907,11 +7152,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3709052.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 787598.59,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6932,11 +7178,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 787598.59
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1121652.14,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6957,11 +7204,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1121652.14
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 981632.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -6982,11 +7230,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 981632.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 404401.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7007,8 +7256,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 404401.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -7033,12 +7281,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 24616170.74
+      "subtitlePaymentInDollars": 24616170.74
     }
   ],
   "NY": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 47597499.27,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7059,11 +7309,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 47597499.27
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 56263469.95,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7084,11 +7335,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 56263469.95
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 45951719.81,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7109,11 +7361,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 45951719.81
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 6561921.14,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7134,11 +7387,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 6561921.14
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 761121.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7159,11 +7413,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 761121.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2163327.25,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7184,11 +7439,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2163327.25
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 172486.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7209,11 +7465,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 172486.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5994.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7234,8 +7491,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5994.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -7260,12 +7516,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 159477538.42
+      "subtitlePaymentInDollars": 159477538.42
     }
   ],
   "NC": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 17929689.17,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7286,11 +7544,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 17929689.17
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 86440967.87,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7311,11 +7570,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 86440967.87
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 62907968.74,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7336,11 +7596,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 62907968.74
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 10072252.76,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7361,11 +7622,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 10072252.76
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 28502117.91,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7386,11 +7648,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 28502117.91
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 32411177.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7411,11 +7674,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 32411177.9
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4857977.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7436,11 +7700,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4857977.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 69422.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7461,8 +7726,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 69422.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -7487,12 +7751,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 243191573.35
+      "subtitlePaymentInDollars": 243191573.35
     }
   ],
   "ND": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 146280478.1,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7513,11 +7779,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 146280478.1
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 336081381.68,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7538,11 +7805,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 336081381.68
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 190209432.2,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7563,11 +7831,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 190209432.2
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 153757435.8,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7588,11 +7857,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 153757435.8
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 28004245.58,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7613,11 +7883,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 28004245.58
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 85057364.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7638,11 +7909,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 85057364.9
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 10822343.87,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7663,11 +7935,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 10822343.87
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 40604733.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7688,8 +7961,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 40604733.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -7714,12 +7986,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 990817415.13
+      "subtitlePaymentInDollars": 990817415.13
     }
   ],
   "OH": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 244921192.4,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7740,11 +8014,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 244921192.4
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 390145847.8,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7765,11 +8040,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 390145847.8
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 270810421.35,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7790,11 +8066,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 270810421.35
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 57130662.64,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7815,11 +8092,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 57130662.64
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2793438.54,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7840,11 +8118,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2793438.54
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 95439954.93,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7865,11 +8144,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 95439954.93
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4049673.86,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7890,11 +8170,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4049673.86
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 24762.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7915,8 +8196,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 24762.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -7941,12 +8221,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1065315953.52
+      "subtitlePaymentInDollars": 1065315953.52
     }
   ],
   "OK": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 65896604.26,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7967,11 +8249,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 65896604.26
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 55823577.2,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -7992,11 +8275,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 55823577.2
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 34340010.85,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8017,11 +8301,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 34340010.85
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 26310653.2,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8042,11 +8327,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 26310653.2
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 51582137.75,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8067,11 +8353,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 51582137.75
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5490736.31,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8092,11 +8379,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5490736.31
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2249924.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8117,11 +8405,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2249924.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1205025.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8142,8 +8431,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1205025.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -8168,12 +8456,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 242898668.57
+      "subtitlePaymentInDollars": 242898668.57
     }
   ],
   "OR": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 31333222.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8194,11 +8484,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 31333222.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 32779728.69,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8219,11 +8510,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 32779728.69
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 28943887.77,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8244,11 +8536,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 28943887.77
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 9776907.93,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8269,11 +8562,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 9776907.93
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2060202.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8294,11 +8588,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2060202.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 357967.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8319,11 +8614,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 357967.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 680306.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8344,11 +8640,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 680306.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 846356.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8369,8 +8666,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 846356.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -8395,12 +8691,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 106778577.39
+      "subtitlePaymentInDollars": 106778577.39
     }
   ],
   "PA": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 15634793.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8421,11 +8719,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 15634793.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 28684203.17,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8446,11 +8745,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 28684203.17
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 37263962.96,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8471,11 +8771,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 37263962.96
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2824599.24,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8496,11 +8797,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2824599.24
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7216410.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8521,11 +8823,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7216410.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2431458.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8546,11 +8849,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2431458.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3953395.23,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8571,11 +8875,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3953395.23
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1041.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8596,8 +8901,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1041.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -8622,12 +8926,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 98009862.6
+      "subtitlePaymentInDollars": 98009862.6
     }
   ],
   "RI": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 37119.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8648,11 +8954,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 37119.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 35320.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8673,11 +8980,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 35320.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 23138.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8698,11 +9006,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 23138.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 17.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8723,11 +9032,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 17.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8748,11 +9058,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8773,11 +9084,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 12236.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8798,11 +9110,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 12236.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8823,8 +9136,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -8849,12 +9161,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 107830.0
+      "subtitlePaymentInDollars": 107830.0
     }
   ],
   "SC": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 14032244.24,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8875,11 +9189,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 14032244.24
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 28873156.85,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8900,11 +9215,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 28873156.85
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 13521772.95,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8925,11 +9241,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 13521772.95
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3295471.09,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8950,11 +9267,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3295471.09
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4464624.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -8975,11 +9293,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4464624.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 13308276.09,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9000,11 +9319,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 13308276.09
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 667322.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9025,11 +9345,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 667322.9
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3794.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9050,8 +9371,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3794.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -9076,12 +9396,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 78166662.12
+      "subtitlePaymentInDollars": 78166662.12
     }
   ],
   "SD": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 249328147.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9102,11 +9424,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 249328147.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 214657012.2,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9127,11 +9450,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 214657012.2
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 196418983.3,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9152,11 +9476,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 196418983.3
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 157405641.6,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9177,11 +9502,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 157405641.6
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 41934944.03,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9202,11 +9528,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 41934944.03
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 162746789.94,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9227,11 +9554,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 162746789.94
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5920843.23,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9252,11 +9580,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5920843.23
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 21170322.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9277,8 +9606,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 21170322.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -9303,12 +9631,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 1049582683.3
+      "subtitlePaymentInDollars": 1049582683.3
     }
   ],
   "TN": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7358559.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9329,11 +9659,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7358559.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 40958142.08,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9354,11 +9685,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 40958142.08
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 62507595.82,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9379,11 +9711,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 62507595.82
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8594297.5,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9404,11 +9737,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8594297.5
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7888812.52,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9429,11 +9763,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7888812.52
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 8223169.05,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9454,11 +9789,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 8223169.05
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 583136.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9479,11 +9815,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 583136.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 22839.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9504,8 +9841,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 22839.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -9530,12 +9866,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 136136550.97
+      "subtitlePaymentInDollars": 136136550.97
     }
   ],
   "TX": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 83624598.09,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9556,11 +9894,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 83624598.09
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 103852173.8,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9581,11 +9920,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 103852173.8
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 85812908.84,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9606,11 +9946,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 85812908.84
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 26605116.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9631,11 +9972,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 26605116.89
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 91460886.74,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9656,11 +9998,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 91460886.74
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 10657993.17,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9681,11 +10024,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 10657993.17
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3889054.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9706,11 +10050,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3889054.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 6573771.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9731,8 +10076,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 6573771.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -9757,12 +10101,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 412476502.53
+      "subtitlePaymentInDollars": 412476502.53
     }
   ],
   "UT": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3004526.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9783,11 +10129,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3004526.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3688030.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9808,11 +10155,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3688030.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3466529.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9833,11 +10181,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3466529.0
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 236957.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9858,11 +10207,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 236957.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 47029.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9883,11 +10233,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 47029.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 34825.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9908,11 +10259,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 34825.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 22.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9933,11 +10285,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 22.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -9958,8 +10311,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -9984,12 +10336,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 10477918.0
+      "subtitlePaymentInDollars": 10477918.0
     }
   ],
   "VT": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2873156.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10010,11 +10364,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2873156.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3662052.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10035,11 +10390,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3662052.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 879866.78,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10060,11 +10416,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 879866.78
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1211873.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10085,11 +10442,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1211873.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 17354.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10110,11 +10468,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 17354.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1312.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10135,11 +10494,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1312.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 676.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10160,11 +10520,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 676.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10185,8 +10546,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -10211,12 +10571,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 8646289.78
+      "subtitlePaymentInDollars": 8646289.78
     }
   ],
   "VA": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 11709351.11,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10237,11 +10599,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 11709351.11
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 17146121.37,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10262,11 +10625,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 17146121.37
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 25459889.22,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10287,11 +10651,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 25459889.22
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 10280869.83,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10312,11 +10677,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 10280869.83
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3295648.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10337,11 +10703,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3295648.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 7249297.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10362,11 +10729,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 7249297.89
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4466641.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10387,11 +10755,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4466641.89
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 93303.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10412,8 +10781,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 93303.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -10438,12 +10806,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 79701122.31
+      "subtitlePaymentInDollars": 79701122.31
     }
   ],
   "WA": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 94880847.26,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10464,11 +10834,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 94880847.26
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 98877283.9,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10489,11 +10860,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 98877283.9
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 85083725.4,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10514,11 +10886,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 85083725.4
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 29159931.24,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10539,11 +10912,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 29159931.24
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1359962.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10564,11 +10938,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1359962.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 197486.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10589,11 +10964,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 197486.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 65201.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10614,11 +10990,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 65201.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 5820725.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10639,8 +11016,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 5820725.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -10665,12 +11041,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 315445161.8
+      "subtitlePaymentInDollars": 315445161.8
     }
   ],
   "WV": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1227949.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10691,11 +11069,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1227949.0
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2012879.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10716,11 +11095,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2012879.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2677361.89,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10741,11 +11121,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2677361.89
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 400504.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10766,11 +11147,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 400504.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 536492.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10791,11 +11173,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 536492.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 461431.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10816,11 +11199,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 461431.0
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 34418.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10841,11 +11225,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 34418.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 0.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10866,8 +11251,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 0.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -10892,12 +11276,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 7351034.89
+      "subtitlePaymentInDollars": 7351034.89
     }
   ],
   "WI": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 235296197.5,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10918,11 +11304,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 235296197.5
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 201170143.7,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10943,11 +11330,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 201170143.7
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 53839356.48,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10968,11 +11356,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 53839356.48
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 14864262.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -10993,11 +11382,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 14864262.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 4046310.54,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11018,11 +11408,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 4046310.54
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 18303434.08,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11043,11 +11434,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 18303434.08
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 454490.09,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11068,11 +11460,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 454490.09
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 6574.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11093,8 +11486,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 6574.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -11119,12 +11511,14 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 527980768.39
+      "subtitlePaymentInDollars": 527980768.39
     }
   ],
   "WY": [
     {
       "years": "2014",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 2241812.45,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11145,11 +11539,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 2241812.45
+      ]
     },
     {
       "years": "2015",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 1334752.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11170,11 +11565,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 1334752.0
+      ]
     },
     {
       "years": "2016",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 3370956.31,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11195,11 +11591,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 3370956.31
+      ]
     },
     {
       "years": "2017",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 429516.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11220,11 +11617,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 429516.0
+      ]
     },
     {
       "years": "2018",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 78393.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11245,11 +11643,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 78393.0
+      ]
     },
     {
       "years": "2019",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 788801.32,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11270,11 +11669,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 788801.32
+      ]
     },
     {
       "years": "2020",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 67521.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11295,11 +11695,12 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 67521.0
+      ]
     },
     {
       "years": "2021",
+      "subtitleName": "Total Commodities Programs, Subtitle A",
+      "subtitlePaymentInDollars": 55399.0,
       "programs": [
         {
           "programName": "Agriculture Risk Coverage (ARC)",
@@ -11320,8 +11721,7 @@
           "subPrograms": [],
           "programPaymentInDollars": 0
         }
-      ],
-      "totalPaymentInDollars": 55399.0
+      ]
     },
     {
       "years": "2014-2021",
@@ -11346,7 +11746,7 @@
           "programPaymentInDollars": 0
         }
       ],
-      "totalPaymentInDollars": 8367151.08
+      "subtitlePaymentInDollars": 8367151.08
     }
   ]
 }
