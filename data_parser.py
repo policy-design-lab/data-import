@@ -77,8 +77,8 @@ class DataParser:
                 },
                 "zero_subprograms_map": {
                     "subProgramName": None,
-                    "paymentInDollars": 0.0,
-                    "paymentInPercentageWithinState": 0.00,
+                    "totalPaymentInDollars": 0.0,
+                    "totalPaymentInPercentageWithinState": 0.00,
                     "averageAreaInAcres": 0.0,
                     "averageRecipientCount": 0
                 }
@@ -281,7 +281,7 @@ class DataParser:
             entry_dict = self.metadata[self.program_main_category_name]["zero_subprograms_map"].copy()
             entry_dict["subProgramName"] = entry
             if not for_percentage_json:
-                del entry_dict["paymentInPercentageWithinState"]
+                del entry_dict["totalPaymentInPercentageWithinState"]
                 zero_subprogram_entries.append(entry_dict)
             else:
                 zero_subprogram_entries.append(entry_dict)
@@ -355,32 +355,32 @@ class DataParser:
                 new_data_entry = {
                     "years": str(year),
                     "subtitleName": "Total Commodities Programs, Subtitle A",
-                    "subtitlePaymentInDollars": 0.0,
+                    "totalPaymentInDollars": 0.0,
                     "programs": [
                         {
                             "programName": "Agriculture Risk Coverage (ARC)",
                             "subPrograms": [
                             ],
-                            "programPaymentInDollars": 0.0
+                            "totalPaymentInDollars": 0.0
 
                         },
                         {
                             "programName": "Price Loss Coverage (PLC)",
                             "subPrograms": [
                             ],
-                            "programPaymentInDollars": 0.0
+                            "totalPaymentInDollars": 0.0
                         },
                         # {
                         #     "programName": "Dairy",
                         #     "subPrograms": [
                         #     ],
-                        #     "programPaymentInDollars": 0.0
+                        #     "totalPaymentInDollars": 0.0
                         # },
                         # {
                         #     "programName": "Disaster Assistance",
                         #     "subPrograms": [
                         #     ],
-                        #     "programPaymentInDollars": 0.0
+                        #     "totalPaymentInDollars": 0.0
                         # }
                     ]
                 }
@@ -392,11 +392,11 @@ class DataParser:
                     if program["programName"] == program_subprogram_name:
                         if len(self.metadata[self.program_main_category_name]["programs_subprograms_map"][
                                    program_subprogram_name]) == 0:
-                            program["programPaymentInDollars"] = rounded_payment
+                            program["totalPaymentInDollars"] = rounded_payment
                         else:
                             program["subPrograms"].append({
                                 "subProgramName": program_description,
-                                "paymentInDollars": rounded_payment
+                                "totalPaymentInDollars": rounded_payment
                             })
                         break
 
@@ -437,25 +437,25 @@ class DataParser:
                             "programName": "Agriculture Risk Coverage (ARC)",
                             "subPrograms": [
                             ],
-                            "programPaymentInDollars": 0.0
+                            "totalPaymentInDollars": 0.0
                         },
                         {
                             "programName": "Price Loss Coverage (PLC)",
                             "subPrograms": [
                             ],
-                            "programPaymentInDollars": 0.0
+                            "totalPaymentInDollars": 0.0
                         },
                         # {
                         #     "programName": "Dairy",
                         #     "subPrograms": [
                         #     ],
-                        #     "programPaymentInDollars": 0.0
+                        #     "totalPaymentInDollars": 0.0
                         # },
                         # {
                         #     "programName": "Disaster Assistance",
                         #     "subPrograms": [
                         #     ],
-                        #     "programPaymentInDollars": 0.0
+                        #     "totalPaymentInDollars": 0.0
                         # }
                     ]
                 }
@@ -467,11 +467,11 @@ class DataParser:
                     if program["programName"] == program_subprogram_name:
                         if len(self.metadata[self.program_main_category_name]["programs_subprograms_map"][
                                    program_subprogram_name]) == 0:
-                            program["programPaymentInDollars"] = rounded_payment
+                            program["totalPaymentInDollars"] = rounded_payment
                         else:
                             program["subPrograms"].append({
                                 "subProgramName": program_description,
-                                "paymentInDollars": rounded_payment
+                                "totalPaymentInDollars": rounded_payment
                             })
 
                 found = False
@@ -496,10 +496,10 @@ class DataParser:
                     for program in year_data["programs"]:
                         total_payment_in_dollars_program = 0
                         for subprogram in program["subPrograms"]:
-                            total_payment_in_dollars += subprogram["paymentInDollars"]
-                            total_payment_in_dollars_program += subprogram["paymentInDollars"]
-                        program["programPaymentInDollars"] = round(total_payment_in_dollars_program, 2)
-                    year_data["subtitlePaymentInDollars"] = round(total_payment_in_dollars, 2)
+                            total_payment_in_dollars += subprogram["totalPaymentInDollars"]
+                            total_payment_in_dollars_program += subprogram["totalPaymentInDollars"]
+                        program["totalPaymentInDollars"] = round(total_payment_in_dollars_program, 2)
+                    year_data["totalPaymentInDollars"] = round(total_payment_in_dollars, 2)
 
             # Add zero entries
             for state_name in self.processed_data_dict:
@@ -564,32 +564,32 @@ class DataParser:
                 new_data_entry = {
                     "state": state,
                     "subtitleName": "Total Commodities Programs, Subtitle A",
-                    "paymentInPercentageNationwide": round(
+                    "totalPaymentInPercentageNationwide": round(
                         (yearly_state_payment / total_payments_at_national_level) * 100, 2),
-                    "subtitlePaymentInDollars": round(yearly_state_payment, 2),
+                    "totalPaymentInDollars": round(yearly_state_payment, 2),
                     "programs": [
                         {
                             "programName": "Agriculture Risk Coverage (ARC)",
-                            "programPaymentInDollars": 0.0,
+                            "totalPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
-                            "paymentInPercentageNationwide": round(
+                            "totalPaymentInPercentageNationwide": round(
                                 (yearly_state_payment / total_payments_at_national_level) * 100, 2),
                             "subPrograms": [
                             ],
                         },
                         {
                             "programName": "Price Loss Coverage (PLC)",
-                            "programPaymentInDollars": 0.0,
+                            "totalPaymentInDollars": 0.0,
                             "averageAreaInAcres": 0.0,
                             "averageRecipientCount": 0,
-                            "paymentInPercentageNationwide": 0.0,
+                            "totalPaymentInPercentageNationwide": 0.0,
                             "subPrograms": [
                             ]
                         }
                         # {
                         #     "programName": "Dairy",
-                        #     "programPaymentInDollars": 0.0,
+                        #     "totalPaymentInDollars": 0.0,
                         #     "averageAreaInAcres": 0.0,
                         #     "averageRecipientCount": 0,
                         #     "subPrograms": [
@@ -597,7 +597,7 @@ class DataParser:
                         # },
                         # {
                         #     "programName": "Disaster Assistance",
-                        #     "programPaymentInDollars": 0.0,
+                        #     "totalPaymentInDollars": 0.0,
                         #     "averageAreaInAcres": 0.0,
                         #     "averageRecipientCount": 0,
                         #     "subPrograms": [
@@ -648,13 +648,13 @@ class DataParser:
                             else:
                                 program["subPrograms"].append({
                                     "subProgramName": program_description,
-                                    "paymentInDollars": rounded_program_payment,
-                                    "paymentInPercentageNationwide": program_percentage_nationwide,
-                                    "paymentInPercentageWithinState": program_percentage_within_state,
+                                    "totalPaymentInDollars": rounded_program_payment,
+                                    "totalPaymentInPercentageNationwide": program_percentage_nationwide,
+                                    "totalPaymentInPercentageWithinState": program_percentage_within_state,
                                     "averageAreaInAcres": average_base_acres,
                                     "averageRecipientCount": average_recipient_count
                                 })
-                            program["programPaymentInDollars"] += rounded_program_payment
+                            program["totalPaymentInDollars"] += rounded_program_payment
                             program["averageAreaInAcres"] += average_base_acres
                             program["averageRecipientCount"] += average_recipient_count
 
@@ -665,8 +665,8 @@ class DataParser:
                             else:
                                 nationwide_total = 0.0
 
-                            program["paymentInPercentageNationwide"] = \
-                                round(program["programPaymentInDollars"] / nationwide_total * 100, 2)
+                            program["totalPaymentInPercentageNationwide"] = \
+                                round(program["totalPaymentInDollars"] / nationwide_total * 100, 2)
 
                 self.state_distribution_data_dict[str(self.start_year) + "-" + str(self.end_year)].append(
                     new_data_entry)
@@ -675,7 +675,7 @@ class DataParser:
             for state_name in self.state_distribution_data_dict:
                 for year_data in self.state_distribution_data_dict[state_name]:
                     for program in year_data["programs"]:
-                        program["programPaymentInDollars"] = round(program["programPaymentInDollars"], 2)
+                        program["totalPaymentInDollars"] = round(program["totalPaymentInDollars"], 2)
                         program["averageAreaInAcres"] = round(program["averageAreaInAcres"], 2)
 
                         subprograms_list = []
@@ -688,12 +688,12 @@ class DataParser:
 
                         # Sort categories by percentages
                         program["subPrograms"].sort(reverse=True,
-                                                    key=lambda x: x["paymentInPercentageWithinState"])
+                                                    key=lambda x: x["totalPaymentInPercentageWithinState"])
 
             # Sort states by decreasing order of totalPaymentInPercentageNationwide
             for year in self.state_distribution_data_dict:
                 self.state_distribution_data_dict[year] = sorted(self.state_distribution_data_dict[year],
-                                                                 key=lambda x: x["paymentInPercentageNationwide"],
+                                                                 key=lambda x: x["totalPaymentInPercentageNationwide"],
                                                                  reverse=True)
 
             # Write processed_data_dict as JSON data
@@ -705,7 +705,7 @@ class DataParser:
         if True:
             self.program_data_dict = {
                 "subtitleName": "Total Commodities Programs, Subtitle A",
-                "subtitlePaymentInDollars": round(total_payments_at_national_level, 2),
+                "totalPaymentInDollars": round(total_payments_at_national_level, 2),
                 "programs": [
                     {
                         "programName": "Agriculture Risk Coverage (ARC)",
@@ -747,14 +747,14 @@ class DataParser:
                                 total_payments_by_program_at_national_level["payments"][program_subprogram_name], 2)
                             entry_dict = {
                                 "subProgramName": program_subprogram_name,
-                                "paymentInDollars": subprogram_payment,
+                                "totalPaymentInDollars": subprogram_payment,
                             }
                             total_for_program[program["programName"]] += subprogram_payment
                         # When subprogram is not existing in the actual data
                         else:
                             entry_dict = {
                                 "subProgramName": program_subprogram_name,
-                                "paymentInDollars": 0.0,
+                                "totalPaymentInDollars": 0.0,
                             }
                         program["subPrograms"].append(entry_dict)
                 else:
@@ -766,13 +766,13 @@ class DataParser:
 
             for program in self.program_data_dict["programs"]:
                 for subprogram in program["subPrograms"]:
-                    subprogram["paymentInPercentage"] = round(
-                        subprogram["paymentInDollars"] / total_for_program[
+                    subprogram["totalPaymentInPercentage"] = round(
+                        subprogram["totalPaymentInDollars"] / total_for_program[
                             program["programName"]] * 100, 2)
-                program["paymentInDollars"] = round(total_for_program[program["programName"]], 2)
-                program["paymentInPercentage"] = round(
+                program["totalPaymentInDollars"] = round(total_for_program[program["programName"]], 2)
+                program["totalPaymentInPercentage"] = round(
                     total_for_program[program["programName"]] / total_payments_at_national_level * 100, 2)
-                program["subPrograms"].sort(key=lambda x: x["paymentInPercentage"], reverse=True)
+                program["subPrograms"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
 
             # Write processed_data_dict as JSON data
             with open(os.path.join(self.data_folder, "commodities_subprograms_data.json"), "w") as output_json_file:
@@ -1499,8 +1499,8 @@ class DataParser:
                         "totalContracts": int(total_by_contract_by_state[state].item()),
                         "totalFarms": int(total_by_farm_by_state[state].item()),
                         "totalAcre": int(total_by_acre_by_state[state].item()),
-                        "paymentInDollars": int(total_by_rental_1k_by_state[state].item()) * 1000,
-                        "paymentInAcre": round(total_by_rental_acre_by_state[state].item(), 2),
+                        "totalPaymentInDollars": int(total_by_rental_1k_by_state[state].item()) * 1000,
+                        "totalPaymentInAcre": round(total_by_rental_acre_by_state[state].item(), 2),
                         "contractInPercentageNationwide": round(
                             (total_by_contract_by_state[state].item() /
                              total_contract_at_national_level) * 100, 2),
@@ -1510,10 +1510,10 @@ class DataParser:
                         "acreInPercentageNationwide": round(
                             (total_by_acre_by_state[state].item() /
                              total_acre_at_national_level) * 100, 2),
-                        "paymentInPercentageNationwide": round(
+                        "totalPaymentInPercentageNationwide": round(
                             (total_by_rental_1k_by_state[state].item() /
                              total_rental_1k_at_national_level) * 100, 2),
-                        "paymentInAcreInPercentageNationwide": round(
+                        "totalPaymentInAcreInPercentageNationwide": round(
                             (total_by_rental_acre_by_state[state].item() /
                              total_rental_acre_at_national_level) * 100, 2),
                         "subPrograms": []
@@ -1523,8 +1523,8 @@ class DataParser:
                         "totalContracts": int(general_signup_by_contract_by_state[state].item()),
                         "totalFarms": int(general_signup_by_farm_by_state[state].item()),
                         "totalAcre": int(general_signup_by_acre_by_state[state].item()),
-                        "paymentInDollars": int(general_signup_by_rental_1k_by_state[state].item()) * 1000,
-                        "paymentInAcre": round(general_signup_by_rental_acre_by_state[state].item(), 2),
+                        "totalPaymentInDollars": int(general_signup_by_rental_1k_by_state[state].item()) * 1000,
+                        "totalPaymentInAcre": round(general_signup_by_rental_acre_by_state[state].item(), 2),
                         "contractInPercentageNationwide": round(
                             (general_signup_by_contract_by_state[state].item() /
                              total_general_signup_contract_at_national_level) * 100, 2),
@@ -1534,13 +1534,13 @@ class DataParser:
                         "acreInPercentageNationwide": round(
                             (general_signup_by_acre_by_state[state].item() /
                              total_general_signup_acre_at_national_level) * 100, 2),
-                        "paymentInPercentageNationwide": round(
+                        "totalPaymentInPercentageNationwide": round(
                             (general_signup_by_rental_1k_by_state[state].item() /
                              total_general_signup_rental_1k_at_national_level) * 100, 2),
-                        "paymentInAcreInPercentageNationwide": round(
+                        "totalPaymentInAcreInPercentageNationwide": round(
                             (general_signup_by_rental_acre_by_state[state].item() /
                              total_general_signup_rental_acre_at_national_level) * 100, 2),
-                        "paymentInPercentageWithinState": within_state_general_sign_up,
+                        "totalPaymentInPercentageWithinState": within_state_general_sign_up,
                         "subPrograms": []
                     },
                     {
@@ -1548,8 +1548,8 @@ class DataParser:
                         "totalContracts": int(continuous_by_contract_by_state[state].item()),
                         "totalFarms": int(continuous_by_farm_by_state[state].item()),
                         "totalAcre": int(continuous_by_acre_by_state[state].item()),
-                        "paymentInDollars": int(continuous_by_rental_1k_by_state[state].item()) * 1000,
-                        "paymentInAcre": round(continuous_by_rental_acre_by_state[state].item(), 2),
+                        "totalPaymentInDollars": int(continuous_by_rental_1k_by_state[state].item()) * 1000,
+                        "totalPaymentInAcre": round(continuous_by_rental_acre_by_state[state].item(), 2),
                         "contractInPercentageNationwide": round(
                             (continuous_by_contract_by_state[state].item() /
                              total_continuous_contract_at_national_level) * 100, 2),
@@ -1559,21 +1559,21 @@ class DataParser:
                         "acreInPercentageNationwide": round(
                             (continuous_by_acre_by_state[state].item() /
                              total_continuous_acre_at_national_level) * 100, 2),
-                        "paymentInPercentageNationwide": round(
+                        "totalPaymentInPercentageNationwide": round(
                             (continuous_by_rental_1k_by_state[state].item() /
                              total_continuous_rental_1k_at_national_level) * 100, 2),
-                        "paymentInAcreInPercentageNationwide": round(
+                        "totalPaymentInAcreInPercentageNationwide": round(
                             (continuous_by_rental_acre_by_state[state].item() /
                              total_continuous_rental_acre_at_national_level) * 100, 2),
-                        "paymentInPercentageWithinState": within_state_continuous_sing_up,
+                        "totalPaymentInPercentageWithinState": within_state_continuous_sing_up,
                         "subPrograms": [
                             {
                                 "programName": "CREP Only",
                                 "totalContracts": int(crep_only_by_contract_by_state[state].item()),
                                 "totalFarms": int(crep_only_by_farm_by_state[state].item()),
                                 "totalAcre": int(crep_only_by_acre_by_state[state].item()),
-                                "paymentInDollars": int(crep_only_by_rental_1k_by_state[state].item()) * 1000,
-                                "paymentInAcre": round(crep_only_by_rental_acre_by_state[state].item(), 2),
+                                "totalPaymentInDollars": int(crep_only_by_rental_1k_by_state[state].item()) * 1000,
+                                "totalPaymentInAcre": round(crep_only_by_rental_acre_by_state[state].item(), 2),
                                 "contractInPercentageNationwide": round(
                                     (crep_only_by_contract_by_state[state].item() /
                                      crep_only_contract_at_national_level) * 100, 2),
@@ -1583,21 +1583,21 @@ class DataParser:
                                 "acreInPercentageNationwide": round(
                                     (crep_only_by_acre_by_state[state].item() /
                                      crep_only_acre_at_national_level) * 100, 2),
-                                "paymentInPercentageNationwide": round(
+                                "totalPaymentInPercentageNationwide": round(
                                     (crep_only_by_rental_1k_by_state[state].item() /
                                      crep_only_rental_1k_at_national_level) * 100, 2),
-                                "paymentInAcreInPercentageNationwide": round(
+                                "totalPaymentInAcreInPercentageNationwide": round(
                                     (crep_only_by_rental_acre_by_state[state].item() /
                                      crep_only_rental_acre_at_national_level) * 100, 2),
-                                "paymentInPercentageWithinState": within_state_crep_only
+                                "totalPaymentInPercentageWithinState": within_state_crep_only
                             },
                             {
                                 "programName": "Continuous Non-CREP",
                                 "totalContracts": int(non_crep_by_contract_by_state[state].item()),
                                 "totalFarms": int(non_crep_by_farm_by_state[state].item()),
                                 "totalAcre": int(non_crep_by_acre_by_state[state].item()),
-                                "paymentInDollars": int(non_crep_by_rental_1k_by_state[state].item()) * 1000,
-                                "paymentInAcre": round(non_crep_by_rental_acre_by_state[state].item(), 2),
+                                "totalPaymentInDollars": int(non_crep_by_rental_1k_by_state[state].item()) * 1000,
+                                "totalPaymentInAcre": round(non_crep_by_rental_acre_by_state[state].item(), 2),
                                 "contractInPercentageNationwide": round(
                                     (non_crep_by_contract_by_state[state].item() /
                                      non_crep_contract_at_national_level) * 100, 2),
@@ -1607,21 +1607,21 @@ class DataParser:
                                 "acreInPercentageNationwide": round(
                                     (non_crep_by_acre_by_state[state].item() /
                                      non_crep_acre_at_national_level) * 100, 2),
-                                "paymentInPercentageNationwide": round(
+                                "totalPaymentInPercentageNationwide": round(
                                     (non_crep_by_rental_1k_by_state[state].item() /
                                      non_crep_rental_1k_at_national_level) * 100, 2),
-                                "paymentInAcreInPercentageNationwide": round(
+                                "totalPaymentInAcreInPercentageNationwide": round(
                                     (non_crep_by_rental_acre_by_state[state].item() /
                                      non_crep_rental_acre_at_national_level) * 100, 2),
-                                "paymentInPercentageWithinState": within_state_no_crep
+                                "totalPaymentInPercentageWithinState": within_state_no_crep
                             },
                             {
                                 "programName": "Farmable Wetland",
                                 "totalContracts": int(wetland_by_contract_by_state[state].item()),
                                 "totalFarms": int(wetland_by_farm_by_state[state].item()),
                                 "totalAcre": int(wetland_by_acre_by_state[state].item()),
-                                "paymentInDollars": int(wetland_by_rental_1k_by_state[state].item()) * 1000,
-                                "paymentInAcre": round(wetland_by_rental_acre_by_state[state].item(), 2),
+                                "totalPaymentInDollars": int(wetland_by_rental_1k_by_state[state].item()) * 1000,
+                                "totalPaymentInAcre": round(wetland_by_rental_acre_by_state[state].item(), 2),
                                 "contractInPercentageNationwide": round(
                                     (wetland_by_contract_by_state[state].item() /
                                      wetland_contract_at_national_level) * 100, 2),
@@ -1631,13 +1631,13 @@ class DataParser:
                                 "acreInPercentageNationwide": round(
                                     (wetland_by_acre_by_state[state].item() /
                                      wetland_acre_at_national_level) * 100, 2),
-                                "paymentInPercentageNationwide": round(
+                                "totalPaymentInPercentageNationwide": round(
                                     (wetland_by_rental_1k_by_state[state].item() /
                                      wetland_rental_1k_at_national_level) * 100, 2),
-                                "paymentInAcreInPercentageNationwide": round(
+                                "totalPaymentInAcreInPercentageNationwide": round(
                                     (wetland_by_rental_acre_by_state[state].item() /
                                      wetland_rental_acre_at_national_level) * 100, 2),
-                                "paymentInPercentageWithinState": within_state_farmable_wetland
+                                "totalPaymentInPercentageWithinState": within_state_farmable_wetland
                             }
                         ]
                     },
@@ -1646,8 +1646,8 @@ class DataParser:
                         "totalContracts": int(grassland_by_contract_by_state[state].item()),
                         "totalFarms": int(grassland_by_farm_by_state[state].item()),
                         "totalAcre": int(grassland_by_acre_by_state[state].item()),
-                        "paymentInDollars": int(grassland_by_rental_1k_by_state[state].item()) * 1000,
-                        "paymentInAcre": round(grassland_by_rental_acre_by_state[state].item(), 2),
+                        "totalPaymentInDollars": int(grassland_by_rental_1k_by_state[state].item()) * 1000,
+                        "totalPaymentInAcre": round(grassland_by_rental_acre_by_state[state].item(), 2),
                         "contractInPercentageNationwide": round(
                             (grassland_by_contract_by_state[state].item() /
                              grassland_contract_at_national_level) * 100, 2),
@@ -1657,13 +1657,13 @@ class DataParser:
                         "acreInPercentageNationwide": round(
                             (grassland_by_acre_by_state[state].item() /
                              grassland_acre_at_national_level) * 100, 2),
-                        "paymentInPercentageNationwide": round(
+                        "totalPaymentInPercentageNationwide": round(
                             (grassland_by_rental_1k_by_state[state].item() /
                              grassland_rental_1k_at_national_level) * 100, 2),
-                        "paymentInAcreInPercentageNationwide": round(
+                        "totalPaymentInAcreInPercentageNationwide": round(
                             (grassland_by_rental_acre_by_state[state].item() /
                              grassland_rental_acre_at_national_level) * 100, 2),
-                        "paymentInPercentageWithinState": within_state_grassland,
+                        "totalPaymentInPercentageWithinState": within_state_grassland,
                         "subPrograms": []
                     }
                 ]
@@ -1676,7 +1676,7 @@ class DataParser:
         for year in self.state_distribution_data_dict:
             self.state_distribution_data_dict[year] = sorted(self.state_distribution_data_dict[year],
                                                              key=lambda x: x["programs"][0][
-                                                                 "paymentInDollars"],
+                                                                 "totalPaymentInDollars"],
                                                              reverse=True)
 
         # Write processed_data_dict as JSON data
@@ -1805,8 +1805,8 @@ class DataParser:
                     "totalContracts": int(total_by_contract.item()),
                     "totalFarms": int(total_by_farm.item()),
                     "totalAcre": int(total_by_acre.item()),
-                    "paymentInDollars": int(total_by_rental_1k.item()) * 1000,
-                    "paymentInAcre": round(total_by_rental_acre.item(), 2),
+                    "totalPaymentInDollars": int(total_by_rental_1k.item()) * 1000,
+                    "totalPaymentInAcre": round(total_by_rental_acre.item(), 2),
                     "subPrograms": []
                 },
                 {
@@ -1814,8 +1814,8 @@ class DataParser:
                     "totalContracts": int(general_signup_by_contract.item()),
                     "totalFarms": int(general_signup_by_farm.item()),
                     "totalAcre": int(general_signup_by_acre.item()),
-                    "paymentInDollars": int(general_signup_by_rental_1k.item()) * 1000,
-                    "paymentInAcre": round(general_signup_by_rental_acre.item(), 2),
+                    "totalPaymentInDollars": int(general_signup_by_rental_1k.item()) * 1000,
+                    "totalPaymentInAcre": round(general_signup_by_rental_acre.item(), 2),
                     "subPrograms": []
                 },
                 {
@@ -1823,32 +1823,32 @@ class DataParser:
                     "totalContracts": int(continuous_by_contract.item()),
                     "totalFarms": int(continuous_by_farm.item()),
                     "totalAcre": int(continuous_by_acre.item()),
-                    "paymentInDollars": int(continuous_by_rental_1k.item()) * 1000,
-                    "paymentInAcre": round(continuous_by_rental_acre.item(), 2),
+                    "totalPaymentInDollars": int(continuous_by_rental_1k.item()) * 1000,
+                    "totalPaymentInAcre": round(continuous_by_rental_acre.item(), 2),
                     "subPrograms": [
                         {
                             "programName": "CREP Only",
                             "totalContracts": int(crep_only_by_contract.item()),
                             "totalFarms": int(crep_only_by_farm.item()),
                             "totalAcre": int(crep_only_by_acre.item()),
-                            "paymentInDollars": int(crep_only_by_rental_1k.item()) * 1000,
-                            "paymentInAcre": round(crep_only_by_rental_acre.item(), 2)
+                            "totalPaymentInDollars": int(crep_only_by_rental_1k.item()) * 1000,
+                            "totalPaymentInAcre": round(crep_only_by_rental_acre.item(), 2)
                         },
                         {
                             "programName": "Continuous Non-CREP",
                             "totalContracts": int(non_crep_by_contract.item()),
                             "totalFarms": int(non_crep_by_farm.item()),
                             "totalAcre": int(non_crep_by_acre.item()),
-                            "paymentInDollars": int(non_crep_by_rental_1k.item()) * 1000,
-                            "paymentInAcre": round(non_crep_by_rental_acre.item(), 2)
+                            "totalPaymentInDollars": int(non_crep_by_rental_1k.item()) * 1000,
+                            "totalPaymentInAcre": round(non_crep_by_rental_acre.item(), 2)
                         },
                         {
                             "programName": "Farmable Wetland",
                             "totalContracts": int(wetland_by_contract.item()),
                             "totalFarms": int(wetland_by_farm.item()),
                             "totalAcre": int(wetland_by_acre.item()),
-                            "paymentInDollars": int(wetland_by_rental_1k.item()) * 1000,
-                            "paymentInAcre": round(wetland_by_rental_acre.item(), 2)
+                            "totalPaymentInDollars": int(wetland_by_rental_1k.item()) * 1000,
+                            "totalPaymentInAcre": round(wetland_by_rental_acre.item(), 2)
                         }
                     ]
                 },
@@ -1857,8 +1857,8 @@ class DataParser:
                     "totalContracts": int(grassland_by_contract.item()),
                     "totalFarms": int(grassland_by_farm.item()),
                     "totalAcre": int(grassland_by_acre.item()),
-                    "paymentInDollars": int(grassland_by_rental_1k.item()) * 1000,
-                    "paymentInAcre": round(grassland_by_rental_acre.item(), 2),
+                    "totalPaymentInDollars": int(grassland_by_rental_1k.item()) * 1000,
+                    "totalPaymentInAcre": round(grassland_by_rental_acre.item(), 2),
                     "subPrograms": []
                 },
             ]

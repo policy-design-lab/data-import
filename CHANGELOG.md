@@ -59,6 +59,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - EQIP data structure updated with years information [#67](https://github.com/policy-design-lab/data-import/issues/67)
 - Title 1's subtitle D and E json updated with new structure [#64](https://github.com/policy-design-lab/data-import/issues/64)
 - Output json files' state name changed to state abbreviation [#76](https://github.com/policy-design-lab/data-import/issues/76)
+- Restore percentage field in subtitle D and E json files [#83](https://github.com/policy-design-lab/data-import/issues/83)
+- Renaming items for title I [#84](https://github.com/policy-design-lab/data-import/issues/84)
 
 ### Fixed
 

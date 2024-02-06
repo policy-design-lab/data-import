@@ -1,30 +1,30 @@
 {
   "subtitleName": "Supplemental Agricultural Disaster Assistance, Subtitle E",
-  "subtitlePaymentInDollars": 4589389922.13,
+  "totalPaymentInDollars": 4589389922.13,
   "totalCounts": 716888,
   "averageRecipientCount": 89611.0,
   "programs": [
     {
       "programName": "Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program (ELAP)",
-      "paymentInDollars": 336365634.1,
+      "totalPaymentInDollars": 336365634.1,
       "totalCounts": 27330,
       "averageRecipientCount": 3416.25
     },
     {
       "programName": "Livestock Forage Program (LFP)",
-      "paymentInDollars": 3881887342.49,
+      "totalPaymentInDollars": 3881887342.49,
       "totalCounts": 640521,
       "averageRecipientCount": 80065.12
     },
     {
       "programName": "Livestock Indemnity Payments (LIP)",
-      "paymentInDollars": 284805659.06,
+      "totalPaymentInDollars": 284805659.06,
       "totalCounts": 45063,
       "averageRecipientCount": 5632.88
     },
     {
       "programName": "Tree Assistance Program (TAP)",
-      "paymentInDollars": 86331286.48,
+      "totalPaymentInDollars": 86331286.48,
       "totalCounts": 3974,
       "averageRecipientCount": 496.75
     }
