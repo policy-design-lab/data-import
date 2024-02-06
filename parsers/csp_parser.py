@@ -89,13 +89,13 @@ class CSPDataParser:
             if not for_percentage_json:
                 zero_practice_category_entries.append({
                     "practiceCategoryName": entry,
-                    "paymentInDollars": 0
+                    "totalPaymentInDollars": 0
                 })
             else:
                 zero_practice_category_entries.append({
                     "practiceCategoryName": entry,
-                    "paymentInDollars": 0.0,
-                    "paymentInPercentageWithinState": 0.00
+                    "totalPaymentInDollars": 0.0,
+                    "totalPaymentInPercentageWithinState": 0.00
 
                 })
         return zero_practice_category_entries
@@ -169,7 +169,7 @@ class CSPDataParser:
                     if statute["statuteName"] == statute_name:
                         statute["practiceCategories"].append({
                             "practiceCategoryName": category_name,
-                            "paymentInDollars": rounded_payment
+                            "totalPaymentInDollars": rounded_payment
                         })
 
                 # Update self.processed_data_dict
@@ -225,7 +225,7 @@ class CSPDataParser:
                     if statute["statuteName"] == statute_name:
                         statute["practiceCategories"].append({
                             "practiceCategoryName": category_name,
-                            "paymentInDollars": rounded_payment
+                            "totalPaymentInDollars": rounded_payment
                         })
 
                 found = False
@@ -249,7 +249,7 @@ class CSPDataParser:
                     total_payment_in_dollars = 0
                     for statute in year_data["statutes"]:
                         for statute_category in statute["practiceCategories"]:
-                            total_payment_in_dollars += statute_category["paymentInDollars"]
+                            total_payment_in_dollars += statute_category["totalPaymentInDollars"]
                     year_data["totalPaymentInDollars"] = round(total_payment_in_dollars, 2)
 
             # Add zero entries
@@ -308,13 +308,13 @@ class CSPDataParser:
                     "statutes": [
                         {
                             "statuteName": "2018 Practices",
-                            "statutePaymentInDollars": 0.0,
+                            "totalPaymentInDollars": 0.0,
                             "practiceCategories": [
                             ]
                         },
                         {
                             "statuteName": "2014 Eligible Land",
-                            "statutePaymentInDollars": 0.0,
+                            "totalPaymentInDollars": 0.0,
                             "practiceCategories": [
                             ]
                         }
@@ -340,11 +340,11 @@ class CSPDataParser:
                             if statute["statuteName"] == statute_name:
                                 statute["practiceCategories"].append({
                                     "practiceCategoryName": category_name,
-                                    "paymentInDollars": category_payment,
-                                    "paymentInPercentageNationwide": category_percentage_nationwide,
-                                    "paymentInPercentageWithinState": category_percentage_within_state
+                                    "totalPaymentInDollars": category_payment,
+                                    "totalPaymentInPercentageNationwide": category_percentage_nationwide,
+                                    "totalPaymentInPercentageWithinState": category_percentage_within_state
                                 })
-                                statute["statutePaymentInDollars"] += category_payment
+                                statute["totalPaymentInDollars"] += category_payment
 
                 self.state_distribution_data_dict[state_name] = [new_data_entry]
 
@@ -362,13 +362,13 @@ class CSPDataParser:
 
                         # Sort categories by percentages
                         statute["practiceCategories"].sort(reverse=True,
-                                                           key=lambda x: x["paymentInPercentageWithinState"])
+                                                           key=lambda x: x["totalPaymentInPercentageWithinState"])
 
-                        statute["statutePaymentInPercentageWithinState"] = round(
-                            statute["statutePaymentInDollars"] / year_data["totalPaymentInDollars"] * 100, 2)
+                        statute["totalPaymentInPercentageWithinState"] = round(
+                            statute["totalPaymentInDollars"] / year_data["totalPaymentInDollars"] * 100, 2)
 
-                        statute["statutePaymentInPercentageNationwide"] = round(
-                            statute["statutePaymentInDollars"] / total_payments_by_statute[
+                        statute["totalPaymentInPercentageNationwide"] = round(
+                            statute["totalPaymentInDollars"] / total_payments_by_statute[
                                 statute["statuteName"]] * 100, 2)
 
             # Sort states by decreasing order of percentages
