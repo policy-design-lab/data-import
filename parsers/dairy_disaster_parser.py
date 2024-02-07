@@ -452,6 +452,7 @@ class DairyDisasterParser:
                         "totalCountsInPercentageNationwide": elap_count_percentage_nation,
                         "averageRecipientCountInPercentageNationwide": average_elap_count_percentage_nation,
                         "totalPaymentInPercentageWithinState": within_state_elap_percentage_payments,
+                        "totalCountsInPercentageWithinState": within_state_elap_percentage_count,
                         "averageRecipientCountInPercentageWithinState": within_state_elap_average_percentage_count,
                         "subPrograms": []
                     },
@@ -465,6 +466,7 @@ class DairyDisasterParser:
                         "totalCountsInPercentageNationwide": lfp_count_percentage_nation,
                         "averageRecipientCountInPercentageNationwide": average_lfp_count_percentage_nation,
                         "totalPaymentInPercentageWithinState": within_state_lfp_percentage_payments,
+                        "totalCountsInPercentageWithinState": within_state_lfp_percentage_count,
                         "averageRecipientCountInPercentageWithinState": within_state_lfp_average_percentage_count,
                         "subPrograms": []
                     },
@@ -478,6 +480,7 @@ class DairyDisasterParser:
                         "totalCountsInPercentageNationwide": lip_count_percentage_nation,
                         "averageRecipientCountInPercentageNationwide": average_lip_count_percentage_nation,
                         "totalPaymentInPercentageWithinState": within_state_lip_percentage_payments,
+                        "totalCountsInPercentageWithinState": within_state_lip_percentage_count,
                         "averageRecipientCountInPercentageWithinState": within_state_lip_average_percentage_count,
                         "subPrograms": []
                     },
@@ -491,6 +494,7 @@ class DairyDisasterParser:
                         "totalCountsInPercentageNationwide": tap_count_percentage_nation,
                         "averageRecipientCountInPercentageNationwide": average_tap_count_percentage_nation,
                         "totalPaymentInPercentageWithinState": within_state_tap_percentage_payments,
+                        "totalCountsInPercentageWithinState": within_state_tap_percentage_count,
                         "averageRecipientCountInPercentageWithinState": within_state_tap_average_percentage_count,
                         "subPrograms": []
                     }

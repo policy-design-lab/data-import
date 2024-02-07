@@ -19,6 +19,7 @@
           "totalCountsInPercentageNationwide": 0.17,
           "averageRecipientCountInPercentageNationwide": 0.17,
           "totalPaymentInPercentageWithinState": 0.19,
+          "totalCountsInPercentageWithinState": 0.14,
           "averageRecipientCountInPercentageWithinState": 0.14,
           "subPrograms": []
         },
@@ -31,6 +32,7 @@
           "totalCountsInPercentageNationwide": 5.08,
           "averageRecipientCountInPercentageNationwide": 5.08,
           "totalPaymentInPercentageWithinState": 98.63,
+          "totalCountsInPercentageWithinState": 98.83,
           "averageRecipientCountInPercentageWithinState": 98.83,
           "subPrograms": []
         },
@@ -43,6 +45,7 @@
           "totalCountsInPercentageNationwide": 0.67,
           "averageRecipientCountInPercentageNationwide": 0.67,
           "totalPaymentInPercentageWithinState": 1.04,
+          "totalCountsInPercentageWithinState": 0.92,
           "averageRecipientCountInPercentageWithinState": 0.92,
           "subPrograms": []
         },
@@ -55,6 +58,7 @@
           "totalCountsInPercentageNationwide": 0.93,
           "averageRecipientCountInPercentageNationwide": 0.93,
           "totalPaymentInPercentageWithinState": 0.15,
+          "totalCountsInPercentageWithinState": 0.11,
           "averageRecipientCountInPercentageWithinState": 0.11,
           "subPrograms": []
         }
@@ -79,6 +83,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -91,6 +96,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -103,6 +109,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -115,6 +122,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -139,6 +147,7 @@
           "totalCountsInPercentageNationwide": 0.78,
           "averageRecipientCountInPercentageNationwide": 0.78,
           "totalPaymentInPercentageWithinState": 8.66,
+          "totalCountsInPercentageWithinState": 1.32,
           "averageRecipientCountInPercentageWithinState": 1.32,
           "subPrograms": []
         },
@@ -151,6 +160,7 @@
           "totalCountsInPercentageNationwide": 2.49,
           "averageRecipientCountInPercentageNationwide": 2.49,
           "totalPaymentInPercentageWithinState": 91.3,
+          "totalCountsInPercentageWithinState": 98.66,
           "averageRecipientCountInPercentageWithinState": 98.66,
           "subPrograms": []
         },
@@ -163,6 +173,7 @@
           "totalCountsInPercentageNationwide": 0.01,
           "averageRecipientCountInPercentageNationwide": 0.01,
           "totalPaymentInPercentageWithinState": 0.04,
+          "totalCountsInPercentageWithinState": 0.02,
           "averageRecipientCountInPercentageWithinState": 0.02,
           "subPrograms": []
         },
@@ -175,6 +186,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -199,6 +211,7 @@
           "totalCountsInPercentageNationwide": 1.48,
           "averageRecipientCountInPercentageNationwide": 1.48,
           "totalPaymentInPercentageWithinState": 10.21,
+          "totalCountsInPercentageWithinState": 5.26,
           "averageRecipientCountInPercentageWithinState": 5.26,
           "subPrograms": []
         },
@@ -211,6 +224,7 @@
           "totalCountsInPercentageNationwide": 0.9,
           "averageRecipientCountInPercentageNationwide": 0.9,
           "totalPaymentInPercentageWithinState": 73.79,
+          "totalCountsInPercentageWithinState": 74.56,
           "averageRecipientCountInPercentageWithinState": 74.56,
           "subPrograms": []
         },
@@ -223,6 +237,7 @@
           "totalCountsInPercentageNationwide": 3.44,
           "averageRecipientCountInPercentageNationwide": 3.44,
           "totalPaymentInPercentageWithinState": 15.92,
+          "totalCountsInPercentageWithinState": 20.11,
           "averageRecipientCountInPercentageWithinState": 20.11,
           "subPrograms": []
         },
@@ -235,6 +250,7 @@
           "totalCountsInPercentageNationwide": 0.15,
           "averageRecipientCountInPercentageNationwide": 0.15,
           "totalPaymentInPercentageWithinState": 0.08,
+          "totalCountsInPercentageWithinState": 0.08,
           "averageRecipientCountInPercentageWithinState": 0.08,
           "subPrograms": []
         }
@@ -259,6 +275,7 @@
           "totalCountsInPercentageNationwide": 5.49,
           "averageRecipientCountInPercentageNationwide": 5.49,
           "totalPaymentInPercentageWithinState": 11.24,
+          "totalCountsInPercentageWithinState": 7.5,
           "averageRecipientCountInPercentageWithinState": 7.5,
           "subPrograms": []
         },
@@ -271,6 +288,7 @@
           "totalCountsInPercentageNationwide": 2.77,
           "averageRecipientCountInPercentageNationwide": 2.77,
           "totalPaymentInPercentageWithinState": 81.57,
+          "totalCountsInPercentageWithinState": 88.8,
           "averageRecipientCountInPercentageWithinState": 88.8,
           "subPrograms": []
         },
@@ -283,6 +301,7 @@
           "totalCountsInPercentageNationwide": 0.49,
           "averageRecipientCountInPercentageNationwide": 0.49,
           "totalPaymentInPercentageWithinState": 1.71,
+          "totalCountsInPercentageWithinState": 1.1,
           "averageRecipientCountInPercentageWithinState": 1.1,
           "subPrograms": []
         },
@@ -295,6 +314,7 @@
           "totalCountsInPercentageNationwide": 13.09,
           "averageRecipientCountInPercentageNationwide": 13.09,
           "totalPaymentInPercentageWithinState": 5.48,
+          "totalCountsInPercentageWithinState": 2.6,
           "averageRecipientCountInPercentageWithinState": 2.6,
           "subPrograms": []
         }
@@ -319,6 +339,7 @@
           "totalCountsInPercentageNationwide": 1.31,
           "averageRecipientCountInPercentageNationwide": 1.31,
           "totalPaymentInPercentageWithinState": 1.94,
+          "totalCountsInPercentageWithinState": 2.27,
           "averageRecipientCountInPercentageWithinState": 2.27,
           "subPrograms": []
         },
@@ -331,6 +352,7 @@
           "totalCountsInPercentageNationwide": 2.37,
           "averageRecipientCountInPercentageNationwide": 2.37,
           "totalPaymentInPercentageWithinState": 95.19,
+          "totalCountsInPercentageWithinState": 96.0,
           "averageRecipientCountInPercentageWithinState": 96.0,
           "subPrograms": []
         },
@@ -343,6 +365,7 @@
           "totalCountsInPercentageNationwide": 0.47,
           "averageRecipientCountInPercentageNationwide": 0.47,
           "totalPaymentInPercentageWithinState": 1.93,
+          "totalCountsInPercentageWithinState": 1.36,
           "averageRecipientCountInPercentageWithinState": 1.36,
           "subPrograms": []
         },
@@ -355,6 +378,7 @@
           "totalCountsInPercentageNationwide": 1.51,
           "averageRecipientCountInPercentageNationwide": 1.51,
           "totalPaymentInPercentageWithinState": 0.94,
+          "totalCountsInPercentageWithinState": 0.38,
           "averageRecipientCountInPercentageWithinState": 0.38,
           "subPrograms": []
         }
@@ -379,6 +403,7 @@
           "totalCountsInPercentageNationwide": 0.07,
           "averageRecipientCountInPercentageNationwide": 0.07,
           "totalPaymentInPercentageWithinState": 65.46,
+          "totalCountsInPercentageWithinState": 22.99,
           "averageRecipientCountInPercentageWithinState": 22.99,
           "subPrograms": []
         },
@@ -391,6 +416,7 @@
           "totalCountsInPercentageNationwide": 0.01,
           "averageRecipientCountInPercentageNationwide": 0.01,
           "totalPaymentInPercentageWithinState": 18.12,
+          "totalCountsInPercentageWithinState": 66.67,
           "averageRecipientCountInPercentageWithinState": 66.67,
           "subPrograms": []
         },
@@ -403,6 +429,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.3,
+          "totalCountsInPercentageWithinState": 1.15,
           "averageRecipientCountInPercentageWithinState": 1.15,
           "subPrograms": []
         },
@@ -415,6 +442,7 @@
           "totalCountsInPercentageNationwide": 0.2,
           "averageRecipientCountInPercentageNationwide": 0.2,
           "totalPaymentInPercentageWithinState": 16.11,
+          "totalCountsInPercentageWithinState": 9.2,
           "averageRecipientCountInPercentageWithinState": 9.2,
           "subPrograms": []
         }
@@ -439,6 +467,7 @@
           "totalCountsInPercentageNationwide": 0.02,
           "averageRecipientCountInPercentageNationwide": 0.02,
           "totalPaymentInPercentageWithinState": 88.0,
+          "totalCountsInPercentageWithinState": 71.43,
           "averageRecipientCountInPercentageWithinState": 71.43,
           "subPrograms": []
         },
@@ -451,6 +480,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -463,6 +493,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -475,6 +506,7 @@
           "totalCountsInPercentageNationwide": 0.05,
           "averageRecipientCountInPercentageNationwide": 0.05,
           "totalPaymentInPercentageWithinState": 12.0,
+          "totalCountsInPercentageWithinState": 28.57,
           "averageRecipientCountInPercentageWithinState": 28.57,
           "subPrograms": []
         }
@@ -499,6 +531,7 @@
           "totalCountsInPercentageNationwide": 5.41,
           "averageRecipientCountInPercentageNationwide": 5.41,
           "totalPaymentInPercentageWithinState": 40.71,
+          "totalCountsInPercentageWithinState": 22.76,
           "averageRecipientCountInPercentageWithinState": 22.76,
           "subPrograms": []
         },
@@ -511,6 +544,7 @@
           "totalCountsInPercentageNationwide": 0.54,
           "averageRecipientCountInPercentageNationwide": 0.54,
           "totalPaymentInPercentageWithinState": 23.79,
+          "totalCountsInPercentageWithinState": 53.1,
           "averageRecipientCountInPercentageWithinState": 53.1,
           "subPrograms": []
         },
@@ -523,6 +557,7 @@
           "totalCountsInPercentageNationwide": 0.47,
           "averageRecipientCountInPercentageNationwide": 0.47,
           "totalPaymentInPercentageWithinState": 1.18,
+          "totalCountsInPercentageWithinState": 3.29,
           "averageRecipientCountInPercentageWithinState": 3.29,
           "subPrograms": []
         },
@@ -535,6 +570,7 @@
           "totalCountsInPercentageNationwide": 34.07,
           "averageRecipientCountInPercentageNationwide": 34.07,
           "totalPaymentInPercentageWithinState": 34.32,
+          "totalCountsInPercentageWithinState": 20.84,
           "averageRecipientCountInPercentageWithinState": 20.84,
           "subPrograms": []
         }
@@ -559,6 +595,7 @@
           "totalCountsInPercentageNationwide": 2.66,
           "averageRecipientCountInPercentageNationwide": 2.66,
           "totalPaymentInPercentageWithinState": 24.42,
+          "totalCountsInPercentageWithinState": 3.84,
           "averageRecipientCountInPercentageWithinState": 3.84,
           "subPrograms": []
         },
@@ -571,6 +608,7 @@
           "totalCountsInPercentageNationwide": 2.77,
           "averageRecipientCountInPercentageNationwide": 2.77,
           "totalPaymentInPercentageWithinState": 68.59,
+          "totalCountsInPercentageWithinState": 93.76,
           "averageRecipientCountInPercentageWithinState": 93.76,
           "subPrograms": []
         },
@@ -583,6 +621,7 @@
           "totalCountsInPercentageNationwide": 0.48,
           "averageRecipientCountInPercentageNationwide": 0.48,
           "totalPaymentInPercentageWithinState": 1.92,
+          "totalCountsInPercentageWithinState": 1.15,
           "averageRecipientCountInPercentageWithinState": 1.15,
           "subPrograms": []
         },
@@ -595,6 +634,7 @@
           "totalCountsInPercentageNationwide": 5.96,
           "averageRecipientCountInPercentageNationwide": 5.96,
           "totalPaymentInPercentageWithinState": 5.07,
+          "totalCountsInPercentageWithinState": 1.25,
           "averageRecipientCountInPercentageWithinState": 1.25,
           "subPrograms": []
         }
@@ -619,6 +659,7 @@
           "totalCountsInPercentageNationwide": 0.02,
           "averageRecipientCountInPercentageNationwide": 0.02,
           "totalPaymentInPercentageWithinState": 0.84,
+          "totalCountsInPercentageWithinState": 0.26,
           "averageRecipientCountInPercentageWithinState": 0.26,
           "subPrograms": []
         },
@@ -631,6 +672,7 @@
           "totalCountsInPercentageNationwide": 0.34,
           "averageRecipientCountInPercentageNationwide": 0.34,
           "totalPaymentInPercentageWithinState": 95.72,
+          "totalCountsInPercentageWithinState": 95.88,
           "averageRecipientCountInPercentageWithinState": 95.88,
           "subPrograms": []
         },
@@ -643,6 +685,7 @@
           "totalCountsInPercentageNationwide": 0.02,
           "averageRecipientCountInPercentageNationwide": 0.02,
           "totalPaymentInPercentageWithinState": 1.61,
+          "totalCountsInPercentageWithinState": 0.31,
           "averageRecipientCountInPercentageWithinState": 0.31,
           "subPrograms": []
         },
@@ -655,6 +698,7 @@
           "totalCountsInPercentageNationwide": 2.04,
           "averageRecipientCountInPercentageNationwide": 2.04,
           "totalPaymentInPercentageWithinState": 1.84,
+          "totalCountsInPercentageWithinState": 3.55,
           "averageRecipientCountInPercentageWithinState": 3.55,
           "subPrograms": []
         }
@@ -679,6 +723,7 @@
           "totalCountsInPercentageNationwide": 1.45,
           "averageRecipientCountInPercentageNationwide": 1.45,
           "totalPaymentInPercentageWithinState": 14.21,
+          "totalCountsInPercentageWithinState": 6.59,
           "averageRecipientCountInPercentageWithinState": 6.59,
           "subPrograms": []
         },
@@ -691,6 +736,7 @@
           "totalCountsInPercentageNationwide": 0.84,
           "averageRecipientCountInPercentageNationwide": 0.84,
           "totalPaymentInPercentageWithinState": 80.55,
+          "totalCountsInPercentageWithinState": 89.81,
           "averageRecipientCountInPercentageWithinState": 89.81,
           "subPrograms": []
         },
@@ -703,6 +749,7 @@
           "totalCountsInPercentageNationwide": 0.45,
           "averageRecipientCountInPercentageNationwide": 0.45,
           "totalPaymentInPercentageWithinState": 4.7,
+          "totalCountsInPercentageWithinState": 3.37,
           "averageRecipientCountInPercentageWithinState": 3.37,
           "subPrograms": []
         },
@@ -715,6 +762,7 @@
           "totalCountsInPercentageNationwide": 0.35,
           "averageRecipientCountInPercentageNationwide": 0.35,
           "totalPaymentInPercentageWithinState": 0.53,
+          "totalCountsInPercentageWithinState": 0.23,
           "averageRecipientCountInPercentageWithinState": 0.23,
           "subPrograms": []
         }
@@ -739,6 +787,7 @@
           "totalCountsInPercentageNationwide": 1.2,
           "averageRecipientCountInPercentageNationwide": 1.2,
           "totalPaymentInPercentageWithinState": 67.64,
+          "totalCountsInPercentageWithinState": 69.12,
           "averageRecipientCountInPercentageWithinState": 69.12,
           "subPrograms": []
         },
@@ -751,6 +800,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.08,
+          "totalCountsInPercentageWithinState": 2.31,
           "averageRecipientCountInPercentageWithinState": 2.31,
           "subPrograms": []
         },
@@ -763,6 +813,7 @@
           "totalCountsInPercentageNationwide": 0.26,
           "averageRecipientCountInPercentageNationwide": 0.26,
           "totalPaymentInPercentageWithinState": 26.55,
+          "totalCountsInPercentageWithinState": 25.0,
           "averageRecipientCountInPercentageWithinState": 25.0,
           "subPrograms": []
         },
@@ -775,6 +826,7 @@
           "totalCountsInPercentageNationwide": 0.43,
           "averageRecipientCountInPercentageNationwide": 0.43,
           "totalPaymentInPercentageWithinState": 5.73,
+          "totalCountsInPercentageWithinState": 3.57,
           "averageRecipientCountInPercentageWithinState": 3.57,
           "subPrograms": []
         }
@@ -799,6 +851,7 @@
           "totalCountsInPercentageNationwide": 1.31,
           "averageRecipientCountInPercentageNationwide": 1.31,
           "totalPaymentInPercentageWithinState": 31.46,
+          "totalCountsInPercentageWithinState": 52.95,
           "averageRecipientCountInPercentageWithinState": 52.95,
           "subPrograms": []
         },
@@ -811,6 +864,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -823,6 +877,7 @@
           "totalCountsInPercentageNationwide": 0.68,
           "averageRecipientCountInPercentageNationwide": 0.68,
           "totalPaymentInPercentageWithinState": 64.92,
+          "totalCountsInPercentageWithinState": 45.13,
           "averageRecipientCountInPercentageWithinState": 45.13,
           "subPrograms": []
         },
@@ -835,6 +890,7 @@
           "totalCountsInPercentageNationwide": 0.33,
           "averageRecipientCountInPercentageNationwide": 0.33,
           "totalPaymentInPercentageWithinState": 3.62,
+          "totalCountsInPercentageWithinState": 1.92,
           "averageRecipientCountInPercentageWithinState": 1.92,
           "subPrograms": []
         }
@@ -859,6 +915,7 @@
           "totalCountsInPercentageNationwide": 3.03,
           "averageRecipientCountInPercentageNationwide": 3.03,
           "totalPaymentInPercentageWithinState": 12.48,
+          "totalCountsInPercentageWithinState": 5.83,
           "averageRecipientCountInPercentageWithinState": 5.83,
           "subPrograms": []
         },
@@ -871,6 +928,7 @@
           "totalCountsInPercentageNationwide": 1.96,
           "averageRecipientCountInPercentageNationwide": 1.96,
           "totalPaymentInPercentageWithinState": 71.0,
+          "totalCountsInPercentageWithinState": 88.21,
           "averageRecipientCountInPercentageWithinState": 88.21,
           "subPrograms": []
         },
@@ -883,6 +941,7 @@
           "totalCountsInPercentageNationwide": 1.87,
           "averageRecipientCountInPercentageNationwide": 1.87,
           "totalPaymentInPercentageWithinState": 16.46,
+          "totalCountsInPercentageWithinState": 5.92,
           "averageRecipientCountInPercentageWithinState": 5.92,
           "subPrograms": []
         },
@@ -895,6 +954,7 @@
           "totalCountsInPercentageNationwide": 0.13,
           "averageRecipientCountInPercentageNationwide": 0.13,
           "totalPaymentInPercentageWithinState": 0.06,
+          "totalCountsInPercentageWithinState": 0.04,
           "averageRecipientCountInPercentageWithinState": 0.04,
           "subPrograms": []
         }
@@ -919,6 +979,7 @@
           "totalCountsInPercentageNationwide": 3.62,
           "averageRecipientCountInPercentageNationwide": 3.62,
           "totalPaymentInPercentageWithinState": 0.93,
+          "totalCountsInPercentageWithinState": 2.35,
           "averageRecipientCountInPercentageWithinState": 2.35,
           "subPrograms": []
         },
@@ -931,6 +992,7 @@
           "totalCountsInPercentageNationwide": 5.87,
           "averageRecipientCountInPercentageNationwide": 5.87,
           "totalPaymentInPercentageWithinState": 90.03,
+          "totalCountsInPercentageWithinState": 89.26,
           "averageRecipientCountInPercentageWithinState": 89.26,
           "subPrograms": []
         },
@@ -943,6 +1005,7 @@
           "totalCountsInPercentageNationwide": 7.83,
           "averageRecipientCountInPercentageNationwide": 7.83,
           "totalPaymentInPercentageWithinState": 9.03,
+          "totalCountsInPercentageWithinState": 8.38,
           "averageRecipientCountInPercentageWithinState": 8.38,
           "subPrograms": []
         },
@@ -955,6 +1018,7 @@
           "totalCountsInPercentageNationwide": 0.08,
           "averageRecipientCountInPercentageNationwide": 0.08,
           "totalPaymentInPercentageWithinState": 0.01,
+          "totalCountsInPercentageWithinState": 0.01,
           "averageRecipientCountInPercentageWithinState": 0.01,
           "subPrograms": []
         }
@@ -979,6 +1043,7 @@
           "totalCountsInPercentageNationwide": 0.85,
           "averageRecipientCountInPercentageNationwide": 0.85,
           "totalPaymentInPercentageWithinState": 2.76,
+          "totalCountsInPercentageWithinState": 2.01,
           "averageRecipientCountInPercentageWithinState": 2.01,
           "subPrograms": []
         },
@@ -991,6 +1056,7 @@
           "totalCountsInPercentageNationwide": 0.12,
           "averageRecipientCountInPercentageNationwide": 0.12,
           "totalPaymentInPercentageWithinState": 4.05,
+          "totalCountsInPercentageWithinState": 6.88,
           "averageRecipientCountInPercentageWithinState": 6.88,
           "subPrograms": []
         },
@@ -1003,6 +1069,7 @@
           "totalCountsInPercentageNationwide": 23.3,
           "averageRecipientCountInPercentageNationwide": 23.3,
           "totalPaymentInPercentageWithinState": 92.82,
+          "totalCountsInPercentageWithinState": 90.94,
           "averageRecipientCountInPercentageWithinState": 90.94,
           "subPrograms": []
         },
@@ -1015,6 +1082,7 @@
           "totalCountsInPercentageNationwide": 0.48,
           "averageRecipientCountInPercentageNationwide": 0.48,
           "totalPaymentInPercentageWithinState": 0.38,
+          "totalCountsInPercentageWithinState": 0.16,
           "averageRecipientCountInPercentageWithinState": 0.16,
           "subPrograms": []
         }
@@ -1039,6 +1107,7 @@
           "totalCountsInPercentageNationwide": 2.94,
           "averageRecipientCountInPercentageNationwide": 2.94,
           "totalPaymentInPercentageWithinState": 20.44,
+          "totalCountsInPercentageWithinState": 11.35,
           "averageRecipientCountInPercentageWithinState": 11.35,
           "subPrograms": []
         },
@@ -1051,6 +1120,7 @@
           "totalCountsInPercentageNationwide": 0.91,
           "averageRecipientCountInPercentageNationwide": 0.91,
           "totalPaymentInPercentageWithinState": 68.3,
+          "totalCountsInPercentageWithinState": 82.28,
           "averageRecipientCountInPercentageWithinState": 82.28,
           "subPrograms": []
         },
@@ -1063,6 +1133,7 @@
           "totalCountsInPercentageNationwide": 0.95,
           "averageRecipientCountInPercentageNationwide": 0.95,
           "totalPaymentInPercentageWithinState": 8.61,
+          "totalCountsInPercentageWithinState": 6.08,
           "averageRecipientCountInPercentageWithinState": 6.08,
           "subPrograms": []
         },
@@ -1075,6 +1146,7 @@
           "totalCountsInPercentageNationwide": 0.5,
           "averageRecipientCountInPercentageNationwide": 0.5,
           "totalPaymentInPercentageWithinState": 2.65,
+          "totalCountsInPercentageWithinState": 0.28,
           "averageRecipientCountInPercentageWithinState": 0.28,
           "subPrograms": []
         }
@@ -1099,6 +1171,7 @@
           "totalCountsInPercentageNationwide": 0.37,
           "averageRecipientCountInPercentageNationwide": 0.37,
           "totalPaymentInPercentageWithinState": 49.8,
+          "totalCountsInPercentageWithinState": 19.65,
           "averageRecipientCountInPercentageWithinState": 19.65,
           "subPrograms": []
         },
@@ -1111,6 +1184,7 @@
           "totalCountsInPercentageNationwide": 0.06,
           "averageRecipientCountInPercentageNationwide": 0.06,
           "totalPaymentInPercentageWithinState": 43.7,
+          "totalCountsInPercentageWithinState": 77.84,
           "averageRecipientCountInPercentageWithinState": 77.84,
           "subPrograms": []
         },
@@ -1123,6 +1197,7 @@
           "totalCountsInPercentageNationwide": 0.01,
           "averageRecipientCountInPercentageNationwide": 0.01,
           "totalPaymentInPercentageWithinState": 2.8,
+          "totalCountsInPercentageWithinState": 1.16,
           "averageRecipientCountInPercentageWithinState": 1.16,
           "subPrograms": []
         },
@@ -1135,6 +1210,7 @@
           "totalCountsInPercentageNationwide": 0.18,
           "averageRecipientCountInPercentageNationwide": 0.18,
           "totalPaymentInPercentageWithinState": 3.71,
+          "totalCountsInPercentageWithinState": 1.35,
           "averageRecipientCountInPercentageWithinState": 1.35,
           "subPrograms": []
         }
@@ -1159,6 +1235,7 @@
           "totalCountsInPercentageNationwide": 0.15,
           "averageRecipientCountInPercentageNationwide": 0.15,
           "totalPaymentInPercentageWithinState": 59.79,
+          "totalCountsInPercentageWithinState": 65.57,
           "averageRecipientCountInPercentageWithinState": 65.57,
           "subPrograms": []
         },
@@ -1171,6 +1248,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -1183,6 +1261,7 @@
           "totalCountsInPercentageNationwide": 0.01,
           "averageRecipientCountInPercentageNationwide": 0.01,
           "totalPaymentInPercentageWithinState": 2.74,
+          "totalCountsInPercentageWithinState": 6.56,
           "averageRecipientCountInPercentageWithinState": 6.56,
           "subPrograms": []
         },
@@ -1195,6 +1274,7 @@
           "totalCountsInPercentageNationwide": 0.43,
           "averageRecipientCountInPercentageNationwide": 0.43,
           "totalPaymentInPercentageWithinState": 37.46,
+          "totalCountsInPercentageWithinState": 27.87,
           "averageRecipientCountInPercentageWithinState": 27.87,
           "subPrograms": []
         }
@@ -1219,6 +1299,7 @@
           "totalCountsInPercentageNationwide": 0.4,
           "averageRecipientCountInPercentageNationwide": 0.4,
           "totalPaymentInPercentageWithinState": 83.09,
+          "totalCountsInPercentageWithinState": 16.18,
           "averageRecipientCountInPercentageWithinState": 16.18,
           "subPrograms": []
         },
@@ -1231,6 +1312,7 @@
           "totalCountsInPercentageNationwide": 0.09,
           "averageRecipientCountInPercentageNationwide": 0.09,
           "totalPaymentInPercentageWithinState": 12.76,
+          "totalCountsInPercentageWithinState": 80.88,
           "averageRecipientCountInPercentageWithinState": 80.88,
           "subPrograms": []
         },
@@ -1243,6 +1325,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.15,
+          "totalCountsInPercentageWithinState": 0.15,
           "averageRecipientCountInPercentageWithinState": 0.15,
           "subPrograms": []
         },
@@ -1255,6 +1338,7 @@
           "totalCountsInPercentageNationwide": 0.48,
           "averageRecipientCountInPercentageNationwide": 0.48,
           "totalPaymentInPercentageWithinState": 4.0,
+          "totalCountsInPercentageWithinState": 2.79,
           "averageRecipientCountInPercentageWithinState": 2.79,
           "subPrograms": []
         }
@@ -1279,6 +1363,7 @@
           "totalCountsInPercentageNationwide": 1.4,
           "averageRecipientCountInPercentageNationwide": 1.4,
           "totalPaymentInPercentageWithinState": 55.19,
+          "totalCountsInPercentageWithinState": 44.16,
           "averageRecipientCountInPercentageWithinState": 44.16,
           "subPrograms": []
         },
@@ -1291,6 +1376,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.04,
+          "totalCountsInPercentageWithinState": 0.12,
           "averageRecipientCountInPercentageWithinState": 0.12,
           "subPrograms": []
         },
@@ -1303,6 +1389,7 @@
           "totalCountsInPercentageNationwide": 0.41,
           "averageRecipientCountInPercentageNationwide": 0.41,
           "totalPaymentInPercentageWithinState": 16.15,
+          "totalCountsInPercentageWithinState": 21.62,
           "averageRecipientCountInPercentageWithinState": 21.62,
           "subPrograms": []
         },
@@ -1315,6 +1402,7 @@
           "totalCountsInPercentageNationwide": 7.42,
           "averageRecipientCountInPercentageNationwide": 7.42,
           "totalPaymentInPercentageWithinState": 28.62,
+          "totalCountsInPercentageWithinState": 34.1,
           "averageRecipientCountInPercentageWithinState": 34.1,
           "subPrograms": []
         }
@@ -1339,6 +1427,7 @@
           "totalCountsInPercentageNationwide": 4.13,
           "averageRecipientCountInPercentageNationwide": 4.13,
           "totalPaymentInPercentageWithinState": 47.83,
+          "totalCountsInPercentageWithinState": 15.04,
           "averageRecipientCountInPercentageWithinState": 15.04,
           "subPrograms": []
         },
@@ -1351,6 +1440,7 @@
           "totalCountsInPercentageNationwide": 0.89,
           "averageRecipientCountInPercentageNationwide": 0.89,
           "totalPaymentInPercentageWithinState": 39.43,
+          "totalCountsInPercentageWithinState": 76.17,
           "averageRecipientCountInPercentageWithinState": 76.17,
           "subPrograms": []
         },
@@ -1363,6 +1453,7 @@
           "totalCountsInPercentageNationwide": 1.42,
           "averageRecipientCountInPercentageNationwide": 1.42,
           "totalPaymentInPercentageWithinState": 12.23,
+          "totalCountsInPercentageWithinState": 8.53,
           "averageRecipientCountInPercentageWithinState": 8.53,
           "subPrograms": []
         },
@@ -1375,6 +1466,7 @@
           "totalCountsInPercentageNationwide": 0.5,
           "averageRecipientCountInPercentageNationwide": 0.5,
           "totalPaymentInPercentageWithinState": 0.51,
+          "totalCountsInPercentageWithinState": 0.27,
           "averageRecipientCountInPercentageWithinState": 0.27,
           "subPrograms": []
         }
@@ -1399,6 +1491,7 @@
           "totalCountsInPercentageNationwide": 0.31,
           "averageRecipientCountInPercentageNationwide": 0.31,
           "totalPaymentInPercentageWithinState": 2.83,
+          "totalCountsInPercentageWithinState": 0.61,
           "averageRecipientCountInPercentageWithinState": 0.61,
           "subPrograms": []
         },
@@ -1411,6 +1504,7 @@
           "totalCountsInPercentageNationwide": 2.11,
           "averageRecipientCountInPercentageNationwide": 2.11,
           "totalPaymentInPercentageWithinState": 93.54,
+          "totalCountsInPercentageWithinState": 96.72,
           "averageRecipientCountInPercentageWithinState": 96.72,
           "subPrograms": []
         },
@@ -1423,6 +1517,7 @@
           "totalCountsInPercentageNationwide": 0.82,
           "averageRecipientCountInPercentageNationwide": 0.82,
           "totalPaymentInPercentageWithinState": 3.63,
+          "totalCountsInPercentageWithinState": 2.66,
           "averageRecipientCountInPercentageWithinState": 2.66,
           "subPrograms": []
         },
@@ -1435,6 +1530,7 @@
           "totalCountsInPercentageNationwide": 0.05,
           "averageRecipientCountInPercentageNationwide": 0.05,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.01,
           "averageRecipientCountInPercentageWithinState": 0.01,
           "subPrograms": []
         }
@@ -1459,6 +1555,7 @@
           "totalCountsInPercentageNationwide": 2.32,
           "averageRecipientCountInPercentageNationwide": 2.32,
           "totalPaymentInPercentageWithinState": 1.41,
+          "totalCountsInPercentageWithinState": 2.15,
           "averageRecipientCountInPercentageWithinState": 2.15,
           "subPrograms": []
         },
@@ -1471,6 +1568,7 @@
           "totalCountsInPercentageNationwide": 4.26,
           "averageRecipientCountInPercentageNationwide": 4.26,
           "totalPaymentInPercentageWithinState": 95.13,
+          "totalCountsInPercentageWithinState": 92.81,
           "averageRecipientCountInPercentageWithinState": 92.81,
           "subPrograms": []
         },
@@ -1483,6 +1581,7 @@
           "totalCountsInPercentageNationwide": 3.25,
           "averageRecipientCountInPercentageNationwide": 3.25,
           "totalPaymentInPercentageWithinState": 3.28,
+          "totalCountsInPercentageWithinState": 4.98,
           "averageRecipientCountInPercentageWithinState": 4.98,
           "subPrograms": []
         },
@@ -1495,6 +1594,7 @@
           "totalCountsInPercentageNationwide": 0.43,
           "averageRecipientCountInPercentageNationwide": 0.43,
           "totalPaymentInPercentageWithinState": 0.17,
+          "totalCountsInPercentageWithinState": 0.06,
           "averageRecipientCountInPercentageWithinState": 0.06,
           "subPrograms": []
         }
@@ -1519,6 +1619,7 @@
           "totalCountsInPercentageNationwide": 2.81,
           "averageRecipientCountInPercentageNationwide": 2.81,
           "totalPaymentInPercentageWithinState": 3.6,
+          "totalCountsInPercentageWithinState": 3.52,
           "averageRecipientCountInPercentageWithinState": 3.52,
           "subPrograms": []
         },
@@ -1531,6 +1632,7 @@
           "totalCountsInPercentageNationwide": 2.94,
           "averageRecipientCountInPercentageNationwide": 2.94,
           "totalPaymentInPercentageWithinState": 88.08,
+          "totalCountsInPercentageWithinState": 86.32,
           "averageRecipientCountInPercentageWithinState": 86.32,
           "subPrograms": []
         },
@@ -1543,6 +1645,7 @@
           "totalCountsInPercentageNationwide": 4.92,
           "averageRecipientCountInPercentageNationwide": 4.92,
           "totalPaymentInPercentageWithinState": 8.32,
+          "totalCountsInPercentageWithinState": 10.16,
           "averageRecipientCountInPercentageWithinState": 10.16,
           "subPrograms": []
         },
@@ -1555,6 +1658,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -1579,6 +1683,7 @@
           "totalCountsInPercentageNationwide": 2.69,
           "averageRecipientCountInPercentageNationwide": 2.69,
           "totalPaymentInPercentageWithinState": 5.67,
+          "totalCountsInPercentageWithinState": 4.12,
           "averageRecipientCountInPercentageWithinState": 4.12,
           "subPrograms": []
         },
@@ -1591,6 +1696,7 @@
           "totalCountsInPercentageNationwide": 1.91,
           "averageRecipientCountInPercentageNationwide": 1.91,
           "totalPaymentInPercentageWithinState": 68.5,
+          "totalCountsInPercentageWithinState": 68.81,
           "averageRecipientCountInPercentageWithinState": 68.81,
           "subPrograms": []
         },
@@ -1603,6 +1709,7 @@
           "totalCountsInPercentageNationwide": 10.68,
           "averageRecipientCountInPercentageNationwide": 10.68,
           "totalPaymentInPercentageWithinState": 25.74,
+          "totalCountsInPercentageWithinState": 27.03,
           "averageRecipientCountInPercentageWithinState": 27.03,
           "subPrograms": []
         },
@@ -1615,6 +1722,7 @@
           "totalCountsInPercentageNationwide": 0.15,
           "averageRecipientCountInPercentageNationwide": 0.15,
           "totalPaymentInPercentageWithinState": 0.09,
+          "totalCountsInPercentageWithinState": 0.03,
           "averageRecipientCountInPercentageWithinState": 0.03,
           "subPrograms": []
         }
@@ -1639,6 +1747,7 @@
           "totalCountsInPercentageNationwide": 0.35,
           "averageRecipientCountInPercentageNationwide": 0.35,
           "totalPaymentInPercentageWithinState": 1.06,
+          "totalCountsInPercentageWithinState": 3.02,
           "averageRecipientCountInPercentageWithinState": 3.02,
           "subPrograms": []
         },
@@ -1651,6 +1760,7 @@
           "totalCountsInPercentageNationwide": 0.47,
           "averageRecipientCountInPercentageNationwide": 0.47,
           "totalPaymentInPercentageWithinState": 98.73,
+          "totalCountsInPercentageWithinState": 96.48,
           "averageRecipientCountInPercentageWithinState": 96.48,
           "subPrograms": []
         },
@@ -1663,6 +1773,7 @@
           "totalCountsInPercentageNationwide": 0.04,
           "averageRecipientCountInPercentageNationwide": 0.04,
           "totalPaymentInPercentageWithinState": 0.21,
+          "totalCountsInPercentageWithinState": 0.51,
           "averageRecipientCountInPercentageWithinState": 0.51,
           "subPrograms": []
         },
@@ -1675,6 +1786,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -1699,6 +1811,7 @@
           "totalCountsInPercentageNationwide": 0.2,
           "averageRecipientCountInPercentageNationwide": 0.2,
           "totalPaymentInPercentageWithinState": 39.07,
+          "totalCountsInPercentageWithinState": 31.28,
           "averageRecipientCountInPercentageWithinState": 31.28,
           "subPrograms": []
         },
@@ -1711,6 +1824,7 @@
           "totalCountsInPercentageNationwide": 0.02,
           "averageRecipientCountInPercentageNationwide": 0.02,
           "totalPaymentInPercentageWithinState": 46.07,
+          "totalCountsInPercentageWithinState": 64.8,
           "averageRecipientCountInPercentageWithinState": 64.8,
           "subPrograms": []
         },
@@ -1723,6 +1837,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.07,
+          "totalCountsInPercentageWithinState": 0.56,
           "averageRecipientCountInPercentageWithinState": 0.56,
           "subPrograms": []
         },
@@ -1735,6 +1850,7 @@
           "totalCountsInPercentageNationwide": 0.15,
           "averageRecipientCountInPercentageNationwide": 0.15,
           "totalPaymentInPercentageWithinState": 14.79,
+          "totalCountsInPercentageWithinState": 3.35,
           "averageRecipientCountInPercentageWithinState": 3.35,
           "subPrograms": []
         }
@@ -1759,6 +1875,7 @@
           "totalCountsInPercentageNationwide": 0.17,
           "averageRecipientCountInPercentageNationwide": 0.17,
           "totalPaymentInPercentageWithinState": 68.54,
+          "totalCountsInPercentageWithinState": 50.54,
           "averageRecipientCountInPercentageWithinState": 50.54,
           "subPrograms": []
         },
@@ -1771,6 +1888,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -1783,6 +1901,7 @@
           "totalCountsInPercentageNationwide": 0.02,
           "averageRecipientCountInPercentageNationwide": 0.02,
           "totalPaymentInPercentageWithinState": 6.3,
+          "totalCountsInPercentageWithinState": 10.75,
           "averageRecipientCountInPercentageWithinState": 10.75,
           "subPrograms": []
         },
@@ -1795,6 +1914,7 @@
           "totalCountsInPercentageNationwide": 0.91,
           "averageRecipientCountInPercentageNationwide": 0.91,
           "totalPaymentInPercentageWithinState": 25.15,
+          "totalCountsInPercentageWithinState": 38.71,
           "averageRecipientCountInPercentageWithinState": 38.71,
           "subPrograms": []
         }
@@ -1819,6 +1939,7 @@
           "totalCountsInPercentageNationwide": 0.96,
           "averageRecipientCountInPercentageNationwide": 0.96,
           "totalPaymentInPercentageWithinState": 0.55,
+          "totalCountsInPercentageWithinState": 1.23,
           "averageRecipientCountInPercentageWithinState": 1.23,
           "subPrograms": []
         },
@@ -1831,6 +1952,7 @@
           "totalCountsInPercentageNationwide": 3.21,
           "averageRecipientCountInPercentageNationwide": 3.21,
           "totalPaymentInPercentageWithinState": 90.05,
+          "totalCountsInPercentageWithinState": 96.52,
           "averageRecipientCountInPercentageWithinState": 96.52,
           "subPrograms": []
         },
@@ -1843,6 +1965,7 @@
           "totalCountsInPercentageNationwide": 1.05,
           "averageRecipientCountInPercentageNationwide": 1.05,
           "totalPaymentInPercentageWithinState": 9.33,
+          "totalCountsInPercentageWithinState": 2.21,
           "averageRecipientCountInPercentageWithinState": 2.21,
           "subPrograms": []
         },
@@ -1855,6 +1978,7 @@
           "totalCountsInPercentageNationwide": 0.18,
           "averageRecipientCountInPercentageNationwide": 0.18,
           "totalPaymentInPercentageWithinState": 0.07,
+          "totalCountsInPercentageWithinState": 0.03,
           "averageRecipientCountInPercentageWithinState": 0.03,
           "subPrograms": []
         }
@@ -1879,6 +2003,7 @@
           "totalCountsInPercentageNationwide": 2.95,
           "averageRecipientCountInPercentageNationwide": 2.95,
           "totalPaymentInPercentageWithinState": 53.87,
+          "totalCountsInPercentageWithinState": 29.88,
           "averageRecipientCountInPercentageWithinState": 29.88,
           "subPrograms": []
         },
@@ -1891,6 +2016,7 @@
           "totalCountsInPercentageNationwide": 0.27,
           "averageRecipientCountInPercentageNationwide": 0.27,
           "totalPaymentInPercentageWithinState": 30.21,
+          "totalCountsInPercentageWithinState": 63.87,
           "averageRecipientCountInPercentageWithinState": 63.87,
           "subPrograms": []
         },
@@ -1903,6 +2029,7 @@
           "totalCountsInPercentageNationwide": 0.1,
           "averageRecipientCountInPercentageNationwide": 0.1,
           "totalPaymentInPercentageWithinState": 4.25,
+          "totalCountsInPercentageWithinState": 1.63,
           "averageRecipientCountInPercentageWithinState": 1.63,
           "subPrograms": []
         },
@@ -1915,6 +2042,7 @@
           "totalCountsInPercentageNationwide": 3.15,
           "averageRecipientCountInPercentageNationwide": 3.15,
           "totalPaymentInPercentageWithinState": 11.67,
+          "totalCountsInPercentageWithinState": 4.63,
           "averageRecipientCountInPercentageWithinState": 4.63,
           "subPrograms": []
         }
@@ -1939,6 +2067,7 @@
           "totalCountsInPercentageNationwide": 2.4,
           "averageRecipientCountInPercentageNationwide": 2.4,
           "totalPaymentInPercentageWithinState": 22.13,
+          "totalCountsInPercentageWithinState": 19.04,
           "averageRecipientCountInPercentageWithinState": 19.04,
           "subPrograms": []
         },
@@ -1951,6 +2080,7 @@
           "totalCountsInPercentageNationwide": 0.31,
           "averageRecipientCountInPercentageNationwide": 0.31,
           "totalPaymentInPercentageWithinState": 26.76,
+          "totalCountsInPercentageWithinState": 57.57,
           "averageRecipientCountInPercentageWithinState": 57.57,
           "subPrograms": []
         },
@@ -1963,6 +2093,7 @@
           "totalCountsInPercentageNationwide": 1.53,
           "averageRecipientCountInPercentageNationwide": 1.53,
           "totalPaymentInPercentageWithinState": 26.95,
+          "totalCountsInPercentageWithinState": 20.03,
           "averageRecipientCountInPercentageWithinState": 20.03,
           "subPrograms": []
         },
@@ -1975,6 +2106,7 @@
           "totalCountsInPercentageNationwide": 2.92,
           "averageRecipientCountInPercentageNationwide": 2.92,
           "totalPaymentInPercentageWithinState": 24.16,
+          "totalCountsInPercentageWithinState": 3.36,
           "averageRecipientCountInPercentageWithinState": 3.36,
           "subPrograms": []
         }
@@ -1999,6 +2131,7 @@
           "totalCountsInPercentageNationwide": 2.27,
           "averageRecipientCountInPercentageNationwide": 2.27,
           "totalPaymentInPercentageWithinState": 7.39,
+          "totalCountsInPercentageWithinState": 2.53,
           "averageRecipientCountInPercentageWithinState": 2.53,
           "subPrograms": []
         },
@@ -2011,6 +2144,7 @@
           "totalCountsInPercentageNationwide": 3.61,
           "averageRecipientCountInPercentageNationwide": 3.61,
           "totalPaymentInPercentageWithinState": 89.29,
+          "totalCountsInPercentageWithinState": 94.2,
           "averageRecipientCountInPercentageWithinState": 94.2,
           "subPrograms": []
         },
@@ -2023,6 +2157,7 @@
           "totalCountsInPercentageNationwide": 1.78,
           "averageRecipientCountInPercentageNationwide": 1.78,
           "totalPaymentInPercentageWithinState": 3.32,
+          "totalCountsInPercentageWithinState": 3.28,
           "averageRecipientCountInPercentageWithinState": 3.28,
           "subPrograms": []
         },
@@ -2035,6 +2170,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -2059,6 +2195,7 @@
           "totalCountsInPercentageNationwide": 2.3,
           "averageRecipientCountInPercentageNationwide": 2.3,
           "totalPaymentInPercentageWithinState": 45.45,
+          "totalCountsInPercentageWithinState": 51.77,
           "averageRecipientCountInPercentageWithinState": 51.77,
           "subPrograms": []
         },
@@ -2071,6 +2208,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -2083,6 +2221,7 @@
           "totalCountsInPercentageNationwide": 0.92,
           "averageRecipientCountInPercentageNationwide": 0.92,
           "totalPaymentInPercentageWithinState": 18.7,
+          "totalCountsInPercentageWithinState": 34.13,
           "averageRecipientCountInPercentageWithinState": 34.13,
           "subPrograms": []
         },
@@ -2095,6 +2234,7 @@
           "totalCountsInPercentageNationwide": 4.3,
           "averageRecipientCountInPercentageNationwide": 4.3,
           "totalPaymentInPercentageWithinState": 35.84,
+          "totalCountsInPercentageWithinState": 14.1,
           "averageRecipientCountInPercentageWithinState": 14.1,
           "subPrograms": []
         }
@@ -2119,6 +2259,7 @@
           "totalCountsInPercentageNationwide": 1.98,
           "averageRecipientCountInPercentageNationwide": 1.98,
           "totalPaymentInPercentageWithinState": 0.41,
+          "totalCountsInPercentageWithinState": 0.55,
           "averageRecipientCountInPercentageWithinState": 0.55,
           "subPrograms": []
         },
@@ -2131,6 +2272,7 @@
           "totalCountsInPercentageNationwide": 14.77,
           "averageRecipientCountInPercentageNationwide": 14.77,
           "totalPaymentInPercentageWithinState": 97.77,
+          "totalCountsInPercentageWithinState": 96.76,
           "averageRecipientCountInPercentageWithinState": 96.76,
           "subPrograms": []
         },
@@ -2143,6 +2285,7 @@
           "totalCountsInPercentageNationwide": 5.79,
           "averageRecipientCountInPercentageNationwide": 5.79,
           "totalPaymentInPercentageWithinState": 1.79,
+          "totalCountsInPercentageWithinState": 2.67,
           "averageRecipientCountInPercentageWithinState": 2.67,
           "subPrograms": []
         },
@@ -2155,6 +2298,7 @@
           "totalCountsInPercentageNationwide": 0.38,
           "averageRecipientCountInPercentageNationwide": 0.38,
           "totalPaymentInPercentageWithinState": 0.03,
+          "totalCountsInPercentageWithinState": 0.02,
           "averageRecipientCountInPercentageWithinState": 0.02,
           "subPrograms": []
         }
@@ -2179,6 +2323,7 @@
           "totalCountsInPercentageNationwide": 4.43,
           "averageRecipientCountInPercentageNationwide": 4.43,
           "totalPaymentInPercentageWithinState": 6.57,
+          "totalCountsInPercentageWithinState": 8.17,
           "averageRecipientCountInPercentageWithinState": 8.17,
           "subPrograms": []
         },
@@ -2191,6 +2336,7 @@
           "totalCountsInPercentageNationwide": 2.01,
           "averageRecipientCountInPercentageNationwide": 2.01,
           "totalPaymentInPercentageWithinState": 88.3,
+          "totalCountsInPercentageWithinState": 86.82,
           "averageRecipientCountInPercentageWithinState": 86.82,
           "subPrograms": []
         },
@@ -2203,6 +2349,7 @@
           "totalCountsInPercentageNationwide": 1.19,
           "averageRecipientCountInPercentageNationwide": 1.19,
           "totalPaymentInPercentageWithinState": 3.29,
+          "totalCountsInPercentageWithinState": 3.63,
           "averageRecipientCountInPercentageWithinState": 3.63,
           "subPrograms": []
         },
@@ -2215,6 +2362,7 @@
           "totalCountsInPercentageNationwide": 5.13,
           "averageRecipientCountInPercentageNationwide": 5.13,
           "totalPaymentInPercentageWithinState": 1.84,
+          "totalCountsInPercentageWithinState": 1.38,
           "averageRecipientCountInPercentageWithinState": 1.38,
           "subPrograms": []
         }
@@ -2239,6 +2387,7 @@
           "totalCountsInPercentageNationwide": 2.48,
           "averageRecipientCountInPercentageNationwide": 2.48,
           "totalPaymentInPercentageWithinState": 86.74,
+          "totalCountsInPercentageWithinState": 58.92,
           "averageRecipientCountInPercentageWithinState": 58.92,
           "subPrograms": []
         },
@@ -2251,6 +2400,7 @@
           "totalCountsInPercentageNationwide": 0.06,
           "averageRecipientCountInPercentageNationwide": 0.06,
           "totalPaymentInPercentageWithinState": 2.29,
+          "totalCountsInPercentageWithinState": 34.46,
           "averageRecipientCountInPercentageWithinState": 34.46,
           "subPrograms": []
         },
@@ -2263,6 +2413,7 @@
           "totalCountsInPercentageNationwide": 0.02,
           "averageRecipientCountInPercentageNationwide": 0.02,
           "totalPaymentInPercentageWithinState": 2.75,
+          "totalCountsInPercentageWithinState": 0.96,
           "averageRecipientCountInPercentageWithinState": 0.96,
           "subPrograms": []
         },
@@ -2275,6 +2426,7 @@
           "totalCountsInPercentageNationwide": 1.64,
           "averageRecipientCountInPercentageNationwide": 1.64,
           "totalPaymentInPercentageWithinState": 8.22,
+          "totalCountsInPercentageWithinState": 5.66,
           "averageRecipientCountInPercentageWithinState": 5.66,
           "subPrograms": []
         }
@@ -2299,6 +2451,7 @@
           "totalCountsInPercentageNationwide": 0.06,
           "averageRecipientCountInPercentageNationwide": 0.06,
           "totalPaymentInPercentageWithinState": 10.6,
+          "totalCountsInPercentageWithinState": 25.4,
           "averageRecipientCountInPercentageWithinState": 25.4,
           "subPrograms": []
         },
@@ -2311,6 +2464,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 48.37,
+          "totalCountsInPercentageWithinState": 46.03,
           "averageRecipientCountInPercentageWithinState": 46.03,
           "subPrograms": []
         },
@@ -2323,6 +2477,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 4.96,
+          "totalCountsInPercentageWithinState": 3.17,
           "averageRecipientCountInPercentageWithinState": 3.17,
           "subPrograms": []
         },
@@ -2335,6 +2490,7 @@
           "totalCountsInPercentageNationwide": 0.4,
           "averageRecipientCountInPercentageNationwide": 0.4,
           "totalPaymentInPercentageWithinState": 36.07,
+          "totalCountsInPercentageWithinState": 25.4,
           "averageRecipientCountInPercentageWithinState": 25.4,
           "subPrograms": []
         }
@@ -2359,6 +2515,7 @@
           "totalCountsInPercentageNationwide": 0.36,
           "averageRecipientCountInPercentageNationwide": 0.36,
           "totalPaymentInPercentageWithinState": 2.31,
+          "totalCountsInPercentageWithinState": 2.43,
           "averageRecipientCountInPercentageWithinState": 2.43,
           "subPrograms": []
         },
@@ -2371,6 +2528,7 @@
           "totalCountsInPercentageNationwide": 0.6,
           "averageRecipientCountInPercentageNationwide": 0.6,
           "totalPaymentInPercentageWithinState": 90.11,
+          "totalCountsInPercentageWithinState": 94.39,
           "averageRecipientCountInPercentageWithinState": 94.39,
           "subPrograms": []
         },
@@ -2383,6 +2541,7 @@
           "totalCountsInPercentageNationwide": 0.26,
           "averageRecipientCountInPercentageNationwide": 0.26,
           "totalPaymentInPercentageWithinState": 6.4,
+          "totalCountsInPercentageWithinState": 2.87,
           "averageRecipientCountInPercentageWithinState": 2.87,
           "subPrograms": []
         },
@@ -2395,6 +2554,7 @@
           "totalCountsInPercentageNationwide": 0.33,
           "averageRecipientCountInPercentageNationwide": 0.33,
           "totalPaymentInPercentageWithinState": 1.17,
+          "totalCountsInPercentageWithinState": 0.32,
           "averageRecipientCountInPercentageWithinState": 0.32,
           "subPrograms": []
         }
@@ -2419,6 +2579,7 @@
           "totalCountsInPercentageNationwide": 7.89,
           "averageRecipientCountInPercentageNationwide": 7.89,
           "totalPaymentInPercentageWithinState": 6.87,
+          "totalCountsInPercentageWithinState": 6.17,
           "averageRecipientCountInPercentageWithinState": 6.17,
           "subPrograms": []
         },
@@ -2431,6 +2592,7 @@
           "totalCountsInPercentageNationwide": 4.44,
           "averageRecipientCountInPercentageNationwide": 4.44,
           "totalPaymentInPercentageWithinState": 81.17,
+          "totalCountsInPercentageWithinState": 81.39,
           "averageRecipientCountInPercentageWithinState": 81.39,
           "subPrograms": []
         },
@@ -2443,6 +2605,7 @@
           "totalCountsInPercentageNationwide": 9.65,
           "averageRecipientCountInPercentageNationwide": 9.65,
           "totalPaymentInPercentageWithinState": 11.97,
+          "totalCountsInPercentageWithinState": 12.44,
           "averageRecipientCountInPercentageWithinState": 12.44,
           "subPrograms": []
         },
@@ -2455,6 +2618,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -2479,6 +2643,7 @@
           "totalCountsInPercentageNationwide": 0.31,
           "averageRecipientCountInPercentageNationwide": 0.31,
           "totalPaymentInPercentageWithinState": 0.91,
+          "totalCountsInPercentageWithinState": 0.47,
           "averageRecipientCountInPercentageWithinState": 0.47,
           "subPrograms": []
         },
@@ -2491,6 +2656,7 @@
           "totalCountsInPercentageNationwide": 2.66,
           "averageRecipientCountInPercentageNationwide": 2.66,
           "totalPaymentInPercentageWithinState": 84.25,
+          "totalCountsInPercentageWithinState": 94.6,
           "averageRecipientCountInPercentageWithinState": 94.6,
           "subPrograms": []
         },
@@ -2503,6 +2669,7 @@
           "totalCountsInPercentageNationwide": 1.64,
           "averageRecipientCountInPercentageNationwide": 1.64,
           "totalPaymentInPercentageWithinState": 6.64,
+          "totalCountsInPercentageWithinState": 4.11,
           "averageRecipientCountInPercentageWithinState": 4.11,
           "subPrograms": []
         },
@@ -2515,6 +2682,7 @@
           "totalCountsInPercentageNationwide": 3.75,
           "averageRecipientCountInPercentageNationwide": 3.75,
           "totalPaymentInPercentageWithinState": 8.2,
+          "totalCountsInPercentageWithinState": 0.83,
           "averageRecipientCountInPercentageWithinState": 0.83,
           "subPrograms": []
         }
@@ -2539,6 +2707,7 @@
           "totalCountsInPercentageNationwide": 6.08,
           "averageRecipientCountInPercentageNationwide": 6.08,
           "totalPaymentInPercentageWithinState": 5.74,
+          "totalCountsInPercentageWithinState": 1.02,
           "averageRecipientCountInPercentageWithinState": 1.02,
           "subPrograms": []
         },
@@ -2551,6 +2720,7 @@
           "totalCountsInPercentageNationwide": 24.68,
           "averageRecipientCountInPercentageNationwide": 24.68,
           "totalPaymentInPercentageWithinState": 89.73,
+          "totalCountsInPercentageWithinState": 97.3,
           "averageRecipientCountInPercentageWithinState": 97.3,
           "subPrograms": []
         },
@@ -2563,6 +2733,7 @@
           "totalCountsInPercentageNationwide": 5.85,
           "averageRecipientCountInPercentageNationwide": 5.85,
           "totalPaymentInPercentageWithinState": 4.12,
+          "totalCountsInPercentageWithinState": 1.62,
           "averageRecipientCountInPercentageWithinState": 1.62,
           "subPrograms": []
         },
@@ -2575,6 +2746,7 @@
           "totalCountsInPercentageNationwide": 2.21,
           "averageRecipientCountInPercentageNationwide": 2.21,
           "totalPaymentInPercentageWithinState": 0.41,
+          "totalCountsInPercentageWithinState": 0.05,
           "averageRecipientCountInPercentageWithinState": 0.05,
           "subPrograms": []
         }
@@ -2599,6 +2771,7 @@
           "totalCountsInPercentageNationwide": 2.92,
           "averageRecipientCountInPercentageNationwide": 2.92,
           "totalPaymentInPercentageWithinState": 4.02,
+          "totalCountsInPercentageWithinState": 6.19,
           "averageRecipientCountInPercentageWithinState": 6.19,
           "subPrograms": []
         },
@@ -2611,6 +2784,7 @@
           "totalCountsInPercentageNationwide": 1.86,
           "averageRecipientCountInPercentageNationwide": 1.86,
           "totalPaymentInPercentageWithinState": 94.9,
+          "totalCountsInPercentageWithinState": 92.4,
           "averageRecipientCountInPercentageWithinState": 92.4,
           "subPrograms": []
         },
@@ -2623,6 +2797,7 @@
           "totalCountsInPercentageNationwide": 0.4,
           "averageRecipientCountInPercentageNationwide": 0.4,
           "totalPaymentInPercentageWithinState": 1.08,
+          "totalCountsInPercentageWithinState": 1.41,
           "averageRecipientCountInPercentageWithinState": 1.41,
           "subPrograms": []
         },
@@ -2635,6 +2810,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -2659,6 +2835,7 @@
           "totalCountsInPercentageNationwide": 0.47,
           "averageRecipientCountInPercentageNationwide": 0.47,
           "totalPaymentInPercentageWithinState": 95.64,
+          "totalCountsInPercentageWithinState": 96.27,
           "averageRecipientCountInPercentageWithinState": 96.27,
           "subPrograms": []
         },
@@ -2671,6 +2848,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -2683,6 +2861,7 @@
           "totalCountsInPercentageNationwide": 0.01,
           "averageRecipientCountInPercentageNationwide": 0.01,
           "totalPaymentInPercentageWithinState": 4.36,
+          "totalCountsInPercentageWithinState": 3.73,
           "averageRecipientCountInPercentageWithinState": 3.73,
           "subPrograms": []
         },
@@ -2695,6 +2874,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -2719,6 +2899,7 @@
           "totalCountsInPercentageNationwide": 0.83,
           "averageRecipientCountInPercentageNationwide": 0.83,
           "totalPaymentInPercentageWithinState": 29.17,
+          "totalCountsInPercentageWithinState": 23.05,
           "averageRecipientCountInPercentageWithinState": 23.05,
           "subPrograms": []
         },
@@ -2731,6 +2912,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -2743,6 +2925,7 @@
           "totalCountsInPercentageNationwide": 1.53,
           "averageRecipientCountInPercentageNationwide": 1.53,
           "totalPaymentInPercentageWithinState": 56.01,
+          "totalCountsInPercentageWithinState": 69.95,
           "averageRecipientCountInPercentageWithinState": 69.95,
           "subPrograms": []
         },
@@ -2755,6 +2938,7 @@
           "totalCountsInPercentageNationwide": 1.74,
           "averageRecipientCountInPercentageNationwide": 1.74,
           "totalPaymentInPercentageWithinState": 14.82,
+          "totalCountsInPercentageWithinState": 7.01,
           "averageRecipientCountInPercentageWithinState": 7.01,
           "subPrograms": []
         }
@@ -2779,6 +2963,7 @@
           "totalCountsInPercentageNationwide": 2.18,
           "averageRecipientCountInPercentageNationwide": 2.18,
           "totalPaymentInPercentageWithinState": 14.44,
+          "totalCountsInPercentageWithinState": 12.97,
           "averageRecipientCountInPercentageWithinState": 12.97,
           "subPrograms": []
         },
@@ -2791,6 +2976,7 @@
           "totalCountsInPercentageNationwide": 0.56,
           "averageRecipientCountInPercentageNationwide": 0.56,
           "totalPaymentInPercentageWithinState": 61.49,
+          "totalCountsInPercentageWithinState": 77.47,
           "averageRecipientCountInPercentageWithinState": 77.47,
           "subPrograms": []
         },
@@ -2803,6 +2989,7 @@
           "totalCountsInPercentageNationwide": 0.87,
           "averageRecipientCountInPercentageNationwide": 0.87,
           "totalPaymentInPercentageWithinState": 22.35,
+          "totalCountsInPercentageWithinState": 8.56,
           "averageRecipientCountInPercentageWithinState": 8.56,
           "subPrograms": []
         },
@@ -2815,6 +3002,7 @@
           "totalCountsInPercentageNationwide": 1.16,
           "averageRecipientCountInPercentageNationwide": 1.16,
           "totalPaymentInPercentageWithinState": 1.72,
+          "totalCountsInPercentageWithinState": 1.0,
           "averageRecipientCountInPercentageWithinState": 1.0,
           "subPrograms": []
         }
@@ -2839,6 +3027,7 @@
           "totalCountsInPercentageNationwide": 3.78,
           "averageRecipientCountInPercentageNationwide": 3.78,
           "totalPaymentInPercentageWithinState": 22.94,
+          "totalCountsInPercentageWithinState": 46.32,
           "averageRecipientCountInPercentageWithinState": 46.32,
           "subPrograms": []
         },
@@ -2851,6 +3040,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         },
@@ -2863,6 +3053,7 @@
           "totalCountsInPercentageNationwide": 2.66,
           "averageRecipientCountInPercentageNationwide": 2.66,
           "totalPaymentInPercentageWithinState": 77.06,
+          "totalCountsInPercentageWithinState": 53.68,
           "averageRecipientCountInPercentageWithinState": 53.68,
           "subPrograms": []
         },
@@ -2875,6 +3066,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
@@ -2899,6 +3091,7 @@
           "totalCountsInPercentageNationwide": 6.77,
           "averageRecipientCountInPercentageNationwide": 6.77,
           "totalPaymentInPercentageWithinState": 83.48,
+          "totalCountsInPercentageWithinState": 75.84,
           "averageRecipientCountInPercentageWithinState": 75.84,
           "subPrograms": []
         },
@@ -2911,6 +3104,7 @@
           "totalCountsInPercentageNationwide": 0.03,
           "averageRecipientCountInPercentageNationwide": 0.03,
           "totalPaymentInPercentageWithinState": 0.91,
+          "totalCountsInPercentageWithinState": 8.53,
           "averageRecipientCountInPercentageWithinState": 8.53,
           "subPrograms": []
         },
@@ -2923,6 +3117,7 @@
           "totalCountsInPercentageNationwide": 0.69,
           "averageRecipientCountInPercentageNationwide": 0.69,
           "totalPaymentInPercentageWithinState": 13.06,
+          "totalCountsInPercentageWithinState": 12.8,
           "averageRecipientCountInPercentageWithinState": 12.8,
           "subPrograms": []
         },
@@ -2935,6 +3130,7 @@
           "totalCountsInPercentageNationwide": 1.74,
           "averageRecipientCountInPercentageNationwide": 1.74,
           "totalPaymentInPercentageWithinState": 2.55,
+          "totalCountsInPercentageWithinState": 2.83,
           "averageRecipientCountInPercentageWithinState": 2.83,
           "subPrograms": []
         }
@@ -2959,6 +3155,7 @@
           "totalCountsInPercentageNationwide": 1.46,
           "averageRecipientCountInPercentageNationwide": 1.46,
           "totalPaymentInPercentageWithinState": 5.16,
+          "totalCountsInPercentageWithinState": 4.66,
           "averageRecipientCountInPercentageWithinState": 4.66,
           "subPrograms": []
         },
@@ -2971,6 +3168,7 @@
           "totalCountsInPercentageNationwide": 1.2,
           "averageRecipientCountInPercentageNationwide": 1.2,
           "totalPaymentInPercentageWithinState": 90.42,
+          "totalCountsInPercentageWithinState": 89.83,
           "averageRecipientCountInPercentageWithinState": 89.83,
           "subPrograms": []
         },
@@ -2983,6 +3181,7 @@
           "totalCountsInPercentageNationwide": 1.05,
           "averageRecipientCountInPercentageNationwide": 1.05,
           "totalPaymentInPercentageWithinState": 4.42,
+          "totalCountsInPercentageWithinState": 5.51,
           "averageRecipientCountInPercentageWithinState": 5.51,
           "subPrograms": []
         },
@@ -2995,6 +3194,7 @@
           "totalCountsInPercentageNationwide": 0.0,
           "averageRecipientCountInPercentageNationwide": 0.0,
           "totalPaymentInPercentageWithinState": 0.0,
+          "totalCountsInPercentageWithinState": 0.0,
           "averageRecipientCountInPercentageWithinState": 0.0,
           "subPrograms": []
         }
