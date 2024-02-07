@@ -249,7 +249,7 @@ class RcppParser:
                         "assistancePaymentInDollars": int(sum_by_assistance_payments_by_state[state].item() * 1000),
                         "reimbursePaymentInDollars": int(sum_by_reimburse_payments_by_state[state].item() * 1000),
                         "techPaymentInDollars": int(sum_by_tech_payments_by_state[state].item() * 1000),
-                        "paymentInDollars": int(sum_by_total_payments_by_state[state].item() * 1000),
+                        "totalPaymentInDollars": int(sum_by_total_payments_by_state[state].item() * 1000),
                         "contractsInPercentageNationwide": contract_percentage_nation,
                         "acresInPercentageNationwide": acres_percentage_nation,
                         "assistancePaymentInPercentageNationwide": assistant_percentage_nation,
@@ -311,7 +311,7 @@ class RcppParser:
                     "assistancePaymentInDollars": int(total_by_assistance_payments.item() * 1000),
                     "reimbursePaymentInDollars": int(total_by_reimburse_payments.item() * 1000),
                     "techPaymentInDollars": int(total_by_tech_payments.item() * 1000),
-                    "paymentInDollars": int(total_by_total_payments * 1000),
+                    "totalPaymentInDollars": int(total_by_total_payments * 1000),
                     "subPrograms": []
                 },
             ]

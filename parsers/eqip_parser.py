@@ -108,13 +108,13 @@ class EqipParser:
             if not for_percentage_json:
                 zero_practice_category_entries.append({
                     "practiceCategoryName": entry,
-                    "paymentInDollars": 0
+                    "totalPaymentInDollars": 0
                 })
             else:
                 zero_practice_category_entries.append({
                     "practiceCategoryName": entry,
-                    "paymentInDollars": 0.0,
-                    "paymentInPercentageWithinState": 0.00
+                    "totalPaymentInDollars": 0.0,
+                    "totalPaymentInPercentageWithinState": 0.00
 
                 })
         return zero_practice_category_entries
@@ -173,7 +173,7 @@ class EqipParser:
                     if statute["statuteName"] == statute_name:
                         statute["practiceCategories"].append({
                             "practiceCategoryName": category_name,
-                            "paymentInDollars": rounded_payment
+                            "totalPaymentInDollars": rounded_payment
                         })
 
                 # Update self.processed_data_dict
@@ -229,7 +229,7 @@ class EqipParser:
                     if statute["statuteName"] == statute_name:
                         statute["practiceCategories"].append({
                             "practiceCategoryName": category_name,
-                            "paymentInDollars": rounded_payment
+                            "totalPaymentInDollars": rounded_payment
                         })
 
                 found = False
@@ -253,7 +253,7 @@ class EqipParser:
                     total_payment_in_dollars = 0
                     for statute in year_data["statutes"]:
                         for statute_category in statute["practiceCategories"]:
-                            total_payment_in_dollars += statute_category["paymentInDollars"]
+                            total_payment_in_dollars += statute_category["totalPaymentInDollars"]
                     year_data["totalPaymentInDollars"] = round(total_payment_in_dollars, 2)
 
             # Add zero entries
@@ -308,13 +308,13 @@ class EqipParser:
                     "statutes": [
                         {
                             "statuteName": "(6)(A) Practices",
-                            "statutePaymentInDollars": 0.0,
+                            "totalPaymentInDollars": 0.0,
                             "practiceCategories": [
                             ]
                         },
                         {
                             "statuteName": "(6)(B) Practices",
-                            "statutePaymentInDollars": 0.0,
+                            "totalPaymentInDollars": 0.0,
                             "practiceCategories": [
                             ]
                         }
@@ -340,11 +340,11 @@ class EqipParser:
                             if statute["statuteName"] == statute_name:
                                 statute["practiceCategories"].append({
                                     "practiceCategoryName": category_name,
-                                    "paymentInDollars": category_payment,
-                                    "paymentInPercentageNationwide": category_percentage_nationwide,
-                                    "paymentInPercentageWithinState": category_percentage_within_state
+                                    "totalPaymentInDollars": category_payment,
+                                    "totalPaymentInPercentageNationwide": category_percentage_nationwide,
+                                    "totalPaymentInPercentageWithinState": category_percentage_within_state
                                 })
-                                statute["statutePaymentInDollars"] += category_payment
+                                statute["totalPaymentInDollars"] += category_payment
 
                 self.percentages_data_dict[state_name] = [new_data_entry]
 
@@ -352,8 +352,8 @@ class EqipParser:
             for state_name in self.percentages_data_dict:
                 for year_data in self.percentages_data_dict[state_name]:
                     for statute in year_data["statutes"]:
-                        # Round statutePaymentInDollars
-                        statute["statutePaymentInDollars"] = round(statute["statutePaymentInDollars"], 2)
+                        # Round totalPaymentInDollars
+                        statute["totalPaymentInDollars"] = round(statute["totalPaymentInDollars"], 2)
                         statue_categories_list = []
                         for statute_category in statute["practiceCategories"]:
                             statue_categories_list.append(statute_category["practiceCategoryName"])
@@ -364,7 +364,7 @@ class EqipParser:
 
                         # Sort categories by percentages
                         statute["practiceCategories"].sort(reverse=True,
-                                                           key=lambda x: x["paymentInPercentageWithinState"])
+                                                           key=lambda x: x["totalPaymentInPercentageWithinState"])
 
             # Sort states by decreasing order of percentages
             self.percentages_data_dict = dict(sorted(self.percentages_data_dict.items(),

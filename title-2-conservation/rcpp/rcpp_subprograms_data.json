@@ -7,7 +7,7 @@
       "assistancePaymentInDollars": 250273400,
       "reimbursePaymentInDollars": 0,
       "techPaymentInDollars": 125543400,
-      "paymentInDollars": 375816800,
+      "totalPaymentInDollars": 375816800,
       "subPrograms": []
     }
   ]
