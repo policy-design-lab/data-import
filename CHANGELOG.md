@@ -61,6 +61,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Output json files' state name changed to state abbreviation [#76](https://github.com/policy-design-lab/data-import/issues/76)
 - Restore percentage field in subtitle D and E json files [#83](https://github.com/policy-design-lab/data-import/issues/83)
 - Renaming items for title I [#84](https://github.com/policy-design-lab/data-import/issues/84)
+- Renaming items for title II [#85](https://github.com/policy-design-lab/data-import/issues/85)
 
 ### Fixed
 
