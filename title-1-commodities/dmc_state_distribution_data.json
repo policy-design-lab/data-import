@@ -7,7 +7,7 @@
       "totalPaymentInDollars": 455805834.33,
       "averageRecipientCount": 18430.0,
       "totalPaymentInPercentageNationwide": 23.15,
-      "totalCountInPercentageNationwide": 27.17,
+      "totalCountsInPercentageNationwide": 27.17,
       "averageRecipientCountInPercentageNationwide": 27.17,
       "programs": []
     },
@@ -18,7 +18,7 @@
       "totalPaymentInDollars": 186846464.5,
       "averageRecipientCount": 8224.75,
       "totalPaymentInPercentageNationwide": 9.49,
-      "totalCountInPercentageNationwide": 12.13,
+      "totalCountsInPercentageNationwide": 12.13,
       "averageRecipientCountInPercentageNationwide": 12.13,
       "programs": []
     },
@@ -29,7 +29,7 @@
       "totalPaymentInDollars": 177252647.44,
       "averageRecipientCount": 6993.38,
       "totalPaymentInPercentageNationwide": 9.0,
-      "totalCountInPercentageNationwide": 10.31,
+      "totalCountsInPercentageNationwide": 10.31,
       "averageRecipientCountInPercentageNationwide": 10.31,
       "programs": []
     },
@@ -40,7 +40,7 @@
       "totalPaymentInDollars": 173723422.73,
       "averageRecipientCount": 2522.5,
       "totalPaymentInPercentageNationwide": 8.82,
-      "totalCountInPercentageNationwide": 3.72,
+      "totalCountsInPercentageNationwide": 3.72,
       "averageRecipientCountInPercentageNationwide": 3.72,
       "programs": []
     },
@@ -51,7 +51,7 @@
       "totalPaymentInDollars": 145000484.12,
       "averageRecipientCount": 5968.75,
       "totalPaymentInPercentageNationwide": 7.36,
-      "totalCountInPercentageNationwide": 8.8,
+      "totalCountsInPercentageNationwide": 8.8,
       "averageRecipientCountInPercentageNationwide": 8.8,
       "programs": []
     },
@@ -62,7 +62,7 @@
       "totalPaymentInDollars": 93707768.23,
       "averageRecipientCount": 2561.25,
       "totalPaymentInPercentageNationwide": 4.76,
-      "totalCountInPercentageNationwide": 3.78,
+      "totalCountsInPercentageNationwide": 3.78,
       "averageRecipientCountInPercentageNationwide": 3.78,
       "programs": []
     },
@@ -73,7 +73,7 @@
       "totalPaymentInDollars": 81936880.53,
       "averageRecipientCount": 3243.88,
       "totalPaymentInPercentageNationwide": 4.16,
-      "totalCountInPercentageNationwide": 4.78,
+      "totalCountsInPercentageNationwide": 4.78,
       "averageRecipientCountInPercentageNationwide": 4.78,
       "programs": []
     },
@@ -84,7 +84,7 @@
       "totalPaymentInDollars": 76705792.14,
       "averageRecipientCount": 2630.38,
       "totalPaymentInPercentageNationwide": 3.9,
-      "totalCountInPercentageNationwide": 3.88,
+      "totalCountsInPercentageNationwide": 3.88,
       "averageRecipientCountInPercentageNationwide": 3.88,
       "programs": []
     },
@@ -95,7 +95,7 @@
       "totalPaymentInDollars": 43455737.51,
       "averageRecipientCount": 1618.88,
       "totalPaymentInPercentageNationwide": 2.21,
-      "totalCountInPercentageNationwide": 2.39,
+      "totalCountsInPercentageNationwide": 2.39,
       "averageRecipientCountInPercentageNationwide": 2.39,
       "programs": []
     },
@@ -106,7 +106,7 @@
       "totalPaymentInDollars": 43238231.78,
       "averageRecipientCount": 798.75,
       "totalPaymentInPercentageNationwide": 2.2,
-      "totalCountInPercentageNationwide": 1.18,
+      "totalCountsInPercentageNationwide": 1.18,
       "averageRecipientCountInPercentageNationwide": 1.18,
       "programs": []
     },
@@ -117,7 +117,7 @@
       "totalPaymentInDollars": 40528014.63,
       "averageRecipientCount": 1711.75,
       "totalPaymentInPercentageNationwide": 2.06,
-      "totalCountInPercentageNationwide": 2.52,
+      "totalCountsInPercentageNationwide": 2.52,
       "averageRecipientCountInPercentageNationwide": 2.52,
       "programs": []
     },
@@ -128,7 +128,7 @@
       "totalPaymentInDollars": 40093715.33,
       "averageRecipientCount": 685.62,
       "totalPaymentInPercentageNationwide": 2.04,
-      "totalCountInPercentageNationwide": 1.01,
+      "totalCountsInPercentageNationwide": 1.01,
       "averageRecipientCountInPercentageNationwide": 1.01,
       "programs": []
     },
@@ -139,7 +139,7 @@
       "totalPaymentInDollars": 37007277.45,
       "averageRecipientCount": 699.5,
       "totalPaymentInPercentageNationwide": 1.88,
-      "totalCountInPercentageNationwide": 1.03,
+      "totalCountsInPercentageNationwide": 1.03,
       "averageRecipientCountInPercentageNationwide": 1.03,
       "programs": []
     },
@@ -150,7 +150,7 @@
       "totalPaymentInDollars": 30663137.46,
       "averageRecipientCount": 900.5,
       "totalPaymentInPercentageNationwide": 1.56,
-      "totalCountInPercentageNationwide": 1.33,
+      "totalCountsInPercentageNationwide": 1.33,
       "averageRecipientCountInPercentageNationwide": 1.33,
       "programs": []
     },
@@ -161,7 +161,7 @@
       "totalPaymentInDollars": 27103881.66,
       "averageRecipientCount": 941.25,
       "totalPaymentInPercentageNationwide": 1.38,
-      "totalCountInPercentageNationwide": 1.39,
+      "totalCountsInPercentageNationwide": 1.39,
       "averageRecipientCountInPercentageNationwide": 1.39,
       "programs": []
     },
@@ -172,7 +172,7 @@
       "totalPaymentInDollars": 26934162.96,
       "averageRecipientCount": 1459.25,
       "totalPaymentInPercentageNationwide": 1.37,
-      "totalCountInPercentageNationwide": 2.15,
+      "totalCountsInPercentageNationwide": 2.15,
       "averageRecipientCountInPercentageNationwide": 2.15,
       "programs": []
     },
@@ -183,7 +183,7 @@
       "totalPaymentInDollars": 20797872.04,
       "averageRecipientCount": 415.62,
       "totalPaymentInPercentageNationwide": 1.06,
-      "totalCountInPercentageNationwide": 0.61,
+      "totalCountsInPercentageNationwide": 0.61,
       "averageRecipientCountInPercentageNationwide": 0.61,
       "programs": []
     },
@@ -194,7 +194,7 @@
       "totalPaymentInDollars": 19674943.45,
       "averageRecipientCount": 628.88,
       "totalPaymentInPercentageNationwide": 1.0,
-      "totalCountInPercentageNationwide": 0.93,
+      "totalCountsInPercentageNationwide": 0.93,
       "averageRecipientCountInPercentageNationwide": 0.93,
       "programs": []
     },
@@ -205,7 +205,7 @@
       "totalPaymentInDollars": 18845717.12,
       "averageRecipientCount": 901.5,
       "totalPaymentInPercentageNationwide": 0.96,
-      "totalCountInPercentageNationwide": 1.33,
+      "totalCountsInPercentageNationwide": 1.33,
       "averageRecipientCountInPercentageNationwide": 1.33,
       "programs": []
     },
@@ -216,7 +216,7 @@
       "totalPaymentInDollars": 18605351.04,
       "averageRecipientCount": 406.5,
       "totalPaymentInPercentageNationwide": 0.94,
-      "totalCountInPercentageNationwide": 0.6,
+      "totalCountsInPercentageNationwide": 0.6,
       "averageRecipientCountInPercentageNationwide": 0.6,
       "programs": []
     },
@@ -227,7 +227,7 @@
       "totalPaymentInDollars": 16733451.98,
       "averageRecipientCount": 492.38,
       "totalPaymentInPercentageNationwide": 0.85,
-      "totalCountInPercentageNationwide": 0.73,
+      "totalCountsInPercentageNationwide": 0.73,
       "averageRecipientCountInPercentageNationwide": 0.73,
       "programs": []
     },
@@ -238,7 +238,7 @@
       "totalPaymentInDollars": 15886122.02,
       "averageRecipientCount": 544.88,
       "totalPaymentInPercentageNationwide": 0.81,
-      "totalCountInPercentageNationwide": 0.8,
+      "totalCountsInPercentageNationwide": 0.8,
       "averageRecipientCountInPercentageNationwide": 0.8,
       "programs": []
     },
@@ -249,7 +249,7 @@
       "totalPaymentInDollars": 15576267.29,
       "averageRecipientCount": 226.5,
       "totalPaymentInPercentageNationwide": 0.79,
-      "totalCountInPercentageNationwide": 0.33,
+      "totalCountsInPercentageNationwide": 0.33,
       "averageRecipientCountInPercentageNationwide": 0.33,
       "programs": []
     },
@@ -260,7 +260,7 @@
       "totalPaymentInDollars": 14896407.2,
       "averageRecipientCount": 170.25,
       "totalPaymentInPercentageNationwide": 0.76,
-      "totalCountInPercentageNationwide": 0.25,
+      "totalCountsInPercentageNationwide": 0.25,
       "averageRecipientCountInPercentageNationwide": 0.25,
       "programs": []
     },
@@ -271,7 +271,7 @@
       "totalPaymentInDollars": 14396042.46,
       "averageRecipientCount": 325.12,
       "totalPaymentInPercentageNationwide": 0.73,
-      "totalCountInPercentageNationwide": 0.48,
+      "totalCountsInPercentageNationwide": 0.48,
       "averageRecipientCountInPercentageNationwide": 0.48,
       "programs": []
     },
@@ -282,7 +282,7 @@
       "totalPaymentInDollars": 12739523.71,
       "averageRecipientCount": 476.75,
       "totalPaymentInPercentageNationwide": 0.65,
-      "totalCountInPercentageNationwide": 0.7,
+      "totalCountsInPercentageNationwide": 0.7,
       "averageRecipientCountInPercentageNationwide": 0.7,
       "programs": []
     },
@@ -293,7 +293,7 @@
       "totalPaymentInDollars": 12650313.9,
       "averageRecipientCount": 337.25,
       "totalPaymentInPercentageNationwide": 0.64,
-      "totalCountInPercentageNationwide": 0.5,
+      "totalCountsInPercentageNationwide": 0.5,
       "averageRecipientCountInPercentageNationwide": 0.5,
       "programs": []
     },
@@ -304,7 +304,7 @@
       "totalPaymentInDollars": 12105454.36,
       "averageRecipientCount": 498.62,
       "totalPaymentInPercentageNationwide": 0.61,
-      "totalCountInPercentageNationwide": 0.74,
+      "totalCountsInPercentageNationwide": 0.74,
       "averageRecipientCountInPercentageNationwide": 0.74,
       "programs": []
     },
@@ -315,7 +315,7 @@
       "totalPaymentInDollars": 11829434.37,
       "averageRecipientCount": 380.38,
       "totalPaymentInPercentageNationwide": 0.6,
-      "totalCountInPercentageNationwide": 0.56,
+      "totalCountsInPercentageNationwide": 0.56,
       "averageRecipientCountInPercentageNationwide": 0.56,
       "programs": []
     },
@@ -326,7 +326,7 @@
       "totalPaymentInDollars": 9683370.65,
       "averageRecipientCount": 124.12,
       "totalPaymentInPercentageNationwide": 0.49,
-      "totalCountInPercentageNationwide": 0.18,
+      "totalCountsInPercentageNationwide": 0.18,
       "averageRecipientCountInPercentageNationwide": 0.18,
       "programs": []
     },
@@ -337,7 +337,7 @@
       "totalPaymentInDollars": 8287392.72,
       "averageRecipientCount": 114.5,
       "totalPaymentInPercentageNationwide": 0.42,
-      "totalCountInPercentageNationwide": 0.17,
+      "totalCountsInPercentageNationwide": 0.17,
       "averageRecipientCountInPercentageNationwide": 0.17,
       "programs": []
     },
@@ -348,7 +348,7 @@
       "totalPaymentInDollars": 7894275.47,
       "averageRecipientCount": 301.88,
       "totalPaymentInPercentageNationwide": 0.4,
-      "totalCountInPercentageNationwide": 0.45,
+      "totalCountsInPercentageNationwide": 0.45,
       "averageRecipientCountInPercentageNationwide": 0.45,
       "programs": []
     },
@@ -359,7 +359,7 @@
       "totalPaymentInDollars": 7345511.71,
       "averageRecipientCount": 312.0,
       "totalPaymentInPercentageNationwide": 0.37,
-      "totalCountInPercentageNationwide": 0.46,
+      "totalCountsInPercentageNationwide": 0.46,
       "averageRecipientCountInPercentageNationwide": 0.46,
       "programs": []
     },
@@ -370,7 +370,7 @@
       "totalPaymentInDollars": 6374271.43,
       "averageRecipientCount": 132.0,
       "totalPaymentInPercentageNationwide": 0.32,
-      "totalCountInPercentageNationwide": 0.19,
+      "totalCountsInPercentageNationwide": 0.19,
       "averageRecipientCountInPercentageNationwide": 0.19,
       "programs": []
     },
@@ -381,7 +381,7 @@
       "totalPaymentInDollars": 6017049.27,
       "averageRecipientCount": 198.0,
       "totalPaymentInPercentageNationwide": 0.31,
-      "totalCountInPercentageNationwide": 0.29,
+      "totalCountsInPercentageNationwide": 0.29,
       "averageRecipientCountInPercentageNationwide": 0.29,
       "programs": []
     },
@@ -392,7 +392,7 @@
       "totalPaymentInDollars": 5888003.97,
       "averageRecipientCount": 300.12,
       "totalPaymentInPercentageNationwide": 0.3,
-      "totalCountInPercentageNationwide": 0.44,
+      "totalCountsInPercentageNationwide": 0.44,
       "averageRecipientCountInPercentageNationwide": 0.44,
       "programs": []
     },
@@ -403,7 +403,7 @@
       "totalPaymentInDollars": 5640690.03,
       "averageRecipientCount": 192.38,
       "totalPaymentInPercentageNationwide": 0.29,
-      "totalCountInPercentageNationwide": 0.28,
+      "totalCountsInPercentageNationwide": 0.28,
       "averageRecipientCountInPercentageNationwide": 0.28,
       "programs": []
     },
@@ -414,7 +414,7 @@
       "totalPaymentInDollars": 4569059.6,
       "averageRecipientCount": 202.0,
       "totalPaymentInPercentageNationwide": 0.23,
-      "totalCountInPercentageNationwide": 0.3,
+      "totalCountsInPercentageNationwide": 0.3,
       "averageRecipientCountInPercentageNationwide": 0.3,
       "programs": []
     },
@@ -425,7 +425,7 @@
       "totalPaymentInDollars": 4100511.96,
       "averageRecipientCount": 101.0,
       "totalPaymentInPercentageNationwide": 0.21,
-      "totalCountInPercentageNationwide": 0.15,
+      "totalCountsInPercentageNationwide": 0.15,
       "averageRecipientCountInPercentageNationwide": 0.15,
       "programs": []
     },
@@ -436,7 +436,7 @@
       "totalPaymentInDollars": 3957676.51,
       "averageRecipientCount": 59.38,
       "totalPaymentInPercentageNationwide": 0.2,
-      "totalCountInPercentageNationwide": 0.09,
+      "totalCountsInPercentageNationwide": 0.09,
       "averageRecipientCountInPercentageNationwide": 0.09,
       "programs": []
     },
@@ -447,7 +447,7 @@
       "totalPaymentInDollars": 3884982.33,
       "averageRecipientCount": 149.62,
       "totalPaymentInPercentageNationwide": 0.2,
-      "totalCountInPercentageNationwide": 0.22,
+      "totalCountsInPercentageNationwide": 0.22,
       "averageRecipientCountInPercentageNationwide": 0.22,
       "programs": []
     },
@@ -458,7 +458,7 @@
       "totalPaymentInDollars": 2662018.53,
       "averageRecipientCount": 106.38,
       "totalPaymentInPercentageNationwide": 0.14,
-      "totalCountInPercentageNationwide": 0.16,
+      "totalCountsInPercentageNationwide": 0.16,
       "averageRecipientCountInPercentageNationwide": 0.16,
       "programs": []
     },
@@ -469,7 +469,7 @@
       "totalPaymentInDollars": 2599979.44,
       "averageRecipientCount": 112.38,
       "totalPaymentInPercentageNationwide": 0.13,
-      "totalCountInPercentageNationwide": 0.17,
+      "totalCountsInPercentageNationwide": 0.17,
       "averageRecipientCountInPercentageNationwide": 0.17,
       "programs": []
     },
@@ -480,7 +480,7 @@
       "totalPaymentInDollars": 1794662.88,
       "averageRecipientCount": 93.12,
       "totalPaymentInPercentageNationwide": 0.09,
-      "totalCountInPercentageNationwide": 0.14,
+      "totalCountsInPercentageNationwide": 0.14,
       "averageRecipientCountInPercentageNationwide": 0.14,
       "programs": []
     },
@@ -491,7 +491,7 @@
       "totalPaymentInDollars": 1519442.43,
       "averageRecipientCount": 45.38,
       "totalPaymentInPercentageNationwide": 0.08,
-      "totalCountInPercentageNationwide": 0.07,
+      "totalCountsInPercentageNationwide": 0.07,
       "averageRecipientCountInPercentageNationwide": 0.07,
       "programs": []
     },
@@ -502,7 +502,7 @@
       "totalPaymentInDollars": 1301375.07,
       "averageRecipientCount": 56.75,
       "totalPaymentInPercentageNationwide": 0.07,
-      "totalCountInPercentageNationwide": 0.08,
+      "totalCountsInPercentageNationwide": 0.08,
       "averageRecipientCountInPercentageNationwide": 0.08,
       "programs": []
     },
@@ -513,7 +513,7 @@
       "totalPaymentInDollars": 750768.71,
       "averageRecipientCount": 14.0,
       "totalPaymentInPercentageNationwide": 0.04,
-      "totalCountInPercentageNationwide": 0.02,
+      "totalCountsInPercentageNationwide": 0.02,
       "averageRecipientCountInPercentageNationwide": 0.02,
       "programs": []
     },
@@ -524,7 +524,7 @@
       "totalPaymentInDollars": 303860.81,
       "averageRecipientCount": 20.5,
       "totalPaymentInPercentageNationwide": 0.02,
-      "totalCountInPercentageNationwide": 0.03,
+      "totalCountsInPercentageNationwide": 0.03,
       "averageRecipientCountInPercentageNationwide": 0.03,
       "programs": []
     },
@@ -535,7 +535,7 @@
       "totalPaymentInDollars": 0.0,
       "averageRecipientCount": 0.0,
       "totalPaymentInPercentageNationwide": 0.0,
-      "totalCountInPercentageNationwide": 0.0,
+      "totalCountsInPercentageNationwide": 0.0,
       "averageRecipientCountInPercentageNationwide": 0.0,
       "programs": []
     },
@@ -546,7 +546,7 @@
       "totalPaymentInDollars": 0.0,
       "averageRecipientCount": 0.0,
       "totalPaymentInPercentageNationwide": 0.0,
-      "totalCountInPercentageNationwide": 0.0,
+      "totalCountsInPercentageNationwide": 0.0,
       "averageRecipientCountInPercentageNationwide": 0.0,
       "programs": []
     }

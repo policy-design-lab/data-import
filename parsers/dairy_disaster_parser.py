@@ -155,7 +155,7 @@ class DairyDisasterParser:
                 "totalPaymentInDollars": round(sum_by_dairy_payments_by_state[state].item(), 2),
                 "averageRecipientCount": round(sum_by_dairy_count_by_state[state].item() / total_years, 2),
                 "totalPaymentInPercentageNationwide": dairy_payments_percentage_nation,
-                "totalCountInPercentageNationwide": dairy_count_percentage_nation,
+                "totalCountsInPercentageNationwide": dairy_count_percentage_nation,
                 "averageRecipientCountInPercentageNationwide": average_dairy_count_percentage_nation,
                 "programs": []
             }
@@ -439,7 +439,7 @@ class DairyDisasterParser:
                 "totalPaymentInDollars": round(sum_by_disaster_payments_by_state[state].item(), 2),
                 "averageRecipientCount": round(sum_by_disaster_count_by_state[state].item() / total_years, 2),
                 "totalPaymentInPercentageNationwide": disaster_payments_percentage_nation,
-                "totalCountInPercentageNationwide": disaster_count_percentage_nation,
+                "totalCountsInPercentageNationwide": disaster_count_percentage_nation,
                 "averageRecipientCountInPercentageNationwide": average_disaster_count_percentage_nation,
                 "programs": [
                     {
@@ -449,7 +449,7 @@ class DairyDisasterParser:
                         "averageRecipientCount": round(sum_by_elap_count_by_state[state].item() / total_years,
                                                        2),
                         "totalPaymentInPercentageNationwide": elap_payments_percentage_nation,
-                        "totalCountInPercentageNationwide": elap_count_percentage_nation,
+                        "totalCountsInPercentageNationwide": elap_count_percentage_nation,
                         "averageRecipientCountInPercentageNationwide": average_elap_count_percentage_nation,
                         "totalPaymentInPercentageWithinState": within_state_elap_percentage_payments,
                         "averageRecipientCountInPercentageWithinState": within_state_elap_average_percentage_count,
@@ -462,7 +462,7 @@ class DairyDisasterParser:
                         "averageRecipientCount": round(sum_by_lfp_count_by_state[state].item() / total_years,
                                                        2),
                         "totalPaymentInPercentageNationwide": lfp_payments_percentage_nation,
-                        "totalCountInPercentageNationwide": lfp_count_percentage_nation,
+                        "totalCountsInPercentageNationwide": lfp_count_percentage_nation,
                         "averageRecipientCountInPercentageNationwide": average_lfp_count_percentage_nation,
                         "totalPaymentInPercentageWithinState": within_state_lfp_percentage_payments,
                         "averageRecipientCountInPercentageWithinState": within_state_lfp_average_percentage_count,
@@ -475,7 +475,7 @@ class DairyDisasterParser:
                         "averageRecipientCount": round(sum_by_lip_count_by_state[state].item() / total_years,
                                                        2),
                         "totalPaymentInPercentageNationwide": lip_payments_percentage_nation,
-                        "totalCountInPercentageNationwide": lip_count_percentage_nation,
+                        "totalCountsInPercentageNationwide": lip_count_percentage_nation,
                         "averageRecipientCountInPercentageNationwide": average_lip_count_percentage_nation,
                         "totalPaymentInPercentageWithinState": within_state_lip_percentage_payments,
                         "averageRecipientCountInPercentageWithinState": within_state_lip_average_percentage_count,
@@ -488,7 +488,7 @@ class DairyDisasterParser:
                         "averageRecipientCount": round(sum_by_tap_count_by_state[state].item() / total_years,
                                                        2),
                         "totalPaymentInPercentageNationwide": tap_payments_percentage_nation,
-                        "totalCountInPercentageNationwide": tap_count_percentage_nation,
+                        "totalCountsInPercentageNationwide": tap_count_percentage_nation,
                         "averageRecipientCountInPercentageNationwide": average_tap_count_percentage_nation,
                         "totalPaymentInPercentageWithinState": within_state_tap_percentage_payments,
                         "averageRecipientCountInPercentageWithinState": within_state_tap_average_percentage_count,
