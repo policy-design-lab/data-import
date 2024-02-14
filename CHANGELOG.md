@@ -70,3 +70,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Error in calculating totals in the allprograms.json. [#27](https://github.com/policy-design-lab/data-import/issues/27)
 - Average calculation in Title 1 Commodities. [#36](https://github.com/policy-design-lab/data-import/issues/36)
 - Average payee count parsing in Title 1 Commodities. [#43](https://github.com/policy-design-lab/data-import/issues/43)
+- Added missing fields in EQIP json files [#89](https://github.com/policy-design-lab/data-import/issues/89)
+- Added missing fields in CSP json files [#90](https://github.com/policy-design-lab/data-import/issues/90)

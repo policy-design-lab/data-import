@@ -380,6 +380,8 @@ class EqipParser:
                 for entry in state_data:
                     restructured_list.append({
                         'state': state_abbr,
+                        'totalPaymentInDollars': entry['totalPaymentInDollars'],
+                        'totalPaymentInPercentageNationwide': entry['totalPaymentInPercentageNationwide'],
                         'statutes': entry['statutes']
                     })
 

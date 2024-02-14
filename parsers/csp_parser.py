@@ -387,6 +387,8 @@ class CSPDataParser:
                 for entry in state_data:
                     restructured_list.append({
                         'state': state,
+                        'totalPaymentInDollars': entry['totalPaymentInDollars'],
+                        'totalPaymentInPercentageNationwide': entry['totalPaymentInPercentageNationwide'],
                         'statutes': entry['statutes']
                     })
 
