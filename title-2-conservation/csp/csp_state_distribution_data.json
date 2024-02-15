@@ -95,7 +95,7 @@
                             "totalPaymentInPercentageWithinState": 2.74
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 482575,
                             "totalPaymentInPercentageNationwide": 1.37,
                             "totalPaymentInPercentageWithinState": 0.14
@@ -207,7 +207,7 @@
                             "totalPaymentInPercentageWithinState": 1.16
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 1164623,
                             "totalPaymentInPercentageNationwide": 3.31,
                             "totalPaymentInPercentageWithinState": 0.39
@@ -318,7 +318,7 @@
                             "totalPaymentInPercentageWithinState": 0.46
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 855639,
                             "totalPaymentInPercentageNationwide": 2.43,
                             "totalPaymentInPercentageWithinState": 0.29
@@ -429,7 +429,7 @@
                             "totalPaymentInPercentageWithinState": 2.56
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 558006,
                             "totalPaymentInPercentageNationwide": 1.58,
                             "totalPaymentInPercentageWithinState": 0.2
@@ -497,12 +497,12 @@
                             "totalPaymentInPercentageWithinState": 0.06
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -539,7 +539,7 @@
                             "totalPaymentInPercentageWithinState": 0.6
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 126242,
                             "totalPaymentInPercentageNationwide": 0.36,
                             "totalPaymentInPercentageWithinState": 0.05
@@ -651,7 +651,7 @@
                             "totalPaymentInPercentageWithinState": 1.38
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 123597,
                             "totalPaymentInPercentageNationwide": 0.35,
                             "totalPaymentInPercentageWithinState": 0.05
@@ -763,7 +763,7 @@
                             "totalPaymentInPercentageWithinState": 0.63
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 704180,
                             "totalPaymentInPercentageNationwide": 2.0,
                             "totalPaymentInPercentageWithinState": 0.36
@@ -868,7 +868,7 @@
                             "totalPaymentInPercentageWithinState": 14.0
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 18743317,
                             "totalPaymentInPercentageNationwide": 53.2,
                             "totalPaymentInPercentageWithinState": 10.23
@@ -986,7 +986,7 @@
                             "totalPaymentInPercentageWithinState": 0.76
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 299583,
                             "totalPaymentInPercentageNationwide": 0.85,
                             "totalPaymentInPercentageWithinState": 0.18
@@ -1054,12 +1054,12 @@
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -1096,7 +1096,7 @@
                             "totalPaymentInPercentageWithinState": 0.65
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 103247,
                             "totalPaymentInPercentageNationwide": 0.29,
                             "totalPaymentInPercentageWithinState": 0.07
@@ -1213,7 +1213,7 @@
                             "totalPaymentInPercentageWithinState": 0.63
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 30808,
                             "totalPaymentInPercentageNationwide": 0.09,
                             "totalPaymentInPercentageWithinState": 0.02
@@ -1319,7 +1319,7 @@
                             "totalPaymentInPercentageWithinState": 0.72
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 185400,
                             "totalPaymentInPercentageNationwide": 0.53,
                             "totalPaymentInPercentageWithinState": 0.14
@@ -1418,7 +1418,7 @@
                             "totalPaymentInPercentageWithinState": 5.14
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 3713108,
                             "totalPaymentInPercentageNationwide": 10.54,
                             "totalPaymentInPercentageWithinState": 2.93
@@ -1499,12 +1499,12 @@
                             "totalPaymentInPercentageWithinState": 0.59
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -1541,7 +1541,7 @@
                             "totalPaymentInPercentageWithinState": 3.19
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 2871246,
                             "totalPaymentInPercentageNationwide": 8.15,
                             "totalPaymentInPercentageWithinState": 2.3
@@ -1609,12 +1609,12 @@
                             "totalPaymentInPercentageWithinState": 0.55
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -1645,7 +1645,7 @@
                             "totalPaymentInPercentageWithinState": 14.82
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 2706286,
                             "totalPaymentInPercentageNationwide": 7.68,
                             "totalPaymentInPercentageWithinState": 2.42
@@ -1763,7 +1763,7 @@
                             "totalPaymentInPercentageWithinState": 4.04
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 329479,
                             "totalPaymentInPercentageNationwide": 0.94,
                             "totalPaymentInPercentageWithinState": 0.36
@@ -1880,7 +1880,7 @@
                             "totalPaymentInPercentageWithinState": 0.85
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 150067,
                             "totalPaymentInPercentageNationwide": 0.43,
                             "totalPaymentInPercentageWithinState": 0.16
@@ -1992,7 +1992,7 @@
                             "totalPaymentInPercentageWithinState": 0.12
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 30778,
                             "totalPaymentInPercentageNationwide": 0.09,
                             "totalPaymentInPercentageWithinState": 0.04
@@ -2104,7 +2104,7 @@
                             "totalPaymentInPercentageWithinState": 0.7
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 6932,
                             "totalPaymentInPercentageNationwide": 0.02,
                             "totalPaymentInPercentageWithinState": 0.01
@@ -2167,12 +2167,12 @@
                             "totalPaymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -2215,7 +2215,7 @@
                             "totalPaymentInPercentageWithinState": 0.11
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 8760,
                             "totalPaymentInPercentageNationwide": 0.02,
                             "totalPaymentInPercentageWithinState": 0.02
@@ -2278,12 +2278,12 @@
                             "totalPaymentInPercentageWithinState": 0.23
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -2320,7 +2320,7 @@
                             "totalPaymentInPercentageWithinState": 1.09
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 2989,
                             "totalPaymentInPercentageNationwide": 0.01,
                             "totalPaymentInPercentageWithinState": 0.01
@@ -2431,7 +2431,7 @@
                             "totalPaymentInPercentageWithinState": 5.03
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 312409,
                             "totalPaymentInPercentageNationwide": 0.89,
                             "totalPaymentInPercentageWithinState": 0.94
@@ -2536,7 +2536,7 @@
                             "totalPaymentInPercentageWithinState": 9.58
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 647082,
                             "totalPaymentInPercentageNationwide": 1.84,
                             "totalPaymentInPercentageWithinState": 2.07
@@ -2610,12 +2610,12 @@
                             "totalPaymentInPercentageWithinState": 0.17
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Other improvement",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -2652,7 +2652,7 @@
                             "totalPaymentInPercentageWithinState": 3.73
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 39134,
                             "totalPaymentInPercentageNationwide": 0.11,
                             "totalPaymentInPercentageWithinState": 0.13
@@ -2720,12 +2720,12 @@
                             "totalPaymentInPercentageWithinState": 0.15
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -2762,7 +2762,7 @@
                             "totalPaymentInPercentageWithinState": 1.64
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 37182,
                             "totalPaymentInPercentageNationwide": 0.11,
                             "totalPaymentInPercentageWithinState": 0.12
@@ -2873,7 +2873,7 @@
                             "totalPaymentInPercentageWithinState": 7.24
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 514808,
                             "totalPaymentInPercentageNationwide": 1.46,
                             "totalPaymentInPercentageWithinState": 1.75
@@ -2984,7 +2984,7 @@
                             "totalPaymentInPercentageWithinState": 5.01
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 28696,
                             "totalPaymentInPercentageNationwide": 0.08,
                             "totalPaymentInPercentageWithinState": 0.1
@@ -3052,12 +3052,12 @@
                             "totalPaymentInPercentageWithinState": 0.14
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -3094,7 +3094,7 @@
                             "totalPaymentInPercentageWithinState": 1.18
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 43455,
                             "totalPaymentInPercentageNationwide": 0.12,
                             "totalPaymentInPercentageWithinState": 0.15
@@ -3162,12 +3162,12 @@
                             "totalPaymentInPercentageWithinState": 0.24
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -3204,7 +3204,7 @@
                             "totalPaymentInPercentageWithinState": 3.35
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 40103,
                             "totalPaymentInPercentageNationwide": 0.11,
                             "totalPaymentInPercentageWithinState": 0.14
@@ -3321,7 +3321,7 @@
                             "totalPaymentInPercentageWithinState": 2.95
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 94943,
                             "totalPaymentInPercentageNationwide": 0.27,
                             "totalPaymentInPercentageWithinState": 0.35
@@ -3384,12 +3384,12 @@
                             "totalPaymentInPercentageWithinState": 0.07
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -3432,7 +3432,7 @@
                             "totalPaymentInPercentageWithinState": 3.84
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 77979,
                             "totalPaymentInPercentageNationwide": 0.22,
                             "totalPaymentInPercentageWithinState": 0.3
@@ -3495,12 +3495,12 @@
                             "totalPaymentInPercentageWithinState": 0.08
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -3537,7 +3537,7 @@
                             "totalPaymentInPercentageWithinState": 3.22
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 53449,
                             "totalPaymentInPercentageNationwide": 0.15,
                             "totalPaymentInPercentageWithinState": 0.24
@@ -3605,12 +3605,12 @@
                             "totalPaymentInPercentageWithinState": 0.04
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -3647,7 +3647,7 @@
                             "totalPaymentInPercentageWithinState": 0.28
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 537,
                             "totalPaymentInPercentageNationwide": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
@@ -3764,7 +3764,7 @@
                             "totalPaymentInPercentageWithinState": 1.14
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 85490,
                             "totalPaymentInPercentageNationwide": 0.24,
                             "totalPaymentInPercentageWithinState": 0.49
@@ -3827,12 +3827,12 @@
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -3869,7 +3869,7 @@
                             "totalPaymentInPercentageWithinState": 2.97
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 405,
                             "totalPaymentInPercentageNationwide": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
@@ -3937,12 +3937,12 @@
                             "totalPaymentInPercentageWithinState": 0.13
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -3985,7 +3985,7 @@
                             "totalPaymentInPercentageWithinState": 2.02
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 850,
                             "totalPaymentInPercentageNationwide": 0.0,
                             "totalPaymentInPercentageWithinState": 0.01
@@ -4048,12 +4048,12 @@
                             "totalPaymentInPercentageWithinState": 0.02
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -4090,7 +4090,7 @@
                             "totalPaymentInPercentageWithinState": 8.74
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 31362,
                             "totalPaymentInPercentageNationwide": 0.09,
                             "totalPaymentInPercentageWithinState": 0.28
@@ -4201,12 +4201,12 @@
                             "totalPaymentInPercentageWithinState": 0.39
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Non-industrial private forestland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Non-industrial private forestland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -4268,12 +4268,12 @@
                             "totalPaymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -4304,7 +4304,7 @@
                             "totalPaymentInPercentageWithinState": 0.19
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 7443,
                             "totalPaymentInPercentageNationwide": 0.02,
                             "totalPaymentInPercentageWithinState": 0.13
@@ -4421,7 +4421,7 @@
                             "totalPaymentInPercentageWithinState": 0.88
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 880,
                             "totalPaymentInPercentageNationwide": 0.0,
                             "totalPaymentInPercentageWithinState": 0.02
@@ -4483,7 +4483,7 @@
                             "totalPaymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
@@ -4493,7 +4493,7 @@
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Other improvement",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -4530,12 +4530,12 @@
                             "totalPaymentInPercentageWithinState": 1.03
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Rangeland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -4597,12 +4597,12 @@
                             "totalPaymentInPercentageWithinState": 0.16
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -4639,7 +4639,7 @@
                             "totalPaymentInPercentageWithinState": 3.99
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 3633,
                             "totalPaymentInPercentageNationwide": 0.01,
                             "totalPaymentInPercentageWithinState": 0.19
@@ -4701,7 +4701,7 @@
                             "totalPaymentInPercentageWithinState": 0.13
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
@@ -4711,7 +4711,7 @@
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Other improvement",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -4748,7 +4748,7 @@
                             "totalPaymentInPercentageWithinState": 3.83
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 304,
                             "totalPaymentInPercentageNationwide": 0.0,
                             "totalPaymentInPercentageWithinState": 0.02
@@ -4798,17 +4798,17 @@
                             "totalPaymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
-                            "totalPaymentInDollars": 0.0,
-                            "totalPaymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Soil remediation",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
                             "practiceCategoryName": "Bundles",
+                            "totalPaymentInDollars": 0.0,
+                            "totalPaymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Other improvement",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
@@ -4855,7 +4855,7 @@
                             "totalPaymentInPercentageWithinState": 2.36
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 10388,
                             "totalPaymentInPercentageNationwide": 0.03,
                             "totalPaymentInPercentageWithinState": 0.61
@@ -4917,12 +4917,12 @@
                             "totalPaymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Soil remediation",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil remediation",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
@@ -4970,7 +4970,7 @@
                             "totalPaymentInPercentageWithinState": 1.17
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5026,12 +5026,12 @@
                             "totalPaymentInPercentageWithinState": 0.03
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Soil remediation",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil remediation",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
@@ -5073,7 +5073,7 @@
                             "totalPaymentInPercentageWithinState": 2.93
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 3292,
                             "totalPaymentInPercentageNationwide": 0.01,
                             "totalPaymentInPercentageWithinState": 0.29
@@ -5129,17 +5129,17 @@
                             "totalPaymentInPercentageWithinState": 0.04
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
-                            "totalPaymentInDollars": 0.0,
-                            "totalPaymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
                             "practiceCategoryName": "Soil remediation",
+                            "totalPaymentInDollars": 0.0,
+                            "totalPaymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Other improvement",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
@@ -5181,7 +5181,7 @@
                             "totalPaymentInPercentageWithinState": 9.05
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 536,
                             "totalPaymentInPercentageNationwide": 0.0,
                             "totalPaymentInPercentageWithinState": 0.04
@@ -5243,7 +5243,7 @@
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
@@ -5253,7 +5253,7 @@
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Other improvement",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5290,7 +5290,7 @@
                             "totalPaymentInPercentageWithinState": 4.2
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 861,
                             "totalPaymentInPercentageNationwide": 0.0,
                             "totalPaymentInPercentageWithinState": 0.12
@@ -5358,12 +5358,12 @@
                             "totalPaymentInPercentageWithinState": 0.19
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5400,12 +5400,12 @@
                             "totalPaymentInPercentageWithinState": 2.17
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Rangeland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5443,7 +5443,7 @@
                             "totalPaymentInPercentageWithinState": 0.01
                         },
                         {
-                            "practiceCategoryName": "Other improvement",
+                            "practiceCategoryName": "Land management",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
@@ -5458,17 +5458,17 @@
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
-                            "totalPaymentInDollars": 0.0,
-                            "totalPaymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Structural",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Land management",
+                            "practiceCategoryName": "Other improvement",
+                            "totalPaymentInDollars": 0.0,
+                            "totalPaymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5499,17 +5499,17 @@
                             "totalPaymentInPercentageWithinState": 8.79
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
-                            "totalPaymentInDollars": 0.0,
-                            "totalPaymentInPercentageWithinState": 0.0
-                        },
-                        {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
                             "practiceCategoryName": "Pastureland",
+                            "totalPaymentInDollars": 0.0,
+                            "totalPaymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Rangeland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5571,12 +5571,12 @@
                             "totalPaymentInPercentageWithinState": 0.04
                         },
                         {
-                            "practiceCategoryName": "Soil testing",
+                            "practiceCategoryName": "Bundles",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Bundles",
+                            "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5607,17 +5607,17 @@
                             "totalPaymentInPercentageWithinState": 7.55
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
-                            "totalPaymentInDollars": 0.0,
-                            "totalPaymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Non-industrial private forestland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Grassland",
+                            "totalPaymentInDollars": 0.0,
+                            "totalPaymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Rangeland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5673,17 +5673,17 @@
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Structural",
-                            "totalPaymentInDollars": 0.0,
-                            "totalPaymentInPercentageWithinState": 0.0
-                        },
-                        {
                             "practiceCategoryName": "Soil testing",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
                             "practiceCategoryName": "Bundles",
+                            "totalPaymentInDollars": 0.0,
+                            "totalPaymentInPercentageWithinState": 0.0
+                        },
+                        {
+                            "practiceCategoryName": "Structural",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }
@@ -5720,12 +5720,12 @@
                             "totalPaymentInPercentageWithinState": 4.1
                         },
                         {
-                            "practiceCategoryName": "Rangeland",
+                            "practiceCategoryName": "Grassland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         },
                         {
-                            "practiceCategoryName": "Pastured cropland",
+                            "practiceCategoryName": "Rangeland",
                             "totalPaymentInDollars": 0.0,
                             "totalPaymentInPercentageWithinState": 0.0
                         }

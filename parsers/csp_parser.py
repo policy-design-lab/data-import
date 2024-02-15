@@ -277,6 +277,14 @@ class CSPDataParser:
             # add year to the tmp_output
             tmp_output[str(self.start_year) + "-" + str(self.end_year)].append(self.processed_data_dict)
 
+            # rename Pastured cropland to Grassland in tmp_output
+            for state in tmp_output[str(self.start_year) + "-" + str(self.end_year)][0]:
+                for entry in tmp_output[str(self.start_year) + "-" + str(self.end_year)][0][state]:
+                    for statute in entry['statutes']:
+                        for practice in statute['practiceCategories']:
+                            if practice['practiceCategoryName'].lower() == 'pastured cropland':
+                                practice['practiceCategoryName'] = 'Grassland'
+
             # Write processed_data_dict as JSON data
             with open("../title-2-conservation/csp/csp_map_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(tmp_output, indent=4))
@@ -399,6 +407,13 @@ class CSPDataParser:
             # add year to the tmp_output
             tmp_output[str(self.start_year) + "-" + str(self.end_year)] = restructured_list
 
+            # rename Pastured cropland to Grassland in tmp_output
+            for entry in tmp_output[str(self.start_year) + "-" + str(self.end_year)]:
+                for statute in entry['statutes']:
+                    for practice in statute['practiceCategories']:
+                        if practice['practiceCategoryName'].lower() == 'pastured cropland':
+                            practice['practiceCategoryName'] = 'Grassland'
+
             # Write processed_data_dict as JSON data
             with open("../title-2-conservation/csp/csp_state_distribution_data.json", "w") as output_json_file:
                 output_json_file.write(json.dumps(tmp_output, indent=4))
@@ -454,6 +469,12 @@ class CSPDataParser:
                 statute["totalPaymentInPercentage"] = float(round(
                     total_for_statute[statute["statuteName"]] / total_payments_at_national_level * 100, 2))
                 statute["practiceCategories"].sort(key=lambda x: x["totalPaymentInPercentage"], reverse=True)
+
+            # rename Pastured cropland to Grassland in statutes_data
+            for statute in statutes_data["statutes"]:
+                for practice in statute['practiceCategories']:
+                    if practice['practiceCategoryName'].lower() == 'pastured cropland':
+                        practice['practiceCategoryName'] = 'Grassland'
 
             # Write processed_data_dict as JSON data
             with open("../title-2-conservation/csp/csp_practice_categories_data.json", "w") as output_json_file:
