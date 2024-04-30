@@ -22,6 +22,6 @@ sheets and in the format needed for the JSON documents.
 2. Run the following commands to convert the CSV files to JSON files.
 
 ```bash
-python3 convert_csv_to_json.py all_programs.csv allprograms.json
-python3 convert_csv_to_json.py summary.csv summary.json
+python3 convert_csv_to_json.py all_programs_raw_data.csv allprograms.json
+python3 convert_csv_to_json.py summary_raw_data.csv summary.json
 ```
