@@ -22,10 +22,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Total area insured in Crop insurance JSON files. [#49](https://github.com/policy-design-lab/data-import/issues/49)
 - ACEP data import program and generate JSON. [#54](https://github.com/policy-design-lab/data-import/issues/54)
 - RCPP data import program and generate JSON. [#57](https://github.com/policy-design-lab/data-import/issues/57)
-- Dairy and Disaster data import program and generate JSON files. [#59](https://github.com/policy-design-lab/data-import/issues/59)
+- Dairy and Disaster data import program and generate JSON
+  files. [#59](https://github.com/policy-design-lab/data-import/issues/59)
 - PaymentInPercentageNationwide to commodity programs. [#80](https://github.com/policy-design-lab/data-import/issues/80)
 - EQIP IRA data import program and generate JSON files. [#92](https://github.com/policy-design-lab/data-import/issues/92)
-  
+- Code, CSV, and JSON files for updating all programs and summary
+  data. [#95](https://github.com/policy-design-lab/data-import/issues/95)
+
 ### Changed
 
 - CSP data import program to update the category names and generate updated JSON
@@ -53,14 +56,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   data. [#45](https://github.com/policy-design-lab/data-import/issues/45)
 - Crop Insurance JSON files after adding the latest
   data. [#49](https://github.com/policy-design-lab/data-import/issues/49)
-- Calculate payment in percentage with the state data in CRP 
+- Calculate payment in percentage with the state data in CRP
   data. [#52](https://github.com/policy-design-lab/data-import/issues/52)
 - DMC and SADA json updated with new title [#61](https://github.com/policy-design-lab/data-import/issues/61)
 - CSP data structure updated with years information [#66](https://github.com/policy-design-lab/data-import/issues/66)
 - EQIP data structure updated with years information [#67](https://github.com/policy-design-lab/data-import/issues/67)
-- Title 1's subtitle D and E json updated with new structure [#64](https://github.com/policy-design-lab/data-import/issues/64)
-- Output json files' state name changed to state abbreviation [#76](https://github.com/policy-design-lab/data-import/issues/76)
-- Restore percentage field in subtitle D and E json files [#83](https://github.com/policy-design-lab/data-import/issues/83)
+- Title 1's subtitle D and E json updated with new
+  structure [#64](https://github.com/policy-design-lab/data-import/issues/64)
+- Output json files' state name changed to state
+  abbreviation [#76](https://github.com/policy-design-lab/data-import/issues/76)
+- Restore percentage field in subtitle D and E json
+  files [#83](https://github.com/policy-design-lab/data-import/issues/83)
 - Renaming items for title I [#84](https://github.com/policy-design-lab/data-import/issues/84)
 - Renaming items for title II [#85](https://github.com/policy-design-lab/data-import/issues/85)
 - Renaming Pastured cropland to Grassland in CSP json files [#92](https://github.com/policy-design-lab/data-import/issues/92)
