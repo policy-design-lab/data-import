@@ -1,11 +1,10 @@
 import pandas as pd
+import numpy as np  # Add this line to import numpy
 import json
 import re
 
-
 class EqipIraParser:
-    def __init__(self,
-                 fiscal_year, start_year, end_year, total_table_filepath, future_min_filepath, future_max_filepath):
+    def __init__(self, fiscal_year, start_year, end_year, total_table_filepath, future_min_filepath, future_max_filepath):
         self.total_table_filepath = total_table_filepath
         self.future_min_filepath = future_min_filepath
         self.future_max_filepath = future_max_filepath
@@ -81,36 +80,36 @@ class EqipIraParser:
     def handle_min_max_p_table(self, df):
         df_copy = df.copy()
 
-        # rename the columns ending with '_total' to remove '_total' from the copy table
+        # Rename the columns ending with '_total' to remove '_total' from the copy table
         rename_mapping = {col: col[:-6] for col in df_copy.columns if col.endswith('_total')}
         df_copy = df_copy.rename(columns=rename_mapping)
 
-        # merge the two tables by concatenating the copy table to the original table
+        # Merge the two tables by concatenating the copy table to the original table
         merged_df = pd.concat([df, df_copy], ignore_index=True)
 
-        # group by 'state' and 'year', taking the first non-null value for each column within each group
+        # Group by 'state' and 'year', taking the first non-null value for each column within each group
         merged_df = merged_df.groupby(['state', 'year']).first().reset_index()
 
-        # select only the renamed columns and the columns without '_total' suffix
+        # Select only the renamed columns and the columns without '_total' suffix
         merged_df = merged_df[[col for col in merged_df.columns if not col.endswith('_total')]]
 
-        # sort the merged dataframe by 'state' and 'year'
+        # Sort the merged dataframe by 'state' and 'year'
         merged_df = merged_df.sort_values(by=['state', 'year'])
 
         return merged_df
 
-    # extract practice number from practice name
+    # Extract practice number from practice name
     def extract_practice_number(self, practice_name):
         match = re.search(r'\((\d+)\)', practice_name)
         return int(match.group(1)) if match else None
 
-    # convert dollar values to integers
+    # Convert dollar values to integers
     def convert_dollars(self, in_val):
         if isinstance(in_val, str):
             return int(in_val.replace("$", "").replace(",", ""))
         return in_val
 
-    # replace state name with abbreviation
+    # Replace state name with abbreviation
     def replace_state_name_with_abbreviation(self, state_name):
         return self.state_name_to_abbreviation.get(state_name, state_name)
 
@@ -118,7 +117,7 @@ class EqipIraParser:
         states = df1['STATE'].unique()
         state_payment_dict = {}
 
-        # collect totalPaymentInDollars for each state for the practice named "Total"
+        # Collect totalPaymentInDollars for each state for the practice named "Total"
         for state in states:
             total_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'].str.lower() == "total")]['DOLLARS OBLIGATED']
             if not total_payment.empty:
@@ -126,7 +125,7 @@ class EqipIraParser:
             else:
                 state_payment_dict[state] = 0
 
-        # sort states by totalPaymentInDollars
+        # Sort states by totalPaymentInDollars
         sorted_states = sorted(state_payment_dict.keys(), key=lambda x: state_payment_dict[x], reverse=True)
 
         output = []
@@ -141,7 +140,7 @@ class EqipIraParser:
                 practice_number = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
                 practice_data = {
                     "practiceName": practice,
-                    "practiceInstanceCount": df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (df1['FISCAL YEAR'] == self.fiscal_year)]['PRACTICE INSTANCE COUNT'].values[0],
+                    "practiceInstanceCount": int(df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (df1['FISCAL YEAR'] == self.fiscal_year)]['PRACTICE INSTANCE COUNT'].values[0]),
                     "totalPaymentInDollars": float(
                         df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
                             df1['FISCAL YEAR'].str.lower() == "total")]['DOLLARS OBLIGATED'].values[0]),
@@ -171,14 +170,14 @@ class EqipIraParser:
                 else:
                     other_practices.append(practice_data)
 
-            # add the "Total" practice first, if it exists
+            # Add the "Total" practice first, if it exists
             if total_practice:
                 state_data["practices"].append(total_practice)
             state_data["practices"].extend(other_practices)
 
             output.append(state_data)
 
-        # format numerical values to two decimal places if they are not integers
+        # Format numerical values to two decimal places if they are not integers
         for state in output:
             for practice in state["practices"]:
                 for key, value in practice.items():
@@ -187,8 +186,40 @@ class EqipIraParser:
 
         return json.dumps(output, indent=4)
 
+    def create_summary_output(self, df1):
+        # Convert 'PRACTICE INSTANCE COUNT' and 'DOLLARS OBLIGATED' to numeric types
+        df1['PRACTICE INSTANCE COUNT'] = pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.replace(",", ""), errors='coerce').fillna(0).astype(int)
+        df1['DOLLARS OBLIGATED'] = pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
+
+        # Calculate the summary for each practice
+        summary_data = []
+        practices = df1['PRACTICE NAME'].unique()
+
+        nationwide_total_instance_count = df1['PRACTICE INSTANCE COUNT'].sum()
+        nationwide_total_payment = df1['DOLLARS OBLIGATED'].sum()
+
+        for practice in practices:
+            total_instance_count = df1[df1['PRACTICE NAME'] == practice]['PRACTICE INSTANCE COUNT'].sum()
+            total_payment = df1[df1['PRACTICE NAME'] == practice]['DOLLARS OBLIGATED'].sum()
+
+            summary_data.append({
+                "practiceName": practice,
+                "totalPracticeInstanceCount": int(total_instance_count),
+                "totalPaymentInDollars": round(total_payment, 2),
+                "totalPaymentInPercentageNationwide": round((total_payment / nationwide_total_payment) * 100, 2),
+                "totalPracticeInstanceNationwide": round((total_instance_count / nationwide_total_instance_count) * 100, 2)
+            })
+
+        # Ensure all values are converted to native Python types
+        for data in summary_data:
+            for key in data:
+                if isinstance(data[key], (np.generic)):
+                    data[key] = data[key].item()
+
+        return json.dumps({"practices": summary_data}, indent=4)
+
     def parse_and_process(self):
-        # process state distribution data
+        # Process state distribution data
         df1 = pd.read_csv(self.total_table_filepath)
         df2 = pd.read_excel(self.future_min_filepath)
         df3 = pd.read_excel(self.future_max_filepath)
@@ -196,7 +227,7 @@ class EqipIraParser:
         df2 = self.handle_min_max_p_table(df2)
         df3 = self.handle_min_max_p_table(df3)
 
-        # fill NaN and Null values to zero if convert_nan_to_zero is True
+        # Fill NaN and Null values to zero if convert_nan_to_zero is True
         convert_nan_to_zero = True
 
         if convert_nan_to_zero:
@@ -204,23 +235,30 @@ class EqipIraParser:
             df2.fillna(0, inplace=True)
             df3.fillna(0, inplace=True)
 
-        # extract the practice number from 'PRACTICE NAME'
+        # Extract the practice number from 'PRACTICE NAME'
         df1['practice_number'] = df1['PRACTICE NAME'].apply(self.extract_practice_number)
         df1['practice_number'] = df1['practice_number'].fillna(0).astype(int)
 
-        # convert DOLLARS OBLIGATED column to integer
-        df1['DOLLARS OBLIGATED'] = df1['DOLLARS OBLIGATED'].apply(self.convert_dollars)
+        # Convert 'PRACTICE INSTANCE COUNT' to numeric after removing commas
+        df1['PRACTICE INSTANCE COUNT'] = pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.replace(",", ""), errors='coerce').fillna(0).astype(int)
 
-        # create JSON output
+        # Convert 'DOLLARS OBLIGATED' column to float after removing commas and dollar signs
+        df1['DOLLARS OBLIGATED'] = pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
+
+        # Create state distribution JSON output
         json_output = self.create_state_distribution(df1, df2, df3)
-
-        # save output to JSON file
         out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_state_distribution.json"
         with open(out_json_file, "w") as json_file:
             json_file.write(json_output)
 
+        # Create summary JSON output
+        summary_output = self.create_summary_output(df1)
+        summary_json_file = "../title-2-conservation/eqip_ira/eqip_ira_summary.json"
+        with open(summary_json_file, "w") as json_file:
+            json_file.write(summary_output)
+
     def remap_state_name_to_abbreviation(self, input_dict):
-        # remap state names to abbreviations
+        # Remap state names to abbreviations
         state_names = list(input_dict.keys())
 
         for state_name in state_names:
