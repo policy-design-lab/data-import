@@ -25,9 +25,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dairy and Disaster data import program and generate JSON
   files. [#59](https://github.com/policy-design-lab/data-import/issues/59)
 - PaymentInPercentageNationwide to commodity programs. [#80](https://github.com/policy-design-lab/data-import/issues/80)
-- EQIP IRA data import program and generate JSON files. [#92](https://github.com/policy-design-lab/data-import/issues/92)
 - Code, CSV, and JSON files for updating all programs and summary
   data. [#95](https://github.com/policy-design-lab/data-import/issues/95)
+- EQIP IRA data import program and generate JSON files. [#97](https://github.com/policy-design-lab/data-import/issues/97)
 
 ### Changed
 
