@@ -7010,7 +7010,7 @@
         {
             "state": "CA",
             "minimumTotalPaymentInDollars": 17413510.35,
-            "maximumTotalPaymentInDollarsYear": 39993287.72,
+            "maximumTotalPaymentInDollars": 39993287.72,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -7172,7 +7172,7 @@
         {
             "state": "TX",
             "minimumTotalPaymentInDollars": 5861720.15,
-            "maximumTotalPaymentInDollarsYear": 32438430.72,
+            "maximumTotalPaymentInDollars": 32438430.72,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -7294,7 +7294,7 @@
         {
             "state": "IN",
             "minimumTotalPaymentInDollars": 5865885.33,
-            "maximumTotalPaymentInDollarsYear": 20513722.96,
+            "maximumTotalPaymentInDollars": 20513722.96,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -7486,7 +7486,7 @@
         {
             "state": "TN",
             "minimumTotalPaymentInDollars": 4666357.4,
-            "maximumTotalPaymentInDollarsYear": 19572613.58,
+            "maximumTotalPaymentInDollars": 19572613.58,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -7708,7 +7708,7 @@
         {
             "state": "OH",
             "minimumTotalPaymentInDollars": 3991762.91,
-            "maximumTotalPaymentInDollarsYear": 19026409.85,
+            "maximumTotalPaymentInDollars": 19026409.85,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -7875,7 +7875,7 @@
         {
             "state": "MS",
             "minimumTotalPaymentInDollars": 2644923.33,
-            "maximumTotalPaymentInDollarsYear": 18890972.08,
+            "maximumTotalPaymentInDollars": 18890972.08,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -7982,7 +7982,7 @@
         {
             "state": "MN",
             "minimumTotalPaymentInDollars": 3539166.76,
-            "maximumTotalPaymentInDollarsYear": 16907289.02,
+            "maximumTotalPaymentInDollars": 16907289.02,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -8144,7 +8144,7 @@
         {
             "state": "KS",
             "minimumTotalPaymentInDollars": 2667042.7,
-            "maximumTotalPaymentInDollarsYear": 16831208.82,
+            "maximumTotalPaymentInDollars": 16831208.82,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -8211,7 +8211,7 @@
         {
             "state": "ND",
             "minimumTotalPaymentInDollars": 2892329.01,
-            "maximumTotalPaymentInDollarsYear": 15908040.17,
+            "maximumTotalPaymentInDollars": 15908040.17,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -8318,7 +8318,7 @@
         {
             "state": "WI",
             "minimumTotalPaymentInDollars": 4483373.6,
-            "maximumTotalPaymentInDollarsYear": 15856228.15,
+            "maximumTotalPaymentInDollars": 15856228.15,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -8510,7 +8510,7 @@
         {
             "state": "MI",
             "minimumTotalPaymentInDollars": 2943334.29,
-            "maximumTotalPaymentInDollarsYear": 15021441.86,
+            "maximumTotalPaymentInDollars": 15021441.86,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -8682,7 +8682,7 @@
         {
             "state": "MO",
             "minimumTotalPaymentInDollars": 1313739.84,
-            "maximumTotalPaymentInDollarsYear": 14372686.65,
+            "maximumTotalPaymentInDollars": 14372686.65,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -8709,7 +8709,7 @@
         {
             "state": "WA",
             "minimumTotalPaymentInDollars": 1666764.17,
-            "maximumTotalPaymentInDollarsYear": 13860722.97,
+            "maximumTotalPaymentInDollars": 13860722.97,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -8881,7 +8881,7 @@
         {
             "state": "OK",
             "minimumTotalPaymentInDollars": 4638787.74,
-            "maximumTotalPaymentInDollarsYear": 13751428.35,
+            "maximumTotalPaymentInDollars": 13751428.35,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -9038,7 +9038,7 @@
         {
             "state": "CO",
             "minimumTotalPaymentInDollars": 1949229.49,
-            "maximumTotalPaymentInDollarsYear": 13119786.72,
+            "maximumTotalPaymentInDollars": 13119786.72,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -9130,7 +9130,7 @@
         {
             "state": "OR",
             "minimumTotalPaymentInDollars": 2862433.97,
-            "maximumTotalPaymentInDollarsYear": 12667134.7,
+            "maximumTotalPaymentInDollars": 12667134.7,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -9237,7 +9237,7 @@
         {
             "state": "AL",
             "minimumTotalPaymentInDollars": 3385254.31,
-            "maximumTotalPaymentInDollarsYear": 12498882.6,
+            "maximumTotalPaymentInDollars": 12498882.6,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -9384,7 +9384,7 @@
         {
             "state": "VA",
             "minimumTotalPaymentInDollars": 1844684.3,
-            "maximumTotalPaymentInDollarsYear": 12357671.5,
+            "maximumTotalPaymentInDollars": 12357671.5,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -9561,7 +9561,7 @@
         {
             "state": "NE",
             "minimumTotalPaymentInDollars": 3427999.23,
-            "maximumTotalPaymentInDollarsYear": 12201829.02,
+            "maximumTotalPaymentInDollars": 12201829.02,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -9713,7 +9713,7 @@
         {
             "state": "LA",
             "minimumTotalPaymentInDollars": 1614693.63,
-            "maximumTotalPaymentInDollarsYear": 11521129.42,
+            "maximumTotalPaymentInDollars": 11521129.42,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -9850,7 +9850,7 @@
         {
             "state": "IA",
             "minimumTotalPaymentInDollars": 4155514.01,
-            "maximumTotalPaymentInDollarsYear": 11496821.49,
+            "maximumTotalPaymentInDollars": 11496821.49,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -9887,7 +9887,7 @@
         {
             "state": "NM",
             "minimumTotalPaymentInDollars": 1325898.67,
-            "maximumTotalPaymentInDollarsYear": 11293746.55,
+            "maximumTotalPaymentInDollars": 11293746.55,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -10089,7 +10089,7 @@
         {
             "state": "MT",
             "minimumTotalPaymentInDollars": 1175218.15,
-            "maximumTotalPaymentInDollarsYear": 8795984.41,
+            "maximumTotalPaymentInDollars": 8795984.41,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -10211,7 +10211,7 @@
         {
             "state": "AR",
             "minimumTotalPaymentInDollars": 2166241.06,
-            "maximumTotalPaymentInDollarsYear": 8641411.46,
+            "maximumTotalPaymentInDollars": 8641411.46,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -10248,7 +10248,7 @@
         {
             "state": "FL",
             "minimumTotalPaymentInDollars": 1516546.06,
-            "maximumTotalPaymentInDollarsYear": 8607442.44,
+            "maximumTotalPaymentInDollars": 8607442.44,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -10390,7 +10390,7 @@
         {
             "state": "NC",
             "minimumTotalPaymentInDollars": 1731223.45,
-            "maximumTotalPaymentInDollarsYear": 8510844.04,
+            "maximumTotalPaymentInDollars": 8510844.04,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -10562,7 +10562,7 @@
         {
             "state": "SD",
             "minimumTotalPaymentInDollars": 1187226.67,
-            "maximumTotalPaymentInDollarsYear": 8168987.37,
+            "maximumTotalPaymentInDollars": 8168987.37,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -10694,7 +10694,7 @@
         {
             "state": "GA",
             "minimumTotalPaymentInDollars": 721909.96,
-            "maximumTotalPaymentInDollarsYear": 7819139.08,
+            "maximumTotalPaymentInDollars": 7819139.08,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -10726,7 +10726,7 @@
         {
             "state": "KY",
             "minimumTotalPaymentInDollars": 1564058.86,
-            "maximumTotalPaymentInDollarsYear": 7649055.26,
+            "maximumTotalPaymentInDollars": 7649055.26,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -10848,7 +10848,7 @@
         {
             "state": "SC",
             "minimumTotalPaymentInDollars": 2404098.04,
-            "maximumTotalPaymentInDollarsYear": 5761508.22,
+            "maximumTotalPaymentInDollars": 5761508.22,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -10875,7 +10875,7 @@
         {
             "state": "AK",
             "minimumTotalPaymentInDollars": 765884.69,
-            "maximumTotalPaymentInDollarsYear": 5592660.21,
+            "maximumTotalPaymentInDollars": 5592660.21,
             "practices": [
                 {
                     "practiceName": "Forest Stand Improvement (666)",
@@ -10897,7 +10897,7 @@
         {
             "state": "PA",
             "minimumTotalPaymentInDollars": 1722875.1,
-            "maximumTotalPaymentInDollarsYear": 5395721.33,
+            "maximumTotalPaymentInDollars": 5395721.33,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -11099,7 +11099,7 @@
         {
             "state": "ID",
             "minimumTotalPaymentInDollars": 853985.43,
-            "maximumTotalPaymentInDollarsYear": 4817866.41,
+            "maximumTotalPaymentInDollars": 4817866.41,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -11236,7 +11236,7 @@
         {
             "state": "AZ",
             "minimumTotalPaymentInDollars": 127360.94,
-            "maximumTotalPaymentInDollarsYear": 4653844.82,
+            "maximumTotalPaymentInDollars": 4653844.82,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -11348,7 +11348,7 @@
         {
             "state": "IL",
             "minimumTotalPaymentInDollars": 1433263.21,
-            "maximumTotalPaymentInDollarsYear": 4621179.57,
+            "maximumTotalPaymentInDollars": 4621179.57,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -11540,7 +11540,7 @@
         {
             "state": "VT",
             "minimumTotalPaymentInDollars": 244737.79,
-            "maximumTotalPaymentInDollarsYear": 4532271.68,
+            "maximumTotalPaymentInDollars": 4532271.68,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -11582,7 +11582,7 @@
         {
             "state": "HI",
             "minimumTotalPaymentInDollars": 699369.23,
-            "maximumTotalPaymentInDollarsYear": 4154945.96,
+            "maximumTotalPaymentInDollars": 4154945.96,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -11694,7 +11694,7 @@
         {
             "state": "DE",
             "minimumTotalPaymentInDollars": 78793.64,
-            "maximumTotalPaymentInDollarsYear": 4084161.99,
+            "maximumTotalPaymentInDollars": 4084161.99,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -11856,7 +11856,7 @@
         {
             "state": "UT",
             "minimumTotalPaymentInDollars": 902581.1,
-            "maximumTotalPaymentInDollarsYear": 2986592.62,
+            "maximumTotalPaymentInDollars": 2986592.62,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -12013,7 +12013,7 @@
         {
             "state": "ME",
             "minimumTotalPaymentInDollars": 915868.8,
-            "maximumTotalPaymentInDollarsYear": 2944015.63,
+            "maximumTotalPaymentInDollars": 2944015.63,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -12130,7 +12130,7 @@
         {
             "state": "MD",
             "minimumTotalPaymentInDollars": 294383.16,
-            "maximumTotalPaymentInDollarsYear": 2868894.99,
+            "maximumTotalPaymentInDollars": 2868894.99,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -12237,7 +12237,7 @@
         {
             "state": "NJ",
             "minimumTotalPaymentInDollars": 610221.26,
-            "maximumTotalPaymentInDollarsYear": 2849706.09,
+            "maximumTotalPaymentInDollars": 2849706.09,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -12369,7 +12369,7 @@
         {
             "state": "NH",
             "minimumTotalPaymentInDollars": 344400.37,
-            "maximumTotalPaymentInDollarsYear": 2718048.75,
+            "maximumTotalPaymentInDollars": 2718048.75,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -12461,7 +12461,7 @@
         {
             "state": "WV",
             "minimumTotalPaymentInDollars": 356984.65,
-            "maximumTotalPaymentInDollarsYear": 2411664.7,
+            "maximumTotalPaymentInDollars": 2411664.7,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -12618,7 +12618,7 @@
         {
             "state": "NY",
             "minimumTotalPaymentInDollars": 194257.25,
-            "maximumTotalPaymentInDollarsYear": 2050835.01,
+            "maximumTotalPaymentInDollars": 2050835.01,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -12760,7 +12760,7 @@
         {
             "state": "CT",
             "minimumTotalPaymentInDollars": 111315.64,
-            "maximumTotalPaymentInDollarsYear": 1905175.62,
+            "maximumTotalPaymentInDollars": 1905175.62,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -12907,7 +12907,7 @@
         {
             "state": "MA",
             "minimumTotalPaymentInDollars": 117654.98,
-            "maximumTotalPaymentInDollarsYear": 1283725.9,
+            "maximumTotalPaymentInDollars": 1283725.9,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -12989,7 +12989,7 @@
         {
             "state": "WY",
             "minimumTotalPaymentInDollars": 66619.42,
-            "maximumTotalPaymentInDollarsYear": 994970.99,
+            "maximumTotalPaymentInDollars": 994970.99,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -13141,7 +13141,7 @@
         {
             "state": "RI",
             "minimumTotalPaymentInDollars": 49324.36,
-            "maximumTotalPaymentInDollarsYear": 380509.88,
+            "maximumTotalPaymentInDollars": 380509.88,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -13268,7 +13268,7 @@
         {
             "state": "NV",
             "minimumTotalPaymentInDollars": 0.0,
-            "maximumTotalPaymentInDollarsYear": 173293.39,
+            "maximumTotalPaymentInDollars": 173293.39,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -13330,7 +13330,7 @@
         {
             "state": "AS",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -13492,7 +13492,7 @@
         {
             "state": "MP",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -13574,7 +13574,7 @@
         {
             "state": "PR",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -13731,7 +13731,7 @@
         {
             "state": "Total",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -14003,7 +14003,7 @@
         {
             "state": "U.S. Virgin Islands",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -14072,7 +14072,7 @@
         {
             "state": "CA",
             "minimumTotalPaymentInDollars": 31058851.25,
-            "maximumTotalPaymentInDollarsYear": 71332290.22,
+            "maximumTotalPaymentInDollars": 71332290.22,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -14234,7 +14234,7 @@
         {
             "state": "TX",
             "minimumTotalPaymentInDollars": 10455002.49,
-            "maximumTotalPaymentInDollarsYear": 57857397.75,
+            "maximumTotalPaymentInDollars": 57857397.75,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -14356,7 +14356,7 @@
         {
             "state": "IN",
             "minimumTotalPaymentInDollars": 10462431.54,
-            "maximumTotalPaymentInDollarsYear": 36588410.79,
+            "maximumTotalPaymentInDollars": 36588410.79,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -14548,7 +14548,7 @@
         {
             "state": "TN",
             "minimumTotalPaymentInDollars": 8322945.66,
-            "maximumTotalPaymentInDollarsYear": 34909841.93,
+            "maximumTotalPaymentInDollars": 34909841.93,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -14770,7 +14770,7 @@
         {
             "state": "OH",
             "minimumTotalPaymentInDollars": 7119734.5,
-            "maximumTotalPaymentInDollarsYear": 33935629.37,
+            "maximumTotalPaymentInDollars": 33935629.37,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -14937,7 +14937,7 @@
         {
             "state": "MS",
             "minimumTotalPaymentInDollars": 4717502.59,
-            "maximumTotalPaymentInDollarsYear": 33694061.67,
+            "maximumTotalPaymentInDollars": 33694061.67,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -15044,7 +15044,7 @@
         {
             "state": "MN",
             "minimumTotalPaymentInDollars": 6312481.04,
-            "maximumTotalPaymentInDollarsYear": 30155951.57,
+            "maximumTotalPaymentInDollars": 30155951.57,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -15206,7 +15206,7 @@
         {
             "state": "KS",
             "minimumTotalPaymentInDollars": 4756954.85,
-            "maximumTotalPaymentInDollarsYear": 30020254.42,
+            "maximumTotalPaymentInDollars": 30020254.42,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -15273,7 +15273,7 @@
         {
             "state": "ND",
             "minimumTotalPaymentInDollars": 5158776.99,
-            "maximumTotalPaymentInDollarsYear": 28373684.77,
+            "maximumTotalPaymentInDollars": 28373684.77,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -15380,7 +15380,7 @@
         {
             "state": "WI",
             "minimumTotalPaymentInDollars": 7996574.55,
-            "maximumTotalPaymentInDollarsYear": 28281272.51,
+            "maximumTotalPaymentInDollars": 28281272.51,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -15572,7 +15572,7 @@
         {
             "state": "MI",
             "minimumTotalPaymentInDollars": 5249750.34,
-            "maximumTotalPaymentInDollarsYear": 26792342.21,
+            "maximumTotalPaymentInDollars": 26792342.21,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -15744,7 +15744,7 @@
         {
             "state": "MO",
             "minimumTotalPaymentInDollars": 2343195.0,
-            "maximumTotalPaymentInDollarsYear": 25635218.15,
+            "maximumTotalPaymentInDollars": 25635218.15,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -15771,7 +15771,7 @@
         {
             "state": "WA",
             "minimumTotalPaymentInDollars": 2972851.51,
-            "maximumTotalPaymentInDollarsYear": 24722076.38,
+            "maximumTotalPaymentInDollars": 24722076.38,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -15943,7 +15943,7 @@
         {
             "state": "OK",
             "minimumTotalPaymentInDollars": 8273772.23,
-            "maximumTotalPaymentInDollarsYear": 24527137.78,
+            "maximumTotalPaymentInDollars": 24527137.78,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -16100,7 +16100,7 @@
         {
             "state": "CO",
             "minimumTotalPaymentInDollars": 3476658.51,
-            "maximumTotalPaymentInDollarsYear": 23400537.63,
+            "maximumTotalPaymentInDollars": 23400537.63,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -16192,7 +16192,7 @@
         {
             "state": "OR",
             "minimumTotalPaymentInDollars": 5105456.0,
-            "maximumTotalPaymentInDollarsYear": 22593184.51,
+            "maximumTotalPaymentInDollars": 22593184.51,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -16299,7 +16299,7 @@
         {
             "state": "AL",
             "minimumTotalPaymentInDollars": 6037961.78,
-            "maximumTotalPaymentInDollarsYear": 22293088.97,
+            "maximumTotalPaymentInDollars": 22293088.97,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -16446,7 +16446,7 @@
         {
             "state": "VA",
             "minimumTotalPaymentInDollars": 3290191.02,
-            "maximumTotalPaymentInDollarsYear": 22041223.92,
+            "maximumTotalPaymentInDollars": 22041223.92,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -16623,7 +16623,7 @@
         {
             "state": "NE",
             "minimumTotalPaymentInDollars": 6114201.9,
-            "maximumTotalPaymentInDollarsYear": 21763262.26,
+            "maximumTotalPaymentInDollars": 21763262.26,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -16775,7 +16775,7 @@
         {
             "state": "LA",
             "minimumTotalPaymentInDollars": 2879978.14,
-            "maximumTotalPaymentInDollarsYear": 20549161.98,
+            "maximumTotalPaymentInDollars": 20549161.98,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -16912,7 +16912,7 @@
         {
             "state": "IA",
             "minimumTotalPaymentInDollars": 7411802.04,
-            "maximumTotalPaymentInDollarsYear": 20505806.2,
+            "maximumTotalPaymentInDollars": 20505806.2,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -16949,7 +16949,7 @@
         {
             "state": "NM",
             "minimumTotalPaymentInDollars": 2364881.57,
-            "maximumTotalPaymentInDollarsYear": 20143600.4,
+            "maximumTotalPaymentInDollars": 20143600.4,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -17151,7 +17151,7 @@
         {
             "state": "MT",
             "minimumTotalPaymentInDollars": 2096126.8,
-            "maximumTotalPaymentInDollarsYear": 15688575.47,
+            "maximumTotalPaymentInDollars": 15688575.47,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -17273,7 +17273,7 @@
         {
             "state": "AR",
             "minimumTotalPaymentInDollars": 3863721.77,
-            "maximumTotalPaymentInDollarsYear": 15412878.14,
+            "maximumTotalPaymentInDollars": 15412878.14,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -17310,7 +17310,7 @@
         {
             "state": "FL",
             "minimumTotalPaymentInDollars": 2704921.5,
-            "maximumTotalPaymentInDollarsYear": 15352290.77,
+            "maximumTotalPaymentInDollars": 15352290.77,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -17452,7 +17452,7 @@
         {
             "state": "NC",
             "minimumTotalPaymentInDollars": 3087821.51,
-            "maximumTotalPaymentInDollarsYear": 15179997.25,
+            "maximumTotalPaymentInDollars": 15179997.25,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -17624,7 +17624,7 @@
         {
             "state": "SD",
             "minimumTotalPaymentInDollars": 2117545.28,
-            "maximumTotalPaymentInDollarsYear": 14570259.45,
+            "maximumTotalPaymentInDollars": 14570259.45,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -17756,7 +17756,7 @@
         {
             "state": "GA",
             "minimumTotalPaymentInDollars": 1287603.34,
-            "maximumTotalPaymentInDollarsYear": 13946267.73,
+            "maximumTotalPaymentInDollars": 13946267.73,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -17788,7 +17788,7 @@
         {
             "state": "KY",
             "minimumTotalPaymentInDollars": 2789665.63,
-            "maximumTotalPaymentInDollarsYear": 13642905.12,
+            "maximumTotalPaymentInDollars": 13642905.12,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -17910,7 +17910,7 @@
         {
             "state": "SC",
             "minimumTotalPaymentInDollars": 4287965.03,
-            "maximumTotalPaymentInDollarsYear": 10276263.83,
+            "maximumTotalPaymentInDollars": 10276263.83,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -17937,7 +17937,7 @@
         {
             "state": "AK",
             "minimumTotalPaymentInDollars": 1366036.96,
-            "maximumTotalPaymentInDollarsYear": 9975105.42,
+            "maximumTotalPaymentInDollars": 9975105.42,
             "practices": [
                 {
                     "practiceName": "Forest Stand Improvement (666)",
@@ -17959,7 +17959,7 @@
         {
             "state": "PA",
             "minimumTotalPaymentInDollars": 3072931.33,
-            "maximumTotalPaymentInDollarsYear": 9623843.94,
+            "maximumTotalPaymentInDollars": 9623843.94,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -18161,7 +18161,7 @@
         {
             "state": "ID",
             "minimumTotalPaymentInDollars": 1523174.01,
-            "maximumTotalPaymentInDollarsYear": 8593178.12,
+            "maximumTotalPaymentInDollars": 8593178.12,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -18298,7 +18298,7 @@
         {
             "state": "AZ",
             "minimumTotalPaymentInDollars": 227161.8,
-            "maximumTotalPaymentInDollarsYear": 8300628.14,
+            "maximumTotalPaymentInDollars": 8300628.14,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -18410,7 +18410,7 @@
         {
             "state": "IL",
             "minimumTotalPaymentInDollars": 2556377.65,
-            "maximumTotalPaymentInDollarsYear": 8242366.18,
+            "maximumTotalPaymentInDollars": 8242366.18,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -18602,7 +18602,7 @@
         {
             "state": "VT",
             "minimumTotalPaymentInDollars": 436515.92,
-            "maximumTotalPaymentInDollarsYear": 8083789.49,
+            "maximumTotalPaymentInDollars": 8083789.49,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -18644,7 +18644,7 @@
         {
             "state": "HI",
             "minimumTotalPaymentInDollars": 1247399.54,
-            "maximumTotalPaymentInDollarsYear": 7410788.86,
+            "maximumTotalPaymentInDollars": 7410788.86,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -18756,7 +18756,7 @@
         {
             "state": "DE",
             "minimumTotalPaymentInDollars": 140536.85,
-            "maximumTotalPaymentInDollarsYear": 7284538.11,
+            "maximumTotalPaymentInDollars": 7284538.11,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -18918,7 +18918,7 @@
         {
             "state": "UT",
             "minimumTotalPaymentInDollars": 1609849.58,
-            "maximumTotalPaymentInDollarsYear": 5326906.18,
+            "maximumTotalPaymentInDollars": 5326906.18,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -19075,7 +19075,7 @@
         {
             "state": "ME",
             "minimumTotalPaymentInDollars": 1633549.6,
-            "maximumTotalPaymentInDollarsYear": 5250965.58,
+            "maximumTotalPaymentInDollars": 5250965.58,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -19192,7 +19192,7 @@
         {
             "state": "MD",
             "minimumTotalPaymentInDollars": 525063.74,
-            "maximumTotalPaymentInDollarsYear": 5116979.91,
+            "maximumTotalPaymentInDollars": 5116979.91,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -19299,7 +19299,7 @@
         {
             "state": "NJ",
             "minimumTotalPaymentInDollars": 1088394.65,
-            "maximumTotalPaymentInDollarsYear": 5082754.47,
+            "maximumTotalPaymentInDollars": 5082754.47,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -19431,7 +19431,7 @@
         {
             "state": "NH",
             "minimumTotalPaymentInDollars": 614274.76,
-            "maximumTotalPaymentInDollarsYear": 4847929.58,
+            "maximumTotalPaymentInDollars": 4847929.58,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -19523,7 +19523,7 @@
         {
             "state": "WV",
             "minimumTotalPaymentInDollars": 636720.16,
-            "maximumTotalPaymentInDollarsYear": 4301460.97,
+            "maximumTotalPaymentInDollars": 4301460.97,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -19680,7 +19680,7 @@
         {
             "state": "NY",
             "minimumTotalPaymentInDollars": 346478.51,
-            "maximumTotalPaymentInDollarsYear": 3657882.77,
+            "maximumTotalPaymentInDollars": 3657882.77,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -19822,7 +19822,7 @@
         {
             "state": "CT",
             "minimumTotalPaymentInDollars": 198543.3,
-            "maximumTotalPaymentInDollarsYear": 3398083.73,
+            "maximumTotalPaymentInDollars": 3398083.73,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -19969,7 +19969,7 @@
         {
             "state": "MA",
             "minimumTotalPaymentInDollars": 209850.2,
-            "maximumTotalPaymentInDollarsYear": 2289661.93,
+            "maximumTotalPaymentInDollars": 2289661.93,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -20051,7 +20051,7 @@
         {
             "state": "WY",
             "minimumTotalPaymentInDollars": 118822.84,
-            "maximumTotalPaymentInDollarsYear": 1774636.79,
+            "maximumTotalPaymentInDollars": 1774636.79,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -20203,7 +20203,7 @@
         {
             "state": "RI",
             "minimumTotalPaymentInDollars": 87975.25,
-            "maximumTotalPaymentInDollarsYear": 678679.92,
+            "maximumTotalPaymentInDollars": 678679.92,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -20330,7 +20330,7 @@
         {
             "state": "NV",
             "minimumTotalPaymentInDollars": 0.0,
-            "maximumTotalPaymentInDollarsYear": 309087.23,
+            "maximumTotalPaymentInDollars": 309087.23,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -20392,7 +20392,7 @@
         {
             "state": "AS",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -20554,7 +20554,7 @@
         {
             "state": "MP",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -20636,7 +20636,7 @@
         {
             "state": "PR",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -20793,7 +20793,7 @@
         {
             "state": "Total",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -21065,7 +21065,7 @@
         {
             "state": "U.S. Virgin Islands",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -21134,7 +21134,7 @@
         {
             "state": "CA",
             "minimumTotalPaymentInDollars": 47558865.97,
-            "maximumTotalPaymentInDollarsYear": 109227569.4,
+            "maximumTotalPaymentInDollars": 109227569.4,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -21296,7 +21296,7 @@
         {
             "state": "TX",
             "minimumTotalPaymentInDollars": 16009222.56,
-            "maximumTotalPaymentInDollarsYear": 88594140.31,
+            "maximumTotalPaymentInDollars": 88594140.31,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -21418,7 +21418,7 @@
         {
             "state": "IN",
             "minimumTotalPaymentInDollars": 16020598.3,
-            "maximumTotalPaymentInDollarsYear": 56026004.02,
+            "maximumTotalPaymentInDollars": 56026004.02,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -21610,7 +21610,7 @@
         {
             "state": "TN",
             "minimumTotalPaymentInDollars": 12744510.55,
-            "maximumTotalPaymentInDollarsYear": 53455695.45,
+            "maximumTotalPaymentInDollars": 53455695.45,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -21832,7 +21832,7 @@
         {
             "state": "OH",
             "minimumTotalPaymentInDollars": 10902093.46,
-            "maximumTotalPaymentInDollarsYear": 51963932.47,
+            "maximumTotalPaymentInDollars": 51963932.47,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -21999,7 +21999,7 @@
         {
             "state": "MS",
             "minimumTotalPaymentInDollars": 7223675.84,
-            "maximumTotalPaymentInDollarsYear": 51594031.94,
+            "maximumTotalPaymentInDollars": 51594031.94,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -22106,7 +22106,7 @@
         {
             "state": "MN",
             "minimumTotalPaymentInDollars": 9665986.59,
-            "maximumTotalPaymentInDollarsYear": 46176300.84,
+            "maximumTotalPaymentInDollars": 46176300.84,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -22268,7 +22268,7 @@
         {
             "state": "KS",
             "minimumTotalPaymentInDollars": 7284087.11,
-            "maximumTotalPaymentInDollarsYear": 45968514.58,
+            "maximumTotalPaymentInDollars": 45968514.58,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -22335,7 +22335,7 @@
         {
             "state": "ND",
             "minimumTotalPaymentInDollars": 7899377.27,
-            "maximumTotalPaymentInDollarsYear": 43447204.8,
+            "maximumTotalPaymentInDollars": 43447204.8,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -22442,7 +22442,7 @@
         {
             "state": "WI",
             "minimumTotalPaymentInDollars": 12244754.78,
-            "maximumTotalPaymentInDollarsYear": 43305698.53,
+            "maximumTotalPaymentInDollars": 43305698.53,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -22634,7 +22634,7 @@
         {
             "state": "MI",
             "minimumTotalPaymentInDollars": 8038680.21,
-            "maximumTotalPaymentInDollarsYear": 41025774.01,
+            "maximumTotalPaymentInDollars": 41025774.01,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -22806,7 +22806,7 @@
         {
             "state": "MO",
             "minimumTotalPaymentInDollars": 3588017.34,
-            "maximumTotalPaymentInDollarsYear": 39253927.79,
+            "maximumTotalPaymentInDollars": 39253927.79,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -22833,7 +22833,7 @@
         {
             "state": "WA",
             "minimumTotalPaymentInDollars": 4552178.87,
-            "maximumTotalPaymentInDollarsYear": 37855679.46,
+            "maximumTotalPaymentInDollars": 37855679.46,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -23005,7 +23005,7 @@
         {
             "state": "OK",
             "minimumTotalPaymentInDollars": 12669213.73,
-            "maximumTotalPaymentInDollarsYear": 37557179.73,
+            "maximumTotalPaymentInDollars": 37557179.73,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -23162,7 +23162,7 @@
         {
             "state": "CO",
             "minimumTotalPaymentInDollars": 5323633.34,
-            "maximumTotalPaymentInDollarsYear": 35832073.25,
+            "maximumTotalPaymentInDollars": 35832073.25,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -23254,7 +23254,7 @@
         {
             "state": "OR",
             "minimumTotalPaymentInDollars": 7817729.5,
-            "maximumTotalPaymentInDollarsYear": 34595813.78,
+            "maximumTotalPaymentInDollars": 34595813.78,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -23361,7 +23361,7 @@
         {
             "state": "AL",
             "minimumTotalPaymentInDollars": 9245628.98,
-            "maximumTotalPaymentInDollarsYear": 34136292.48,
+            "maximumTotalPaymentInDollars": 34136292.48,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -23508,7 +23508,7 @@
         {
             "state": "VA",
             "minimumTotalPaymentInDollars": 5038105.0,
-            "maximumTotalPaymentInDollarsYear": 33750624.13,
+            "maximumTotalPaymentInDollars": 33750624.13,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -23685,7 +23685,7 @@
         {
             "state": "NE",
             "minimumTotalPaymentInDollars": 9362371.66,
-            "maximumTotalPaymentInDollarsYear": 33324995.33,
+            "maximumTotalPaymentInDollars": 33324995.33,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -23837,7 +23837,7 @@
         {
             "state": "LA",
             "minimumTotalPaymentInDollars": 4409966.53,
-            "maximumTotalPaymentInDollarsYear": 31465904.28,
+            "maximumTotalPaymentInDollars": 31465904.28,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -23974,7 +23974,7 @@
         {
             "state": "IA",
             "minimumTotalPaymentInDollars": 11349321.88,
-            "maximumTotalPaymentInDollarsYear": 31399515.74,
+            "maximumTotalPaymentInDollars": 31399515.74,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -24011,7 +24011,7 @@
         {
             "state": "NM",
             "minimumTotalPaymentInDollars": 3621224.9,
-            "maximumTotalPaymentInDollarsYear": 30844888.11,
+            "maximumTotalPaymentInDollars": 30844888.11,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -24213,7 +24213,7 @@
         {
             "state": "MT",
             "minimumTotalPaymentInDollars": 3209694.17,
-            "maximumTotalPaymentInDollarsYear": 24023131.19,
+            "maximumTotalPaymentInDollars": 24023131.19,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -24335,7 +24335,7 @@
         {
             "state": "AR",
             "minimumTotalPaymentInDollars": 5916323.96,
-            "maximumTotalPaymentInDollarsYear": 23600969.66,
+            "maximumTotalPaymentInDollars": 23600969.66,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -24372,7 +24372,7 @@
         {
             "state": "FL",
             "minimumTotalPaymentInDollars": 4141911.04,
-            "maximumTotalPaymentInDollarsYear": 23508195.24,
+            "maximumTotalPaymentInDollars": 23508195.24,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -24514,7 +24514,7 @@
         {
             "state": "NC",
             "minimumTotalPaymentInDollars": 4728226.68,
-            "maximumTotalPaymentInDollarsYear": 23244370.78,
+            "maximumTotalPaymentInDollars": 23244370.78,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -24686,7 +24686,7 @@
         {
             "state": "SD",
             "minimumTotalPaymentInDollars": 3242491.21,
-            "maximumTotalPaymentInDollarsYear": 22310709.78,
+            "maximumTotalPaymentInDollars": 22310709.78,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -24818,7 +24818,7 @@
         {
             "state": "GA",
             "minimumTotalPaymentInDollars": 1971642.62,
-            "maximumTotalPaymentInDollarsYear": 21355222.47,
+            "maximumTotalPaymentInDollars": 21355222.47,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -24850,7 +24850,7 @@
         {
             "state": "KY",
             "minimumTotalPaymentInDollars": 4271675.5,
-            "maximumTotalPaymentInDollarsYear": 20890698.47,
+            "maximumTotalPaymentInDollars": 20890698.47,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -24972,7 +24972,7 @@
         {
             "state": "SC",
             "minimumTotalPaymentInDollars": 6565946.45,
-            "maximumTotalPaymentInDollarsYear": 15735528.99,
+            "maximumTotalPaymentInDollars": 15735528.99,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -24999,7 +24999,7 @@
         {
             "state": "AK",
             "minimumTotalPaymentInDollars": 2091744.09,
-            "maximumTotalPaymentInDollarsYear": 15274380.17,
+            "maximumTotalPaymentInDollars": 15274380.17,
             "practices": [
                 {
                     "practiceName": "Forest Stand Improvement (666)",
@@ -25021,7 +25021,7 @@
         {
             "state": "PA",
             "minimumTotalPaymentInDollars": 4705426.1,
-            "maximumTotalPaymentInDollarsYear": 14736511.03,
+            "maximumTotalPaymentInDollars": 14736511.03,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -25223,7 +25223,7 @@
         {
             "state": "ID",
             "minimumTotalPaymentInDollars": 2332360.2,
-            "maximumTotalPaymentInDollarsYear": 13158304.0,
+            "maximumTotalPaymentInDollars": 13158304.0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -25360,7 +25360,7 @@
         {
             "state": "AZ",
             "minimumTotalPaymentInDollars": 347841.51,
-            "maximumTotalPaymentInDollarsYear": 12710336.85,
+            "maximumTotalPaymentInDollars": 12710336.85,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -25472,7 +25472,7 @@
         {
             "state": "IL",
             "minimumTotalPaymentInDollars": 3914453.28,
-            "maximumTotalPaymentInDollarsYear": 12621123.22,
+            "maximumTotalPaymentInDollars": 12621123.22,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -25664,7 +25664,7 @@
         {
             "state": "VT",
             "minimumTotalPaymentInDollars": 668415.01,
-            "maximumTotalPaymentInDollarsYear": 12378302.66,
+            "maximumTotalPaymentInDollars": 12378302.66,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -25706,7 +25706,7 @@
         {
             "state": "HI",
             "minimumTotalPaymentInDollars": 1910080.54,
-            "maximumTotalPaymentInDollarsYear": 11347770.45,
+            "maximumTotalPaymentInDollars": 11347770.45,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -25818,7 +25818,7 @@
         {
             "state": "DE",
             "minimumTotalPaymentInDollars": 215197.05,
-            "maximumTotalPaymentInDollarsYear": 11154448.99,
+            "maximumTotalPaymentInDollars": 11154448.99,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -25980,7 +25980,7 @@
         {
             "state": "UT",
             "minimumTotalPaymentInDollars": 2465082.16,
-            "maximumTotalPaymentInDollarsYear": 8156825.08,
+            "maximumTotalPaymentInDollars": 8156825.08,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -26137,7 +26137,7 @@
         {
             "state": "ME",
             "minimumTotalPaymentInDollars": 2501372.83,
-            "maximumTotalPaymentInDollarsYear": 8040541.04,
+            "maximumTotalPaymentInDollars": 8040541.04,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -26254,7 +26254,7 @@
         {
             "state": "MD",
             "minimumTotalPaymentInDollars": 804003.86,
-            "maximumTotalPaymentInDollarsYear": 7835375.49,
+            "maximumTotalPaymentInDollars": 7835375.49,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -26361,7 +26361,7 @@
         {
             "state": "NJ",
             "minimumTotalPaymentInDollars": 1666604.31,
-            "maximumTotalPaymentInDollarsYear": 7782967.78,
+            "maximumTotalPaymentInDollars": 7782967.78,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -26493,7 +26493,7 @@
         {
             "state": "NH",
             "minimumTotalPaymentInDollars": 940608.23,
-            "maximumTotalPaymentInDollarsYear": 7423392.17,
+            "maximumTotalPaymentInDollars": 7423392.17,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -26585,7 +26585,7 @@
         {
             "state": "WV",
             "minimumTotalPaymentInDollars": 974977.75,
-            "maximumTotalPaymentInDollarsYear": 6586612.1,
+            "maximumTotalPaymentInDollars": 6586612.1,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -26742,7 +26742,7 @@
         {
             "state": "NY",
             "minimumTotalPaymentInDollars": 530545.21,
-            "maximumTotalPaymentInDollarsYear": 5601132.99,
+            "maximumTotalPaymentInDollars": 5601132.99,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -26884,7 +26884,7 @@
         {
             "state": "CT",
             "minimumTotalPaymentInDollars": 304019.44,
-            "maximumTotalPaymentInDollarsYear": 5203315.72,
+            "maximumTotalPaymentInDollars": 5203315.72,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -27031,7 +27031,7 @@
         {
             "state": "MA",
             "minimumTotalPaymentInDollars": 321333.12,
-            "maximumTotalPaymentInDollarsYear": 3506044.83,
+            "maximumTotalPaymentInDollars": 3506044.83,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -27113,7 +27113,7 @@
         {
             "state": "WY",
             "minimumTotalPaymentInDollars": 181947.48,
-            "maximumTotalPaymentInDollarsYear": 2717412.58,
+            "maximumTotalPaymentInDollars": 2717412.58,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -27265,7 +27265,7 @@
         {
             "state": "RI",
             "minimumTotalPaymentInDollars": 134712.11,
-            "maximumTotalPaymentInDollarsYear": 1039228.62,
+            "maximumTotalPaymentInDollars": 1039228.62,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -27392,7 +27392,7 @@
         {
             "state": "NV",
             "minimumTotalPaymentInDollars": 0.0,
-            "maximumTotalPaymentInDollarsYear": 473289.82,
+            "maximumTotalPaymentInDollars": 473289.82,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -27454,7 +27454,7 @@
         {
             "state": "AS",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -27616,7 +27616,7 @@
         {
             "state": "MP",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -27698,7 +27698,7 @@
         {
             "state": "PR",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -27855,7 +27855,7 @@
         {
             "state": "Total",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -28127,7 +28127,7 @@
         {
             "state": "U.S. Virgin Islands",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -28196,7 +28196,7 @@
         {
             "state": "CA",
             "minimumTotalPaymentInDollars": 74735360.81,
-            "maximumTotalPaymentInDollarsYear": 171643323.34,
+            "maximumTotalPaymentInDollars": 171643323.34,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -28358,7 +28358,7 @@
         {
             "state": "TX",
             "minimumTotalPaymentInDollars": 25157349.74,
-            "maximumTotalPaymentInDollarsYear": 139219363.34,
+            "maximumTotalPaymentInDollars": 139219363.34,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -28480,7 +28480,7 @@
         {
             "state": "IN",
             "minimumTotalPaymentInDollars": 25175225.9,
-            "maximumTotalPaymentInDollarsYear": 88040863.46,
+            "maximumTotalPaymentInDollars": 88040863.46,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -28672,7 +28672,7 @@
         {
             "state": "TN",
             "minimumTotalPaymentInDollars": 20027088.0,
-            "maximumTotalPaymentInDollarsYear": 84001807.14,
+            "maximumTotalPaymentInDollars": 84001807.14,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -28894,7 +28894,7 @@
         {
             "state": "OH",
             "minimumTotalPaymentInDollars": 17131861.15,
-            "maximumTotalPaymentInDollarsYear": 81657608.17,
+            "maximumTotalPaymentInDollars": 81657608.17,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -29061,7 +29061,7 @@
         {
             "state": "MS",
             "minimumTotalPaymentInDollars": 11351490.61,
-            "maximumTotalPaymentInDollarsYear": 81076335.9,
+            "maximumTotalPaymentInDollars": 81076335.9,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -29168,7 +29168,7 @@
         {
             "state": "MN",
             "minimumTotalPaymentInDollars": 15189407.5,
-            "maximumTotalPaymentInDollarsYear": 72562758.47,
+            "maximumTotalPaymentInDollars": 72562758.47,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -29330,7 +29330,7 @@
         {
             "state": "KS",
             "minimumTotalPaymentInDollars": 11446422.6,
-            "maximumTotalPaymentInDollarsYear": 72236237.19,
+            "maximumTotalPaymentInDollars": 72236237.19,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -29397,7 +29397,7 @@
         {
             "state": "ND",
             "minimumTotalPaymentInDollars": 12413307.14,
-            "maximumTotalPaymentInDollarsYear": 68274178.98,
+            "maximumTotalPaymentInDollars": 68274178.98,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -29504,7 +29504,7 @@
         {
             "state": "WI",
             "minimumTotalPaymentInDollars": 19241757.51,
-            "maximumTotalPaymentInDollarsYear": 68051811.98,
+            "maximumTotalPaymentInDollars": 68051811.98,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -29696,7 +29696,7 @@
         {
             "state": "MI",
             "minimumTotalPaymentInDollars": 12632211.76,
-            "maximumTotalPaymentInDollarsYear": 64469073.44,
+            "maximumTotalPaymentInDollars": 64469073.44,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -29868,7 +29868,7 @@
         {
             "state": "MO",
             "minimumTotalPaymentInDollars": 5638312.96,
-            "maximumTotalPaymentInDollarsYear": 61684743.68,
+            "maximumTotalPaymentInDollars": 61684743.68,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -29895,7 +29895,7 @@
         {
             "state": "WA",
             "minimumTotalPaymentInDollars": 7153423.93,
-            "maximumTotalPaymentInDollarsYear": 59487496.3,
+            "maximumTotalPaymentInDollars": 59487496.3,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -30067,7 +30067,7 @@
         {
             "state": "OK",
             "minimumTotalPaymentInDollars": 19908764.44,
-            "maximumTotalPaymentInDollarsYear": 59018425.29,
+            "maximumTotalPaymentInDollars": 59018425.29,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -30224,7 +30224,7 @@
         {
             "state": "CO",
             "minimumTotalPaymentInDollars": 8365709.53,
-            "maximumTotalPaymentInDollarsYear": 56307543.68,
+            "maximumTotalPaymentInDollars": 56307543.68,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -30316,7 +30316,7 @@
         {
             "state": "OR",
             "minimumTotalPaymentInDollars": 12285003.5,
-            "maximumTotalPaymentInDollarsYear": 54364850.22,
+            "maximumTotalPaymentInDollars": 54364850.22,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -30423,7 +30423,7 @@
         {
             "state": "AL",
             "minimumTotalPaymentInDollars": 14528845.53,
-            "maximumTotalPaymentInDollarsYear": 53642745.33,
+            "maximumTotalPaymentInDollars": 53642745.33,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -30570,7 +30570,7 @@
         {
             "state": "VA",
             "minimumTotalPaymentInDollars": 7917022.15,
-            "maximumTotalPaymentInDollarsYear": 53036695.06,
+            "maximumTotalPaymentInDollars": 53036695.06,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -30747,7 +30747,7 @@
         {
             "state": "NE",
             "minimumTotalPaymentInDollars": 14712298.32,
-            "maximumTotalPaymentInDollarsYear": 52367849.8,
+            "maximumTotalPaymentInDollars": 52367849.8,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -30899,7 +30899,7 @@
         {
             "state": "LA",
             "minimumTotalPaymentInDollars": 6929947.4,
-            "maximumTotalPaymentInDollarsYear": 49446421.01,
+            "maximumTotalPaymentInDollars": 49446421.01,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -31036,7 +31036,7 @@
         {
             "state": "IA",
             "minimumTotalPaymentInDollars": 17834648.66,
-            "maximumTotalPaymentInDollarsYear": 49342096.16,
+            "maximumTotalPaymentInDollars": 49342096.16,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -31073,7 +31073,7 @@
         {
             "state": "NM",
             "minimumTotalPaymentInDollars": 5690496.28,
-            "maximumTotalPaymentInDollarsYear": 48470538.46,
+            "maximumTotalPaymentInDollars": 48470538.46,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -31275,7 +31275,7 @@
         {
             "state": "MT",
             "minimumTotalPaymentInDollars": 5043805.12,
-            "maximumTotalPaymentInDollarsYear": 37750634.72,
+            "maximumTotalPaymentInDollars": 37750634.72,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -31397,7 +31397,7 @@
         {
             "state": "AR",
             "minimumTotalPaymentInDollars": 9297080.51,
-            "maximumTotalPaymentInDollarsYear": 37087238.03,
+            "maximumTotalPaymentInDollars": 37087238.03,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -31434,7 +31434,7 @@
         {
             "state": "FL",
             "minimumTotalPaymentInDollars": 6508717.35,
-            "maximumTotalPaymentInDollarsYear": 36941449.67,
+            "maximumTotalPaymentInDollars": 36941449.67,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -31576,7 +31576,7 @@
         {
             "state": "NC",
             "minimumTotalPaymentInDollars": 7430070.5,
-            "maximumTotalPaymentInDollarsYear": 36526868.37,
+            "maximumTotalPaymentInDollars": 36526868.37,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -31748,7 +31748,7 @@
         {
             "state": "SD",
             "minimumTotalPaymentInDollars": 5095343.33,
-            "maximumTotalPaymentInDollarsYear": 35059686.8,
+            "maximumTotalPaymentInDollars": 35059686.8,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -31880,7 +31880,7 @@
         {
             "state": "GA",
             "minimumTotalPaymentInDollars": 3098295.54,
-            "maximumTotalPaymentInDollarsYear": 33558206.74,
+            "maximumTotalPaymentInDollars": 33558206.74,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -31912,7 +31912,7 @@
         {
             "state": "KY",
             "minimumTotalPaymentInDollars": 6712632.93,
-            "maximumTotalPaymentInDollarsYear": 32828240.45,
+            "maximumTotalPaymentInDollars": 32828240.45,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -32034,7 +32034,7 @@
         {
             "state": "SC",
             "minimumTotalPaymentInDollars": 10317915.85,
-            "maximumTotalPaymentInDollarsYear": 24727259.85,
+            "maximumTotalPaymentInDollars": 24727259.85,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -32061,7 +32061,7 @@
         {
             "state": "AK",
             "minimumTotalPaymentInDollars": 3287026.43,
-            "maximumTotalPaymentInDollarsYear": 24002597.42,
+            "maximumTotalPaymentInDollars": 24002597.42,
             "practices": [
                 {
                     "practiceName": "Forest Stand Improvement (666)",
@@ -32083,7 +32083,7 @@
         {
             "state": "PA",
             "minimumTotalPaymentInDollars": 7394241.01,
-            "maximumTotalPaymentInDollarsYear": 23157374.48,
+            "maximumTotalPaymentInDollars": 23157374.48,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -32285,7 +32285,7 @@
         {
             "state": "ID",
             "minimumTotalPaymentInDollars": 3665137.46,
-            "maximumTotalPaymentInDollarsYear": 20677334.85,
+            "maximumTotalPaymentInDollars": 20677334.85,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -32422,7 +32422,7 @@
         {
             "state": "AZ",
             "minimumTotalPaymentInDollars": 546608.08,
-            "maximumTotalPaymentInDollarsYear": 19973386.47,
+            "maximumTotalPaymentInDollars": 19973386.47,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -32534,7 +32534,7 @@
         {
             "state": "IL",
             "minimumTotalPaymentInDollars": 6151283.72,
-            "maximumTotalPaymentInDollarsYear": 19833193.63,
+            "maximumTotalPaymentInDollars": 19833193.63,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -32726,7 +32726,7 @@
         {
             "state": "VT",
             "minimumTotalPaymentInDollars": 1050366.44,
-            "maximumTotalPaymentInDollarsYear": 19451618.47,
+            "maximumTotalPaymentInDollars": 19451618.47,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -32768,7 +32768,7 @@
         {
             "state": "HI",
             "minimumTotalPaymentInDollars": 3001555.14,
-            "maximumTotalPaymentInDollarsYear": 17832210.7,
+            "maximumTotalPaymentInDollars": 17832210.7,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -32880,7 +32880,7 @@
         {
             "state": "DE",
             "minimumTotalPaymentInDollars": 338166.8,
-            "maximumTotalPaymentInDollarsYear": 17528419.83,
+            "maximumTotalPaymentInDollars": 17528419.83,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -33042,7 +33042,7 @@
         {
             "state": "UT",
             "minimumTotalPaymentInDollars": 3873700.54,
-            "maximumTotalPaymentInDollarsYear": 12817867.99,
+            "maximumTotalPaymentInDollars": 12817867.99,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -33199,7 +33199,7 @@
         {
             "state": "ME",
             "minimumTotalPaymentInDollars": 3930728.73,
-            "maximumTotalPaymentInDollarsYear": 12635135.92,
+            "maximumTotalPaymentInDollars": 12635135.92,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -33316,7 +33316,7 @@
         {
             "state": "MD",
             "minimumTotalPaymentInDollars": 1263434.63,
-            "maximumTotalPaymentInDollarsYear": 12312732.92,
+            "maximumTotalPaymentInDollars": 12312732.92,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -33423,7 +33423,7 @@
         {
             "state": "NJ",
             "minimumTotalPaymentInDollars": 2618949.63,
-            "maximumTotalPaymentInDollarsYear": 12230377.95,
+            "maximumTotalPaymentInDollars": 12230377.95,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -33555,7 +33555,7 @@
         {
             "state": "NH",
             "minimumTotalPaymentInDollars": 1478098.64,
-            "maximumTotalPaymentInDollarsYear": 11665330.56,
+            "maximumTotalPaymentInDollars": 11665330.56,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -33647,7 +33647,7 @@
         {
             "state": "WV",
             "minimumTotalPaymentInDollars": 1532107.89,
-            "maximumTotalPaymentInDollarsYear": 10350390.45,
+            "maximumTotalPaymentInDollars": 10350390.45,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -33804,7 +33804,7 @@
         {
             "state": "NY",
             "minimumTotalPaymentInDollars": 833713.91,
-            "maximumTotalPaymentInDollarsYear": 8801780.42,
+            "maximumTotalPaymentInDollars": 8801780.42,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -33946,7 +33946,7 @@
         {
             "state": "CT",
             "minimumTotalPaymentInDollars": 477744.83,
-            "maximumTotalPaymentInDollarsYear": 8176638.98,
+            "maximumTotalPaymentInDollars": 8176638.98,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -34093,7 +34093,7 @@
         {
             "state": "MA",
             "minimumTotalPaymentInDollars": 504952.04,
-            "maximumTotalPaymentInDollarsYear": 5509499.02,
+            "maximumTotalPaymentInDollars": 5509499.02,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -34175,7 +34175,7 @@
         {
             "state": "WY",
             "minimumTotalPaymentInDollars": 285917.46,
-            "maximumTotalPaymentInDollarsYear": 4270219.77,
+            "maximumTotalPaymentInDollars": 4270219.77,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -34327,7 +34327,7 @@
         {
             "state": "RI",
             "minimumTotalPaymentInDollars": 211690.46,
-            "maximumTotalPaymentInDollarsYear": 1633073.55,
+            "maximumTotalPaymentInDollars": 1633073.55,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -34454,7 +34454,7 @@
         {
             "state": "NV",
             "minimumTotalPaymentInDollars": 0.0,
-            "maximumTotalPaymentInDollarsYear": 743741.14,
+            "maximumTotalPaymentInDollars": 743741.14,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -34516,7 +34516,7 @@
         {
             "state": "AS",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -34678,7 +34678,7 @@
         {
             "state": "MP",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -34760,7 +34760,7 @@
         {
             "state": "PR",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -34917,7 +34917,7 @@
         {
             "state": "Total",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -35189,7 +35189,7 @@
         {
             "state": "U.S. Virgin Islands",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -35258,7 +35258,7 @@
         {
             "state": "CA",
             "minimumTotalPaymentInDollars": 90321879.91,
-            "maximumTotalPaymentInDollarsYear": 207440593.99,
+            "maximumTotalPaymentInDollars": 207440593.99,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -35420,7 +35420,7 @@
         {
             "state": "TX",
             "minimumTotalPaymentInDollars": 30404069.74,
-            "maximumTotalPaymentInDollarsYear": 168254417.72,
+            "maximumTotalPaymentInDollars": 168254417.72,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -35542,7 +35542,7 @@
         {
             "state": "IN",
             "minimumTotalPaymentInDollars": 30425674.08,
-            "maximumTotalPaymentInDollarsYear": 106402326.96,
+            "maximumTotalPaymentInDollars": 106402326.96,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -35734,7 +35734,7 @@
         {
             "state": "TN",
             "minimumTotalPaymentInDollars": 24203860.37,
-            "maximumTotalPaymentInDollarsYear": 101520900.6,
+            "maximumTotalPaymentInDollars": 101520900.6,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -35956,7 +35956,7 @@
         {
             "state": "OH",
             "minimumTotalPaymentInDollars": 20704816.15,
-            "maximumTotalPaymentInDollarsYear": 98687804.53,
+            "maximumTotalPaymentInDollars": 98687804.53,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -36123,7 +36123,7 @@
         {
             "state": "MS",
             "minimumTotalPaymentInDollars": 13718913.79,
-            "maximumTotalPaymentInDollarsYear": 97985304.35,
+            "maximumTotalPaymentInDollars": 97985304.35,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -36230,7 +36230,7 @@
         {
             "state": "MN",
             "minimumTotalPaymentInDollars": 18357251.84,
-            "maximumTotalPaymentInDollarsYear": 87696167.99,
+            "maximumTotalPaymentInDollars": 87696167.99,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -36392,7 +36392,7 @@
         {
             "state": "KS",
             "minimumTotalPaymentInDollars": 13833644.43,
-            "maximumTotalPaymentInDollarsYear": 87301548.69,
+            "maximumTotalPaymentInDollars": 87301548.69,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -36459,7 +36459,7 @@
         {
             "state": "ND",
             "minimumTotalPaymentInDollars": 15002178.68,
-            "maximumTotalPaymentInDollarsYear": 82513178.87,
+            "maximumTotalPaymentInDollars": 82513178.87,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -36566,7 +36566,7 @@
         {
             "state": "WI",
             "minimumTotalPaymentInDollars": 23254744.37,
-            "maximumTotalPaymentInDollarsYear": 82244435.87,
+            "maximumTotalPaymentInDollars": 82244435.87,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -36758,7 +36758,7 @@
         {
             "state": "MI",
             "minimumTotalPaymentInDollars": 15266737.21,
-            "maximumTotalPaymentInDollarsYear": 77914495.17,
+            "maximumTotalPaymentInDollars": 77914495.17,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -36930,7 +36930,7 @@
         {
             "state": "MO",
             "minimumTotalPaymentInDollars": 6814217.8,
-            "maximumTotalPaymentInDollarsYear": 74549476.31,
+            "maximumTotalPaymentInDollars": 74549476.31,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -36957,7 +36957,7 @@
         {
             "state": "WA",
             "minimumTotalPaymentInDollars": 8645314.49,
-            "maximumTotalPaymentInDollarsYear": 71893979.48,
+            "maximumTotalPaymentInDollars": 71893979.48,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -37129,7 +37129,7 @@
         {
             "state": "OK",
             "minimumTotalPaymentInDollars": 24060859.69,
-            "maximumTotalPaymentInDollarsYear": 71327080.83,
+            "maximumTotalPaymentInDollars": 71327080.83,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -37286,7 +37286,7 @@
         {
             "state": "CO",
             "minimumTotalPaymentInDollars": 10110429.7,
-            "maximumTotalPaymentInDollarsYear": 68050828.19,
+            "maximumTotalPaymentInDollars": 68050828.19,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -37378,7 +37378,7 @@
         {
             "state": "OR",
             "minimumTotalPaymentInDollars": 14847116.53,
-            "maximumTotalPaymentInDollarsYear": 65702974.07,
+            "maximumTotalPaymentInDollars": 65702974.07,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -37485,7 +37485,7 @@
         {
             "state": "AL",
             "minimumTotalPaymentInDollars": 17558925.62,
-            "maximumTotalPaymentInDollarsYear": 64830269.75,
+            "maximumTotalPaymentInDollars": 64830269.75,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -37632,7 +37632,7 @@
         {
             "state": "VA",
             "minimumTotalPaymentInDollars": 9568165.8,
-            "maximumTotalPaymentInDollarsYear": 64097823.98,
+            "maximumTotalPaymentInDollars": 64097823.98,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -37809,7 +37809,7 @@
         {
             "state": "NE",
             "minimumTotalPaymentInDollars": 17780638.62,
-            "maximumTotalPaymentInDollarsYear": 63289486.93,
+            "maximumTotalPaymentInDollars": 63289486.93,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -37961,7 +37961,7 @@
         {
             "state": "LA",
             "minimumTotalPaymentInDollars": 8375230.55,
-            "maximumTotalPaymentInDollarsYear": 59758776.2,
+            "maximumTotalPaymentInDollars": 59758776.2,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -38098,7 +38098,7 @@
         {
             "state": "IA",
             "minimumTotalPaymentInDollars": 21554174.32,
-            "maximumTotalPaymentInDollarsYear": 59632693.76,
+            "maximumTotalPaymentInDollars": 59632693.76,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -38135,7 +38135,7 @@
         {
             "state": "NM",
             "minimumTotalPaymentInDollars": 6877284.27,
-            "maximumTotalPaymentInDollarsYear": 58579367.34,
+            "maximumTotalPaymentInDollars": 58579367.34,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -38337,7 +38337,7 @@
         {
             "state": "MT",
             "minimumTotalPaymentInDollars": 6095721.7,
-            "maximumTotalPaymentInDollarsYear": 45623761.75,
+            "maximumTotalPaymentInDollars": 45623761.75,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -38459,7 +38459,7 @@
         {
             "state": "AR",
             "minimumTotalPaymentInDollars": 11236043.82,
-            "maximumTotalPaymentInDollarsYear": 44822009.6,
+            "maximumTotalPaymentInDollars": 44822009.6,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -38496,7 +38496,7 @@
         {
             "state": "FL",
             "minimumTotalPaymentInDollars": 7866150.38,
-            "maximumTotalPaymentInDollarsYear": 44645816.17,
+            "maximumTotalPaymentInDollars": 44645816.17,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -38638,7 +38638,7 @@
         {
             "state": "NC",
             "minimumTotalPaymentInDollars": 8979657.39,
-            "maximumTotalPaymentInDollarsYear": 44144771.4,
+            "maximumTotalPaymentInDollars": 44144771.4,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -38810,7 +38810,7 @@
         {
             "state": "SD",
             "minimumTotalPaymentInDollars": 6158008.52,
-            "maximumTotalPaymentInDollarsYear": 42371600.09,
+            "maximumTotalPaymentInDollars": 42371600.09,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -38942,7 +38942,7 @@
         {
             "state": "GA",
             "minimumTotalPaymentInDollars": 3744464.13,
-            "maximumTotalPaymentInDollarsYear": 40556977.12,
+            "maximumTotalPaymentInDollars": 40556977.12,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -38974,7 +38974,7 @@
         {
             "state": "KY",
             "minimumTotalPaymentInDollars": 8112593.81,
-            "maximumTotalPaymentInDollarsYear": 39674771.88,
+            "maximumTotalPaymentInDollars": 39674771.88,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -39096,7 +39096,7 @@
         {
             "state": "SC",
             "minimumTotalPaymentInDollars": 12469780.66,
-            "maximumTotalPaymentInDollarsYear": 29884281.96,
+            "maximumTotalPaymentInDollars": 29884281.96,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -39123,7 +39123,7 @@
         {
             "state": "AK",
             "minimumTotalPaymentInDollars": 3972556.01,
-            "maximumTotalPaymentInDollarsYear": 29008486.72,
+            "maximumTotalPaymentInDollars": 29008486.72,
             "practices": [
                 {
                     "practiceName": "Forest Stand Improvement (666)",
@@ -39145,7 +39145,7 @@
         {
             "state": "PA",
             "minimumTotalPaymentInDollars": 8936355.45,
-            "maximumTotalPaymentInDollarsYear": 27986987.34,
+            "maximumTotalPaymentInDollars": 27986987.34,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -39347,7 +39347,7 @@
         {
             "state": "ID",
             "minimumTotalPaymentInDollars": 4429524.42,
-            "maximumTotalPaymentInDollarsYear": 24989720.19,
+            "maximumTotalPaymentInDollars": 24989720.19,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -39484,7 +39484,7 @@
         {
             "state": "AZ",
             "minimumTotalPaymentInDollars": 660606.56,
-            "maximumTotalPaymentInDollarsYear": 24138959.05,
+            "maximumTotalPaymentInDollars": 24138959.05,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -39596,7 +39596,7 @@
         {
             "state": "IL",
             "minimumTotalPaymentInDollars": 7434171.77,
-            "maximumTotalPaymentInDollarsYear": 23969528.13,
+            "maximumTotalPaymentInDollars": 23969528.13,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -39788,7 +39788,7 @@
         {
             "state": "VT",
             "minimumTotalPaymentInDollars": 1269426.82,
-            "maximumTotalPaymentInDollarsYear": 23508373.12,
+            "maximumTotalPaymentInDollars": 23508373.12,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -39830,7 +39830,7 @@
         {
             "state": "HI",
             "minimumTotalPaymentInDollars": 3627547.92,
-            "maximumTotalPaymentInDollarsYear": 21551227.9,
+            "maximumTotalPaymentInDollars": 21551227.9,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -39942,7 +39942,7 @@
         {
             "state": "DE",
             "minimumTotalPaymentInDollars": 408693.57,
-            "maximumTotalPaymentInDollarsYear": 21184079.59,
+            "maximumTotalPaymentInDollars": 21184079.59,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -40104,7 +40104,7 @@
         {
             "state": "UT",
             "minimumTotalPaymentInDollars": 4681584.61,
-            "maximumTotalPaymentInDollarsYear": 15491113.18,
+            "maximumTotalPaymentInDollars": 15491113.18,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -40261,7 +40261,7 @@
         {
             "state": "ME",
             "minimumTotalPaymentInDollars": 4750506.38,
-            "maximumTotalPaymentInDollarsYear": 15270271.22,
+            "maximumTotalPaymentInDollars": 15270271.22,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -40378,7 +40378,7 @@
         {
             "state": "MD",
             "minimumTotalPaymentInDollars": 1526931.69,
-            "maximumTotalPaymentInDollarsYear": 14880629.09,
+            "maximumTotalPaymentInDollars": 14880629.09,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -40485,7 +40485,7 @@
         {
             "state": "NJ",
             "minimumTotalPaymentInDollars": 3165147.68,
-            "maximumTotalPaymentInDollarsYear": 14781098.48,
+            "maximumTotalPaymentInDollars": 14781098.48,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -40617,7 +40617,7 @@
         {
             "state": "NH",
             "minimumTotalPaymentInDollars": 1786365.21,
-            "maximumTotalPaymentInDollarsYear": 14098206.98,
+            "maximumTotalPaymentInDollars": 14098206.98,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -40709,7 +40709,7 @@
         {
             "state": "WV",
             "minimumTotalPaymentInDollars": 1851638.41,
-            "maximumTotalPaymentInDollarsYear": 12509028.03,
+            "maximumTotalPaymentInDollars": 12509028.03,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -40866,7 +40866,7 @@
         {
             "state": "NY",
             "minimumTotalPaymentInDollars": 1007590.07,
-            "maximumTotalPaymentInDollarsYear": 10637445.85,
+            "maximumTotalPaymentInDollars": 10637445.85,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -41008,7 +41008,7 @@
         {
             "state": "CT",
             "minimumTotalPaymentInDollars": 577381.45,
-            "maximumTotalPaymentInDollarsYear": 9881927.33,
+            "maximumTotalPaymentInDollars": 9881927.33,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -41155,7 +41155,7 @@
         {
             "state": "MA",
             "minimumTotalPaymentInDollars": 610262.9,
-            "maximumTotalPaymentInDollarsYear": 6658538.92,
+            "maximumTotalPaymentInDollars": 6658538.92,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -41237,7 +41237,7 @@
         {
             "state": "WY",
             "minimumTotalPaymentInDollars": 345547.31,
-            "maximumTotalPaymentInDollarsYear": 5160800.36,
+            "maximumTotalPaymentInDollars": 5160800.36,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -41389,7 +41389,7 @@
         {
             "state": "RI",
             "minimumTotalPaymentInDollars": 255839.8,
-            "maximumTotalPaymentInDollarsYear": 1973661.08,
+            "maximumTotalPaymentInDollars": 1973661.08,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -41516,7 +41516,7 @@
         {
             "state": "NV",
             "minimumTotalPaymentInDollars": 0.0,
-            "maximumTotalPaymentInDollarsYear": 898852.93,
+            "maximumTotalPaymentInDollars": 898852.93,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -41578,7 +41578,7 @@
         {
             "state": "AS",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -41740,7 +41740,7 @@
         {
             "state": "MP",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -41822,7 +41822,7 @@
         {
             "state": "PR",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -41979,7 +41979,7 @@
         {
             "state": "Total",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -42251,7 +42251,7 @@
         {
             "state": "U.S. Virgin Islands",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -42320,7 +42320,7 @@
         {
             "state": "CA",
             "minimumTotalPaymentInDollars": 89579664.72,
-            "maximumTotalPaymentInDollarsYear": 205735962.05,
+            "maximumTotalPaymentInDollars": 205735962.05,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -42482,7 +42482,7 @@
         {
             "state": "TX",
             "minimumTotalPaymentInDollars": 30154225.93,
-            "maximumTotalPaymentInDollarsYear": 166871796.09,
+            "maximumTotalPaymentInDollars": 166871796.09,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -42604,7 +42604,7 @@
         {
             "state": "IN",
             "minimumTotalPaymentInDollars": 30175652.73,
-            "maximumTotalPaymentInDollarsYear": 105527971.56,
+            "maximumTotalPaymentInDollars": 105527971.56,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -42796,7 +42796,7 @@
         {
             "state": "TN",
             "minimumTotalPaymentInDollars": 24004966.44,
-            "maximumTotalPaymentInDollarsYear": 100686658.06,
+            "maximumTotalPaymentInDollars": 100686658.06,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -43018,7 +43018,7 @@
         {
             "state": "OH",
             "minimumTotalPaymentInDollars": 20534675.43,
-            "maximumTotalPaymentInDollarsYear": 97876842.8,
+            "maximumTotalPaymentInDollars": 97876842.8,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -43185,7 +43185,7 @@
         {
             "state": "MS",
             "minimumTotalPaymentInDollars": 13606179.35,
-            "maximumTotalPaymentInDollarsYear": 97180115.38,
+            "maximumTotalPaymentInDollars": 97180115.38,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -43292,7 +43292,7 @@
         {
             "state": "MN",
             "minimumTotalPaymentInDollars": 18206402.11,
-            "maximumTotalPaymentInDollarsYear": 86975529.44,
+            "maximumTotalPaymentInDollars": 86975529.44,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -43454,7 +43454,7 @@
         {
             "state": "KS",
             "minimumTotalPaymentInDollars": 13719967.2,
-            "maximumTotalPaymentInDollarsYear": 86584152.91,
+            "maximumTotalPaymentInDollars": 86584152.91,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -43521,7 +43521,7 @@
         {
             "state": "ND",
             "minimumTotalPaymentInDollars": 14878899.08,
-            "maximumTotalPaymentInDollarsYear": 81835131.26,
+            "maximumTotalPaymentInDollars": 81835131.26,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -43628,7 +43628,7 @@
         {
             "state": "WI",
             "minimumTotalPaymentInDollars": 23063649.76,
-            "maximumTotalPaymentInDollarsYear": 81568596.64,
+            "maximumTotalPaymentInDollars": 81568596.64,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -43820,7 +43820,7 @@
         {
             "state": "MI",
             "minimumTotalPaymentInDollars": 15141283.62,
-            "maximumTotalPaymentInDollarsYear": 77274237.0,
+            "maximumTotalPaymentInDollars": 77274237.0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -43992,7 +43992,7 @@
         {
             "state": "MO",
             "minimumTotalPaymentInDollars": 6758222.33,
-            "maximumTotalPaymentInDollarsYear": 73936870.0,
+            "maximumTotalPaymentInDollars": 73936870.0,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -44019,7 +44019,7 @@
         {
             "state": "WA",
             "minimumTotalPaymentInDollars": 8574272.08,
-            "maximumTotalPaymentInDollarsYear": 71303194.57,
+            "maximumTotalPaymentInDollars": 71303194.57,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -44191,7 +44191,7 @@
         {
             "state": "OK",
             "minimumTotalPaymentInDollars": 23863140.87,
-            "maximumTotalPaymentInDollarsYear": 70740954.37,
+            "maximumTotalPaymentInDollars": 70740954.37,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -44348,7 +44348,7 @@
         {
             "state": "CO",
             "minimumTotalPaymentInDollars": 10027347.79,
-            "maximumTotalPaymentInDollarsYear": 67491624.16,
+            "maximumTotalPaymentInDollars": 67491624.16,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -44440,7 +44440,7 @@
         {
             "state": "OR",
             "minimumTotalPaymentInDollars": 14725111.15,
-            "maximumTotalPaymentInDollarsYear": 65163063.41,
+            "maximumTotalPaymentInDollars": 65163063.41,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -44547,7 +44547,7 @@
         {
             "state": "AL",
             "minimumTotalPaymentInDollars": 17414636.09,
-            "maximumTotalPaymentInDollarsYear": 64297530.49,
+            "maximumTotalPaymentInDollars": 64297530.49,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -44694,7 +44694,7 @@
         {
             "state": "VA",
             "minimumTotalPaymentInDollars": 9489539.92,
-            "maximumTotalPaymentInDollarsYear": 63571103.55,
+            "maximumTotalPaymentInDollars": 63571103.55,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -44871,7 +44871,7 @@
         {
             "state": "NE",
             "minimumTotalPaymentInDollars": 17634527.17,
-            "maximumTotalPaymentInDollarsYear": 62769408.97,
+            "maximumTotalPaymentInDollars": 62769408.97,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -45023,7 +45023,7 @@
         {
             "state": "LA",
             "minimumTotalPaymentInDollars": 8306407.54,
-            "maximumTotalPaymentInDollarsYear": 59267711.67,
+            "maximumTotalPaymentInDollars": 59267711.67,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -45160,7 +45160,7 @@
         {
             "state": "IA",
             "minimumTotalPaymentInDollars": 21377054.05,
-            "maximumTotalPaymentInDollarsYear": 59142665.3,
+            "maximumTotalPaymentInDollars": 59142665.3,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -45197,7 +45197,7 @@
         {
             "state": "NM",
             "minimumTotalPaymentInDollars": 6820770.56,
-            "maximumTotalPaymentInDollarsYear": 58097994.54,
+            "maximumTotalPaymentInDollars": 58097994.54,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -45399,7 +45399,7 @@
         {
             "state": "MT",
             "minimumTotalPaymentInDollars": 6045630.43,
-            "maximumTotalPaymentInDollarsYear": 45248850.94,
+            "maximumTotalPaymentInDollars": 45248850.94,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -45521,7 +45521,7 @@
         {
             "state": "AR",
             "minimumTotalPaymentInDollars": 11143712.23,
-            "maximumTotalPaymentInDollarsYear": 44453687.14,
+            "maximumTotalPaymentInDollars": 44453687.14,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -45558,7 +45558,7 @@
         {
             "state": "FL",
             "minimumTotalPaymentInDollars": 7801510.71,
-            "maximumTotalPaymentInDollarsYear": 44278941.58,
+            "maximumTotalPaymentInDollars": 44278941.58,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -45700,7 +45700,7 @@
         {
             "state": "NC",
             "minimumTotalPaymentInDollars": 8905867.54,
-            "maximumTotalPaymentInDollarsYear": 43782014.11,
+            "maximumTotalPaymentInDollars": 43782014.11,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -45872,7 +45872,7 @@
         {
             "state": "SD",
             "minimumTotalPaymentInDollars": 6107405.42,
-            "maximumTotalPaymentInDollarsYear": 42023413.74,
+            "maximumTotalPaymentInDollars": 42023413.74,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -46004,7 +46004,7 @@
         {
             "state": "GA",
             "minimumTotalPaymentInDollars": 3713694.2,
-            "maximumTotalPaymentInDollarsYear": 40223702.34,
+            "maximumTotalPaymentInDollars": 40223702.34,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -46036,7 +46036,7 @@
         {
             "state": "KY",
             "minimumTotalPaymentInDollars": 8045929.01,
-            "maximumTotalPaymentInDollarsYear": 39348746.57,
+            "maximumTotalPaymentInDollars": 39348746.57,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -46158,7 +46158,7 @@
         {
             "state": "SC",
             "minimumTotalPaymentInDollars": 12367310.9,
-            "maximumTotalPaymentInDollarsYear": 29638709.47,
+            "maximumTotalPaymentInDollars": 29638709.47,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -46185,7 +46185,7 @@
         {
             "state": "AK",
             "minimumTotalPaymentInDollars": 3939911.74,
-            "maximumTotalPaymentInDollarsYear": 28770111.04,
+            "maximumTotalPaymentInDollars": 28770111.04,
             "practices": [
                 {
                     "practiceName": "Forest Stand Improvement (666)",
@@ -46207,7 +46207,7 @@
         {
             "state": "PA",
             "minimumTotalPaymentInDollars": 8862921.43,
-            "maximumTotalPaymentInDollarsYear": 27757005.77,
+            "maximumTotalPaymentInDollars": 27757005.77,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -46409,7 +46409,7 @@
         {
             "state": "ID",
             "minimumTotalPaymentInDollars": 4393125.04,
-            "maximumTotalPaymentInDollarsYear": 24784368.51,
+            "maximumTotalPaymentInDollars": 24784368.51,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -46546,7 +46546,7 @@
         {
             "state": "AZ",
             "minimumTotalPaymentInDollars": 655178.06,
-            "maximumTotalPaymentInDollarsYear": 23940598.45,
+            "maximumTotalPaymentInDollars": 23940598.45,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -46658,7 +46658,7 @@
         {
             "state": "IL",
             "minimumTotalPaymentInDollars": 7373081.87,
-            "maximumTotalPaymentInDollarsYear": 23772559.82,
+            "maximumTotalPaymentInDollars": 23772559.82,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -46850,7 +46850,7 @@
         {
             "state": "VT",
             "minimumTotalPaymentInDollars": 1258995.38,
-            "maximumTotalPaymentInDollarsYear": 23315194.33,
+            "maximumTotalPaymentInDollars": 23315194.33,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -46892,7 +46892,7 @@
         {
             "state": "HI",
             "minimumTotalPaymentInDollars": 3597738.74,
-            "maximumTotalPaymentInDollarsYear": 21374131.85,
+            "maximumTotalPaymentInDollars": 21374131.85,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -47004,7 +47004,7 @@
         {
             "state": "DE",
             "minimumTotalPaymentInDollars": 405335.15,
-            "maximumTotalPaymentInDollarsYear": 21010000.55,
+            "maximumTotalPaymentInDollars": 21010000.55,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -47166,7 +47166,7 @@
         {
             "state": "UT",
             "minimumTotalPaymentInDollars": 4643113.94,
-            "maximumTotalPaymentInDollarsYear": 15363815.79,
+            "maximumTotalPaymentInDollars": 15363815.79,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -47323,7 +47323,7 @@
         {
             "state": "ME",
             "minimumTotalPaymentInDollars": 4711469.35,
-            "maximumTotalPaymentInDollarsYear": 15144788.59,
+            "maximumTotalPaymentInDollars": 15144788.59,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -47440,7 +47440,7 @@
         {
             "state": "MD",
             "minimumTotalPaymentInDollars": 1514384.21,
-            "maximumTotalPaymentInDollarsYear": 14758348.32,
+            "maximumTotalPaymentInDollars": 14758348.32,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -47547,7 +47547,7 @@
         {
             "state": "NJ",
             "minimumTotalPaymentInDollars": 3139138.24,
-            "maximumTotalPaymentInDollarsYear": 14659635.6,
+            "maximumTotalPaymentInDollars": 14659635.6,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -47679,7 +47679,7 @@
         {
             "state": "NH",
             "minimumTotalPaymentInDollars": 1771685.85,
-            "maximumTotalPaymentInDollarsYear": 13982355.72,
+            "maximumTotalPaymentInDollars": 13982355.72,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -47771,7 +47771,7 @@
         {
             "state": "WV",
             "minimumTotalPaymentInDollars": 1836422.67,
-            "maximumTotalPaymentInDollarsYear": 12406235.76,
+            "maximumTotalPaymentInDollars": 12406235.76,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -47928,7 +47928,7 @@
         {
             "state": "NY",
             "minimumTotalPaymentInDollars": 999310.25,
-            "maximumTotalPaymentInDollarsYear": 10550033.21,
+            "maximumTotalPaymentInDollars": 10550033.21,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -48070,7 +48070,7 @@
         {
             "state": "CT",
             "minimumTotalPaymentInDollars": 572636.85,
-            "maximumTotalPaymentInDollarsYear": 9800723.12,
+            "maximumTotalPaymentInDollars": 9800723.12,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -48217,7 +48217,7 @@
         {
             "state": "MA",
             "minimumTotalPaymentInDollars": 605248.09,
-            "maximumTotalPaymentInDollarsYear": 6603822.73,
+            "maximumTotalPaymentInDollars": 6603822.73,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -48299,7 +48299,7 @@
         {
             "state": "WY",
             "minimumTotalPaymentInDollars": 342707.79,
-            "maximumTotalPaymentInDollarsYear": 5118391.76,
+            "maximumTotalPaymentInDollars": 5118391.76,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -48451,7 +48451,7 @@
         {
             "state": "RI",
             "minimumTotalPaymentInDollars": 253737.45,
-            "maximumTotalPaymentInDollarsYear": 1957442.63,
+            "maximumTotalPaymentInDollars": 1957442.63,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -48578,7 +48578,7 @@
         {
             "state": "NV",
             "minimumTotalPaymentInDollars": 0.0,
-            "maximumTotalPaymentInDollarsYear": 891466.65,
+            "maximumTotalPaymentInDollars": 891466.65,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -48640,7 +48640,7 @@
         {
             "state": "AS",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -48802,7 +48802,7 @@
         {
             "state": "MP",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -48884,7 +48884,7 @@
         {
             "state": "PR",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -49041,7 +49041,7 @@
         {
             "state": "Total",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -49313,7 +49313,7 @@
         {
             "state": "U.S. Virgin Islands",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -49382,7 +49382,7 @@
         {
             "state": "CA",
             "minimumTotalPaymentInDollars": 60690365.58,
-            "maximumTotalPaymentInDollarsYear": 139386442.1,
+            "maximumTotalPaymentInDollars": 139386442.1,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -49544,7 +49544,7 @@
         {
             "state": "TX",
             "minimumTotalPaymentInDollars": 20429536.12,
-            "maximumTotalPaymentInDollarsYear": 113055907.74,
+            "maximumTotalPaymentInDollars": 113055907.74,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -49666,7 +49666,7 @@
         {
             "state": "IN",
             "minimumTotalPaymentInDollars": 20444052.81,
-            "maximumTotalPaymentInDollarsYear": 71495368.87,
+            "maximumTotalPaymentInDollars": 71495368.87,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -49858,7 +49858,7 @@
         {
             "state": "TN",
             "minimumTotalPaymentInDollars": 16263403.01,
-            "maximumTotalPaymentInDollarsYear": 68215371.27,
+            "maximumTotalPaymentInDollars": 68215371.27,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -50080,7 +50080,7 @@
         {
             "state": "OH",
             "minimumTotalPaymentInDollars": 13912275.33,
-            "maximumTotalPaymentInDollarsYear": 66311716.95,
+            "maximumTotalPaymentInDollars": 66311716.95,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -50247,7 +50247,7 @@
         {
             "state": "MS",
             "minimumTotalPaymentInDollars": 9218208.19,
-            "maximumTotalPaymentInDollarsYear": 65839683.01,
+            "maximumTotalPaymentInDollars": 65839683.01,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -50354,7 +50354,7 @@
         {
             "state": "MN",
             "minimumTotalPaymentInDollars": 12334866.44,
-            "maximumTotalPaymentInDollarsYear": 58926059.78,
+            "maximumTotalPaymentInDollars": 58926059.78,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -50516,7 +50516,7 @@
         {
             "state": "KS",
             "minimumTotalPaymentInDollars": 9295299.64,
-            "maximumTotalPaymentInDollarsYear": 58660901.56,
+            "maximumTotalPaymentInDollars": 58660901.56,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -50583,7 +50583,7 @@
         {
             "state": "ND",
             "minimumTotalPaymentInDollars": 10080477.84,
-            "maximumTotalPaymentInDollarsYear": 55443431.82,
+            "maximumTotalPaymentInDollars": 55443431.82,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -50690,7 +50690,7 @@
         {
             "state": "WI",
             "minimumTotalPaymentInDollars": 15625659.46,
-            "maximumTotalPaymentInDollarsYear": 55262854.19,
+            "maximumTotalPaymentInDollars": 55262854.19,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -50882,7 +50882,7 @@
         {
             "state": "MI",
             "minimumTotalPaymentInDollars": 10258243.77,
-            "maximumTotalPaymentInDollarsYear": 52353418.69,
+            "maximumTotalPaymentInDollars": 52353418.69,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -51054,7 +51054,7 @@
         {
             "state": "MO",
             "minimumTotalPaymentInDollars": 4578706.4,
-            "maximumTotalPaymentInDollarsYear": 50092347.23,
+            "maximumTotalPaymentInDollars": 50092347.23,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -51081,7 +51081,7 @@
         {
             "state": "WA",
             "minimumTotalPaymentInDollars": 5809083.0,
-            "maximumTotalPaymentInDollarsYear": 48308027.93,
+            "maximumTotalPaymentInDollars": 48308027.93,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -51253,7 +51253,7 @@
         {
             "state": "OK",
             "minimumTotalPaymentInDollars": 16167315.96,
-            "maximumTotalPaymentInDollarsYear": 47927109.31,
+            "maximumTotalPaymentInDollars": 47927109.31,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -51410,7 +51410,7 @@
         {
             "state": "CO",
             "minimumTotalPaymentInDollars": 6793544.1,
-            "maximumTotalPaymentInDollarsYear": 45725682.91,
+            "maximumTotalPaymentInDollars": 45725682.91,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -51502,7 +51502,7 @@
         {
             "state": "OR",
             "minimumTotalPaymentInDollars": 9976286.27,
-            "maximumTotalPaymentInDollarsYear": 44148079.29,
+            "maximumTotalPaymentInDollars": 44148079.29,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -51609,7 +51609,7 @@
         {
             "state": "AL",
             "minimumTotalPaymentInDollars": 11798443.7,
-            "maximumTotalPaymentInDollarsYear": 43561679.36,
+            "maximumTotalPaymentInDollars": 43561679.36,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -51756,7 +51756,7 @@
         {
             "state": "VA",
             "minimumTotalPaymentInDollars": 6429178.41,
-            "maximumTotalPaymentInDollarsYear": 43069523.95,
+            "maximumTotalPaymentInDollars": 43069523.95,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -51933,7 +51933,7 @@
         {
             "state": "NE",
             "minimumTotalPaymentInDollars": 11947420.26,
-            "maximumTotalPaymentInDollarsYear": 42526374.59,
+            "maximumTotalPaymentInDollars": 42526374.59,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -52085,7 +52085,7 @@
         {
             "state": "LA",
             "minimumTotalPaymentInDollars": 5627604.35,
-            "maximumTotalPaymentInDollarsYear": 40153969.09,
+            "maximumTotalPaymentInDollars": 40153969.09,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -52222,7 +52222,7 @@
         {
             "state": "IA",
             "minimumTotalPaymentInDollars": 14482988.18,
-            "maximumTotalPaymentInDollarsYear": 40069249.98,
+            "maximumTotalPaymentInDollars": 40069249.98,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -52259,7 +52259,7 @@
         {
             "state": "NM",
             "minimumTotalPaymentInDollars": 4621082.92,
-            "maximumTotalPaymentInDollarsYear": 39361483.87,
+            "maximumTotalPaymentInDollars": 39361483.87,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -52461,7 +52461,7 @@
         {
             "state": "MT",
             "minimumTotalPaymentInDollars": 4095924.25,
-            "maximumTotalPaymentInDollarsYear": 30656168.61,
+            "maximumTotalPaymentInDollars": 30656168.61,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -52583,7 +52583,7 @@
         {
             "state": "AR",
             "minimumTotalPaymentInDollars": 7549882.79,
-            "maximumTotalPaymentInDollarsYear": 30117443.87,
+            "maximumTotalPaymentInDollars": 30117443.87,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -52620,7 +52620,7 @@
         {
             "state": "FL",
             "minimumTotalPaymentInDollars": 5285535.94,
-            "maximumTotalPaymentInDollarsYear": 29999053.47,
+            "maximumTotalPaymentInDollars": 29999053.47,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -52762,7 +52762,7 @@
         {
             "state": "NC",
             "minimumTotalPaymentInDollars": 6033739.45,
-            "maximumTotalPaymentInDollarsYear": 29662384.32,
+            "maximumTotalPaymentInDollars": 29662384.32,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -52934,7 +52934,7 @@
         {
             "state": "SD",
             "minimumTotalPaymentInDollars": 4137776.9,
-            "maximumTotalPaymentInDollarsYear": 28470929.77,
+            "maximumTotalPaymentInDollars": 28470929.77,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -53066,7 +53066,7 @@
         {
             "state": "GA",
             "minimumTotalPaymentInDollars": 2516033.73,
-            "maximumTotalPaymentInDollarsYear": 27251622.43,
+            "maximumTotalPaymentInDollars": 27251622.43,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -53098,7 +53098,7 @@
         {
             "state": "KY",
             "minimumTotalPaymentInDollars": 5451129.72,
-            "maximumTotalPaymentInDollarsYear": 26658838.5,
+            "maximumTotalPaymentInDollars": 26658838.5,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -53220,7 +53220,7 @@
         {
             "state": "SC",
             "minimumTotalPaymentInDollars": 8378872.84,
-            "maximumTotalPaymentInDollarsYear": 20080272.89,
+            "maximumTotalPaymentInDollars": 20080272.89,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -53247,7 +53247,7 @@
         {
             "state": "AK",
             "minimumTotalPaymentInDollars": 2669296.48,
-            "maximumTotalPaymentInDollarsYear": 19491796.07,
+            "maximumTotalPaymentInDollars": 19491796.07,
             "practices": [
                 {
                     "practiceName": "Forest Stand Improvement (666)",
@@ -53269,7 +53269,7 @@
         {
             "state": "PA",
             "minimumTotalPaymentInDollars": 6004643.39,
-            "maximumTotalPaymentInDollarsYear": 18805415.64,
+            "maximumTotalPaymentInDollars": 18805415.64,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -53471,7 +53471,7 @@
         {
             "state": "ID",
             "minimumTotalPaymentInDollars": 2976349.22,
-            "maximumTotalPaymentInDollarsYear": 16791449.16,
+            "maximumTotalPaymentInDollars": 16791449.16,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -53608,7 +53608,7 @@
         {
             "state": "AZ",
             "minimumTotalPaymentInDollars": 443884.18,
-            "maximumTotalPaymentInDollarsYear": 16219793.6,
+            "maximumTotalPaymentInDollars": 16219793.6,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -53720,7 +53720,7 @@
         {
             "state": "IL",
             "minimumTotalPaymentInDollars": 4995274.71,
-            "maximumTotalPaymentInDollarsYear": 16105947.16,
+            "maximumTotalPaymentInDollars": 16105947.16,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -53912,7 +53912,7 @@
         {
             "state": "VT",
             "minimumTotalPaymentInDollars": 852971.37,
-            "maximumTotalPaymentInDollarsYear": 15796081.31,
+            "maximumTotalPaymentInDollars": 15796081.31,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -53954,7 +53954,7 @@
         {
             "state": "HI",
             "minimumTotalPaymentInDollars": 2437473.73,
-            "maximumTotalPaymentInDollarsYear": 14481008.38,
+            "maximumTotalPaymentInDollars": 14481008.38,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -54066,7 +54066,7 @@
         {
             "state": "DE",
             "minimumTotalPaymentInDollars": 274615.21,
-            "maximumTotalPaymentInDollarsYear": 14234308.85,
+            "maximumTotalPaymentInDollars": 14234308.85,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -54228,7 +54228,7 @@
         {
             "state": "UT",
             "minimumTotalPaymentInDollars": 3145717.09,
-            "maximumTotalPaymentInDollarsYear": 10409009.68,
+            "maximumTotalPaymentInDollars": 10409009.68,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -54385,7 +54385,7 @@
         {
             "state": "ME",
             "minimumTotalPaymentInDollars": 3192027.99,
-            "maximumTotalPaymentInDollarsYear": 10260618.4,
+            "maximumTotalPaymentInDollars": 10260618.4,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -54502,7 +54502,7 @@
         {
             "state": "MD",
             "minimumTotalPaymentInDollars": 1025997.72,
-            "maximumTotalPaymentInDollarsYear": 9998804.5,
+            "maximumTotalPaymentInDollars": 9998804.5,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -54609,7 +54609,7 @@
         {
             "state": "NJ",
             "minimumTotalPaymentInDollars": 2126771.16,
-            "maximumTotalPaymentInDollarsYear": 9931926.48,
+            "maximumTotalPaymentInDollars": 9931926.48,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -54741,7 +54741,7 @@
         {
             "state": "NH",
             "minimumTotalPaymentInDollars": 1200319.98,
-            "maximumTotalPaymentInDollarsYear": 9473068.28,
+            "maximumTotalPaymentInDollars": 9473068.28,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -54833,7 +54833,7 @@
         {
             "state": "WV",
             "minimumTotalPaymentInDollars": 1244179.29,
-            "maximumTotalPaymentInDollarsYear": 8405244.5,
+            "maximumTotalPaymentInDollars": 8405244.5,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -54990,7 +54990,7 @@
         {
             "state": "NY",
             "minimumTotalPaymentInDollars": 677034.29,
-            "maximumTotalPaymentInDollarsYear": 7147664.31,
+            "maximumTotalPaymentInDollars": 7147664.31,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -55132,7 +55132,7 @@
         {
             "state": "CT",
             "minimumTotalPaymentInDollars": 387962.38,
-            "maximumTotalPaymentInDollarsYear": 6640005.53,
+            "maximumTotalPaymentInDollars": 6640005.53,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -55279,7 +55279,7 @@
         {
             "state": "MA",
             "minimumTotalPaymentInDollars": 410056.55,
-            "maximumTotalPaymentInDollarsYear": 4474100.42,
+            "maximumTotalPaymentInDollars": 4474100.42,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -55361,7 +55361,7 @@
         {
             "state": "WY",
             "minimumTotalPaymentInDollars": 232185.08,
-            "maximumTotalPaymentInDollarsYear": 3467718.57,
+            "maximumTotalPaymentInDollars": 3467718.57,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -55513,7 +55513,7 @@
         {
             "state": "RI",
             "minimumTotalPaymentInDollars": 171907.53,
-            "maximumTotalPaymentInDollarsYear": 1326170.5,
+            "maximumTotalPaymentInDollars": 1326170.5,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -55640,7 +55640,7 @@
         {
             "state": "NV",
             "minimumTotalPaymentInDollars": 0.0,
-            "maximumTotalPaymentInDollarsYear": 603970.08,
+            "maximumTotalPaymentInDollars": 603970.08,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -55702,7 +55702,7 @@
         {
             "state": "AS",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -55864,7 +55864,7 @@
         {
             "state": "MP",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -55946,7 +55946,7 @@
         {
             "state": "PR",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -56103,7 +56103,7 @@
         {
             "state": "Total",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -56375,7 +56375,7 @@
         {
             "state": "U.S. Virgin Islands",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -56444,7 +56444,7 @@
         {
             "state": "CA",
             "minimumTotalPaymentInDollars": 25121129.68,
-            "maximumTotalPaymentInDollarsYear": 57695234.74,
+            "maximumTotalPaymentInDollars": 57695234.74,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -56606,7 +56606,7 @@
         {
             "state": "TX",
             "minimumTotalPaymentInDollars": 8456252.01,
-            "maximumTotalPaymentInDollarsYear": 46796424.65,
+            "maximumTotalPaymentInDollars": 46796424.65,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -56728,7 +56728,7 @@
         {
             "state": "IN",
             "minimumTotalPaymentInDollars": 8462260.81,
-            "maximumTotalPaymentInDollarsYear": 29593567.55,
+            "maximumTotalPaymentInDollars": 29593567.55,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -56920,7 +56920,7 @@
         {
             "state": "TN",
             "minimumTotalPaymentInDollars": 6731794.29,
-            "maximumTotalPaymentInDollarsYear": 28235901.56,
+            "maximumTotalPaymentInDollars": 28235901.56,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -57142,7 +57142,7 @@
         {
             "state": "OH",
             "minimumTotalPaymentInDollars": 5758608.79,
-            "maximumTotalPaymentInDollarsYear": 27447935.52,
+            "maximumTotalPaymentInDollars": 27447935.52,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -57309,7 +57309,7 @@
         {
             "state": "MS",
             "minimumTotalPaymentInDollars": 3815627.1,
-            "maximumTotalPaymentInDollarsYear": 27252549.88,
+            "maximumTotalPaymentInDollars": 27252549.88,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -57416,7 +57416,7 @@
         {
             "state": "MN",
             "minimumTotalPaymentInDollars": 5105683.19,
-            "maximumTotalPaymentInDollarsYear": 24390843.18,
+            "maximumTotalPaymentInDollars": 24390843.18,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -57578,7 +57578,7 @@
         {
             "state": "KS",
             "minimumTotalPaymentInDollars": 3847537.01,
-            "maximumTotalPaymentInDollarsYear": 24281088.13,
+            "maximumTotalPaymentInDollars": 24281088.13,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -57645,7 +57645,7 @@
         {
             "state": "ND",
             "minimumTotalPaymentInDollars": 4172540.21,
-            "maximumTotalPaymentInDollarsYear": 22949303.86,
+            "maximumTotalPaymentInDollars": 22949303.86,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -57752,7 +57752,7 @@
         {
             "state": "WI",
             "minimumTotalPaymentInDollars": 6467817.65,
-            "maximumTotalPaymentInDollarsYear": 22874558.65,
+            "maximumTotalPaymentInDollars": 22874558.65,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -57944,7 +57944,7 @@
         {
             "state": "MI",
             "minimumTotalPaymentInDollars": 4246121.6,
-            "maximumTotalPaymentInDollarsYear": 21670276.79,
+            "maximumTotalPaymentInDollars": 21670276.79,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -58116,7 +58116,7 @@
         {
             "state": "MO",
             "minimumTotalPaymentInDollars": 1895231.25,
-            "maximumTotalPaymentInDollarsYear": 20734367.62,
+            "maximumTotalPaymentInDollars": 20734367.62,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -58143,7 +58143,7 @@
         {
             "state": "WA",
             "minimumTotalPaymentInDollars": 2404512.25,
-            "maximumTotalPaymentInDollarsYear": 19995797.08,
+            "maximumTotalPaymentInDollars": 19995797.08,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -58315,7 +58315,7 @@
         {
             "state": "OK",
             "minimumTotalPaymentInDollars": 6692021.66,
-            "maximumTotalPaymentInDollarsYear": 19838126.15,
+            "maximumTotalPaymentInDollars": 19838126.15,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -58472,7 +58472,7 @@
         {
             "state": "CO",
             "minimumTotalPaymentInDollars": 2812003.2,
-            "maximumTotalPaymentInDollarsYear": 18926905.44,
+            "maximumTotalPaymentInDollars": 18926905.44,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -58564,7 +58564,7 @@
         {
             "state": "OR",
             "minimumTotalPaymentInDollars": 4129412.94,
-            "maximumTotalPaymentInDollarsYear": 18273899.24,
+            "maximumTotalPaymentInDollars": 18273899.24,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -58671,7 +58671,7 @@
         {
             "state": "AL",
             "minimumTotalPaymentInDollars": 4883645.56,
-            "maximumTotalPaymentInDollarsYear": 18031174.9,
+            "maximumTotalPaymentInDollars": 18031174.9,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -58818,7 +58818,7 @@
         {
             "state": "VA",
             "minimumTotalPaymentInDollars": 2661183.92,
-            "maximumTotalPaymentInDollarsYear": 17827460.52,
+            "maximumTotalPaymentInDollars": 17827460.52,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -58995,7 +58995,7 @@
         {
             "state": "NE",
             "minimumTotalPaymentInDollars": 4945310.36,
-            "maximumTotalPaymentInDollarsYear": 17602638.59,
+            "maximumTotalPaymentInDollars": 17602638.59,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -59147,7 +59147,7 @@
         {
             "state": "LA",
             "minimumTotalPaymentInDollars": 2329394.08,
-            "maximumTotalPaymentInDollarsYear": 16620645.72,
+            "maximumTotalPaymentInDollars": 16620645.72,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -59284,7 +59284,7 @@
         {
             "state": "IA",
             "minimumTotalPaymentInDollars": 5994839.89,
-            "maximumTotalPaymentInDollarsYear": 16585578.54,
+            "maximumTotalPaymentInDollars": 16585578.54,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -59321,7 +59321,7 @@
         {
             "state": "NM",
             "minimumTotalPaymentInDollars": 1912771.86,
-            "maximumTotalPaymentInDollarsYear": 16292617.97,
+            "maximumTotalPaymentInDollars": 16292617.97,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -59523,7 +59523,7 @@
         {
             "state": "MT",
             "minimumTotalPaymentInDollars": 1695396.68,
-            "maximumTotalPaymentInDollarsYear": 12689288.98,
+            "maximumTotalPaymentInDollars": 12689288.98,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -59645,7 +59645,7 @@
         {
             "state": "AR",
             "minimumTotalPaymentInDollars": 3125069.08,
-            "maximumTotalPaymentInDollarsYear": 12466298.5,
+            "maximumTotalPaymentInDollars": 12466298.5,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -59682,7 +59682,7 @@
         {
             "state": "FL",
             "minimumTotalPaymentInDollars": 2187804.15,
-            "maximumTotalPaymentInDollarsYear": 12417294.01,
+            "maximumTotalPaymentInDollars": 12417294.01,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -59824,7 +59824,7 @@
         {
             "state": "NC",
             "minimumTotalPaymentInDollars": 2497502.69,
-            "maximumTotalPaymentInDollarsYear": 12277938.95,
+            "maximumTotalPaymentInDollars": 12277938.95,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -59996,7 +59996,7 @@
         {
             "state": "SD",
             "minimumTotalPaymentInDollars": 1712720.45,
-            "maximumTotalPaymentInDollarsYear": 11784768.67,
+            "maximumTotalPaymentInDollars": 11784768.67,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -60128,7 +60128,7 @@
         {
             "state": "GA",
             "minimumTotalPaymentInDollars": 1041443.88,
-            "maximumTotalPaymentInDollarsYear": 11280069.49,
+            "maximumTotalPaymentInDollars": 11280069.49,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -60160,7 +60160,7 @@
         {
             "state": "KY",
             "minimumTotalPaymentInDollars": 2256347.2,
-            "maximumTotalPaymentInDollarsYear": 11034702.67,
+            "maximumTotalPaymentInDollars": 11034702.67,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -60282,7 +60282,7 @@
         {
             "state": "SC",
             "minimumTotalPaymentInDollars": 3468207.01,
-            "maximumTotalPaymentInDollarsYear": 8311683.98,
+            "maximumTotalPaymentInDollars": 8311683.98,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -60309,7 +60309,7 @@
         {
             "state": "AK",
             "minimumTotalPaymentInDollars": 1104882.83,
-            "maximumTotalPaymentInDollarsYear": 8068099.97,
+            "maximumTotalPaymentInDollars": 8068099.97,
             "practices": [
                 {
                     "practiceName": "Forest Stand Improvement (666)",
@@ -60331,7 +60331,7 @@
         {
             "state": "PA",
             "minimumTotalPaymentInDollars": 2485459.16,
-            "maximumTotalPaymentInDollarsYear": 7783991.42,
+            "maximumTotalPaymentInDollars": 7783991.42,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -60533,7 +60533,7 @@
         {
             "state": "ID",
             "minimumTotalPaymentInDollars": 1231978.98,
-            "maximumTotalPaymentInDollarsYear": 6950364.66,
+            "maximumTotalPaymentInDollars": 6950364.66,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -60670,7 +60670,7 @@
         {
             "state": "AZ",
             "minimumTotalPaymentInDollars": 183733.81,
-            "maximumTotalPaymentInDollarsYear": 6713743.35,
+            "maximumTotalPaymentInDollars": 6713743.35,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -60782,7 +60782,7 @@
         {
             "state": "IL",
             "minimumTotalPaymentInDollars": 2067658.39,
-            "maximumTotalPaymentInDollarsYear": 6666619.71,
+            "maximumTotalPaymentInDollars": 6666619.71,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -60974,7 +60974,7 @@
         {
             "state": "VT",
             "minimumTotalPaymentInDollars": 353064.35,
-            "maximumTotalPaymentInDollarsYear": 6538359.15,
+            "maximumTotalPaymentInDollars": 6538359.15,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -61016,7 +61016,7 @@
         {
             "state": "HI",
             "minimumTotalPaymentInDollars": 1008926.1,
-            "maximumTotalPaymentInDollarsYear": 5994020.4,
+            "maximumTotalPaymentInDollars": 5994020.4,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -61128,7 +61128,7 @@
         {
             "state": "DE",
             "minimumTotalPaymentInDollars": 113669.51,
-            "maximumTotalPaymentInDollarsYear": 5891905.83,
+            "maximumTotalPaymentInDollars": 5891905.83,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -61290,7 +61290,7 @@
         {
             "state": "UT",
             "minimumTotalPaymentInDollars": 1302084.22,
-            "maximumTotalPaymentInDollarsYear": 4308527.06,
+            "maximumTotalPaymentInDollars": 4308527.06,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -61447,7 +61447,7 @@
         {
             "state": "ME",
             "minimumTotalPaymentInDollars": 1321253.35,
-            "maximumTotalPaymentInDollarsYear": 4247104.51,
+            "maximumTotalPaymentInDollars": 4247104.51,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -61564,7 +61564,7 @@
         {
             "state": "MD",
             "minimumTotalPaymentInDollars": 424683.91,
-            "maximumTotalPaymentInDollarsYear": 4138733.75,
+            "maximumTotalPaymentInDollars": 4138733.75,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -61671,7 +61671,7 @@
         {
             "state": "NJ",
             "minimumTotalPaymentInDollars": 880319.2,
-            "maximumTotalPaymentInDollarsYear": 4111051.41,
+            "maximumTotalPaymentInDollars": 4111051.41,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -61803,7 +61803,7 @@
         {
             "state": "NH",
             "minimumTotalPaymentInDollars": 496839.88,
-            "maximumTotalPaymentInDollarsYear": 3921119.51,
+            "maximumTotalPaymentInDollars": 3921119.51,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -61895,7 +61895,7 @@
         {
             "state": "WV",
             "minimumTotalPaymentInDollars": 514994.25,
-            "maximumTotalPaymentInDollarsYear": 3479122.84,
+            "maximumTotalPaymentInDollars": 3479122.84,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -62052,7 +62052,7 @@
         {
             "state": "NY",
             "minimumTotalPaymentInDollars": 280239.97,
-            "maximumTotalPaymentInDollarsYear": 2958581.65,
+            "maximumTotalPaymentInDollars": 2958581.65,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -62194,7 +62194,7 @@
         {
             "state": "CT",
             "minimumTotalPaymentInDollars": 160586.5,
-            "maximumTotalPaymentInDollarsYear": 2748450.08,
+            "maximumTotalPaymentInDollars": 2748450.08,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -62341,7 +62341,7 @@
         {
             "state": "MA",
             "minimumTotalPaymentInDollars": 169731.78,
-            "maximumTotalPaymentInDollarsYear": 1851932.44,
+            "maximumTotalPaymentInDollars": 1851932.44,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -62423,7 +62423,7 @@
         {
             "state": "WY",
             "minimumTotalPaymentInDollars": 96106.71,
-            "maximumTotalPaymentInDollarsYear": 1435367.99,
+            "maximumTotalPaymentInDollars": 1435367.99,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -62575,7 +62575,7 @@
         {
             "state": "RI",
             "minimumTotalPaymentInDollars": 71156.46,
-            "maximumTotalPaymentInDollarsYear": 548932.29,
+            "maximumTotalPaymentInDollars": 548932.29,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -62702,7 +62702,7 @@
         {
             "state": "NV",
             "minimumTotalPaymentInDollars": 0.0,
-            "maximumTotalPaymentInDollarsYear": 249997.02,
+            "maximumTotalPaymentInDollars": 249997.02,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -62764,7 +62764,7 @@
         {
             "state": "AS",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -62926,7 +62926,7 @@
         {
             "state": "MP",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -63008,7 +63008,7 @@
         {
             "state": "PR",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -63165,7 +63165,7 @@
         {
             "state": "Total",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -63437,7 +63437,7 @@
         {
             "state": "U.S. Virgin Islands",
             "minimumTotalPaymentInDollars": 0,
-            "maximumTotalPaymentInDollarsYear": 0,
+            "maximumTotalPaymentInDollars": 0,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",

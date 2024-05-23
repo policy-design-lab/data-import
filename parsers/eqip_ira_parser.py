@@ -106,7 +106,7 @@ class EqipIraParser:
                 year_data = {
                     "state": state_abbr,
                     "minimumTotalPaymentInDollars": 0,
-                    "maximumTotalPaymentInDollarsYear": 0,
+                    "maximumTotalPaymentInDollars": 0,
                     "practices": []
                 }
 
@@ -128,19 +128,19 @@ class EqipIraParser:
                         max_values = df3[(df3['state'] == state) & (df3['year'] == year)][f"max_p_{practice_number}"]
                         if not max_values.empty:
                             practice_data["maximumTotalPaymentInDollars"] = float(max_values.values[0])
-                            year_data["maximumTotalPaymentInDollarsYear"] += practice_data["maximumTotalPaymentInDollars"]
+                            year_data["maximumTotalPaymentInDollars"] += practice_data["maximumTotalPaymentInDollars"]
 
                     year_data["practices"].append(practice_data)
 
                 # round each state's total payment to 2 decimal places
                 year_data["minimumTotalPaymentInDollars"] = round(year_data["minimumTotalPaymentInDollars"], 2)
-                year_data["maximumTotalPaymentInDollarsYear"] = round(year_data["maximumTotalPaymentInDollarsYear"], 2)
+                year_data["maximumTotalPaymentInDollars"] = round(year_data["maximumTotalPaymentInDollars"], 2)
 
                 output[str(year)].append(year_data)
 
         output[str(self.fiscal_year)].sort(key=lambda x: x['totalPaymentInDollars'], reverse=True)
         for year in range(self.start_year, self.end_year + 1):
-            output[str(year)].sort(key=lambda x: x['maximumTotalPaymentInDollarsYear'], reverse=True)
+            output[str(year)].sort(key=lambda x: x['maximumTotalPaymentInDollars'], reverse=True)
 
         for year in output:
             for state in output[year]:
