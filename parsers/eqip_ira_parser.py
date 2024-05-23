@@ -65,7 +65,7 @@ class EqipIraParser:
 
             year_data_2023 = {
                 "state": state_abbr,
-                "totalPayment": 0,
+                "totalPaymentInDollars": 0,
                 "practices": []
             }
 
@@ -74,15 +74,15 @@ class EqipIraParser:
                 practice_data = {
                     "practiceName": practice,
                     "practiceInstanceCount": 0,
-                    "totalPaymentInDollars": 0,
-                    "2023PaymentInDollars": 0
+                    "totalPaymentInDollars": 0
+                    # "2023PaymentInDollars": 0
                 }
 
                 total_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
                     df1['FISCAL YEAR'].str.lower() == "total")]['DOLLARS OBLIGATED']
                 if not total_payment.empty:
                     practice_data['totalPaymentInDollars'] = float(total_payment.values[0])
-                    year_data_2023['totalPayment'] += practice_data['totalPaymentInDollars']
+                    year_data_2023['totalPaymentInDollars'] += practice_data['totalPaymentInDollars']
 
                 practice_instance_count = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
                     df1['FISCAL YEAR'] == str(self.fiscal_year))]['PRACTICE INSTANCE COUNT']
@@ -91,9 +91,8 @@ class EqipIraParser:
 
                 year_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
                     df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
-                if not year_payment.empty:
-                    practice_data['2023PaymentInDollars'] = float(year_payment.values[0])
-                    year_data_2023['totalPayment'] += practice_data['2023PaymentInDollars']
+                # if not year_payment.empty:
+                    # practice_data['2023PaymentInDollars'] = float(year_payment.values[0])
 
                 year_data_2023["practices"].append(practice_data)
 
@@ -106,7 +105,8 @@ class EqipIraParser:
 
                 year_data = {
                     "state": state_abbr,
-                    "totalMaxPayment": 0,
+                    "minimumTotalPaymentInDollars": 0,
+                    "maximumTotalPaymentInDollarsYear": 0,
                     "practices": []
                 }
 
@@ -114,30 +114,33 @@ class EqipIraParser:
                     practice_number = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
                     practice_data = {
                         "practiceName": practice,
-                        "MinimumDollars": 0,
-                        "MaximumDollars": 0
+                        "minimumTotalPaymentInDollars": 0,
+                        "maximumTotalPaymentInDollars": 0
                     }
 
                     if f"min_p_{practice_number}" in df2.columns:
                         min_values = df2[(df2['state'] == state) & (df2['year'] == year)][f"min_p_{practice_number}"]
                         if not min_values.empty:
-                            practice_data["MinimumDollars"] = float(min_values.values[0])
+                            practice_data["minimumTotalPaymentInDollars"] = float(min_values.values[0])
+                            year_data["minimumTotalPaymentInDollars"] += practice_data["minimumTotalPaymentInDollars"]
 
                     if f"max_p_{practice_number}" in df3.columns:
                         max_values = df3[(df3['state'] == state) & (df3['year'] == year)][f"max_p_{practice_number}"]
                         if not max_values.empty:
-                            practice_data["MaximumDollars"] = float(max_values.values[0])
-                            year_data["totalMaxPayment"] += practice_data["MaximumDollars"]
+                            practice_data["maximumTotalPaymentInDollars"] = float(max_values.values[0])
+                            year_data["maximumTotalPaymentInDollarsYear"] += practice_data["maximumTotalPaymentInDollars"]
 
                     year_data["practices"].append(practice_data)
 
+                # round each state's total payment to 2 decimal places
+                year_data["minimumTotalPaymentInDollars"] = round(year_data["minimumTotalPaymentInDollars"], 2)
+                year_data["maximumTotalPaymentInDollarsYear"] = round(year_data["maximumTotalPaymentInDollarsYear"], 2)
+
                 output[str(year)].append(year_data)
 
-        output[str(self.fiscal_year)].sort(key=lambda x: x['totalPayment'], reverse=True)
+        output[str(self.fiscal_year)].sort(key=lambda x: x['totalPaymentInDollars'], reverse=True)
         for year in range(self.start_year, self.end_year + 1):
-            output[str(year)].sort(key=lambda x: x['totalMaxPayment'], reverse=True)
-            for state in output[str(year)]:
-                del state['totalMaxPayment']
+            output[str(year)].sort(key=lambda x: x['maximumTotalPaymentInDollarsYear'], reverse=True)
 
         for year in output:
             for state in output[year]:
