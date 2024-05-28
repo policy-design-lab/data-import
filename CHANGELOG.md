@@ -80,3 +80,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Average payee count parsing in Title 1 Commodities. [#43](https://github.com/policy-design-lab/data-import/issues/43)
 - Added missing fields in EQIP json files [#89](https://github.com/policy-design-lab/data-import/issues/89)
 - Added missing fields in CSP json files [#90](https://github.com/policy-design-lab/data-import/issues/90)
+- Excel formula error in consolidated_data.xlsx [#96](https://github.com/policy-design-lab/data-import/issues/96)
