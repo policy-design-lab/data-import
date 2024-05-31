@@ -140,7 +140,10 @@ class EqipIraParser:
 
                 output[str(year)].append(year_data)
 
+        # sort the fiscal year data by the total payment in dollars
         output[str(self.fiscal_year)].sort(key=lambda x: x['totalPaymentInDollars'], reverse=True)
+
+        # sort the predicted year by maximum total payment in dollars
         for year in range(self.start_year, self.end_year + 1):
             output[str(year)].sort(key=lambda x: x['predictedMaximumTotalPaymentInDollars'], reverse=True)
 
@@ -181,6 +184,9 @@ class EqipIraParser:
             for key in data:
                 if isinstance(data[key], (np.generic)):
                     data[key] = data[key].item()
+
+        # sort the practices by the practice name
+        practice_summary_data = sorted(practice_summary_data, key=lambda x: x['practiceName'])
 
         summary_data = {
             "totalPracticeInstanceCount": int(nationwide_total_instance_count),
