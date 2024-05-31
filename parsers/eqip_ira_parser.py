@@ -66,6 +66,7 @@ class EqipIraParser:
             year_data_2023 = {
                 "state": state_abbr,
                 "totalPaymentInDollars": 0,
+                "totalPracticeInstanceCount": 0,
                 "practices": []
             }
 
@@ -88,6 +89,7 @@ class EqipIraParser:
                     df1['FISCAL YEAR'] == str(self.fiscal_year))]['PRACTICE INSTANCE COUNT']
                 if not practice_instance_count.empty:
                     practice_data['practiceInstanceCount'] = int(practice_instance_count.values[0])
+                    year_data_2023['totalPracticeInstanceCount'] += practice_data['practiceInstanceCount']
 
                 year_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
                     df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
@@ -105,8 +107,8 @@ class EqipIraParser:
 
                 year_data = {
                     "state": state_abbr,
-                    "minimumTotalPaymentInDollars": 0,
-                    "maximumTotalPaymentInDollars": 0,
+                    "predictedMinimumTotalPaymentInDollars": 0,
+                    "predictedMaximumTotalPaymentInDollars": 0,
                     "practices": []
                 }
 
@@ -114,33 +116,33 @@ class EqipIraParser:
                     practice_number = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
                     practice_data = {
                         "practiceName": practice,
-                        "minimumTotalPaymentInDollars": 0,
-                        "maximumTotalPaymentInDollars": 0
+                        "predictedMinimumTotalPaymentInDollars": 0,
+                        "predictedMaximumTotalPaymentInDollars": 0
                     }
 
                     if f"min_p_{practice_number}" in df2.columns:
                         min_values = df2[(df2['state'] == state) & (df2['year'] == year)][f"min_p_{practice_number}"]
                         if not min_values.empty:
-                            practice_data["minimumTotalPaymentInDollars"] = float(min_values.values[0])
-                            year_data["minimumTotalPaymentInDollars"] += practice_data["minimumTotalPaymentInDollars"]
+                            practice_data["predictedMinimumTotalPaymentInDollars"] = float(min_values.values[0])
+                            year_data["predictedMinimumTotalPaymentInDollars"] += practice_data["predictedMinimumTotalPaymentInDollars"]
 
                     if f"max_p_{practice_number}" in df3.columns:
                         max_values = df3[(df3['state'] == state) & (df3['year'] == year)][f"max_p_{practice_number}"]
                         if not max_values.empty:
-                            practice_data["maximumTotalPaymentInDollars"] = float(max_values.values[0])
-                            year_data["maximumTotalPaymentInDollars"] += practice_data["maximumTotalPaymentInDollars"]
+                            practice_data["predictedMaximumTotalPaymentInDollars"] = float(max_values.values[0])
+                            year_data["predictedMaximumTotalPaymentInDollars"] += practice_data["predictedMaximumTotalPaymentInDollars"]
 
                     year_data["practices"].append(practice_data)
 
                 # round each state's total payment to 2 decimal places
-                year_data["minimumTotalPaymentInDollars"] = round(year_data["minimumTotalPaymentInDollars"], 2)
-                year_data["maximumTotalPaymentInDollars"] = round(year_data["maximumTotalPaymentInDollars"], 2)
+                year_data["predictedMinimumTotalPaymentInDollars"] = round(year_data["predictedMinimumTotalPaymentInDollars"], 2)
+                year_data["predictedMaximumTotalPaymentInDollars"] = round(year_data["predictedMaximumTotalPaymentInDollars"], 2)
 
                 output[str(year)].append(year_data)
 
         output[str(self.fiscal_year)].sort(key=lambda x: x['totalPaymentInDollars'], reverse=True)
         for year in range(self.start_year, self.end_year + 1):
-            output[str(year)].sort(key=lambda x: x['maximumTotalPaymentInDollars'], reverse=True)
+            output[str(year)].sort(key=lambda x: x['predictedMaximumTotalPaymentInDollars'], reverse=True)
 
         for year in output:
             for state in output[year]:
@@ -151,21 +153,23 @@ class EqipIraParser:
 
         return json.dumps(output, indent=4)
 
-    def create_summary_output(self, df1):
+    def create_summary(self, df1):
         df1['PRACTICE INSTANCE COUNT'] = pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.replace(",", ""), errors='coerce').fillna(0).astype(int)
         df1['DOLLARS OBLIGATED'] = pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
 
-        summary_data = []
+        practice_summary_data = []
         practices = df1['PRACTICE NAME'].unique()
 
-        nationwide_total_instance_count = df1['PRACTICE INSTANCE COUNT'].sum()
-        nationwide_total_payment = df1['DOLLARS OBLIGATED'].sum()
+        # calculate total instance count and total payment for the entire dataset where the fiscal year is "Total"
+        nationwide_total_instance_count = df1[df1['FISCAL YEAR'].str.lower() == "total"]['PRACTICE INSTANCE COUNT'].sum()
+        nationwide_total_payment = df1[df1['FISCAL YEAR'].str.lower() == "total"]['DOLLARS OBLIGATED'].sum()
 
         for practice in practices:
-            total_instance_count = df1[df1['PRACTICE NAME'] == practice]['PRACTICE INSTANCE COUNT'].sum()
-            total_payment = df1[df1['PRACTICE NAME'] == practice]['DOLLARS OBLIGATED'].sum()
+            # calculate total instance count and total payment for each practice where the fiscal year is "Total"
+            total_instance_count = df1[(df1['PRACTICE NAME'] == practice) & (df1['FISCAL YEAR'].str.lower() == "total")]['PRACTICE INSTANCE COUNT'].sum()
+            total_payment = df1[(df1['PRACTICE NAME'] == practice) & (df1['FISCAL YEAR'].str.lower() == "total")]['DOLLARS OBLIGATED'].sum()
 
-            summary_data.append({
+            practice_summary_data.append({
                 "practiceName": practice,
                 "totalPracticeInstanceCount": int(total_instance_count),
                 "totalPaymentInDollars": round(total_payment, 2),
@@ -173,12 +177,18 @@ class EqipIraParser:
                 "totalPracticeInstanceNationwide": round((total_instance_count / nationwide_total_instance_count) * 100, 2)
             })
 
-        for data in summary_data:
+        for data in practice_summary_data:
             for key in data:
                 if isinstance(data[key], (np.generic)):
                     data[key] = data[key].item()
 
-        return json.dumps({"practices": summary_data}, indent=4)
+        summary_data = {
+            "totalPracticeInstanceCount": int(nationwide_total_instance_count),
+            "totalPaymentInDollars": round(nationwide_total_payment, 2),
+            "practices": practice_summary_data
+        }
+
+        return json.dumps(summary_data, indent=4)
 
     def parse_and_process(self):
         df1 = pd.read_csv(self.total_table_filepath)
@@ -195,6 +205,12 @@ class EqipIraParser:
             df2.fillna(0, inplace=True)
             df3.fillna(0, inplace=True)
 
+        # remove state name "Total" rows
+        df1 = df1[df1['STATE'] != 'Total']
+
+        # remove rows with "Total" in the "Practice Name" column
+        df1 = df1[~df1['PRACTICE NAME'].str.match("Total")]
+
         df1['practice_number'] = df1['PRACTICE NAME'].apply(self.extract_practice_number)
         df1['practice_number'] = df1['practice_number'].fillna(0).astype(int)
 
@@ -202,15 +218,17 @@ class EqipIraParser:
 
         df1['DOLLARS OBLIGATED'] = pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
 
-        json_output = self.create_state_distribution(df1, df2, df3)
-        out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_state_distribution.json"
-        with open(out_json_file, "w") as json_file:
-            json_file.write(json_output)
-
-        summary_output = self.create_summary_output(df1)
+        # create summary json
+        summary_data = self.create_summary(df1)
         summary_json_file = "../title-2-conservation/eqip_ira/eqip_ira_summary.json"
         with open(summary_json_file, "w") as json_file:
-            json_file.write(summary_output)
+            json_file.write(summary_data)
+
+        # create state distribution json
+        state_distribution_data = self.create_state_distribution(df1, df2, df3)
+        out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_state_distribution.json"
+        with open(out_json_file, "w") as json_file:
+            json_file.write(state_distribution_data)
 
     def remap_state_name_to_abbreviation(self, input_dict):
         state_names = list(input_dict.keys())
