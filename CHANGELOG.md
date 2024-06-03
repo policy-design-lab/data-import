@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PaymentInPercentageNationwide to commodity programs. [#80](https://github.com/policy-design-lab/data-import/issues/80)
 - Code, CSV, and JSON files for updating all programs and summary
   data. [#95](https://github.com/policy-design-lab/data-import/issues/95)
+- EQIP IRA data import program and generate JSON files. [#97](https://github.com/policy-design-lab/data-import/issues/97)
 
 ### Changed
 
@@ -68,8 +69,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   files [#83](https://github.com/policy-design-lab/data-import/issues/83)
 - Renaming items for title I [#84](https://github.com/policy-design-lab/data-import/issues/84)
 - Renaming items for title II [#85](https://github.com/policy-design-lab/data-import/issues/85)
-- Renaming Pastured cropland to Grassland in CSP json
-  files [#92](https://github.com/policy-design-lab/data-import/issues/92)
+- Renaming Pastured cropland to Grassland in CSP json files [#92](https://github.com/policy-design-lab/data-import/issues/92)
 
 ### Fixed
 
