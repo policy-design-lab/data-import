@@ -4,7 +4,8 @@ import json
 import re
 
 class EqipIraParser:
-    def __init__(self, fiscal_year, start_year, end_year, total_table_filepath, future_min_filepath, future_max_filepath):
+    def __init__(self, fiscal_year, start_year, end_year, total_table_filepath,
+                 future_min_filepath, future_max_filepath):
         self.total_table_filepath = total_table_filepath
         self.future_min_filepath = future_min_filepath
         self.future_max_filepath = future_max_filepath
@@ -67,11 +68,14 @@ class EqipIraParser:
                 "state": state_abbr,
                 "totalPaymentInDollars": 0,
                 "totalPracticeInstanceCount": 0,
+                "totalPaymentPercentageNationwide": 0,
+                "totalPracticeInstancePercentageNationwide": 0,
                 "practices": []
             }
 
             for practice in practices:
-                practice_number = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
+                practice_number = df1[(df1['STATE'] == state) &
+                                      (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
                 practice_data = {
                     "practiceName": practice,
                     "practiceInstanceCount": 0,
@@ -100,6 +104,27 @@ class EqipIraParser:
 
             output[str(self.fiscal_year)].append(year_data_2023)
 
+        # calculate total payment percentage nationwide
+        total_payment = sum([state_data["totalPaymentInDollars"] for state_data in output[str(self.fiscal_year)]])
+        for state_data in output[str(self.fiscal_year)]:
+            # avoid division by zero
+            if total_payment != 0:
+                state_data["totalPaymentPercentageNationwide"] = \
+                    round((state_data["totalPaymentInDollars"] / total_payment) * 100, 2)
+            else:
+                state_data["totalPaymentPercentageNationwide"] = 0
+
+        # calculate total practice instance percentage nationwide
+        total_instance_count = sum([state_data["totalPracticeInstanceCount"]
+                                    for state_data in output[str(self.fiscal_year)]])
+        for state_data in output[str(self.fiscal_year)]:
+            # avoid division by zero
+            if total_instance_count != 0:
+                state_data["totalPracticeInstancePercentageNationwide"] = \
+                    round((state_data["totalPracticeInstanceCount"] / total_instance_count) * 100, 2)
+            else:
+                state_data["totalPracticeInstancePercentageNationwide"] = 0
+
         for year in range(self.start_year, self.end_year + 1):
             for state in states:
                 state_abbr = self.replace_state_name_with_abbreviation(state)
@@ -109,11 +134,14 @@ class EqipIraParser:
                     "state": state_abbr,
                     "predictedMinimumTotalPaymentInDollars": 0,
                     "predictedMaximumTotalPaymentInDollars": 0,
+                    "predictedMinimumTotalPaymentPercentageNationwide": 0,
+                    "predictedMaximumTotalPaymentPercentageNationwide": 0,
                     "practices": []
                 }
 
                 for practice in practices:
-                    practice_number = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
+                    practice_number = df1[(df1['STATE'] == state) &
+                                          (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
                     practice_data = {
                         "practiceName": practice,
                         "predictedMinimumTotalPaymentInDollars": 0,
@@ -124,21 +152,47 @@ class EqipIraParser:
                         min_values = df2[(df2['state'] == state) & (df2['year'] == year)][f"min_p_{practice_number}"]
                         if not min_values.empty:
                             practice_data["predictedMinimumTotalPaymentInDollars"] = float(min_values.values[0])
-                            year_data["predictedMinimumTotalPaymentInDollars"] += practice_data["predictedMinimumTotalPaymentInDollars"]
+                            year_data["predictedMinimumTotalPaymentInDollars"] \
+                                += practice_data["predictedMinimumTotalPaymentInDollars"]
 
                     if f"max_p_{practice_number}" in df3.columns:
                         max_values = df3[(df3['state'] == state) & (df3['year'] == year)][f"max_p_{practice_number}"]
                         if not max_values.empty:
                             practice_data["predictedMaximumTotalPaymentInDollars"] = float(max_values.values[0])
-                            year_data["predictedMaximumTotalPaymentInDollars"] += practice_data["predictedMaximumTotalPaymentInDollars"]
+                            year_data["predictedMaximumTotalPaymentInDollars"] \
+                                += practice_data["predictedMaximumTotalPaymentInDollars"]
 
                     year_data["practices"].append(practice_data)
 
                 # round each state's total payment to 2 decimal places
-                year_data["predictedMinimumTotalPaymentInDollars"] = round(year_data["predictedMinimumTotalPaymentInDollars"], 2)
-                year_data["predictedMaximumTotalPaymentInDollars"] = round(year_data["predictedMaximumTotalPaymentInDollars"], 2)
+                year_data["predictedMinimumTotalPaymentInDollars"] = \
+                    round(year_data["predictedMinimumTotalPaymentInDollars"], 2)
+                year_data["predictedMaximumTotalPaymentInDollars"] = \
+                    round(year_data["predictedMaximumTotalPaymentInDollars"], 2)
 
                 output[str(year)].append(year_data)
+
+            # calculate total payment percentage nationwide for maximum payment for each year
+            total_payment = sum([output[str(year)][i]["predictedMaximumTotalPaymentInDollars"]
+                                 for i in range(len(output[str(year)]))])
+            for state_data in output[str(year)]:
+                # avoid division by zero
+                if total_payment != 0:
+                    state_data["predictedMaximumTotalPaymentPercentageNationwide"] = \
+                        round((state_data["predictedMaximumTotalPaymentInDollars"] / total_payment) * 100, 2)
+                else:
+                    state_data["predictedMaximumTotalPaymentPercentageNationwide"] = 0
+
+            # calculate total payment percentage nationwide for minimum payment for each year
+            total_payment = sum([output[str(year)][i]["predictedMinimumTotalPaymentInDollars"]
+                                 for i in range(len(output[str(year)]))])
+            for state_data in output[str(year)]:
+                # avoid division by zero
+                if total_payment != 0:
+                    state_data["predictedMinimumTotalPaymentPercentageNationwide"] = \
+                        round((state_data["predictedMinimumTotalPaymentInDollars"] / total_payment) * 100, 2)
+                else:
+                    state_data["predictedMinimumTotalPaymentPercentageNationwide"] = 0
 
         # sort the fiscal year data by the total payment in dollars
         output[str(self.fiscal_year)].sort(key=lambda x: x['totalPaymentInDollars'], reverse=True)
@@ -157,27 +211,35 @@ class EqipIraParser:
         return json.dumps(output, indent=4)
 
     def create_summary(self, df1):
-        df1['PRACTICE INSTANCE COUNT'] = pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.replace(",", ""), errors='coerce').fillna(0).astype(int)
-        df1['DOLLARS OBLIGATED'] = pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
+        df1['PRACTICE INSTANCE COUNT'] = \
+            pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.
+                          replace(",", ""), errors='coerce').fillna(0).astype(int)
+        df1['DOLLARS OBLIGATED'] = \
+            pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.
+                          replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
 
         practice_summary_data = []
         practices = df1['PRACTICE NAME'].unique()
 
         # calculate total instance count and total payment for the entire dataset where the fiscal year is "Total"
-        nationwide_total_instance_count = df1[df1['FISCAL YEAR'].str.lower() == "total"]['PRACTICE INSTANCE COUNT'].sum()
+        nationwide_total_instance_count = \
+            df1[df1['FISCAL YEAR'].str.lower() == "total"]['PRACTICE INSTANCE COUNT'].sum()
         nationwide_total_payment = df1[df1['FISCAL YEAR'].str.lower() == "total"]['DOLLARS OBLIGATED'].sum()
 
         for practice in practices:
             # calculate total instance count and total payment for each practice where the fiscal year is "Total"
-            total_instance_count = df1[(df1['PRACTICE NAME'] == practice) & (df1['FISCAL YEAR'].str.lower() == "total")]['PRACTICE INSTANCE COUNT'].sum()
-            total_payment = df1[(df1['PRACTICE NAME'] == practice) & (df1['FISCAL YEAR'].str.lower() == "total")]['DOLLARS OBLIGATED'].sum()
+            total_instance_count = df1[(df1['PRACTICE NAME'] == practice) &
+                                       (df1['FISCAL YEAR'].str.lower() == "total")]['PRACTICE INSTANCE COUNT'].sum()
+            total_payment = df1[(df1['PRACTICE NAME'] == practice) &
+                                (df1['FISCAL YEAR'].str.lower() == "total")]['DOLLARS OBLIGATED'].sum()
 
             practice_summary_data.append({
                 "practiceName": practice,
                 "totalPracticeInstanceCount": int(total_instance_count),
                 "totalPaymentInDollars": round(total_payment, 2),
                 "totalPaymentInPercentageNationwide": round((total_payment / nationwide_total_payment) * 100, 2),
-                "totalPracticeInstanceNationwide": round((total_instance_count / nationwide_total_instance_count) * 100, 2)
+                "totalPracticeInstanceNationwide":
+                    round((total_instance_count / nationwide_total_instance_count) * 100, 2)
             })
 
         for data in practice_summary_data:
@@ -220,9 +282,11 @@ class EqipIraParser:
         df1['practice_number'] = df1['PRACTICE NAME'].apply(self.extract_practice_number)
         df1['practice_number'] = df1['practice_number'].fillna(0).astype(int)
 
-        df1['PRACTICE INSTANCE COUNT'] = pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.replace(",", ""), errors='coerce').fillna(0).astype(int)
+        df1['PRACTICE INSTANCE COUNT'] = pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.
+                                                       replace(",", ""), errors='coerce').fillna(0).astype(int)
 
-        df1['DOLLARS OBLIGATED'] = pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
+        df1['DOLLARS OBLIGATED'] = pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.
+                                                 replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
 
         # create summary json
         summary_data = self.create_summary(df1)

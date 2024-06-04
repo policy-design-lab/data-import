@@ -70,6 +70,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Renaming items for title I [#84](https://github.com/policy-design-lab/data-import/issues/84)
 - Renaming items for title II [#85](https://github.com/policy-design-lab/data-import/issues/85)
 - Renaming Pastured cropland to Grassland in CSP json files [#92](https://github.com/policy-design-lab/data-import/issues/92)
+- Added percentage nationwide values to EQIP IRA json files [#101](https://github.com/policy-design-lab/data-import/issues/101)
 
 ### Fixed
 
