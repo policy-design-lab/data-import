@@ -34,7 +34,8 @@ class EqipIraParser:
             'WV': 'West Virginia', 'WI': 'Wisconsin', 'WY': 'Wyoming', 'DC': 'District of Columbia',
             'MP': 'Northern Mariana Islands', 'PW': 'Palau', 'PR': 'Puerto Rico',
             'VI': 'Virgin Islands of the U.S.', 'AA': 'Armed Forces Americas (Except Canada)',
-            'AE': 'Armed Forces Africa/Canada/Europe/Middle East', 'AP': 'Armed Forces Pacific'
+            'AE': 'Armed Forces Africa/Canada/Europe/Middle East', 'AP': 'Armed Forces Pacific',
+            'VI': 'U.S. Virgin Islands'
         }
 
         self.state_name_to_abbreviation = {v: k for k, v in self.us_state_abbreviation.items()}
@@ -520,11 +521,11 @@ class EqipIraParser:
             json_file.write(state_distribution_data)
 
         # the following code is for creating the state distribution json for min and max values
-        # # create state distribution json for min and max values
-        # state_distribution_data = self.create_state_distribution_min_max(df1, df2, df3)
-        # out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_state_distribution_min_max.json"
-        # with open(out_json_file, "w") as json_file:
-        #     json_file.write(state_distribution_data)
+        # create state distribution json for min and max values
+        state_distribution_data = self.create_state_distribution_min_max(df1, df2, df3)
+        out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_state_distribution_min_max.json"
+        with open(out_json_file, "w") as json_file:
+            json_file.write(state_distribution_data)
 
     def remap_state_name_to_abbreviation(self, input_dict):
         state_names = list(input_dict.keys())
