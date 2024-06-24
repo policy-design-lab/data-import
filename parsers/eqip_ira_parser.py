@@ -5,11 +5,12 @@ import re
 
 class EqipIraParser:
     def __init__(self, fiscal_year, start_year, end_year, total_table_filepath, future_filepath,
-                 future_min_filepath, future_max_filepath):
+                 future_min_filepath, future_max_filepath, future_aggregated_filepath):
         self.total_table_filepath = total_table_filepath
         self.future_filepath = future_filepath
         self.future_min_filepath = future_min_filepath
         self.future_max_filepath = future_max_filepath
+        self.future_aggregated_filepath = future_aggregated_filepath
         self.fiscal_year = int(fiscal_year)
         self.start_year = start_year
         self.end_year = end_year
@@ -319,7 +320,7 @@ class EqipIraParser:
                         practice_number = re.search(r'\((\d+)\)', practice).group(1)
                     practice_data = {
                         "practiceName": practice,
-                        "predicteTotalPaymentInDollars": 0
+                        "predictedTotalPaymentInDollars": 0
                     }
 
                     if f"p_{practice_number}" in df2.columns:
@@ -361,6 +362,72 @@ class EqipIraParser:
                     for key, value in practice.items():
                         if isinstance(value, float) and not value.is_integer():
                             practice[key] = round(value, 2)
+
+        return json.dumps(output, indent=4)
+
+    def create_aggregated_prediction(self, df1, df2):
+        year = str(self.start_year) + "-" + str(self.end_year)
+        states = df1['STATE'].unique()
+        output = {year: []}
+
+        # create aggregated prediction data
+        for state in states:
+            state_abbr = self.replace_state_name_with_abbreviation(state)
+
+            practices = self.unique_practices
+
+            year_data = {
+                "state": state_abbr,
+                "predictedTotalPaymentInDollars": 0,
+                "predictedTotalPaymentPercentageNationwide": 0,
+                "practices": []
+            }
+
+            for practice in practices:
+                if self.practices_in_state:
+                    practice_number = df1[(df1['STATE'] == state) &
+                                          (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
+                else:
+                    practice_number = re.search(r'\((\d+)\)', practice).group(1)
+                practice_data = {
+                    "practiceName": practice,
+                    "predictedTotalPaymentInDollars": 0
+                }
+
+                if f"p_{practice_number}" in df2.columns:
+                    min_values = df2[(df2['state'] == state)][f"p_{practice_number}"]
+                    if not min_values.empty:
+                        practice_data["predictedTotalPaymentInDollars"] = float(min_values.values[0])
+                        year_data["predictedTotalPaymentInDollars"] \
+                            += practice_data["predictedTotalPaymentInDollars"]
+
+                year_data["practices"].append(practice_data)
+
+            # round each state's total payment to 2 decimal places
+            year_data["predictedTotalPaymentInDollars"] = \
+                round(year_data["predictedTotalPaymentInDollars"], 2)
+
+            output[str(year)].append(year_data)
+
+            # calculate total payment percentage nationwide for payment for each year
+            total_payment = sum([output[str(year)][i]["predictedTotalPaymentInDollars"]
+                                 for i in range(len(output[str(year)]))])
+            for state_data in output[str(year)]:
+                # avoid division by zero
+                if total_payment != 0:
+                    state_data["predictedTotalPaymentPercentageNationwide"] = \
+                        round((state_data["predictedTotalPaymentInDollars"] / total_payment) * 100, 2)
+                else:
+                    state_data["predictedTotalPaymentPercentageNationwide"] = 0
+
+        # sort the predicted year by total payment in dollars
+        output[year].sort(key=lambda x: x['predictedTotalPaymentInDollars'], reverse=True)
+
+        for state in output[year]:
+            for practice in state["practices"]:
+                for key, value in practice.items():
+                    if isinstance(value, float) and not value.is_integer():
+                        practice[key] = round(value, 2)
 
         return json.dumps(output, indent=4)
 
@@ -471,6 +538,7 @@ class EqipIraParser:
         df2 = pd.read_excel(self.future_min_filepath)
         df3 = pd.read_excel(self.future_max_filepath)
         df4 = pd.read_excel(self.future_filepath)
+        df5 = pd.read_excel(self.future_aggregated_filepath)
 
         df2 = self.handle_min_max_p_table(df2)
         df3 = self.handle_min_max_p_table(df3)
@@ -527,6 +595,12 @@ class EqipIraParser:
         with open(out_json_file, "w") as json_file:
             json_file.write(state_distribution_data)
 
+        # create aggregated prediction json
+        aggregated_prediction_data = self.create_aggregated_prediction(df1, df5)
+        out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_aggregated_prediction.json"
+        with open(out_json_file, "w") as json_file:
+            json_file.write(aggregated_prediction_data)
+
     def remap_state_name_to_abbreviation(self, input_dict):
         state_names = list(input_dict.keys())
 
@@ -542,10 +616,17 @@ if __name__ == '__main__':
     fiscal_year = "2023"
     start_year = 2024
     end_year = 2031
-    total_table_filepath = "../title-2-conservation/eqip_ira/20240215_EQIP_IRA.csv"
-    future_min_filepath = "../title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MIN-clean.xls"
-    future_max_filepath = "../title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MAX-clean.xls"
-    future_filepath = "../title-2-conservation/eqip_ira/2024_2031_EQIP_IRA_base2023_value.xls"
+    total_table_filepath = \
+        "../title-2-conservation/eqip_ira/20240215_EQIP_IRA.csv"
+    future_min_filepath = \
+        "../title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MIN-clean.xls"
+    future_max_filepath = \
+        "../title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MAX-clean.xls"
+    future_filepath = \
+        "../title-2-conservation/eqip_ira/2024_2031_EQIP_IRA_base2023_value.xls"
+    future_aggregated_filepath = \
+        "../title-2-conservation/eqip_ira/BudgetAuthority_EQIP_IRA_projection_base_on_2023_ratio.xls"
     eqip_data_parser = EqipIraParser(
-        fiscal_year, start_year, end_year, total_table_filepath, future_filepath, future_min_filepath, future_max_filepath)
+        fiscal_year, start_year, end_year, total_table_filepath, future_filepath, future_min_filepath,
+        future_max_filepath, future_aggregated_filepath)
     eqip_data_parser.parse_and_process()

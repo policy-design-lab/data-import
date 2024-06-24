@@ -31,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Percentage nationwide values to EQIP IRA json files [#101](https://github.com/policy-design-lab/data-import/issues/101)
 - Generate future values for EQIP IRA with regular data without min/max values [#103](https://github.com/policy-design-lab/data-import/issues/103)
 - Generate list of practice names for each year for EQIP IRA data [#105](https://github.com/policy-design-lab/data-import/issues/105)
+- Aggregated predicted data for EQIP IRA [#109](https://github.com/policy-design-lab/data-import/issues/109)
 
 ### Changed
 
@@ -74,6 +75,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Renaming items for title II [#85](https://github.com/policy-design-lab/data-import/issues/85)
 - Renaming Pastured cropland to Grassland in CSP json files [#92](https://github.com/policy-design-lab/data-import/issues/92)
 - Remap Virgin Islands to abbreviation VI in EQIP IRA output json files [#106](https://github.com/policy-design-lab/data-import/issues/106)
+- EQIP IRA predicted data updated [#108](https://github.com/policy-design-lab/data-import/issues/108)
 
 ### Fixed
 
@@ -84,3 +86,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Average payee count parsing in Title 1 Commodities. [#43](https://github.com/policy-design-lab/data-import/issues/43)
 - Added missing fields in EQIP json files [#89](https://github.com/policy-design-lab/data-import/issues/89)
 - Added missing fields in CSP json files [#90](https://github.com/policy-design-lab/data-import/issues/90)
+- Wrong entry in EQIP IRA state distribution json files [#107](https://github.com/policy-design-lab/data-import/issues/107)
