@@ -76,6 +76,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Renaming Pastured cropland to Grassland in CSP json files [#92](https://github.com/policy-design-lab/data-import/issues/92)
 - Remap Virgin Islands to abbreviation VI in EQIP IRA output json files [#106](https://github.com/policy-design-lab/data-import/issues/106)
 - EQIP IRA predicted data updated [#108](https://github.com/policy-design-lab/data-import/issues/108)
+- EQIP IRA summary data updated with future prediction data [#111](https://github.com/policy-design-lab/data-import/issues/111)
+- EQIP IRA predicted data updated again [#112](https://github.com/policy-design-lab/data-import/issues/112)
 
 ### Fixed
 
