@@ -519,7 +519,7 @@ class EqipIraParser:
                 total_payment = tmp_df.sum(axis=1).values[0]
 
                 # add total payment to summary_data
-                summary_data["totalPaymentInDollars"] = round(total_payment, 2)
+                summary_data["predictedTotalPaymentInDollars"] = round(total_payment, 2)
 
                 practice_data = []
                 # create a dictionary mapping the numbers to their corresponding values in list2
@@ -535,7 +535,7 @@ class EqipIraParser:
                             total_payment = tmp_df[number].values[0]
                             practice_data.append({
                                 "practiceName": item,
-                                "totalPaymentInDollars": round(total_payment, 2)
+                                "predictedTotalPaymentInDollars": round(total_payment, 2)
                             })
 
                 # sort the practices by the practice name's number
@@ -574,7 +574,7 @@ class EqipIraParser:
             total_payment = tmp_df.sum(axis=1).values[0]
 
             # add total payment to summary_data
-            summary_data["totalPaymentInDollars"] = round(total_payment, 2)
+            summary_data["predictedTotalPaymentInDollars"] = round(total_payment, 2)
 
             practice_data = []
             # create a dictionary mapping the numbers to their corresponding values in list2
@@ -590,7 +590,7 @@ class EqipIraParser:
                         total_payment = tmp_df[number].values[0]
                         practice_data.append({
                             "practiceName": item,
-                            "totalPaymentInDollars": round(total_payment, 2)
+                            "predictedTotalPaymentInDollars": round(total_payment, 2)
                         })
 
             # sort the practices by the practice name's number
