@@ -483,15 +483,80 @@ class EqipIraParser:
         # add the 2023 data to the output
         output[str(self.fiscal_year)] = summary_2023
 
+        ###############################################################
         # create future year data
-        for year in range(self.start_year, self.end_year + 1):
+        # make two separate ways to calculate the future year data
+        # first one is aggreating the whole future year data
+        # and the other is to create the future year data for each year
+
+        # following parameter is used to set the whole future year or year by year
+        year_by_year = False
+        # if year_by_year is true, it will create the future year data for each year
+
+        if year_by_year:
+            for year in range(self.start_year, self.end_year + 1):
+                summary_data = {}
+
+                # select the rows for the iteration year
+                tmp_df = df4[df4['year'] == year]
+
+                # make the sum of all the rows by columns
+                tmp_df = tmp_df.sum()
+
+                # transpose the sum
+                tmp_df = tmp_df.to_frame().T
+
+                # select the columns that are started with 'p_'
+                tmp_df = tmp_df.filter(regex='^p_')
+
+                # remove the 'p_' prefix from the column names
+                tmp_df.columns = [col[2:] for col in tmp_df.columns]
+
+                # sort the columns by the column name
+                tmp_df = tmp_df[sorted(tmp_df.columns)]
+
+                # sum all the columns
+                total_payment = tmp_df.sum(axis=1).values[0]
+
+                # add total payment to summary_data
+                summary_data["totalPaymentInDollars"] = round(total_payment, 2)
+
+                practice_data = []
+                # create a dictionary mapping the numbers to their corresponding values in list2
+                mapping_dict = {}
+                for item in self.unique_practices:
+                    match = re.search(r'\((\d+)\)', item)
+                    if match:
+                        number = match.group(1)
+                        mapping_dict[number] = item
+
+                        # add the payment for the practice to the summary data only if the column exists
+                        if number in tmp_df.columns:
+                            total_payment = tmp_df[number].values[0]
+                            practice_data.append({
+                                "practiceName": item,
+                                "totalPaymentInDollars": round(total_payment, 2)
+                            })
+
+                # sort the practices by the practice name's number
+                practice_data = sorted(practice_data, key=lambda x: int(re.search(r'\((\d+)\)', x['practiceName']).group(1)))
+
+                summary_data["practices"] = practice_data
+
+                # add the summary data to the output
+                output[str(year)] = summary_data
+        else:  # this will create whole future year aggregated data
+            year = str(self.start_year) + "-" + str(self.end_year)
+
+            # remove entries from output from start_year to end_year
+            for i in range(self.start_year, self.end_year + 1):
+                if str(i) in output:
+                    del output[str(i)]
+
             summary_data = {}
 
-            # select the rows for the iteration year
-            tmp_df = df4[df4['year'] == year]
-
-            # make the sum of all the rows by columns
-            tmp_df = tmp_df.sum()
+            # sum all the columns
+            tmp_df = df4.sum()
 
             # transpose the sum
             tmp_df = tmp_df.to_frame().T
@@ -534,7 +599,7 @@ class EqipIraParser:
             summary_data["practices"] = practice_data
 
             # add the summary data to the output
-            output[str(year)] = summary_data
+            output[year] = summary_data
 
         return json.dumps(output, indent=4)
 
