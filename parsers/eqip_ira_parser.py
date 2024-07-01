@@ -274,7 +274,15 @@ class EqipIraParser:
             output[str(self.fiscal_year)].append(year_data_2023)
 
         # calculate total payment percentage nationwide
-        total_payment = sum([state_data["totalPaymentInDollars"] for state_data in output[str(self.fiscal_year)]])
+        total_payment = df1[
+            (df1['FISCAL YEAR'].str.lower() == "total") &
+            (df1['PRACTICE NAME'].str.lower() != "total")
+            ]['DOLLARS OBLIGATED'].sum()
+
+        # getting sum from output json file
+        # (matches with json but might not match with the table, if json doesn't include all the data in the table)
+        # total_payment = sum([state_data["totalPaymentInDollars"] for state_data in output[str(self.fiscal_year)]])
+
         for state_data in output[str(self.fiscal_year)]:
             # avoid division by zero
             if total_payment != 0:
@@ -284,8 +292,16 @@ class EqipIraParser:
                 state_data["totalPaymentPercentageNationwide"] = 0
 
         # calculate total practice instance percentage nationwide
-        total_instance_count = sum([state_data["totalPracticeInstanceCount"]
-                                    for state_data in output[str(self.fiscal_year)]])
+        total_instance_count = df1[
+            (df1['FISCAL YEAR'].str.lower() == "total") &
+            (df1['PRACTICE NAME'].str.lower() != "total")
+            ]['PRACTICE INSTANCE COUNT'].sum()
+
+        # getting sum from output json file
+        # (matches with json but might not match with the table, if json doesn't include all the data in the table)
+        # total_instance_count = sum([state_data["totalPracticeInstanceCount"]
+        #                             for state_data in output[str(self.fiscal_year)]])
+
         for state_data in output[str(self.fiscal_year)]:
             # avoid division by zero
             if total_instance_count != 0:
@@ -446,9 +462,15 @@ class EqipIraParser:
         practices = df1['PRACTICE NAME'].unique()
 
         # calculate total instance count and total payment for the entire dataset where the fiscal year is "Total"
-        nationwide_total_instance_count = \
-            df1[df1['FISCAL YEAR'].str.lower() == "total"]['PRACTICE INSTANCE COUNT'].sum()
-        nationwide_total_payment = df1[df1['FISCAL YEAR'].str.lower() == "total"]['DOLLARS OBLIGATED'].sum()
+        nationwide_total_instance_count = df1[
+            (df1['FISCAL YEAR'].str.lower() == "total") &
+            (df1['PRACTICE NAME'].str.lower() != "total")
+            ]['PRACTICE INSTANCE COUNT'].sum()
+
+        nationwide_total_payment = df1[
+            (df1['FISCAL YEAR'].str.lower() == "total") &
+            (df1['PRACTICE NAME'].str.lower() != "total")
+            ]['DOLLARS OBLIGATED'].sum()
 
         for practice in practices:
             # calculate total instance count and total payment for each practice where the fiscal year is "Total"
