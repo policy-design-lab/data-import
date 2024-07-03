@@ -616,9 +616,9 @@ class EqipIraParser:
         for practice in practices:
             # calculate total instance count and total payment for each practice where the fiscal year is "Total"
             total_instance_count = df1[(df1['PRACTICE NAME'] == practice) &
-                                       (df1['FISCAL YEAR'].str.lower() == "total")]['PRACTICE INSTANCE COUNT'].sum()
+                                       (df1['FISCAL YEAR'] == str(self.fiscal_year))]['PRACTICE INSTANCE COUNT'].sum()
             total_payment = df1[(df1['PRACTICE NAME'] == practice) &
-                                (df1['FISCAL YEAR'].str.lower() == "total")]['DOLLARS OBLIGATED'].sum()
+                                (df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED'].sum()
 
             practice_data_2023.append({
                 "practiceName": practice,
