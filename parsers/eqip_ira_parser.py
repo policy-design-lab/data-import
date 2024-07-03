@@ -918,7 +918,7 @@ if __name__ == '__main__':
     future_filepath = \
         "../title-2-conservation/eqip_ira/2024_2031_EQIP_IRA_base2023_value.xls"
     future_aggregated_filepath = \
-        "../title-2-conservation/eqip_ira/BudgetAuthority_EQIP_IRA_projection_base_on_2023_ratio.xls"
+        "../title-2-conservation/eqip_ira/20240702_BA_EQIP_IRA_base2023_value.xlsx"
     eqip_data_parser = EqipIraParser(
         fiscal_year, start_year, end_year, total_table_filepath, future_filepath, future_min_filepath,
         future_max_filepath, future_aggregated_filepath)
