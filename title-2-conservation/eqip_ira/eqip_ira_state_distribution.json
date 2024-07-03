@@ -4,8 +4,8 @@
             "state": "TX",
             "totalPaymentInDollars": 12365966.0,
             "totalPracticeInstanceCount": 744,
-            "totalPaymentPercentageNationwide": 8.38,
-            "totalPracticeInstancePercentageNationwide": 3.48,
+            "totalPaymentPercentageNationwide": 7.78,
+            "totalPracticeInstancePercentageNationwide": 3.29,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -123,8 +123,8 @@
             "state": "CA",
             "totalPaymentInDollars": 7602346.0,
             "totalPracticeInstanceCount": 1088,
-            "totalPaymentPercentageNationwide": 5.15,
-            "totalPracticeInstancePercentageNationwide": 5.09,
+            "totalPaymentPercentageNationwide": 4.78,
+            "totalPracticeInstancePercentageNationwide": 4.81,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -282,8 +282,8 @@
             "state": "AS",
             "totalPaymentInDollars": 7132074.0,
             "totalPracticeInstanceCount": 1060,
-            "totalPaymentPercentageNationwide": 4.83,
-            "totalPracticeInstancePercentageNationwide": 4.96,
+            "totalPaymentPercentageNationwide": 4.49,
+            "totalPracticeInstancePercentageNationwide": 4.68,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -441,8 +441,8 @@
             "state": "MS",
             "totalPaymentInDollars": 5268895.0,
             "totalPracticeInstanceCount": 1047,
-            "totalPaymentPercentageNationwide": 3.57,
-            "totalPracticeInstancePercentageNationwide": 4.9,
+            "totalPaymentPercentageNationwide": 3.31,
+            "totalPracticeInstancePercentageNationwide": 4.62,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -545,8 +545,8 @@
             "state": "AR",
             "totalPaymentInDollars": 5241836.0,
             "totalPracticeInstanceCount": 713,
-            "totalPaymentPercentageNationwide": 3.55,
-            "totalPracticeInstancePercentageNationwide": 3.34,
+            "totalPaymentPercentageNationwide": 3.3,
+            "totalPracticeInstancePercentageNationwide": 3.15,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -579,8 +579,8 @@
             "state": "GA",
             "totalPaymentInDollars": 5166085.0,
             "totalPracticeInstanceCount": 192,
-            "totalPaymentPercentageNationwide": 3.5,
-            "totalPracticeInstancePercentageNationwide": 0.9,
+            "totalPaymentPercentageNationwide": 3.25,
+            "totalPracticeInstancePercentageNationwide": 0.85,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -608,8 +608,8 @@
             "state": "NM",
             "totalPaymentInDollars": 4701823.0,
             "totalPracticeInstanceCount": 547,
-            "totalPaymentPercentageNationwide": 3.19,
-            "totalPracticeInstancePercentageNationwide": 2.56,
+            "totalPaymentPercentageNationwide": 2.96,
+            "totalPracticeInstancePercentageNationwide": 2.42,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -807,8 +807,8 @@
             "state": "OK",
             "totalPaymentInDollars": 4149567.0,
             "totalPracticeInstanceCount": 732,
-            "totalPaymentPercentageNationwide": 2.81,
-            "totalPracticeInstancePercentageNationwide": 3.43,
+            "totalPaymentPercentageNationwide": 2.61,
+            "totalPracticeInstancePercentageNationwide": 3.23,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -961,8 +961,8 @@
             "state": "IA",
             "totalPaymentInDollars": 3855498.0,
             "totalPracticeInstanceCount": 472,
-            "totalPaymentPercentageNationwide": 2.61,
-            "totalPracticeInstancePercentageNationwide": 2.21,
+            "totalPaymentPercentageNationwide": 2.43,
+            "totalPracticeInstancePercentageNationwide": 2.08,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -995,8 +995,8 @@
             "state": "VT",
             "totalPaymentInDollars": 3784541.0,
             "totalPracticeInstanceCount": 447,
-            "totalPaymentPercentageNationwide": 2.56,
-            "totalPracticeInstancePercentageNationwide": 2.09,
+            "totalPaymentPercentageNationwide": 2.38,
+            "totalPracticeInstancePercentageNationwide": 1.97,
             "practices": [
                 {
                     "practiceName": "Anaerobic Digester (366)",
@@ -1034,8 +1034,8 @@
             "state": "WA",
             "totalPaymentInDollars": 3758715.0,
             "totalPracticeInstanceCount": 386,
-            "totalPaymentPercentageNationwide": 2.55,
-            "totalPracticeInstancePercentageNationwide": 1.81,
+            "totalPaymentPercentageNationwide": 2.36,
+            "totalPracticeInstancePercentageNationwide": 1.7,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -1203,8 +1203,8 @@
             "state": "KY",
             "totalPaymentInDollars": 3393019.0,
             "totalPracticeInstanceCount": 438,
-            "totalPaymentPercentageNationwide": 2.3,
-            "totalPracticeInstancePercentageNationwide": 2.05,
+            "totalPaymentPercentageNationwide": 2.13,
+            "totalPracticeInstancePercentageNationwide": 1.93,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -1322,8 +1322,8 @@
             "state": "KS",
             "totalPaymentInDollars": 3282213.0,
             "totalPracticeInstanceCount": 396,
-            "totalPaymentPercentageNationwide": 2.22,
-            "totalPracticeInstancePercentageNationwide": 1.85,
+            "totalPaymentPercentageNationwide": 2.06,
+            "totalPracticeInstancePercentageNationwide": 1.75,
             "practices": [
                 {
                     "practiceName": "Conservation Crop Rotation (328)",
@@ -1386,8 +1386,8 @@
             "state": "IN",
             "totalPaymentInDollars": 3253489.0,
             "totalPracticeInstanceCount": 617,
-            "totalPaymentPercentageNationwide": 2.2,
-            "totalPracticeInstancePercentageNationwide": 2.89,
+            "totalPaymentPercentageNationwide": 2.05,
+            "totalPracticeInstancePercentageNationwide": 2.73,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -1575,8 +1575,8 @@
             "state": "OH",
             "totalPaymentInDollars": 3230750.0,
             "totalPracticeInstanceCount": 1143,
-            "totalPaymentPercentageNationwide": 2.19,
-            "totalPracticeInstancePercentageNationwide": 5.35,
+            "totalPaymentPercentageNationwide": 2.03,
+            "totalPracticeInstancePercentageNationwide": 5.05,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -1739,8 +1739,8 @@
             "state": "FL",
             "totalPaymentInDollars": 3224375.0,
             "totalPracticeInstanceCount": 424,
-            "totalPaymentPercentageNationwide": 2.18,
-            "totalPracticeInstancePercentageNationwide": 1.99,
+            "totalPaymentPercentageNationwide": 2.03,
+            "totalPracticeInstancePercentageNationwide": 1.87,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -1878,8 +1878,8 @@
             "state": "MO",
             "totalPaymentInDollars": 3144668.0,
             "totalPracticeInstanceCount": 504,
-            "totalPaymentPercentageNationwide": 2.13,
-            "totalPracticeInstancePercentageNationwide": 2.36,
+            "totalPaymentPercentageNationwide": 1.98,
+            "totalPracticeInstancePercentageNationwide": 2.23,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -1902,8 +1902,8 @@
             "state": "PA",
             "totalPaymentInDollars": 2984004.0,
             "totalPracticeInstanceCount": 551,
-            "totalPaymentPercentageNationwide": 2.02,
-            "totalPracticeInstancePercentageNationwide": 2.58,
+            "totalPaymentPercentageNationwide": 1.88,
+            "totalPracticeInstancePercentageNationwide": 2.43,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -2101,8 +2101,8 @@
             "state": "ND",
             "totalPaymentInDollars": 2964310.0,
             "totalPracticeInstanceCount": 245,
-            "totalPaymentPercentageNationwide": 2.01,
-            "totalPracticeInstancePercentageNationwide": 1.15,
+            "totalPaymentPercentageNationwide": 1.86,
+            "totalPracticeInstancePercentageNationwide": 1.08,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -2205,8 +2205,8 @@
             "state": "SD",
             "totalPaymentInDollars": 2952689.0,
             "totalPracticeInstanceCount": 613,
-            "totalPaymentPercentageNationwide": 2.0,
-            "totalPracticeInstancePercentageNationwide": 2.87,
+            "totalPaymentPercentageNationwide": 1.86,
+            "totalPracticeInstancePercentageNationwide": 2.71,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -2334,8 +2334,8 @@
             "state": "AL",
             "totalPaymentInDollars": 2913106.0,
             "totalPracticeInstanceCount": 339,
-            "totalPaymentPercentageNationwide": 1.97,
-            "totalPracticeInstancePercentageNationwide": 1.59,
+            "totalPaymentPercentageNationwide": 1.83,
+            "totalPracticeInstancePercentageNationwide": 1.5,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -2478,8 +2478,8 @@
             "state": "MN",
             "totalPaymentInDollars": 2902886.0,
             "totalPracticeInstanceCount": 496,
-            "totalPaymentPercentageNationwide": 1.97,
-            "totalPracticeInstancePercentageNationwide": 2.32,
+            "totalPaymentPercentageNationwide": 1.83,
+            "totalPracticeInstancePercentageNationwide": 2.19,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -2637,8 +2637,8 @@
             "state": "NC",
             "totalPaymentInDollars": 2896558.0,
             "totalPracticeInstanceCount": 418,
-            "totalPaymentPercentageNationwide": 1.96,
-            "totalPracticeInstancePercentageNationwide": 1.96,
+            "totalPaymentPercentageNationwide": 1.82,
+            "totalPracticeInstancePercentageNationwide": 1.85,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -2806,8 +2806,8 @@
             "state": "MT",
             "totalPaymentInDollars": 2774056.0,
             "totalPracticeInstanceCount": 315,
-            "totalPaymentPercentageNationwide": 1.88,
-            "totalPracticeInstancePercentageNationwide": 1.47,
+            "totalPaymentPercentageNationwide": 1.75,
+            "totalPracticeInstancePercentageNationwide": 1.39,
             "practices": [
                 {
                     "practiceName": "Aquifer Flow Test (224)",
@@ -2925,8 +2925,8 @@
             "state": "CO",
             "totalPaymentInDollars": 2761603.0,
             "totalPracticeInstanceCount": 238,
-            "totalPaymentPercentageNationwide": 1.87,
-            "totalPracticeInstancePercentageNationwide": 1.11,
+            "totalPaymentPercentageNationwide": 1.74,
+            "totalPracticeInstancePercentageNationwide": 1.05,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -3014,8 +3014,8 @@
             "state": "TN",
             "totalPaymentInDollars": 2739562.0,
             "totalPracticeInstanceCount": 647,
-            "totalPaymentPercentageNationwide": 1.86,
-            "totalPracticeInstancePercentageNationwide": 3.03,
+            "totalPaymentPercentageNationwide": 1.72,
+            "totalPracticeInstancePercentageNationwide": 2.86,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -3233,8 +3233,8 @@
             "state": "VA",
             "totalPaymentInDollars": 2659613.0,
             "totalPracticeInstanceCount": 588,
-            "totalPaymentPercentageNationwide": 1.8,
-            "totalPracticeInstancePercentageNationwide": 2.75,
+            "totalPaymentPercentageNationwide": 1.67,
+            "totalPracticeInstancePercentageNationwide": 2.6,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -3407,8 +3407,8 @@
             "state": "ID",
             "totalPaymentInDollars": 2428929.0,
             "totalPracticeInstanceCount": 228,
-            "totalPaymentPercentageNationwide": 1.65,
-            "totalPracticeInstancePercentageNationwide": 1.07,
+            "totalPaymentPercentageNationwide": 1.53,
+            "totalPracticeInstancePercentageNationwide": 1.01,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
@@ -3541,8 +3541,8 @@
             "state": "NE",
             "totalPaymentInDollars": 2420065.0,
             "totalPracticeInstanceCount": 645,
-            "totalPaymentPercentageNationwide": 1.64,
-            "totalPracticeInstancePercentageNationwide": 3.02,
+            "totalPaymentPercentageNationwide": 1.52,
+            "totalPracticeInstancePercentageNationwide": 2.85,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -3690,8 +3690,8 @@
             "state": "PR",
             "totalPaymentInDollars": 2412432.0,
             "totalPracticeInstanceCount": 210,
-            "totalPaymentPercentageNationwide": 1.63,
-            "totalPracticeInstancePercentageNationwide": 0.98,
+            "totalPaymentPercentageNationwide": 1.52,
+            "totalPracticeInstancePercentageNationwide": 0.93,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -3844,8 +3844,8 @@
             "state": "IL",
             "totalPaymentInDollars": 2176014.0,
             "totalPracticeInstanceCount": 657,
-            "totalPaymentPercentageNationwide": 1.47,
-            "totalPracticeInstancePercentageNationwide": 3.08,
+            "totalPaymentPercentageNationwide": 1.37,
+            "totalPracticeInstancePercentageNationwide": 2.9,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -4033,8 +4033,8 @@
             "state": "WI",
             "totalPaymentInDollars": 2141474.0,
             "totalPracticeInstanceCount": 366,
-            "totalPaymentPercentageNationwide": 1.45,
-            "totalPracticeInstancePercentageNationwide": 1.71,
+            "totalPaymentPercentageNationwide": 1.35,
+            "totalPracticeInstancePercentageNationwide": 1.62,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -4222,8 +4222,8 @@
             "state": "LA",
             "totalPaymentInDollars": 2015303.0,
             "totalPracticeInstanceCount": 264,
-            "totalPaymentPercentageNationwide": 1.37,
-            "totalPracticeInstancePercentageNationwide": 1.24,
+            "totalPaymentPercentageNationwide": 1.27,
+            "totalPracticeInstancePercentageNationwide": 1.17,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -4356,8 +4356,8 @@
             "state": "SC",
             "totalPaymentInDollars": 1986866.0,
             "totalPracticeInstanceCount": 253,
-            "totalPaymentPercentageNationwide": 1.35,
-            "totalPracticeInstancePercentageNationwide": 1.18,
+            "totalPaymentPercentageNationwide": 1.25,
+            "totalPracticeInstancePercentageNationwide": 1.12,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -4380,8 +4380,8 @@
             "state": "WY",
             "totalPaymentInDollars": 1788656.0,
             "totalPracticeInstanceCount": 127,
-            "totalPaymentPercentageNationwide": 1.21,
-            "totalPracticeInstancePercentageNationwide": 0.59,
+            "totalPaymentPercentageNationwide": 1.13,
+            "totalPracticeInstancePercentageNationwide": 0.56,
             "practices": [
                 {
                     "practiceName": "Aquatic Organism Passage (396)",
@@ -4529,8 +4529,8 @@
             "state": "OR",
             "totalPaymentInDollars": 1770873.0,
             "totalPracticeInstanceCount": 238,
-            "totalPaymentPercentageNationwide": 1.2,
-            "totalPracticeInstancePercentageNationwide": 1.11,
+            "totalPaymentPercentageNationwide": 1.11,
+            "totalPracticeInstancePercentageNationwide": 1.05,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -4633,8 +4633,8 @@
             "state": "AZ",
             "totalPaymentInDollars": 1621969.0,
             "totalPracticeInstanceCount": 154,
-            "totalPaymentPercentageNationwide": 1.1,
-            "totalPracticeInstancePercentageNationwide": 0.72,
+            "totalPaymentPercentageNationwide": 1.02,
+            "totalPracticeInstancePercentageNationwide": 0.68,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -4742,8 +4742,8 @@
             "state": "NY",
             "totalPaymentInDollars": 1619400.0,
             "totalPracticeInstanceCount": 80,
-            "totalPaymentPercentageNationwide": 1.1,
-            "totalPracticeInstancePercentageNationwide": 0.37,
+            "totalPaymentPercentageNationwide": 1.02,
+            "totalPracticeInstancePercentageNationwide": 0.35,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -4881,8 +4881,8 @@
             "state": "MI",
             "totalPaymentInDollars": 1588545.0,
             "totalPracticeInstanceCount": 413,
-            "totalPaymentPercentageNationwide": 1.08,
-            "totalPracticeInstancePercentageNationwide": 1.93,
+            "totalPaymentPercentageNationwide": 1.0,
+            "totalPracticeInstancePercentageNationwide": 1.82,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -5050,8 +5050,8 @@
             "state": "UT",
             "totalPaymentInDollars": 1520317.0,
             "totalPracticeInstanceCount": 251,
-            "totalPaymentPercentageNationwide": 1.03,
-            "totalPracticeInstancePercentageNationwide": 1.18,
+            "totalPaymentPercentageNationwide": 0.96,
+            "totalPracticeInstancePercentageNationwide": 1.11,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -5204,8 +5204,8 @@
             "state": "MD",
             "totalPaymentInDollars": 1310129.0,
             "totalPracticeInstanceCount": 159,
-            "totalPaymentPercentageNationwide": 0.89,
-            "totalPracticeInstancePercentageNationwide": 0.74,
+            "totalPaymentPercentageNationwide": 0.82,
+            "totalPracticeInstancePercentageNationwide": 0.7,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -5308,8 +5308,8 @@
             "state": "NJ",
             "totalPaymentInDollars": 1214776.0,
             "totalPracticeInstanceCount": 208,
-            "totalPaymentPercentageNationwide": 0.82,
-            "totalPracticeInstancePercentageNationwide": 0.97,
+            "totalPaymentPercentageNationwide": 0.76,
+            "totalPracticeInstancePercentageNationwide": 0.92,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -5437,8 +5437,8 @@
             "state": "MA",
             "totalPaymentInDollars": 1182447.0,
             "totalPracticeInstanceCount": 194,
-            "totalPaymentPercentageNationwide": 0.8,
-            "totalPracticeInstancePercentageNationwide": 0.91,
+            "totalPaymentPercentageNationwide": 0.74,
+            "totalPracticeInstancePercentageNationwide": 0.86,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -5516,8 +5516,8 @@
             "state": "DE",
             "totalPaymentInDollars": 1153000.0,
             "totalPracticeInstanceCount": 144,
-            "totalPaymentPercentageNationwide": 0.78,
-            "totalPracticeInstancePercentageNationwide": 0.67,
+            "totalPaymentPercentageNationwide": 0.73,
+            "totalPracticeInstancePercentageNationwide": 0.64,
             "practices": [
                 {
                     "practiceName": "Conservation Cover (327)",
@@ -5675,8 +5675,8 @@
             "state": "WV",
             "totalPaymentInDollars": 1120790.0,
             "totalPracticeInstanceCount": 442,
-            "totalPaymentPercentageNationwide": 0.76,
-            "totalPracticeInstancePercentageNationwide": 2.07,
+            "totalPaymentPercentageNationwide": 0.71,
+            "totalPracticeInstancePercentageNationwide": 1.95,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -5829,8 +5829,8 @@
             "state": "CT",
             "totalPaymentInDollars": 1060972.0,
             "totalPracticeInstanceCount": 149,
-            "totalPaymentPercentageNationwide": 0.72,
-            "totalPracticeInstancePercentageNationwide": 0.7,
+            "totalPaymentPercentageNationwide": 0.67,
+            "totalPracticeInstancePercentageNationwide": 0.66,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -5973,8 +5973,8 @@
             "state": "ME",
             "totalPaymentInDollars": 957122.0,
             "totalPracticeInstanceCount": 245,
-            "totalPaymentPercentageNationwide": 0.65,
-            "totalPracticeInstancePercentageNationwide": 1.15,
+            "totalPaymentPercentageNationwide": 0.6,
+            "totalPracticeInstancePercentageNationwide": 1.08,
             "practices": [
                 {
                     "practiceName": "Access Road (560)",
@@ -6087,8 +6087,8 @@
             "state": "HI",
             "totalPaymentInDollars": 855801.0,
             "totalPracticeInstanceCount": 72,
-            "totalPaymentPercentageNationwide": 0.58,
-            "totalPracticeInstancePercentageNationwide": 0.34,
+            "totalPaymentPercentageNationwide": 0.54,
+            "totalPracticeInstancePercentageNationwide": 0.32,
             "practices": [
                 {
                     "practiceName": "Brush Management (314)",
@@ -6196,8 +6196,8 @@
             "state": "NH",
             "totalPaymentInDollars": 564426.0,
             "totalPracticeInstanceCount": 105,
-            "totalPaymentPercentageNationwide": 0.38,
-            "totalPracticeInstancePercentageNationwide": 0.49,
+            "totalPaymentPercentageNationwide": 0.36,
+            "totalPracticeInstancePercentageNationwide": 0.46,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -6285,8 +6285,8 @@
             "state": "NV",
             "totalPaymentInDollars": 519664.0,
             "totalPracticeInstanceCount": 67,
-            "totalPaymentPercentageNationwide": 0.35,
-            "totalPracticeInstancePercentageNationwide": 0.31,
+            "totalPaymentPercentageNationwide": 0.33,
+            "totalPracticeInstancePercentageNationwide": 0.3,
             "practices": [
                 {
                     "practiceName": "Cover Crop (340)",
@@ -6344,7 +6344,7 @@
             "state": "AK",
             "totalPaymentInDollars": 423356.0,
             "totalPracticeInstanceCount": 16,
-            "totalPaymentPercentageNationwide": 0.29,
+            "totalPaymentPercentageNationwide": 0.27,
             "totalPracticeInstancePercentageNationwide": 0.07,
             "practices": [
                 {
@@ -6363,8 +6363,8 @@
             "state": "RI",
             "totalPaymentInDollars": 352347.0,
             "totalPracticeInstanceCount": 197,
-            "totalPaymentPercentageNationwide": 0.24,
-            "totalPracticeInstancePercentageNationwide": 0.92,
+            "totalPaymentPercentageNationwide": 0.22,
+            "totalPracticeInstancePercentageNationwide": 0.87,
             "practices": [
                 {
                     "practiceName": "Access Control (472)",
@@ -6487,8 +6487,8 @@
             "state": "MP",
             "totalPaymentInDollars": 307176.0,
             "totalPracticeInstanceCount": 73,
-            "totalPaymentPercentageNationwide": 0.21,
-            "totalPracticeInstancePercentageNationwide": 0.34,
+            "totalPaymentPercentageNationwide": 0.19,
+            "totalPracticeInstancePercentageNationwide": 0.32,
             "practices": [
                 {
                     "practiceName": "Alley Cropping (311)",
