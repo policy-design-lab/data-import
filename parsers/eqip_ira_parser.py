@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import json
 import re
+import sys
 
 class EqipIraParser:
     def __init__(self, fiscal_year, start_year, end_year, total_table_filepath, future_filepath,
@@ -39,6 +40,17 @@ class EqipIraParser:
             'VI': 'U.S. Virgin Islands'
         }
 
+        self.us_50_states = [
+            'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut',
+            'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa',
+            'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts', 'Michigan',
+            'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire',
+            'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio',
+            'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota',
+            'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia',
+            'Wisconsin', 'Wyoming'
+        ]
+
         self.state_name_to_abbreviation = {v: k for k, v in self.us_state_abbreviation.items()}
 
     def handle_min_max_p_table(self, df):
@@ -65,6 +77,41 @@ class EqipIraParser:
 
     def create_state_distribution_min_max(self, df1, df2, df3):
         states = df1['STATE'].unique()
+        state2 = df2['state'].unique()
+        state3 = df3['state'].unique()
+
+        # check if the state is 50 us states
+        if len(states) > 50 or len(state2) > 50 or len(state3) > 50:
+            print("There are more than 50 states in the data, Only 50 states will be processed")
+            states = [state for state in states if state in self.us_50_states]
+
+        # remove the state that is not in the 50 states
+        df1 = df1[df1['STATE'].isin(states)]
+        df2 = df2[df2['state'].isin(states)]
+        df3 = df3[df3['state'].isin(states)]
+
+        # check the unique states in both df1 and df2
+        if len(df1['STATE'].unique()) != 50:
+            print("The state for the first table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        if len(df2['state'].unique()) != 50:
+            print("The state for the second table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        if len(df3['state'].unique()) != 50:
+            print("The state for the second table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        # only select the 2023 from fiscal year for df1
+        df1 = df1[df1['FISCAL YEAR'] == str(self.fiscal_year)]
+
+        # remove the total row for practice name in df1
+        df1 = df1[df1['PRACTICE NAME'].str.lower() != "total"]
+
         output = {str(year): [] for year in range(self.fiscal_year, self.end_year + 1)}
 
         for state in states:
@@ -91,7 +138,7 @@ class EqipIraParser:
                 }
 
                 total_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
-                    df1['FISCAL YEAR'].str.lower() == "total")]['DOLLARS OBLIGATED']
+                    df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
                 if not total_payment.empty:
                     practice_data['totalPaymentInDollars'] = float(total_payment.values[0])
                     year_data_2023['totalPaymentInDollars'] += practice_data['totalPaymentInDollars']
@@ -109,10 +156,17 @@ class EqipIraParser:
 
                 year_data_2023["practices"].append(practice_data)
 
+            # sort year_data_2023's practices by practice name's practice number
+            year_data_2023["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
+
             output[str(self.fiscal_year)].append(year_data_2023)
 
         # calculate total payment percentage nationwide
-        total_payment = sum([state_data["totalPaymentInDollars"] for state_data in output[str(self.fiscal_year)]])
+        total_payment = df1[
+            (df1['FISCAL YEAR'] == str(self.fiscal_year)) &
+            (df1['PRACTICE NAME'].str.lower() != "total")
+            ]['DOLLARS OBLIGATED'].sum()
+
         for state_data in output[str(self.fiscal_year)]:
             # avoid division by zero
             if total_payment != 0:
@@ -122,8 +176,11 @@ class EqipIraParser:
                 state_data["totalPaymentPercentageNationwide"] = 0
 
         # calculate total practice instance percentage nationwide
-        total_instance_count = sum([state_data["totalPracticeInstanceCount"]
-                                    for state_data in output[str(self.fiscal_year)]])
+        total_instance_count = df1[
+            (df1['FISCAL YEAR'] == str(self.fiscal_year)) &
+            (df1['PRACTICE NAME'].str.lower() != "total")
+            ]['PRACTICE INSTANCE COUNT'].sum()
+
         for state_data in output[str(self.fiscal_year)]:
             # avoid division by zero
             if total_instance_count != 0:
@@ -185,6 +242,9 @@ class EqipIraParser:
                 year_data["predictedMaximumTotalPaymentInDollars"] = \
                     round(year_data["predictedMaximumTotalPaymentInDollars"], 2)
 
+                # sort year_data's practices by practice name's practice number
+                year_data["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
+
                 output[str(year)].append(year_data)
 
             # calculate total payment percentage nationwide for maximum payment for each year
@@ -227,8 +287,35 @@ class EqipIraParser:
 
     def create_state_distribution(self, df1, df2):
         states = df1['STATE'].unique()
-        output = {str(year): [] for year in range(self.fiscal_year, self.end_year + 1)}
+        states2 = df2['state'].unique()
 
+        # check if the state is 50 us states
+        if len(states) > 50 or len(states2) > 50:
+            print("There are more than 50 states in the data, Only 50 states will be processed")
+            states = [state for state in states if state in self.us_50_states]
+
+        # remove the state that is not in the 50 states
+        df1 = df1[df1['STATE'].isin(states)]
+        df2 = df2[df2['state'].isin(states)]
+
+        # check the unique states in both df1 and df2
+        if len(df1['STATE'].unique()) != 50:
+            print("The state for the first table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        if len(df2['state'].unique()) != 50:
+            print("The state for the second table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        # only select the 2023 from fiscal year for df1
+        df1 = df1[df1['FISCAL YEAR'] == str(self.fiscal_year)]
+
+        # remove the total row for practice name in df1
+        df1 = df1[df1['PRACTICE NAME'].str.lower() != "total"]
+
+        output = {str(year): [] for year in range(self.fiscal_year, self.end_year + 1)}
         for state in states:
             state_abbr = self.replace_state_name_with_abbreviation(state)
             practices = df1[df1['STATE'] == state]['PRACTICE NAME'].unique()
@@ -253,7 +340,7 @@ class EqipIraParser:
                 }
 
                 total_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
-                        df1['FISCAL YEAR'].str.lower() == "total")]['DOLLARS OBLIGATED']
+                        df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
                 if not total_payment.empty:
                     practice_data['totalPaymentInDollars'] = float(total_payment.values[0])
                     year_data_2023['totalPaymentInDollars'] += practice_data['totalPaymentInDollars']
@@ -271,11 +358,14 @@ class EqipIraParser:
 
                 year_data_2023["practices"].append(practice_data)
 
+            # sort year_data_2023's practices by practice name's practice number
+            year_data_2023["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
+
             output[str(self.fiscal_year)].append(year_data_2023)
 
         # calculate total payment percentage nationwide
         total_payment = df1[
-            (df1['FISCAL YEAR'].str.lower() == "total") &
+            (df1['FISCAL YEAR'] == str(self.fiscal_year)) &
             (df1['PRACTICE NAME'].str.lower() != "total")
             ]['DOLLARS OBLIGATED'].sum()
 
@@ -293,7 +383,7 @@ class EqipIraParser:
 
         # calculate total practice instance percentage nationwide
         total_instance_count = df1[
-            (df1['FISCAL YEAR'].str.lower() == "total") &
+            (df1['FISCAL YEAR'] == str(self.fiscal_year)) &
             (df1['PRACTICE NAME'].str.lower() != "total")
             ]['PRACTICE INSTANCE COUNT'].sum()
 
@@ -352,6 +442,9 @@ class EqipIraParser:
                 year_data["predictedTotalPaymentInDollars"] = \
                     round(year_data["predictedTotalPaymentInDollars"], 2)
 
+                # sort year_data's practices by practice name's practice number
+                year_data["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
+
                 output[str(year)].append(year_data)
 
             # calculate total payment percentage nationwide for payment for each year
@@ -384,6 +477,28 @@ class EqipIraParser:
     def create_aggregated_prediction(self, df1, df2):
         year = str(self.start_year) + "-" + str(self.end_year)
         states = df1['STATE'].unique()
+        states2 = df2['state'].unique()
+
+        # check if the state is 50 us states
+        if len(states) > 50 or len(states2) > 50:
+            print("There are more than 50 states in the data, Only 50 states will be processed")
+            states = [state for state in states if state in self.us_50_states]
+
+        # remove the state that is not in the 50 states
+        df1 = df1[df1['STATE'].isin(states)]
+        df2 = df2[df2['state'].isin(states)]
+
+        # check the unique states in both df1 and df2
+        if len(df1['STATE'].unique()) != 50:
+            print("The state for the first table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        if len(df2['state'].unique()) != 50:
+            print("The state for the second table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
         output = {year: []}
 
         # create aggregated prediction data
@@ -423,11 +538,15 @@ class EqipIraParser:
             year_data["predictedTotalPaymentInDollars"] = \
                 round(year_data["predictedTotalPaymentInDollars"], 2)
 
+            # sort year_data by practice name's number
+            year_data["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
+
             output[str(year)].append(year_data)
 
             # calculate total payment percentage nationwide for payment for each year
             total_payment = sum([output[str(year)][i]["predictedTotalPaymentInDollars"]
                                  for i in range(len(output[str(year)]))])
+
             for state_data in output[str(year)]:
                 # avoid division by zero
                 if total_payment != 0:
@@ -449,6 +568,28 @@ class EqipIraParser:
 
     def create_summary(self, df1, df4):
         states = df1['STATE'].unique()
+        states4 = df4['state'].unique()
+
+        if len(states) > 50 or len(states4) > 50:
+            print("There are more than 50 states in the data, Only 50 states will be processed")
+            states = [state for state in states if state in self.us_50_states]
+
+        df1 = df1[df1['STATE'].isin(states)]
+        df4 = df4[df4['state'].isin(states)]
+
+        if len(df1['STATE'].unique()) != 50:
+            print("The state for the first table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        if len(df4['state'].unique()) != 50:
+            print("The state for the second table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        df1 = df1[df1['FISCAL YEAR'] == str(self.fiscal_year)]
+        df1 = df1[df1['PRACTICE NAME'].str.lower() != "total"]
+
         df1['PRACTICE INSTANCE COUNT'] = \
             pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.
                           replace(",", ""), errors='coerce').fillna(0).astype(int)
@@ -463,12 +604,12 @@ class EqipIraParser:
 
         # calculate total instance count and total payment for the entire dataset where the fiscal year is "Total"
         nationwide_total_instance_count = df1[
-            (df1['FISCAL YEAR'].str.lower() == "total") &
+            (df1['FISCAL YEAR']== str(self.fiscal_year)) &
             (df1['PRACTICE NAME'].str.lower() != "total")
             ]['PRACTICE INSTANCE COUNT'].sum()
 
         nationwide_total_payment = df1[
-            (df1['FISCAL YEAR'].str.lower() == "total") &
+            (df1['FISCAL YEAR'] == str(self.fiscal_year)) &
             (df1['PRACTICE NAME'].str.lower() != "total")
             ]['DOLLARS OBLIGATED'].sum()
 
@@ -650,6 +791,7 @@ class EqipIraParser:
         if 'Total' in practice_names_for_each_year:
             del practice_names_for_each_year['Total']
 
+        ###############################################################
         # get the unique practice names for the future year
 
         # get all the column names that start with 'p_'
@@ -673,6 +815,11 @@ class EqipIraParser:
         for i in range(self.end_year - self.start_year + 1):
             year = str(self.start_year + i)
             practice_names_for_each_year[year] = future_practices
+
+        # sort the practice names for each year by the practice name's number
+        for year in practice_names_for_each_year:
+            practice_names_for_each_year[year] = sorted(practice_names_for_each_year[year],
+                                                         key=lambda x: int(re.search(r'\((\d+)\)', x).group(1)))
 
         # convert practice names to json
         practice_names_for_each_year = json.dumps(practice_names_for_each_year, indent=4)
@@ -763,7 +910,7 @@ if __name__ == '__main__':
     start_year = 2024
     end_year = 2031
     total_table_filepath = \
-        "../title-2-conservation/eqip_ira/20240215_EQIP_IRA.csv"
+        "../title-2-conservation/eqip_ira/Practice FIPS Download_modified.csv"
     future_min_filepath = \
         "../title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MIN-clean.xls"
     future_max_filepath = \
