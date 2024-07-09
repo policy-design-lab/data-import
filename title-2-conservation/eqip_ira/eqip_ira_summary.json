@@ -1,12 +1,12 @@
 {
     "2023": {
-        "totalPracticeInstanceCount": 22641,
-        "totalPaymentInDollars": 158960254.0,
+        "totalPracticeInstanceCount": 18022,
+        "totalPaymentInDollars": 121818603.0,
         "practices": [
             {
                 "practiceName": "Agricultural Energy Design (120)",
                 "totalPracticeInstanceCount": 6,
-                "totalPaymentInDollars": 25372.0,
+                "totalPaymentInDollars": 25371.0,
                 "totalPaymentInPercentageNationwide": 0.02,
                 "totalPracticeInstanceNationwide": 0.03
             },
@@ -22,7 +22,7 @@
                 "totalPracticeInstanceCount": 7,
                 "totalPaymentInDollars": 28591.0,
                 "totalPaymentInPercentageNationwide": 0.02,
-                "totalPracticeInstanceNationwide": 0.03
+                "totalPracticeInstanceNationwide": 0.04
             },
             {
                 "practiceName": "Forest Management Practice Design (165)",
@@ -34,16 +34,16 @@
             {
                 "practiceName": "Soil Health Testing (216)",
                 "totalPracticeInstanceCount": 25,
-                "totalPaymentInDollars": 20104.0,
-                "totalPaymentInPercentageNationwide": 0.01,
-                "totalPracticeInstanceNationwide": 0.11
+                "totalPaymentInDollars": 20103.0,
+                "totalPaymentInPercentageNationwide": 0.02,
+                "totalPracticeInstanceNationwide": 0.14
             },
             {
                 "practiceName": "Soil and Source Testing for Nutrient Management (217)",
                 "totalPracticeInstanceCount": 12,
                 "totalPaymentInDollars": 25421.0,
                 "totalPaymentInPercentageNationwide": 0.02,
-                "totalPracticeInstanceNationwide": 0.05
+                "totalPracticeInstanceNationwide": 0.07
             },
             {
                 "practiceName": "Forest Management Assessment (223)",
@@ -54,17 +54,17 @@
             },
             {
                 "practiceName": "Aquifer Flow Test (224)",
-                "totalPracticeInstanceCount": 6,
-                "totalPaymentInDollars": 8524.0,
-                "totalPaymentInPercentageNationwide": 0.01,
-                "totalPracticeInstanceNationwide": 0.03
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
+                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceNationwide": 0.0
             },
             {
                 "practiceName": "Agricultural Energy Assessment (228)",
-                "totalPracticeInstanceCount": 6,
-                "totalPaymentInDollars": 14382.0,
-                "totalPaymentInPercentageNationwide": 0.01,
-                "totalPracticeInstanceNationwide": 0.03
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
+                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceNationwide": 0.0
             },
             {
                 "practiceName": "Agrichemical Handling Facility (309)",
@@ -84,99 +84,85 @@
                 "practiceName": "Waste Storage Facility (313)",
                 "totalPracticeInstanceCount": 5,
                 "totalPaymentInDollars": 830027.0,
-                "totalPaymentInPercentageNationwide": 0.52,
-                "totalPracticeInstanceNationwide": 0.02
-            },
-            {
-                "practiceName": "Brush Management (314)",
-                "totalPracticeInstanceCount": 1261,
-                "totalPaymentInDollars": 6879098.0,
-                "totalPaymentInPercentageNationwide": 4.33,
-                "totalPracticeInstanceNationwide": 5.57
-            },
-            {
-                "practiceName": "Herbaceous Weed Treatment (315)",
-                "totalPracticeInstanceCount": 473,
-                "totalPaymentInDollars": 1008453.0,
-                "totalPaymentInPercentageNationwide": 0.63,
-                "totalPracticeInstanceNationwide": 2.09
-            },
-            {
-                "practiceName": "Deep Tillage (324)",
-                "totalPracticeInstanceCount": 0,
-                "totalPaymentInDollars": 0.0,
-                "totalPaymentInPercentageNationwide": 0.0,
-                "totalPracticeInstanceNationwide": 0.0
-            },
-            {
-                "practiceName": "High Tunnel System (325)",
-                "totalPracticeInstanceCount": 20,
-                "totalPaymentInDollars": 210817.0,
-                "totalPaymentInPercentageNationwide": 0.13,
-                "totalPracticeInstanceNationwide": 0.09
-            },
-            {
-                "practiceName": "Clearing and Snagging (326)",
-                "totalPracticeInstanceCount": 6,
-                "totalPaymentInDollars": 149160.0,
-                "totalPaymentInPercentageNationwide": 0.09,
+                "totalPaymentInPercentageNationwide": 0.68,
                 "totalPracticeInstanceNationwide": 0.03
             },
             {
+                "practiceName": "Brush Management (314)",
+                "totalPracticeInstanceCount": 1069,
+                "totalPaymentInDollars": 5936449.0,
+                "totalPaymentInPercentageNationwide": 4.87,
+                "totalPracticeInstanceNationwide": 5.93
+            },
+            {
+                "practiceName": "Herbaceous Weed Treatment (315)",
+                "totalPracticeInstanceCount": 388,
+                "totalPaymentInDollars": 678856.0,
+                "totalPaymentInPercentageNationwide": 0.56,
+                "totalPracticeInstanceNationwide": 2.15
+            },
+            {
+                "practiceName": "Deep Tillage (324)",
+                "totalPracticeInstanceCount": 7,
+                "totalPaymentInDollars": 16666.0,
+                "totalPaymentInPercentageNationwide": 0.01,
+                "totalPracticeInstanceNationwide": 0.04
+            },
+            {
+                "practiceName": "High Tunnel System (325)",
+                "totalPracticeInstanceCount": 15,
+                "totalPaymentInDollars": 142102.0,
+                "totalPaymentInPercentageNationwide": 0.12,
+                "totalPracticeInstanceNationwide": 0.08
+            },
+            {
                 "practiceName": "Conservation Cover (327)",
-                "totalPracticeInstanceCount": 153,
-                "totalPaymentInDollars": 499607.0,
-                "totalPaymentInPercentageNationwide": 0.31,
-                "totalPracticeInstanceNationwide": 0.68
+                "totalPracticeInstanceCount": 103,
+                "totalPaymentInDollars": 452179.0,
+                "totalPaymentInPercentageNationwide": 0.37,
+                "totalPracticeInstanceNationwide": 0.57
             },
             {
                 "practiceName": "Conservation Crop Rotation (328)",
-                "totalPracticeInstanceCount": 877,
-                "totalPaymentInDollars": 1931467.0,
-                "totalPaymentInPercentageNationwide": 1.22,
-                "totalPracticeInstanceNationwide": 3.87
+                "totalPracticeInstanceCount": 580,
+                "totalPaymentInDollars": 1318422.0,
+                "totalPaymentInPercentageNationwide": 1.08,
+                "totalPracticeInstanceNationwide": 3.22
             },
             {
                 "practiceName": "Residue and Tillage Management, No Till (329)",
-                "totalPracticeInstanceCount": 987,
-                "totalPaymentInDollars": 4304341.0,
-                "totalPaymentInPercentageNationwide": 2.71,
-                "totalPracticeInstanceNationwide": 4.36
+                "totalPracticeInstanceCount": 823,
+                "totalPaymentInDollars": 3784492.0,
+                "totalPaymentInPercentageNationwide": 3.11,
+                "totalPracticeInstanceNationwide": 4.57
             },
             {
                 "practiceName": "Prescribed Burning (338)",
-                "totalPracticeInstanceCount": 60,
-                "totalPaymentInDollars": 102785.0,
-                "totalPaymentInPercentageNationwide": 0.06,
-                "totalPracticeInstanceNationwide": 0.27
+                "totalPracticeInstanceCount": 47,
+                "totalPaymentInDollars": 64788.0,
+                "totalPaymentInPercentageNationwide": 0.05,
+                "totalPracticeInstanceNationwide": 0.26
             },
             {
                 "practiceName": "Cover Crop (340)",
-                "totalPracticeInstanceCount": 3679,
-                "totalPaymentInDollars": 36392776.0,
-                "totalPaymentInPercentageNationwide": 22.89,
-                "totalPracticeInstanceNationwide": 16.25
+                "totalPracticeInstanceCount": 3308,
+                "totalPaymentInDollars": 31341845.0,
+                "totalPaymentInPercentageNationwide": 25.73,
+                "totalPracticeInstanceNationwide": 18.36
             },
             {
                 "practiceName": "Critical Area Planting (342)",
-                "totalPracticeInstanceCount": 108,
-                "totalPaymentInDollars": 95721.0,
-                "totalPaymentInPercentageNationwide": 0.06,
-                "totalPracticeInstanceNationwide": 0.48
+                "totalPracticeInstanceCount": 102,
+                "totalPaymentInDollars": 94480.0,
+                "totalPaymentInPercentageNationwide": 0.08,
+                "totalPracticeInstanceNationwide": 0.57
             },
             {
                 "practiceName": "Residue and Tillage Management, Reduced Till (345)",
-                "totalPracticeInstanceCount": 501,
-                "totalPaymentInDollars": 3259779.0,
-                "totalPaymentInPercentageNationwide": 2.05,
-                "totalPracticeInstanceNationwide": 2.21
-            },
-            {
-                "practiceName": "Dam, Diversion (348)",
-                "totalPracticeInstanceCount": 0,
-                "totalPaymentInDollars": 0.0,
-                "totalPaymentInPercentageNationwide": 0.0,
-                "totalPracticeInstanceNationwide": 0.0
+                "totalPracticeInstanceCount": 429,
+                "totalPaymentInDollars": 3022842.0,
+                "totalPaymentInPercentageNationwide": 2.48,
+                "totalPracticeInstanceNationwide": 2.38
             },
             {
                 "practiceName": "Well Decommissioning (351)",
@@ -187,10 +173,10 @@
             },
             {
                 "practiceName": "Groundwater Testing (355)",
-                "totalPracticeInstanceCount": 5,
-                "totalPaymentInDollars": 373.0,
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
                 "totalPaymentInPercentageNationwide": 0.0,
-                "totalPracticeInstanceNationwide": 0.02
+                "totalPracticeInstanceNationwide": 0.0
             },
             {
                 "practiceName": "Dike and Levee (356)",
@@ -208,9 +194,9 @@
             },
             {
                 "practiceName": "Diversion (362)",
-                "totalPracticeInstanceCount": 5,
-                "totalPaymentInDollars": 7683.0,
-                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceCount": 4,
+                "totalPaymentInDollars": 7183.0,
+                "totalPaymentInPercentageNationwide": 0.01,
                 "totalPracticeInstanceNationwide": 0.02
             },
             {
@@ -222,24 +208,24 @@
             },
             {
                 "practiceName": "Roofs and Covers (367)",
-                "totalPracticeInstanceCount": 9,
-                "totalPaymentInDollars": 439082.0,
-                "totalPaymentInPercentageNationwide": 0.28,
-                "totalPracticeInstanceNationwide": 0.04
+                "totalPracticeInstanceCount": 5,
+                "totalPaymentInDollars": 219765.0,
+                "totalPaymentInPercentageNationwide": 0.18,
+                "totalPracticeInstanceNationwide": 0.03
             },
             {
                 "practiceName": "Combustion System Improvement (372)",
-                "totalPracticeInstanceCount": 52,
-                "totalPaymentInDollars": 3380451.0,
-                "totalPaymentInPercentageNationwide": 2.13,
-                "totalPracticeInstanceNationwide": 0.23
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
+                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceNationwide": 0.0
             },
             {
                 "practiceName": "Energy Efficient Agricultural Operation (374)",
-                "totalPracticeInstanceCount": 117,
-                "totalPaymentInDollars": 2622552.0,
-                "totalPaymentInPercentageNationwide": 1.65,
-                "totalPracticeInstanceNationwide": 0.52
+                "totalPracticeInstanceCount": 61,
+                "totalPaymentInDollars": 1074793.0,
+                "totalPaymentInPercentageNationwide": 0.88,
+                "totalPracticeInstanceNationwide": 0.34
             },
             {
                 "practiceName": "Pond (378)",
@@ -250,10 +236,10 @@
             },
             {
                 "practiceName": "Windbreak/Shelterbelt Establishment and Renovation (380)",
-                "totalPracticeInstanceCount": 153,
-                "totalPaymentInDollars": 389924.0,
-                "totalPaymentInPercentageNationwide": 0.25,
-                "totalPracticeInstanceNationwide": 0.68
+                "totalPracticeInstanceCount": 139,
+                "totalPaymentInDollars": 360550.0,
+                "totalPaymentInPercentageNationwide": 0.3,
+                "totalPracticeInstanceNationwide": 0.77
             },
             {
                 "practiceName": "Silvopasture (381)",
@@ -264,10 +250,10 @@
             },
             {
                 "practiceName": "Fence (382)",
-                "totalPracticeInstanceCount": 1269,
-                "totalPaymentInDollars": 7378344.0,
-                "totalPaymentInPercentageNationwide": 4.64,
-                "totalPracticeInstanceNationwide": 5.6
+                "totalPracticeInstanceCount": 1148,
+                "totalPaymentInDollars": 6223814.0,
+                "totalPaymentInPercentageNationwide": 5.11,
+                "totalPracticeInstanceNationwide": 6.37
             },
             {
                 "practiceName": "Fuel Break (383)",
@@ -278,31 +264,31 @@
             },
             {
                 "practiceName": "Woody Residue Treatment (384)",
-                "totalPracticeInstanceCount": 867,
-                "totalPaymentInDollars": 3202181.0,
-                "totalPaymentInPercentageNationwide": 2.01,
-                "totalPracticeInstanceNationwide": 3.83
+                "totalPracticeInstanceCount": 566,
+                "totalPaymentInDollars": 2010925.0,
+                "totalPaymentInPercentageNationwide": 1.65,
+                "totalPracticeInstanceNationwide": 3.14
             },
             {
                 "practiceName": "Field Border (386)",
                 "totalPracticeInstanceCount": 12,
                 "totalPaymentInDollars": 5682.0,
                 "totalPaymentInPercentageNationwide": 0.0,
-                "totalPracticeInstanceNationwide": 0.05
+                "totalPracticeInstanceNationwide": 0.07
             },
             {
                 "practiceName": "Riparian Herbaceous Cover (390)",
                 "totalPracticeInstanceCount": 4,
-                "totalPaymentInDollars": 730.0,
+                "totalPaymentInDollars": 729.0,
                 "totalPaymentInPercentageNationwide": 0.0,
                 "totalPracticeInstanceNationwide": 0.02
             },
             {
                 "practiceName": "Riparian Forest Buffer (391)",
-                "totalPracticeInstanceCount": 21,
-                "totalPaymentInDollars": 46994.0,
+                "totalPracticeInstanceCount": 15,
+                "totalPaymentInDollars": 40323.0,
                 "totalPaymentInPercentageNationwide": 0.03,
-                "totalPracticeInstanceNationwide": 0.09
+                "totalPracticeInstanceNationwide": 0.08
             },
             {
                 "practiceName": "Filter Strip (393)",
@@ -313,44 +299,44 @@
             },
             {
                 "practiceName": "Firebreak (394)",
-                "totalPracticeInstanceCount": 91,
-                "totalPaymentInDollars": 290933.0,
-                "totalPaymentInPercentageNationwide": 0.18,
-                "totalPracticeInstanceNationwide": 0.4
+                "totalPracticeInstanceCount": 79,
+                "totalPaymentInDollars": 252751.0,
+                "totalPaymentInPercentageNationwide": 0.21,
+                "totalPracticeInstanceNationwide": 0.44
             },
             {
                 "practiceName": "Aquatic Organism Passage (396)",
-                "totalPracticeInstanceCount": 0,
-                "totalPaymentInDollars": 0.0,
-                "totalPaymentInPercentageNationwide": 0.0,
-                "totalPracticeInstanceNationwide": 0.0
+                "totalPracticeInstanceCount": 4,
+                "totalPaymentInDollars": 133610.0,
+                "totalPaymentInPercentageNationwide": 0.11,
+                "totalPracticeInstanceNationwide": 0.02
             },
             {
                 "practiceName": "Grade Stabilization Structure (410)",
                 "totalPracticeInstanceCount": 6,
                 "totalPaymentInDollars": 47080.0,
-                "totalPaymentInPercentageNationwide": 0.03,
+                "totalPaymentInPercentageNationwide": 0.04,
                 "totalPracticeInstanceNationwide": 0.03
             },
             {
                 "practiceName": "Grassed Waterway (412)",
-                "totalPracticeInstanceCount": 103,
-                "totalPaymentInDollars": 467176.0,
-                "totalPaymentInPercentageNationwide": 0.29,
-                "totalPracticeInstanceNationwide": 0.45
+                "totalPracticeInstanceCount": 86,
+                "totalPaymentInDollars": 398897.0,
+                "totalPaymentInPercentageNationwide": 0.33,
+                "totalPracticeInstanceNationwide": 0.48
             },
             {
                 "practiceName": "Wildlife Habitat Planting (420)",
-                "totalPracticeInstanceCount": 145,
-                "totalPaymentInDollars": 712781.0,
-                "totalPaymentInPercentageNationwide": 0.45,
-                "totalPracticeInstanceNationwide": 0.64
+                "totalPracticeInstanceCount": 73,
+                "totalPaymentInDollars": 479051.0,
+                "totalPaymentInPercentageNationwide": 0.39,
+                "totalPracticeInstanceNationwide": 0.41
             },
             {
                 "practiceName": "Hedgerow Planting (422)",
                 "totalPracticeInstanceCount": 6,
                 "totalPaymentInDollars": 20090.0,
-                "totalPaymentInPercentageNationwide": 0.01,
+                "totalPaymentInPercentageNationwide": 0.02,
                 "totalPracticeInstanceNationwide": 0.03
             },
             {
@@ -362,31 +348,31 @@
             },
             {
                 "practiceName": "Irrigation Pipeline (430)",
-                "totalPracticeInstanceCount": 40,
-                "totalPaymentInDollars": 625343.0,
-                "totalPaymentInPercentageNationwide": 0.39,
-                "totalPracticeInstanceNationwide": 0.18
+                "totalPracticeInstanceCount": 16,
+                "totalPaymentInDollars": 304858.0,
+                "totalPaymentInPercentageNationwide": 0.25,
+                "totalPracticeInstanceNationwide": 0.09
             },
             {
                 "practiceName": "Irrigation Reservoir (436)",
-                "totalPracticeInstanceCount": 12,
-                "totalPaymentInDollars": 55897.0,
-                "totalPaymentInPercentageNationwide": 0.04,
-                "totalPracticeInstanceNationwide": 0.05
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
+                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceNationwide": 0.0
             },
             {
                 "practiceName": "Irrigation System, Microirrigation (441)",
-                "totalPracticeInstanceCount": 17,
-                "totalPaymentInDollars": 144446.0,
-                "totalPaymentInPercentageNationwide": 0.09,
-                "totalPracticeInstanceNationwide": 0.08
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
+                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceNationwide": 0.0
             },
             {
                 "practiceName": "Sprinkler System (442)",
-                "totalPracticeInstanceCount": 31,
-                "totalPaymentInDollars": 2050611.0,
-                "totalPaymentInPercentageNationwide": 1.29,
-                "totalPracticeInstanceNationwide": 0.14
+                "totalPracticeInstanceCount": 11,
+                "totalPaymentInDollars": 570285.0,
+                "totalPaymentInPercentageNationwide": 0.47,
+                "totalPracticeInstanceNationwide": 0.06
             },
             {
                 "practiceName": "Irrigation System, Surface and Subsurface (443)",
@@ -397,10 +383,10 @@
             },
             {
                 "practiceName": "Irrigation Water Management (449)",
-                "totalPracticeInstanceCount": 10,
-                "totalPaymentInDollars": 6394.0,
+                "totalPracticeInstanceCount": 5,
+                "totalPaymentInDollars": 3265.0,
                 "totalPaymentInPercentageNationwide": 0.0,
-                "totalPracticeInstanceNationwide": 0.04
+                "totalPracticeInstanceNationwide": 0.03
             },
             {
                 "practiceName": "Land Clearing (460)",
@@ -418,66 +404,66 @@
             },
             {
                 "practiceName": "Irrigation Land Leveling (464)",
-                "totalPracticeInstanceCount": 6,
-                "totalPaymentInDollars": 61931.0,
-                "totalPaymentInPercentageNationwide": 0.04,
+                "totalPracticeInstanceCount": 5,
+                "totalPaymentInDollars": 59141.0,
+                "totalPaymentInPercentageNationwide": 0.05,
                 "totalPracticeInstanceNationwide": 0.03
             },
             {
                 "practiceName": "Lined Waterway or Outlet (468)",
-                "totalPracticeInstanceCount": 41,
-                "totalPaymentInDollars": 226838.0,
-                "totalPaymentInPercentageNationwide": 0.14,
-                "totalPracticeInstanceNationwide": 0.18
+                "totalPracticeInstanceCount": 40,
+                "totalPaymentInDollars": 210754.0,
+                "totalPaymentInPercentageNationwide": 0.17,
+                "totalPracticeInstanceNationwide": 0.22
             },
             {
                 "practiceName": "Access Control (472)",
                 "totalPracticeInstanceCount": 81,
-                "totalPaymentInDollars": 35342.0,
-                "totalPaymentInPercentageNationwide": 0.02,
-                "totalPracticeInstanceNationwide": 0.36
+                "totalPaymentInDollars": 35079.0,
+                "totalPaymentInPercentageNationwide": 0.03,
+                "totalPracticeInstanceNationwide": 0.45
             },
             {
                 "practiceName": "Mulching (484)",
-                "totalPracticeInstanceCount": 441,
-                "totalPaymentInDollars": 1547202.0,
-                "totalPaymentInPercentageNationwide": 0.97,
-                "totalPracticeInstanceNationwide": 1.95
+                "totalPracticeInstanceCount": 369,
+                "totalPaymentInDollars": 1217506.0,
+                "totalPaymentInPercentageNationwide": 1.0,
+                "totalPracticeInstanceNationwide": 2.05
             },
             {
                 "practiceName": "Tree/Shrub Site Preparation (490)",
-                "totalPracticeInstanceCount": 528,
-                "totalPaymentInDollars": 2606780.0,
-                "totalPaymentInPercentageNationwide": 1.64,
-                "totalPracticeInstanceNationwide": 2.33
+                "totalPracticeInstanceCount": 324,
+                "totalPaymentInDollars": 1543002.0,
+                "totalPaymentInPercentageNationwide": 1.27,
+                "totalPracticeInstanceNationwide": 1.8
             },
             {
                 "practiceName": "Obstruction Removal (500)",
-                "totalPracticeInstanceCount": 6,
-                "totalPaymentInDollars": 51551.0,
-                "totalPaymentInPercentageNationwide": 0.03,
-                "totalPracticeInstanceNationwide": 0.03
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
+                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceNationwide": 0.0
             },
             {
                 "practiceName": "Forage Harvest Management (511)",
                 "totalPracticeInstanceCount": 16,
                 "totalPaymentInDollars": 2551.0,
                 "totalPaymentInPercentageNationwide": 0.0,
-                "totalPracticeInstanceNationwide": 0.07
+                "totalPracticeInstanceNationwide": 0.09
             },
             {
                 "practiceName": "Pasture and Hay Planting (512)",
-                "totalPracticeInstanceCount": 833,
-                "totalPaymentInDollars": 5866659.0,
-                "totalPaymentInPercentageNationwide": 3.69,
-                "totalPracticeInstanceNationwide": 3.68
+                "totalPracticeInstanceCount": 709,
+                "totalPaymentInDollars": 4942368.0,
+                "totalPaymentInPercentageNationwide": 4.06,
+                "totalPracticeInstanceNationwide": 3.93
             },
             {
                 "practiceName": "Livestock Pipeline (516)",
-                "totalPracticeInstanceCount": 748,
-                "totalPaymentInDollars": 3035525.0,
-                "totalPaymentInPercentageNationwide": 1.91,
-                "totalPracticeInstanceNationwide": 3.3
+                "totalPracticeInstanceCount": 673,
+                "totalPaymentInDollars": 2587018.0,
+                "totalPaymentInPercentageNationwide": 2.12,
+                "totalPracticeInstanceNationwide": 3.73
             },
             {
                 "practiceName": "Pond Sealing or Lining, Geomembrane or Geosynthetic Clay Liner (521)",
@@ -502,87 +488,87 @@
             },
             {
                 "practiceName": "Prescribed Grazing (528)",
-                "totalPracticeInstanceCount": 1556,
-                "totalPaymentInDollars": 7988131.0,
-                "totalPaymentInPercentageNationwide": 5.03,
-                "totalPracticeInstanceNationwide": 6.87
+                "totalPracticeInstanceCount": 1290,
+                "totalPaymentInDollars": 7693789.0,
+                "totalPaymentInPercentageNationwide": 6.32,
+                "totalPracticeInstanceNationwide": 7.16
             },
             {
                 "practiceName": "Pumping Plant (533)",
-                "totalPracticeInstanceCount": 222,
-                "totalPaymentInDollars": 1281015.0,
-                "totalPaymentInPercentageNationwide": 0.81,
-                "totalPracticeInstanceNationwide": 0.98
+                "totalPracticeInstanceCount": 185,
+                "totalPaymentInDollars": 1091805.0,
+                "totalPaymentInPercentageNationwide": 0.9,
+                "totalPracticeInstanceNationwide": 1.03
             },
             {
                 "practiceName": "Range Planting (550)",
-                "totalPracticeInstanceCount": 105,
-                "totalPaymentInDollars": 843368.0,
-                "totalPaymentInPercentageNationwide": 0.53,
-                "totalPracticeInstanceNationwide": 0.46
+                "totalPracticeInstanceCount": 87,
+                "totalPaymentInDollars": 793966.0,
+                "totalPaymentInPercentageNationwide": 0.65,
+                "totalPracticeInstanceNationwide": 0.48
             },
             {
                 "practiceName": "Roof Runoff Structure (558)",
-                "totalPracticeInstanceCount": 19,
-                "totalPaymentInDollars": 72064.0,
-                "totalPaymentInPercentageNationwide": 0.05,
-                "totalPracticeInstanceNationwide": 0.08
+                "totalPracticeInstanceCount": 5,
+                "totalPaymentInDollars": 15928.0,
+                "totalPaymentInPercentageNationwide": 0.01,
+                "totalPracticeInstanceNationwide": 0.03
             },
             {
                 "practiceName": "Access Road (560)",
-                "totalPracticeInstanceCount": 87,
-                "totalPaymentInDollars": 497707.0,
-                "totalPaymentInPercentageNationwide": 0.31,
+                "totalPracticeInstanceCount": 69,
+                "totalPaymentInDollars": 385861.0,
+                "totalPaymentInPercentageNationwide": 0.32,
                 "totalPracticeInstanceNationwide": 0.38
             },
             {
                 "practiceName": "Heavy Use Area Protection (561)",
-                "totalPracticeInstanceCount": 660,
-                "totalPaymentInDollars": 2464461.0,
-                "totalPaymentInPercentageNationwide": 1.55,
-                "totalPracticeInstanceNationwide": 2.92
+                "totalPracticeInstanceCount": 596,
+                "totalPaymentInDollars": 2095241.0,
+                "totalPaymentInPercentageNationwide": 1.72,
+                "totalPracticeInstanceNationwide": 3.31
             },
             {
                 "practiceName": "Spoil Disposal (572)",
                 "totalPracticeInstanceCount": 7,
                 "totalPaymentInDollars": 8092.0,
                 "totalPaymentInPercentageNationwide": 0.01,
-                "totalPracticeInstanceNationwide": 0.03
+                "totalPracticeInstanceNationwide": 0.04
             },
             {
                 "practiceName": "Spring Development (574)",
-                "totalPracticeInstanceCount": 15,
-                "totalPaymentInDollars": 36905.0,
+                "totalPracticeInstanceCount": 6,
+                "totalPaymentInDollars": 19565.0,
                 "totalPaymentInPercentageNationwide": 0.02,
-                "totalPracticeInstanceNationwide": 0.07
+                "totalPracticeInstanceNationwide": 0.03
             },
             {
                 "practiceName": "Trails and Walkways (575)",
                 "totalPracticeInstanceCount": 15,
                 "totalPaymentInDollars": 154246.0,
-                "totalPaymentInPercentageNationwide": 0.1,
-                "totalPracticeInstanceNationwide": 0.07
-            },
-            {
-                "practiceName": "Livestock Shelter Structure (576)",
-                "totalPracticeInstanceCount": 18,
-                "totalPaymentInDollars": 223525.0,
-                "totalPaymentInPercentageNationwide": 0.14,
+                "totalPaymentInPercentageNationwide": 0.13,
                 "totalPracticeInstanceNationwide": 0.08
             },
             {
+                "practiceName": "Livestock Shelter Structure (576)",
+                "totalPracticeInstanceCount": 11,
+                "totalPaymentInDollars": 191885.0,
+                "totalPaymentInPercentageNationwide": 0.16,
+                "totalPracticeInstanceNationwide": 0.06
+            },
+            {
                 "practiceName": "Stream Crossing (578)",
-                "totalPracticeInstanceCount": 31,
-                "totalPaymentInDollars": 128002.0,
-                "totalPaymentInPercentageNationwide": 0.08,
+                "totalPracticeInstanceCount": 25,
+                "totalPaymentInDollars": 112518.0,
+                "totalPaymentInPercentageNationwide": 0.09,
                 "totalPracticeInstanceNationwide": 0.14
             },
             {
                 "practiceName": "Streambank and Shoreline Protection (580)",
-                "totalPracticeInstanceCount": 0,
-                "totalPaymentInDollars": 0.0,
-                "totalPaymentInPercentageNationwide": 0.0,
-                "totalPracticeInstanceNationwide": 0.0
+                "totalPracticeInstanceCount": 4,
+                "totalPaymentInDollars": 86966.0,
+                "totalPaymentInPercentageNationwide": 0.07,
+                "totalPracticeInstanceNationwide": 0.02
             },
             {
                 "practiceName": "Open Channel (582)",
@@ -593,31 +579,31 @@
             },
             {
                 "practiceName": "Channel Bed Stabilization (584)",
-                "totalPracticeInstanceCount": 4,
-                "totalPaymentInDollars": 360931.0,
-                "totalPaymentInPercentageNationwide": 0.23,
-                "totalPracticeInstanceNationwide": 0.02
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
+                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceNationwide": 0.0
             },
             {
                 "practiceName": "Structure for Water Control (587)",
-                "totalPracticeInstanceCount": 78,
-                "totalPaymentInDollars": 295661.0,
-                "totalPaymentInPercentageNationwide": 0.19,
-                "totalPracticeInstanceNationwide": 0.34
+                "totalPracticeInstanceCount": 31,
+                "totalPaymentInDollars": 96334.0,
+                "totalPaymentInPercentageNationwide": 0.08,
+                "totalPracticeInstanceNationwide": 0.17
             },
             {
                 "practiceName": "Nutrient Management (590)",
-                "totalPracticeInstanceCount": 1103,
-                "totalPaymentInDollars": 11101314.0,
-                "totalPaymentInPercentageNationwide": 6.98,
-                "totalPracticeInstanceNationwide": 4.87
+                "totalPracticeInstanceCount": 799,
+                "totalPaymentInDollars": 7414918.0,
+                "totalPaymentInPercentageNationwide": 6.09,
+                "totalPracticeInstanceNationwide": 4.43
             },
             {
                 "practiceName": "Pest Management Conservation System (595)",
                 "totalPracticeInstanceCount": 31,
                 "totalPaymentInDollars": 185706.0,
-                "totalPaymentInPercentageNationwide": 0.12,
-                "totalPracticeInstanceNationwide": 0.14
+                "totalPaymentInPercentageNationwide": 0.15,
+                "totalPracticeInstanceNationwide": 0.17
             },
             {
                 "practiceName": "Vegetative Barrier (601)",
@@ -636,9 +622,9 @@
             {
                 "practiceName": "Subsurface Drain (606)",
                 "totalPracticeInstanceCount": 25,
-                "totalPaymentInDollars": 173431.0,
-                "totalPaymentInPercentageNationwide": 0.11,
-                "totalPracticeInstanceNationwide": 0.11
+                "totalPaymentInDollars": 171904.0,
+                "totalPaymentInPercentageNationwide": 0.14,
+                "totalPracticeInstanceNationwide": 0.14
             },
             {
                 "practiceName": "Salinity and Sodic Soil Management (610)",
@@ -649,24 +635,24 @@
             },
             {
                 "practiceName": "Tree/Shrub Establishment (612)",
-                "totalPracticeInstanceCount": 660,
-                "totalPaymentInDollars": 6073252.0,
-                "totalPaymentInPercentageNationwide": 3.82,
-                "totalPracticeInstanceNationwide": 2.92
+                "totalPracticeInstanceCount": 443,
+                "totalPaymentInDollars": 4119665.0,
+                "totalPaymentInPercentageNationwide": 3.38,
+                "totalPracticeInstanceNationwide": 2.46
             },
             {
                 "practiceName": "Watering Facility (614)",
-                "totalPracticeInstanceCount": 920,
-                "totalPaymentInDollars": 2237023.0,
-                "totalPaymentInPercentageNationwide": 1.41,
-                "totalPracticeInstanceNationwide": 4.06
+                "totalPracticeInstanceCount": 797,
+                "totalPaymentInDollars": 1775476.0,
+                "totalPaymentInPercentageNationwide": 1.46,
+                "totalPracticeInstanceNationwide": 4.42
             },
             {
                 "practiceName": "Underground Outlet (620)",
-                "totalPracticeInstanceCount": 49,
-                "totalPaymentInDollars": 172350.0,
-                "totalPaymentInPercentageNationwide": 0.11,
-                "totalPracticeInstanceNationwide": 0.22
+                "totalPracticeInstanceCount": 37,
+                "totalPaymentInDollars": 151793.0,
+                "totalPaymentInPercentageNationwide": 0.12,
+                "totalPracticeInstanceNationwide": 0.21
             },
             {
                 "practiceName": "Waste Separation Facility (632)",
@@ -679,8 +665,8 @@
                 "practiceName": "Waste Transfer (634)",
                 "totalPracticeInstanceCount": 10,
                 "totalPaymentInDollars": 136956.0,
-                "totalPaymentInPercentageNationwide": 0.09,
-                "totalPracticeInstanceNationwide": 0.04
+                "totalPaymentInPercentageNationwide": 0.11,
+                "totalPracticeInstanceNationwide": 0.06
             },
             {
                 "practiceName": "Water and Sediment Control Basin (638)",
@@ -691,17 +677,17 @@
             },
             {
                 "practiceName": "Water Well (642)",
-                "totalPracticeInstanceCount": 127,
-                "totalPaymentInDollars": 1240685.0,
-                "totalPaymentInPercentageNationwide": 0.78,
-                "totalPracticeInstanceNationwide": 0.56
+                "totalPracticeInstanceCount": 96,
+                "totalPaymentInDollars": 917797.0,
+                "totalPaymentInPercentageNationwide": 0.75,
+                "totalPracticeInstanceNationwide": 0.53
             },
             {
                 "practiceName": "Restoration of Rare or Declining Natural Communities (643)",
                 "totalPracticeInstanceCount": 12,
-                "totalPaymentInDollars": 251237.0,
-                "totalPaymentInPercentageNationwide": 0.16,
-                "totalPracticeInstanceNationwide": 0.05
+                "totalPaymentInDollars": 234686.0,
+                "totalPaymentInPercentageNationwide": 0.19,
+                "totalPracticeInstanceNationwide": 0.07
             },
             {
                 "practiceName": "Wetland Wildlife Habitat Management (644)",
@@ -712,24 +698,24 @@
             },
             {
                 "practiceName": "Upland Wildlife Habitat Management (645)",
-                "totalPracticeInstanceCount": 520,
-                "totalPaymentInDollars": 6078937.0,
-                "totalPaymentInPercentageNationwide": 3.82,
-                "totalPracticeInstanceNationwide": 2.3
+                "totalPracticeInstanceCount": 495,
+                "totalPaymentInDollars": 6044959.0,
+                "totalPaymentInPercentageNationwide": 4.96,
+                "totalPracticeInstanceNationwide": 2.75
             },
             {
                 "practiceName": "Early Successional Habitat Development-Mgt (647)",
-                "totalPracticeInstanceCount": 33,
-                "totalPaymentInDollars": 65074.0,
+                "totalPracticeInstanceCount": 17,
+                "totalPaymentInDollars": 52806.0,
                 "totalPaymentInPercentageNationwide": 0.04,
-                "totalPracticeInstanceNationwide": 0.15
+                "totalPracticeInstanceNationwide": 0.09
             },
             {
                 "practiceName": "Structures for Wildlife (649)",
-                "totalPracticeInstanceCount": 35,
-                "totalPaymentInDollars": 55894.0,
-                "totalPaymentInPercentageNationwide": 0.04,
-                "totalPracticeInstanceNationwide": 0.15
+                "totalPracticeInstanceCount": 14,
+                "totalPaymentInDollars": 33608.0,
+                "totalPaymentInPercentageNationwide": 0.03,
+                "totalPracticeInstanceNationwide": 0.08
             },
             {
                 "practiceName": "Windbreak/Shelterbelt Renovation (650)",
@@ -742,15 +728,15 @@
                 "practiceName": "Road/Trail/Landing Closure and Treatment (654)",
                 "totalPracticeInstanceCount": 11,
                 "totalPaymentInDollars": 83725.0,
-                "totalPaymentInPercentageNationwide": 0.05,
-                "totalPracticeInstanceNationwide": 0.05
+                "totalPaymentInPercentageNationwide": 0.07,
+                "totalPracticeInstanceNationwide": 0.06
             },
             {
                 "practiceName": "Forest Trails and Landings (655)",
                 "totalPracticeInstanceCount": 66,
-                "totalPaymentInDollars": 216090.0,
-                "totalPaymentInPercentageNationwide": 0.14,
-                "totalPracticeInstanceNationwide": 0.29
+                "totalPaymentInDollars": 212869.0,
+                "totalPaymentInPercentageNationwide": 0.17,
+                "totalPracticeInstanceNationwide": 0.37
             },
             {
                 "practiceName": "Wetland Restoration (657)",
@@ -761,31 +747,31 @@
             },
             {
                 "practiceName": "Tree-Shrub Pruning (660)",
-                "totalPracticeInstanceCount": 375,
-                "totalPaymentInDollars": 1014026.0,
-                "totalPaymentInPercentageNationwide": 0.64,
-                "totalPracticeInstanceNationwide": 1.66
+                "totalPracticeInstanceCount": 62,
+                "totalPaymentInDollars": 199901.0,
+                "totalPaymentInPercentageNationwide": 0.16,
+                "totalPracticeInstanceNationwide": 0.34
             },
             {
                 "practiceName": "Forest Stand Improvement (666)",
-                "totalPracticeInstanceCount": 1786,
-                "totalPaymentInDollars": 19971190.0,
-                "totalPaymentInPercentageNationwide": 12.56,
-                "totalPracticeInstanceNationwide": 7.89
+                "totalPracticeInstanceCount": 1224,
+                "totalPaymentInDollars": 13130523.0,
+                "totalPaymentInPercentageNationwide": 10.78,
+                "totalPracticeInstanceNationwide": 6.79
             },
             {
                 "practiceName": "Energy Efficient Lighting System (670)",
-                "totalPracticeInstanceCount": 23,
-                "totalPaymentInDollars": 74396.0,
-                "totalPaymentInPercentageNationwide": 0.05,
-                "totalPracticeInstanceNationwide": 0.1
+                "totalPracticeInstanceCount": 9,
+                "totalPaymentInDollars": 10298.0,
+                "totalPaymentInPercentageNationwide": 0.01,
+                "totalPracticeInstanceNationwide": 0.05
             },
             {
                 "practiceName": "Energy Efficient Building Envelope (672)",
-                "totalPracticeInstanceCount": 131,
-                "totalPaymentInDollars": 3694698.0,
-                "totalPaymentInPercentageNationwide": 2.32,
-                "totalPracticeInstanceNationwide": 0.58
+                "totalPracticeInstanceCount": 120,
+                "totalPaymentInDollars": 2996504.0,
+                "totalPaymentInPercentageNationwide": 2.46,
+                "totalPracticeInstanceNationwide": 0.67
             },
             {
                 "practiceName": "Soil Carbon Amendment (808)",
@@ -797,9 +783,16 @@
             {
                 "practiceName": "Conservation Harvest Management (809)",
                 "totalPracticeInstanceCount": 30,
-                "totalPaymentInDollars": 660509.0,
-                "totalPaymentInPercentageNationwide": 0.42,
-                "totalPracticeInstanceNationwide": 0.13
+                "totalPaymentInDollars": 660507.0,
+                "totalPaymentInPercentageNationwide": 0.54,
+                "totalPracticeInstanceNationwide": 0.17
+            },
+            {
+                "practiceName": "Annual Forages for Grazing Systems (810)",
+                "totalPracticeInstanceCount": 0,
+                "totalPaymentInDollars": 0.0,
+                "totalPaymentInPercentageNationwide": 0.0,
+                "totalPracticeInstanceNationwide": 0.0
             }
         ]
     },

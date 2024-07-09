@@ -78,7 +78,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - EQIP IRA predicted data updated [#108](https://github.com/policy-design-lab/data-import/issues/108)
 - EQIP IRA summary data updated with future prediction data [#111](https://github.com/policy-design-lab/data-import/issues/111)
 - EQIP IRA predicted data updated again [#112](https://github.com/policy-design-lab/data-import/issues/112)
-- Updated calculation for EQIP IRA's total [#114](https://github.com/policy-design-lab/data-import/issues/114)
+- Make EQIP IRA to use only 50 U.S. states [#114](https://github.com/policy-design-lab/data-import/issues/114)
+- Sort EQIP IRA's output json files by practice number [#116](https://github.com/policy-design-lab/data-import/issues/116)
+- EQIP IRA's Budget Authority data updated [#119](https://github.com/policy-design-lab/data-import/issues/119)
 
 ### Fixed
 
