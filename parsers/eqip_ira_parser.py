@@ -821,6 +821,14 @@ class EqipIraParser:
             practice_names_for_each_year[year] = sorted(practice_names_for_each_year[year],
                                                          key=lambda x: int(re.search(r'\((\d+)\)', x).group(1)))
 
+        # this is for aggregating the future year data
+        # if you want year by year data, you can comment out the following code
+        practice_names_for_each_year[str(self.start_year) + "-" + str(self.end_year)] = future_practices
+        # remove all the future year data
+        for i in range(self.start_year, self.end_year + 1):
+            if str(i) in practice_names_for_each_year:
+                del practice_names_for_each_year[str(i)]
+
         # convert practice names to json
         practice_names_for_each_year = json.dumps(practice_names_for_each_year, indent=4)
 

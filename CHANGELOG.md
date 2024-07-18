@@ -81,6 +81,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Make EQIP IRA to use only 50 U.S. states [#114](https://github.com/policy-design-lab/data-import/issues/114)
 - Sort EQIP IRA's output json files by practice number [#116](https://github.com/policy-design-lab/data-import/issues/116)
 - EQIP IRA's Budget Authority data updated [#119](https://github.com/policy-design-lab/data-import/issues/119)
+- EQIP IRA's practice name list has been aggregated after fiscal year [#120](https://github.com/policy-design-lab/data-import/issues/120)
 
 ### Fixed
 
