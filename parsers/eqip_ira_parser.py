@@ -1,11 +1,14 @@
-import pandas as pd
-import numpy as np
 import json
+import os
 import re
 import sys
 
+import numpy as np
+import pandas as pd
+
+
 class EqipIraParser:
-    def __init__(self, fiscal_year, start_year, end_year, total_table_filepath, future_filepath,
+    def __init__(self, fiscal_year, start_year, end_year, data_folder, total_table_filepath, future_filepath,
                  future_min_filepath, future_max_filepath, future_aggregated_filepath):
         self.total_table_filepath = total_table_filepath
         self.future_filepath = future_filepath
@@ -16,6 +19,7 @@ class EqipIraParser:
         self.start_year = start_year
         self.end_year = end_year
         self.unique_practices = []
+        self.data_folder = data_folder
         # this variables if for the future year
         # if this is true, it will only contain the practices that are in the state in the year
         self.practices_in_state = False
@@ -35,7 +39,7 @@ class EqipIraParser:
             'UT': 'Utah', 'VT': 'Vermont', 'VA': 'Virginia', 'WA': 'Washington',
             'WV': 'West Virginia', 'WI': 'Wisconsin', 'WY': 'Wyoming', 'DC': 'District of Columbia',
             'MP': 'Northern Mariana Islands', 'PW': 'Palau', 'PR': 'Puerto Rico',
-            'VI': 'Virgin Islands of the U.S.', 'AA': 'Armed Forces Americas (Except Canada)',
+            'AA': 'Armed Forces Americas (Except Canada)',
             'AE': 'Armed Forces Africa/Canada/Europe/Middle East', 'AP': 'Armed Forces Pacific',
             'VI': 'U.S. Virgin Islands'
         }
@@ -138,21 +142,21 @@ class EqipIraParser:
                 }
 
                 total_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
-                    df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
+                        df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
                 if not total_payment.empty:
                     practice_data['totalPaymentInDollars'] = float(total_payment.values[0])
                     year_data_2023['totalPaymentInDollars'] += practice_data['totalPaymentInDollars']
 
                 practice_instance_count = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
-                    df1['FISCAL YEAR'] == str(self.fiscal_year))]['PRACTICE INSTANCE COUNT']
+                        df1['FISCAL YEAR'] == str(self.fiscal_year))]['PRACTICE INSTANCE COUNT']
                 if not practice_instance_count.empty:
                     practice_data['practiceInstanceCount'] = int(practice_instance_count.values[0])
                     year_data_2023['totalPracticeInstanceCount'] += practice_data['practiceInstanceCount']
 
                 year_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
-                    df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
+                        df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
                 # if not year_payment.empty:
-                    # practice_data['2023PaymentInDollars'] = float(year_payment.values[0])
+                # practice_data['2023PaymentInDollars'] = float(year_payment.values[0])
 
                 year_data_2023["practices"].append(practice_data)
 
@@ -285,27 +289,20 @@ class EqipIraParser:
 
         return json.dumps(output, indent=4)
 
-    def create_state_distribution(self, df1, df2):
+    def create_state_distribution(self, df1):
         states = df1['STATE'].unique()
-        states2 = df2['state'].unique()
 
         # check if the state is 50 us states
-        if len(states) > 50 or len(states2) > 50:
+        if len(states) > 50:
             print("There are more than 50 states in the data, Only 50 states will be processed")
             states = [state for state in states if state in self.us_50_states]
 
         # remove the state that is not in the 50 states
         df1 = df1[df1['STATE'].isin(states)]
-        df2 = df2[df2['state'].isin(states)]
 
         # check the unique states in both df1 and df2
         if len(df1['STATE'].unique()) != 50:
             print("The state for the first table is not 50")
-            print("Exit state distribution function")
-            sys.exit()
-
-        if len(df2['state'].unique()) != 50:
-            print("The state for the second table is not 50")
             print("Exit state distribution function")
             sys.exit()
 
@@ -315,7 +312,7 @@ class EqipIraParser:
         # remove the total row for practice name in df1
         df1 = df1[df1['PRACTICE NAME'].str.lower() != "total"]
 
-        output = {str(year): [] for year in range(self.fiscal_year, self.end_year + 1)}
+        output = {str(year): [] for year in range(self.fiscal_year, self.fiscal_year + 1)}
         for state in states:
             state_abbr = self.replace_state_name_with_abbreviation(state)
             practices = df1[df1['STATE'] == state]['PRACTICE NAME'].unique()
@@ -402,68 +399,63 @@ class EqipIraParser:
 
         ################################
         # create future year data
-        for year in range(self.start_year, self.end_year + 1):
-            for state in states:
-                state_abbr = self.replace_state_name_with_abbreviation(state)
-                # if you only want to contain the practices that are in the state in the year
-                if self.practices_in_state:
-                    practices = df1[df1['STATE'] == state]['PRACTICE NAME'].unique()
-                else:
-                    practices = self.unique_practices
-
-                year_data = {
-                    "state": state_abbr,
-                    "predictedTotalPaymentInDollars": 0,
-                    "predictedTotalPaymentPercentageNationwide": 0,
-                    "practices": []
-                }
-
-                for practice in practices:
-                    if self.practices_in_state:
-                        practice_number = df1[(df1['STATE'] == state) &
-                                              (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
-                    else:
-                        practice_number = re.search(r'\((\d+)\)', practice).group(1)
-                    practice_data = {
-                        "practiceName": practice,
-                        "predictedTotalPaymentInDollars": 0
-                    }
-
-                    if f"p_{practice_number}" in df2.columns:
-                        min_values = df2[(df2['state'] == state) & (df2['year'] == year)][f"p_{practice_number}"]
-                        if not min_values.empty:
-                            practice_data["predictedTotalPaymentInDollars"] = float(min_values.values[0])
-                            year_data["predictedTotalPaymentInDollars"] \
-                                += practice_data["predictedTotalPaymentInDollars"]
-
-                    year_data["practices"].append(practice_data)
-
-                # round each state's total payment to 2 decimal places
-                year_data["predictedTotalPaymentInDollars"] = \
-                    round(year_data["predictedTotalPaymentInDollars"], 2)
-
-                # sort year_data's practices by practice name's practice number
-                year_data["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
-
-                output[str(year)].append(year_data)
-
-            # calculate total payment percentage nationwide for payment for each year
-            total_payment = sum([output[str(year)][i]["predictedTotalPaymentInDollars"]
-                                 for i in range(len(output[str(year)]))])
-            for state_data in output[str(year)]:
-                # avoid division by zero
-                if total_payment != 0:
-                    state_data["predictedTotalPaymentPercentageNationwide"] = \
-                        round((state_data["predictedTotalPaymentInDollars"] / total_payment) * 100, 2)
-                else:
-                    state_data["predictedTotalPaymentPercentageNationwide"] = 0
+        # TODO: Commenting out the future year data in state distribution for now. This code can be removed.
+        # for year in range(self.start_year, self.end_year + 1):
+        #     for state in states:
+        #         state_abbr = self.replace_state_name_with_abbreviation(state)
+        #         # if you only want to contain the practices that are in the state in the year
+        #         if self.practices_in_state:
+        #             practices = df1[df1['STATE'] == state]['PRACTICE NAME'].unique()
+        #         else:
+        #             practices = self.unique_practices
+        #
+        #         year_data = {
+        #             "state": state_abbr,
+        #             "predictedTotalPaymentInDollars": 0,
+        #             "predictedTotalPaymentPercentageNationwide": 0,
+        #             "practices": []
+        #         }
+        #
+        #         for practice in practices:
+        #             if self.practices_in_state:
+        #                 practice_number = df1[(df1['STATE'] == state) &
+        #                                       (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
+        #             else:
+        #                 practice_number = re.search(r'\((\d+)\)', practice).group(1)
+        #             practice_data = {
+        #                 "practiceName": practice,
+        #                 "predictedTotalPaymentInDollars": 0
+        #             }
+        #
+        #             year_data["practices"].append(practice_data)
+        #
+        #         # round each state's total payment to 2 decimal places
+        #         year_data["predictedTotalPaymentInDollars"] = \
+        #             round(year_data["predictedTotalPaymentInDollars"], 2)
+        #
+        #         # sort year_data's practices by practice name's practice number
+        #         year_data["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
+        #
+        #         output[str(year)].append(year_data)
+        #
+        #     # calculate total payment percentage nationwide for payment for each year
+        #     total_payment = sum([output[str(year)][i]["predictedTotalPaymentInDollars"]
+        #                          for i in range(len(output[str(year)]))])
+        #     for state_data in output[str(year)]:
+        #         # avoid division by zero
+        #         if total_payment != 0:
+        #             state_data["predictedTotalPaymentPercentageNationwide"] = \
+        #                 round((state_data["predictedTotalPaymentInDollars"] / total_payment) * 100, 2)
+        #         else:
+        #             state_data["predictedTotalPaymentPercentageNationwide"] = 0
 
         # sort the fiscal year data by the total payment in dollars
         output[str(self.fiscal_year)].sort(key=lambda x: x['totalPaymentInDollars'], reverse=True)
 
         # sort the predicted year by total payment in dollars
-        for year in range(self.start_year, self.end_year + 1):
-            output[str(year)].sort(key=lambda x: x['predictedTotalPaymentInDollars'], reverse=True)
+        # TODO: Commenting out the future year data in state distribution for now. This code can be removed.
+        # for year in range(self.start_year, self.end_year + 1):
+        #     output[str(year)].sort(key=lambda x: x['predictedTotalPaymentInDollars'], reverse=True)
 
         for year in output:
             for state in output[year]:
@@ -604,7 +596,7 @@ class EqipIraParser:
 
         # calculate total instance count and total payment for the entire dataset where the fiscal year is "Total"
         nationwide_total_instance_count = df1[
-            (df1['FISCAL YEAR']== str(self.fiscal_year)) &
+            (df1['FISCAL YEAR'] == str(self.fiscal_year)) &
             (df1['PRACTICE NAME'].str.lower() != "total")
             ]['PRACTICE INSTANCE COUNT'].sum()
 
@@ -635,7 +627,8 @@ class EqipIraParser:
                     data[key] = data[key].item()
 
         # sort the practices by the practice name's number
-        practice_data_2023 = sorted(practice_data_2023, key=lambda x: int(re.search(r'\((\d+)\)', x['practiceName']).group(1)))
+        practice_data_2023 = sorted(practice_data_2023,
+                                    key=lambda x: int(re.search(r'\((\d+)\)', x['practiceName']).group(1)))
 
         summary_2023 = {
             "totalPracticeInstanceCount": int(nationwide_total_instance_count),
@@ -702,7 +695,8 @@ class EqipIraParser:
                             })
 
                 # sort the practices by the practice name's number
-                practice_data = sorted(practice_data, key=lambda x: int(re.search(r'\((\d+)\)', x['practiceName']).group(1)))
+                practice_data = sorted(practice_data,
+                                       key=lambda x: int(re.search(r'\((\d+)\)', x['practiceName']).group(1)))
 
                 summary_data["practices"] = practice_data
 
@@ -757,7 +751,8 @@ class EqipIraParser:
                         })
 
             # sort the practices by the practice name's number
-            practice_data = sorted(practice_data, key=lambda x: int(re.search(r'\((\d+)\)', x['practiceName']).group(1)))
+            practice_data = sorted(practice_data,
+                                   key=lambda x: int(re.search(r'\((\d+)\)', x['practiceName']).group(1)))
 
             summary_data["practices"] = practice_data
 
@@ -819,7 +814,7 @@ class EqipIraParser:
         # sort the practice names for each year by the practice name's number
         for year in practice_names_for_each_year:
             practice_names_for_each_year[year] = sorted(practice_names_for_each_year[year],
-                                                         key=lambda x: int(re.search(r'\((\d+)\)', x).group(1)))
+                                                        key=lambda x: int(re.search(r'\((\d+)\)', x).group(1)))
 
         # this is for aggregating the future year data
         # if you want year by year data, you can comment out the following code
@@ -865,7 +860,7 @@ class EqipIraParser:
         practices_list_for_each_year = self.create_unique_practices(df1, df4)
 
         # save practice names for each year to a json file
-        with open("../title-2-conservation/eqip_ira/eqip_ira_practices.json", "w") as json_file:
+        with open(os.path.join(self.data_folder, "eqip_ira_practices.json"), "w") as json_file:
             json_file.write(practices_list_for_each_year)
 
         df1['practice_number'] = df1['PRACTICE NAME'].apply(self.extract_practice_number)
@@ -879,27 +874,25 @@ class EqipIraParser:
 
         # create summary json
         summary_data = self.create_summary(df1, df4)
-        summary_json_file = "../title-2-conservation/eqip_ira/eqip_ira_summary.json"
-        with open(summary_json_file, "w") as json_file:
+        with open(os.path.join(self.data_folder, "eqip_ira_summary.json"), "w") as json_file:
             json_file.write(summary_data)
 
         # create state distribution json
-        state_distribution_data = self.create_state_distribution(df1, df4)
-        out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_state_distribution.json"
-        with open(out_json_file, "w") as json_file:
+        state_distribution_data = self.create_state_distribution(df1)
+        with open(os.path.join(self.data_folder, "eqip_ira_state_distribution.json"), "w") as json_file:
             json_file.write(state_distribution_data)
 
         # the following code is for creating the state distribution json for min and max values
         # create state distribution json for min and max values
-        state_distribution_data = self.create_state_distribution_min_max(df1, df2, df3)
-        out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_state_distribution_min_max.json"
-        with open(out_json_file, "w") as json_file:
-            json_file.write(state_distribution_data)
+
+        # TODO: Commenting out the below lined as the generated files is not used. This can be removed later.
+        # state_distribution_data = self.create_state_distribution_min_max(df1, df2, df3)
+        # with open(os.path.join(self.data_folder, "eqip_ira_state_distribution_min_max.json"), "w") as json_file:
+        #     json_file.write(state_distribution_data)
 
         # create aggregated prediction json
         aggregated_prediction_data = self.create_aggregated_prediction(df1, df5)
-        out_json_file = "../title-2-conservation/eqip_ira/eqip_ira_aggregated_prediction.json"
-        with open(out_json_file, "w") as json_file:
+        with open(os.path.join(self.data_folder, "eqip_ira_aggregated_prediction.json"), "w") as json_file:
             json_file.write(aggregated_prediction_data)
 
     def remap_state_name_to_abbreviation(self, input_dict):
@@ -928,6 +921,7 @@ if __name__ == '__main__':
     future_aggregated_filepath = \
         "../title-2-conservation/eqip_ira/20240702_BA_EQIP_IRA_base2023_value.xlsx"
     eqip_data_parser = EqipIraParser(
-        fiscal_year, start_year, end_year, total_table_filepath, future_filepath, future_min_filepath,
+        fiscal_year, start_year, end_year, "../title-2-conservation/eqip_ira/", total_table_filepath, future_filepath,
+        future_min_filepath,
         future_max_filepath, future_aggregated_filepath)
     eqip_data_parser.parse_and_process()
