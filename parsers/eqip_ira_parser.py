@@ -293,6 +293,7 @@ class EqipIraParser:
         states = df1['STATE'].unique()
 
         # check if the state is 50 us states
+        # TODO: Check if it's better to use only 50 states data all the time, regardless of the number of states in the data
         if len(states) > 50:
             print("There are more than 50 states in the data, Only 50 states will be processed")
             states = [state for state in states if state in self.us_50_states]
