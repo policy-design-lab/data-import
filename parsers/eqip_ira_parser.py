@@ -874,7 +874,7 @@ class EqipIraParser:
                                                  replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
 
         # create summary json
-        summary_data = self.create_summary(df1, df4)
+        summary_data = self.create_summary(df1, df5)
         with open(os.path.join(self.data_folder, "eqip_ira_summary.json"), "w") as json_file:
             json_file.write(summary_data)
 
