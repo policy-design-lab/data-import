@@ -2,9 +2,9 @@ import os
 
 from data_parser import DataParser
 from parsers.acep_parser import AcepParser
-from parsers.rcpp_parser import RcppParser
 from parsers.dairy_disaster_parser import DairyDisasterParser
 from parsers.eqip_ira_parser import EqipIraParser
+from parsers.rcpp_parser import RcppParser
 
 if __name__ == '__main__':
     commodities_data_parser = DataParser(2014, 2021, "Title 1: Commodities",
@@ -48,7 +48,10 @@ if __name__ == '__main__':
     dairy_disaster_parser.parse_and_process()
 
     eqip_ira_parser = EqipIraParser("2023", 2024, 2031,
-                                    "title-2-conservation/eqip_ira/20240215_EQIP_IRA.csv"
+                                    "title-2-conservation/eqip_ira",
+                                    "title-2-conservation/eqip_ira/Practice FIPS Download_modified.csv",
+                                    "title-2-conservation/eqip_ira/2024_2031_EQIP_IRA_base2023_value.xls",
                                     "title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MIN-clean.xls",
-                                    "title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MAX-clean.xls")
+                                    "title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MAX-clean.xls",
+                                    "title-2-conservation/eqip_ira/20240702_BA_EQIP_IRA_base2023_value.xlsx")
     eqip_ira_parser.parse_and_process()
