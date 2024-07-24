@@ -797,323 +797,311 @@
         ]
     },
     "2024-2031": {
-        "predictedTotalPaymentInDollars": 7689000000.0,
+        "predictedTotalPaymentInDollars": 8200000000.0,
         "practices": [
             {
                 "practiceName": "Agricultural Energy Design (120)",
-                "predictedTotalPaymentInDollars": 1309100.85
+                "predictedTotalPaymentInDollars": 1707803.2
             },
             {
                 "practiceName": "Pest Management Conservation System Design (161)",
-                "predictedTotalPaymentInDollars": 1475189.28
+                "predictedTotalPaymentInDollars": 1924551.7
             },
             {
                 "practiceName": "Soil Health Testing (216)",
-                "predictedTotalPaymentInDollars": 1037291.64
+                "predictedTotalPaymentInDollars": 1353197.26
             },
             {
                 "practiceName": "Soil and Source Testing for Nutrient Management (217)",
-                "predictedTotalPaymentInDollars": 1311629.07
-            },
-            {
-                "practiceName": "Aquifer Flow Test (224)",
-                "predictedTotalPaymentInDollars": 439806.7
-            },
-            {
-                "practiceName": "Agricultural Energy Assessment (228)",
-                "predictedTotalPaymentInDollars": 742057.72
+                "predictedTotalPaymentInDollars": 1711168.86
             },
             {
                 "practiceName": "Waste Storage Facility (313)",
-                "predictedTotalPaymentInDollars": 42826306.76
+                "predictedTotalPaymentInDollars": 55871773.54
             },
             {
                 "practiceName": "Brush Management (314)",
-                "predictedTotalPaymentInDollars": 330013686.3
+                "predictedTotalPaymentInDollars": 399601379.44
             },
             {
                 "practiceName": "Herbaceous Weed Treatment (315)",
-                "predictedTotalPaymentInDollars": 51159518.99
+                "predictedTotalPaymentInDollars": 45695969.77
+            },
+            {
+                "practiceName": "Deep Tillage (324)",
+                "predictedTotalPaymentInDollars": 1121841.79
             },
             {
                 "practiceName": "High Tunnel System (325)",
-                "predictedTotalPaymentInDollars": 7783453.86
+                "predictedTotalPaymentInDollars": 9565340.36
             },
             {
                 "practiceName": "Conservation Cover (327)",
-                "predictedTotalPaymentInDollars": 25098082.41
+                "predictedTotalPaymentInDollars": 30437615.51
             },
             {
                 "practiceName": "Conservation Crop Rotation (328)",
-                "predictedTotalPaymentInDollars": 99656515.07
+                "predictedTotalPaymentInDollars": 88747203.91
             },
             {
                 "practiceName": "Residue and Tillage Management, No Till (329)",
-                "predictedTotalPaymentInDollars": 222087989.98
+                "predictedTotalPaymentInDollars": 254746267.28
             },
             {
                 "practiceName": "Prescribed Burning (338)",
-                "predictedTotalPaymentInDollars": 5303323.8
+                "predictedTotalPaymentInDollars": 4361087.61
             },
             {
                 "practiceName": "Cover Crop (340)",
-                "predictedTotalPaymentInDollars": 1877731915.67
+                "predictedTotalPaymentInDollars": 2109719884.08
             },
             {
                 "practiceName": "Critical Area Planting (342)",
-                "predictedTotalPaymentInDollars": 4938847.66
+                "predictedTotalPaymentInDollars": 6359751.15
             },
             {
                 "practiceName": "Residue and Tillage Management, Reduced Till (345)",
-                "predictedTotalPaymentInDollars": 168192474.97
-            },
-            {
-                "practiceName": "Groundwater Testing (355)",
-                "predictedTotalPaymentInDollars": 19245.41
+                "predictedTotalPaymentInDollars": 203477168.43
             },
             {
                 "practiceName": "Diversion (362)",
-                "predictedTotalPaymentInDollars": 396414.23
+                "predictedTotalPaymentInDollars": 483510.72
             },
             {
                 "practiceName": "Roofs and Covers (367)",
-                "predictedTotalPaymentInDollars": 11339108.4
-            },
-            {
-                "practiceName": "Combustion System Improvement (372)",
-                "predictedTotalPaymentInDollars": 63676364.12
+                "predictedTotalPaymentInDollars": 14793085.42
             },
             {
                 "practiceName": "Energy Efficient Agricultural Operation (374)",
-                "predictedTotalPaymentInDollars": 135313931.28
+                "predictedTotalPaymentInDollars": 72347756.28
             },
             {
                 "practiceName": "Windbreak/Shelterbelt Establishment and Renovation (380)",
-                "predictedTotalPaymentInDollars": 20118628.47
+                "predictedTotalPaymentInDollars": 24269774.3
             },
             {
                 "practiceName": "Fence (382)",
-                "predictedTotalPaymentInDollars": 373203695.25
+                "predictedTotalPaymentInDollars": 418944837.19
             },
             {
                 "practiceName": "Woody Residue Treatment (384)",
-                "predictedTotalPaymentInDollars": 107986373.55
+                "predictedTotalPaymentInDollars": 135361796.92
             },
             {
                 "practiceName": "Field Border (386)",
-                "predictedTotalPaymentInDollars": 293170.07
+                "predictedTotalPaymentInDollars": 382473.6
             },
             {
                 "practiceName": "Riparian Herbaceous Cover (390)",
-                "predictedTotalPaymentInDollars": 37665.29
+                "predictedTotalPaymentInDollars": 49071.32
             },
             {
                 "practiceName": "Riparian Forest Buffer (391)",
-                "predictedTotalPaymentInDollars": 2424715.65
+                "predictedTotalPaymentInDollars": 2714270.17
             },
             {
                 "practiceName": "Filter Strip (393)",
-                "predictedTotalPaymentInDollars": 35601.43
+                "predictedTotalPaymentInDollars": 46446.11
             },
             {
                 "practiceName": "Firebreak (394)",
-                "predictedTotalPaymentInDollars": 15011060.97
+                "predictedTotalPaymentInDollars": 17013478.64
+            },
+            {
+                "practiceName": "Aquatic Organism Passage (396)",
+                "predictedTotalPaymentInDollars": 8993716.67
             },
             {
                 "practiceName": "Grade Stabilization Structure (410)",
-                "predictedTotalPaymentInDollars": 2429152.93
+                "predictedTotalPaymentInDollars": 3169105.46
             },
             {
                 "practiceName": "Grassed Waterway (412)",
-                "predictedTotalPaymentInDollars": 24104544.41
+                "predictedTotalPaymentInDollars": 26851033.58
             },
             {
                 "practiceName": "Wildlife Habitat Planting (420)",
-                "predictedTotalPaymentInDollars": 36776849.14
+                "predictedTotalPaymentInDollars": 32246455.82
             },
             {
                 "practiceName": "Hedgerow Planting (422)",
-                "predictedTotalPaymentInDollars": 1036569.3
+                "predictedTotalPaymentInDollars": 1352322.19
             },
             {
                 "practiceName": "Irrigation Pipeline (430)",
-                "predictedTotalPaymentInDollars": 30822896.23
-            },
-            {
-                "practiceName": "Irrigation System, Microirrigation (441)",
-                "predictedTotalPaymentInDollars": 6165084.89
+                "predictedTotalPaymentInDollars": 20520967.56
             },
             {
                 "practiceName": "Sprinkler System (442)",
-                "predictedTotalPaymentInDollars": 105803902.44
+                "predictedTotalPaymentInDollars": 38387708.32
             },
             {
                 "practiceName": "Irrigation Water Management (449)",
-                "predictedTotalPaymentInDollars": 329906.62
+                "predictedTotalPaymentInDollars": 219777.6
             },
             {
                 "practiceName": "Irrigation Land Leveling (464)",
-                "predictedTotalPaymentInDollars": 3195409.31
+                "predictedTotalPaymentInDollars": 3980969.97
             },
             {
                 "practiceName": "Lined Waterway or Outlet (468)",
-                "predictedTotalPaymentInDollars": 11703997.31
+                "predictedTotalPaymentInDollars": 14186526.17
             },
             {
                 "practiceName": "Access Control (472)",
-                "predictedTotalPaymentInDollars": 1823515.78
+                "predictedTotalPaymentInDollars": 2361279.75
             },
             {
                 "practiceName": "Mulching (484)",
-                "predictedTotalPaymentInDollars": 68053999.03
+                "predictedTotalPaymentInDollars": 81954225.0
             },
             {
                 "practiceName": "Tree/Shrub Site Preparation (490)",
-                "predictedTotalPaymentInDollars": 128521177.63
+                "predictedTotalPaymentInDollars": 103864402.39
             },
             {
                 "practiceName": "Forage Harvest Management (511)",
-                "predictedTotalPaymentInDollars": 131622.11
+                "predictedTotalPaymentInDollars": 171715.97
             },
             {
                 "practiceName": "Pasture and Hay Planting (512)",
-                "predictedTotalPaymentInDollars": 291032695.62
+                "predictedTotalPaymentInDollars": 332686606.17
             },
             {
                 "practiceName": "Livestock Pipeline (516)",
-                "predictedTotalPaymentInDollars": 155567638.82
+                "predictedTotalPaymentInDollars": 174140460.3
             },
             {
                 "practiceName": "Prescribed Grazing (528)",
-                "predictedTotalPaymentInDollars": 410292650.29
+                "predictedTotalPaymentInDollars": 517893558.51
             },
             {
                 "practiceName": "Pumping Plant (533)",
-                "predictedTotalPaymentInDollars": 65102485.34
+                "predictedTotalPaymentInDollars": 73492888.44
             },
             {
                 "practiceName": "Range Planting (550)",
-                "predictedTotalPaymentInDollars": 43514652.75
+                "predictedTotalPaymentInDollars": 53444392.23
             },
             {
                 "practiceName": "Roof Runoff Structure (558)",
-                "predictedTotalPaymentInDollars": 821825.57
+                "predictedTotalPaymentInDollars": 1072164.65
             },
             {
                 "practiceName": "Access Road (560)",
-                "predictedTotalPaymentInDollars": 20085400.47
+                "predictedTotalPaymentInDollars": 25973538.7
             },
             {
                 "practiceName": "Heavy Use Area Protection (561)",
-                "predictedTotalPaymentInDollars": 120513228.35
+                "predictedTotalPaymentInDollars": 141037376.7
             },
             {
                 "practiceName": "Spoil Disposal (572)",
-                "predictedTotalPaymentInDollars": 417517.11
+                "predictedTotalPaymentInDollars": 544698.42
             },
             {
                 "practiceName": "Spring Development (574)",
-                "predictedTotalPaymentInDollars": 1904160.77
+                "predictedTotalPaymentInDollars": 1316982.76
             },
             {
                 "practiceName": "Trails and Walkways (575)",
-                "predictedTotalPaymentInDollars": 7958520.04
+                "predictedTotalPaymentInDollars": 10382791.86
             },
             {
                 "practiceName": "Livestock Shelter Structure (576)",
-                "predictedTotalPaymentInDollars": 9900552.48
+                "predictedTotalPaymentInDollars": 12916393.4
             },
             {
                 "practiceName": "Stream Crossing (578)",
-                "predictedTotalPaymentInDollars": 6604427.23
+                "predictedTotalPaymentInDollars": 7573946.65
             },
             {
-                "practiceName": "Channel Bed Stabilization (584)",
-                "predictedTotalPaymentInDollars": 18622697.48
+                "practiceName": "Streambank and Shoreline Protection (580)",
+                "predictedTotalPaymentInDollars": 5853959.76
             },
             {
                 "practiceName": "Structure for Water Control (587)",
-                "predictedTotalPaymentInDollars": 11975187.36
+                "predictedTotalPaymentInDollars": 6484549.82
             },
             {
                 "practiceName": "Nutrient Management (590)",
-                "predictedTotalPaymentInDollars": 572786522.35
+                "predictedTotalPaymentInDollars": 499121859.08
             },
             {
                 "practiceName": "Pest Management Conservation System (595)",
-                "predictedTotalPaymentInDollars": 9581739.06
+                "predictedTotalPaymentInDollars": 12500465.14
             },
             {
                 "practiceName": "Subsurface Drain (606)",
-                "predictedTotalPaymentInDollars": 8948394.7
+                "predictedTotalPaymentInDollars": 11571408.35
             },
             {
                 "practiceName": "Salinity and Sodic Soil Management (610)",
-                "predictedTotalPaymentInDollars": 176046.51
+                "predictedTotalPaymentInDollars": 229672.64
             },
             {
                 "practiceName": "Tree/Shrub Establishment (612)",
-                "predictedTotalPaymentInDollars": 301982871.25
+                "predictedTotalPaymentInDollars": 277307834.5
             },
             {
                 "practiceName": "Watering Facility (614)",
-                "predictedTotalPaymentInDollars": 113534573.3
+                "predictedTotalPaymentInDollars": 119512971.27
             },
             {
                 "practiceName": "Underground Outlet (620)",
-                "predictedTotalPaymentInDollars": 8892619.12
+                "predictedTotalPaymentInDollars": 10217672.58
             },
             {
                 "practiceName": "Waste Transfer (634)",
-                "predictedTotalPaymentInDollars": 7066420.33
+                "predictedTotalPaymentInDollars": 9218946.63
             },
             {
                 "practiceName": "Water Well (642)",
-                "predictedTotalPaymentInDollars": 64014732.53
+                "predictedTotalPaymentInDollars": 61779853.11
             },
             {
                 "practiceName": "Restoration of Rare or Declining Natural Communities (643)",
-                "predictedTotalPaymentInDollars": 12962894.98
+                "predictedTotalPaymentInDollars": 15797465.68
             },
             {
                 "practiceName": "Upland Wildlife Habitat Management (645)",
-                "predictedTotalPaymentInDollars": 313293704.89
+                "predictedTotalPaymentInDollars": 406905534.78
             },
             {
                 "practiceName": "Early Successional Habitat Development-Mgt (647)",
-                "predictedTotalPaymentInDollars": 3357576.42
+                "predictedTotalPaymentInDollars": 3554540.84
             },
             {
                 "practiceName": "Structures for Wildlife (649)",
-                "predictedTotalPaymentInDollars": 2782690.65
+                "predictedTotalPaymentInDollars": 2262262.03
             },
             {
                 "practiceName": "Road/Trail/Landing Closure and Treatment (654)",
-                "predictedTotalPaymentInDollars": 4319898.67
+                "predictedTotalPaymentInDollars": 5635797.68
             },
             {
                 "practiceName": "Forest Trails and Landings (655)",
-                "predictedTotalPaymentInDollars": 11149440.47
+                "predictedTotalPaymentInDollars": 14328893.59
             },
             {
                 "practiceName": "Tree-Shrub Pruning (660)",
-                "predictedTotalPaymentInDollars": 31616447.04
+                "predictedTotalPaymentInDollars": 13455976.01
             },
             {
                 "practiceName": "Forest Stand Improvement (666)",
-                "predictedTotalPaymentInDollars": 837806952.64
+                "predictedTotalPaymentInDollars": 883857522.16
             },
             {
                 "practiceName": "Energy Efficient Lighting System (670)",
-                "predictedTotalPaymentInDollars": 3838556.96
+                "predictedTotalPaymentInDollars": 693191.33
             },
             {
                 "practiceName": "Energy Efficient Building Envelope (672)",
-                "predictedTotalPaymentInDollars": 190632678.13
+                "predictedTotalPaymentInDollars": 201704273.36
             },
             {
                 "practiceName": "Conservation Harvest Management (809)",
-                "predictedTotalPaymentInDollars": 34079808.31
+                "predictedTotalPaymentInDollars": 44460839.86
             }
         ]
     }
