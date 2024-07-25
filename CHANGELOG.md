@@ -27,6 +27,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PaymentInPercentageNationwide to commodity programs. [#80](https://github.com/policy-design-lab/data-import/issues/80)
 - Code, CSV, and JSON files for updating all programs and summary
   data. [#95](https://github.com/policy-design-lab/data-import/issues/95)
+- EQIP IRA data import program and generate JSON
+  files. [#97](https://github.com/policy-design-lab/data-import/issues/97)
+- Percentage nationwide values to EQIP IRA json
+  files [#101](https://github.com/policy-design-lab/data-import/issues/101)
+- Generate future values for EQIP IRA with regular data without min/max
+  values [#103](https://github.com/policy-design-lab/data-import/issues/103)
+- Generate list of practice names for each year for EQIP IRA
+  data [#105](https://github.com/policy-design-lab/data-import/issues/105)
+- Aggregated predicted data for EQIP IRA [#109](https://github.com/policy-design-lab/data-import/issues/109)
 
 ### Changed
 
@@ -70,6 +79,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Renaming items for title II [#85](https://github.com/policy-design-lab/data-import/issues/85)
 - Renaming Pastured cropland to Grassland in CSP json
   files [#92](https://github.com/policy-design-lab/data-import/issues/92)
+- Remap Virgin Islands to abbreviation VI in EQIP IRA output json
+  files [#106](https://github.com/policy-design-lab/data-import/issues/106)
+- EQIP IRA predicted data updated [#108](https://github.com/policy-design-lab/data-import/issues/108)
+- EQIP IRA summary data updated with future prediction
+  data [#111](https://github.com/policy-design-lab/data-import/issues/111)
+- EQIP IRA predicted data updated again [#112](https://github.com/policy-design-lab/data-import/issues/112)
+- Make EQIP IRA to use only 50 U.S. states [#114](https://github.com/policy-design-lab/data-import/issues/114)
+- Sort EQIP IRA's output json files by practice
+  number [#116](https://github.com/policy-design-lab/data-import/issues/116)
+- EQIP IRA's Budget Authority data updated [#119](https://github.com/policy-design-lab/data-import/issues/119)
+- EQIP IRA's practice name list has been aggregated after fiscal
+  year [#120](https://github.com/policy-design-lab/data-import/issues/120)
+- EQIP IRA summary and state distribution data based on latest budget authority predicted
+  data [#123](https://github.com/policy-design-lab/data-import/issues/123)
 
 ### Fixed
 
@@ -81,3 +104,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added missing fields in EQIP json files [#89](https://github.com/policy-design-lab/data-import/issues/89)
 - Added missing fields in CSP json files [#90](https://github.com/policy-design-lab/data-import/issues/90)
 - Excel formula error in consolidated_data.xlsx [#96](https://github.com/policy-design-lab/data-import/issues/96)
+- Wrong entry in EQIP IRA state distribution json
+  files [#107](https://github.com/policy-design-lab/data-import/issues/107)
