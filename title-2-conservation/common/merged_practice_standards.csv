@@ -1,0 +1,284 @@
+practice_code,practice_name,source
+000,Grazing Bundle 2 - Range and Pasture,CSP
+1,Forest Bundle,CSP
+1 - Irrigated Cropland,MRBI Bundle,CSP
+1 - Organic,Pasture Bundle,CSP
+"1 - Precision Ag, No till",Crop Bundle,CSP
+101,CNMP Design and Implementation Activity,EQIP
+102,Comprehensive Nutrient Management Plan,EQIP
+104,Nutrient Management Plan - Written,EQIP
+106,Forest Management Plan,EQIP
+110,Grazing Management Plan,EQIP
+112,Prescribed Burning Plan - Written,EQIP
+114,Integrated Pest Management Plan - Written,EQIP
+116,Soil Health Management Plan,EQIP
+118,Irrigation Water Management Plan - Written,EQIP
+120,Agricultural Energy Design,EQIP
+122,"Agricultural Energy Management Plan, Headquarters - Written",EQIP
+124,"Agricultural  Energy Management Plan, Landscape - Written",EQIP
+128,Agricultural Energy Management Plan - Written,EQIP
+130,Drainage Water Management Plan - Written,EQIP
+132,Soil Resources Planning - Written,EQIP
+136,Agricultural Energy Design Plan - Written,EQIP
+138,Conservation Plan Supporting Organic Transition,EQIP
+140,Transition to Organic Design,EQIP
+142,Fish and Wildlife Habitat Plan - Written,EQIP
+144,Fish and Wildlife Habitat Design,EQIP
+146,Pollinator Habitat Plan - Written,EQIP
+148,Pollinator Habitat Design,EQIP
+154,IPM Herbicide Resistance Weed Conservation Plan - Written,EQIP
+157,Nutrient Management Design and Implementation Activity,EQIP
+159,Grazing Management Design,EQIP
+160,Prescribed Burning  Design,EQIP
+161,Pest Management Conservation System Design,EQIP
+162,Soil Health Management System Design,EQIP
+163,Irrigation Water Management Design,EQIP
+164,Improved Management of Drainage Water Design,EQIP
+165,Forest Management Practice Design,EQIP
+18 - Precision Ag,Crop Bundle,CSP
+19 - Soil Health Precision Ag,Crop Bundle,CSP
+199,Conservation Plan,EQIP
+2,Range Bundle,CSP
+2 - Non-Irrigated Cropland,MRBI Bundle,CSP
+2 - Post-fire Management,Forest Bundle,CSP
+"2 - Precision Ag, Reduced till",Crop Bundle,CSP
+20 - Soil Health Assessment,Crop Bundle,CSP
+201,Edge-of-Field Water Quality Monitoring-Data Collection and Evaluation,EQIP
+202,Edge-of-Field Water Quality Monitoring-System Installation,EQIP
+207,Site Assessment and Soil Testing for Contaminants Activity,EQIP
+216,Soil Health Testing,EQIP
+217,Soil and Source Testing for Nutrient Management,EQIP
+222,Indigenous Stewardship Methods Evaluation,EQIP
+223,Forest Management Assessment,EQIP
+224,Aquifer Flow Test,EQIP
+228,Agricultural Energy Assessment,EQIP
+23 - Pheasant and quail habitat,Crop Bundle,CSP
+24 - Cropland Soil Health Management System,Crop Bundle,CSP
+297,Feral Swine Damage Assessment,EQIP
+3,Longleaf Pine Bundle,CSP
+3 - Non-Irrigated Cropland,MRBI Bundle,CSP
+"3 - Soil health rotation, No till",Crop Bundle,CSP
+3 -- Soil Health,Pasture Bundle,CSP
+300,Existing Activity Payment-Land Use,CSP
+309,Agrichemical Handling Facility,EQIP
+311,Alley Cropping,EQIP
+313,Waste Storage Facility,EQIP
+314,Brush Management,EQIP
+315,Herbaceous Weed Treatment,EQIP
+316,Animal Mortality Facility,EQIP
+317,Composting Facility,EQIP
+318,Short Term Storage of Animal Waste and Byproducts,NRCS
+319,On-Farm Secondary Containment Facility,EQIP
+320,Irrigation Canal or Lateral,EQIP
+324,Deep Tillage,EQIP
+325,High Tunnel System,EQIP
+326,Clearing and Snagging,EQIP
+327,Conservation Cover,EQIP
+328,Conservation Crop Rotation,EQIP
+329,"Residue and Tillage Management, No Till",EQIP
+330,Contour Farming,EQIP
+331,Contour Orchard and Other Perennial Crops,EQIP
+332,Contour Buffer Strips,EQIP
+333,Amending Soil Properties with Gypsum Products,EQIP
+334,Controlled Traffic Farming,EQIP
+336,Soil Carbon Amendment,NRCS
+338,Prescribed Burning,EQIP
+340,Cover Crop,EQIP
+342,Critical Area Planting,EQIP
+344,"Residue Management, Seasonal",EQIP
+345,"Residue and Tillage Management, Reduced Till",EQIP
+346,"Residue and Tillage Management, Ridge Till",EQIP
+348,"Dam, Diversion",EQIP
+350,Sediment Basin,EQIP
+351,Well Decommissioning,EQIP
+353,Monitoring Well,NRCS
+355,Groundwater Testing,EQIP
+356,Dike and Levee,EQIP
+359,Waste Treatment Lagoon,EQIP
+360,Waste Facility Closure,EQIP
+362,Diversion,EQIP
+366,Anaerobic Digester,EQIP
+367,Roofs and Covers,EQIP
+368,Emergency Animal Mortality Management,EQIP
+371,Air Filtration and Scrubbing,NRCS
+372,Combustion System Improvement,EQIP
+373,Dust Control on Unpaved Roads and Surfaces,EQIP
+374,Energy Efficient Agricultural Operation,EQIP
+375,Dust Management for Pen Surfaces,EQIP
+376,Field Operations Emissions Reduction,EQIP
+378,Pond,EQIP
+379,Forest Farming,EQIP
+380,Windbreak/Shelterbelt Establishment and Renovation,EQIP
+381,Silvopasture,EQIP
+382,Fence,EQIP
+383,Fuel Break,EQIP
+384,Woody Residue Treatment,EQIP
+386,Field Border,EQIP
+388,Irrigation Field Ditch,EQIP
+390,Riparian Herbaceous Cover,EQIP
+391,Riparian Forest Buffer,EQIP
+393,Filter Strip,EQIP
+394,Firebreak,EQIP
+395,Stream Habitat Improvement and Management,EQIP
+396,Aquatic Organism Passage,EQIP
+397,Aquaculture Pond,EQIP
+398,Fish Raceway or Tank,EQIP
+399,Fishpond Management,EQIP
+4,Longleaf Pine Bundle,CSP
+"4 - Cropland with Water Bodies, No till",MRBI Bundle,CSP
+"4 - Soil health rotation, Reduced till",Crop Bundle,CSP
+400,Bivalve Aquaculture Gear and Biofouling Control,EQIP
+402,Dam,EQIP
+410,Grade Stabilization Structure,EQIP
+412,Grassed Waterway,EQIP
+420,Wildlife Habitat Planting,EQIP
+422,Hedgerow Planting,EQIP
+423,Hillside Ditch,EQIP
+428,Irrigation Ditch Lining,EQIP
+430,Irrigation Pipeline,EQIP
+432,Dry Hydrant,EQIP
+436,Irrigation Reservoir,EQIP
+441,"Irrigation System, Microirrigation",EQIP
+442,Sprinkler System,EQIP
+443,"Irrigation System, Surface and Subsurface",EQIP
+447,Irrigation and Drainage Tailwater Recovery,EQIP
+449,Irrigation Water Management,EQIP
+450,Anionic Polyacrylamide (PAM) Application,EQIP
+453,"Land Reclamation, Landslide Treatment",NRCS
+457,Mine Shaft and Adit Closing,EQIP
+460,Land Clearing,EQIP
+462,Precision Land Forming and Smoothing,EQIP
+464,Irrigation Land Leveling,EQIP
+466,Land Smoothing,EQIP
+468,Lined Waterway or Outlet,EQIP
+472,Access Control,EQIP
+484,Mulching,EQIP
+490,Tree/Shrub Site Preparation,EQIP
+"5 - Soil Health Assessment, No till",Crop Bundle,CSP
+500,Obstruction Removal,EQIP
+511,Forage Harvest Management,EQIP
+512,Pasture and Hay Planting,EQIP
+516,Livestock Pipeline,EQIP
+520,"Pond Sealing or Lining, Compacted Soil Treatment",EQIP
+521,"Pond Sealing or Lining, Soil Dispersant",EQIP
+522,Pond Sealing or Lining - Concrete,EQIP
+527,Sinkhole Treatment,EQIP
+528,Prescribed Grazing,EQIP
+533,Pumping Plant,EQIP
+543,"Land Reclamation, Abandoned Mined Land",NRCS
+548,Grazing Land Mechanical Treatment,EQIP
+550,Range Planting,EQIP
+554,Drainage Water Management,EQIP
+555,Rock Wall Terrace,EQIP
+557,Row Arrangement,EQIP
+558,Roof Runoff Structure,EQIP
+560,Access Road,EQIP
+561,Heavy Use Area Protection,EQIP
+566,Recreation Land Improvement and Protection,NRCS
+568,Trails and Walkways,EQIP
+570,Stormwater Runoff Control,EQIP
+572,Spoil Disposal,EQIP
+574,Spring Development,EQIP
+575,Trails and Walkways,EQIP
+576,Livestock Shelter Structure,EQIP
+578,Stream Crossing,EQIP
+580,Streambank and Shoreline Protection,EQIP
+582,Open Channel,EQIP
+584,Channel Bed Stabilization,EQIP
+585,Stripcropping,EQIP
+587,Structure for Water Control,EQIP
+588,Cross Wind Ridges,NRCS
+589c,Cross Wind Trap Strips,NRCS
+590,Nutrient Management,EQIP
+591,Amendments for Treatment of Agricultural Waste,EQIP
+592,Feed Management,EQIP
+595,Pest Management Conservation System,EQIP
+6 - Pasture,Pasture Bundle,CSP
+6 - Pastureland,MRBI Bundle,CSP
+"6 - Soil Health Assessment, Reduced till",Crop Bundle,CSP
+600,Terrace,EQIP
+601,Vegetative Barrier,EQIP
+603,Herbaceous Wind Barriers,EQIP
+604,Saturated Buffer,EQIP
+605,Denitrifying Bioreactor,EQIP
+606,Subsurface Drain,EQIP
+607,"Surface Drain, Field Ditch",EQIP
+608,"Surface Drain, Main or Lateral",EQIP
+609,Surface Roughening,NRCS
+610,Salinity and Sodic Soil Management,EQIP
+612,Tree/Shrub Establishment,EQIP
+614,Watering Facility,EQIP
+620,Underground Outlet,EQIP
+627,"Wastewater Treatment, Milk House",NRCS
+629,Waste Treatment,EQIP
+630,Vertical Drain,EQIP
+632,Waste Separation Facility,EQIP
+633,Waste Recycling,EQIP
+634,Waste Transfer,EQIP
+635,Vegetated Treatment Area,EQIP
+636,Water Harvesting Catchment,EQIP
+638,Water and Sediment Control Basin,EQIP
+640,Waterspreading,NRCS
+642,Water Well,EQIP
+643,Restoration of Rare or Declining Natural Communities,EQIP
+644,Wetland Wildlife Habitat Management,EQIP
+645,Upland Wildlife Habitat Management,EQIP
+646,Shallow Water Development and Management,EQIP
+647,Early Successional Habitat Development-Mgt,EQIP
+649,Structures for Wildlife,EQIP
+650,Windbreak/Shelterbelt Renovation,EQIP
+654,Road/Trail/Landing Closure and Treatment,EQIP
+655,Forest Trails and Landings,EQIP
+656,Constructed Wetland,EQIP
+657,Wetland Restoration,EQIP
+658,Wetland Creation,EQIP
+659,Wetland Enhancement,EQIP
+660,Tree-Shrub Pruning,EQIP
+666,Forest Stand Improvement,EQIP
+670,Energy Efficient Lighting System,EQIP
+672,Energy Efficient Building Envelope,EQIP
+7 - Soil Health -Organic,Crop Bundle,CSP
+710,Agricultural Secondary Containment Facility,EQIP
+713,"Fueling Facility, Above Ground Storage",EQIP
+717,Livestock Shade Structure,EQIP
+720,Control Traffic Farming,EQIP
+724,Water Treatment Facility,EQIP
+734,Fish and Wildlife Structure,EQIP
+737,Reduced Water and Energy Coffee Conveyance System,EQIP
+739,Hillside Bench,EQIP
+740,"Pond Sealing and Lining, Soil Cement",EQIP
+747,Denitrifying Bioreactor,EQIP
+751,Individual Terrace,EQIP
+753,Infiltration Ditch,EQIP
+755,Well Plugging,EQIP
+756,Field Operations Emissions Reduction,EQIP
+770,Livestock Confinement,EQIP
+775,Drainage Ditch Cover,EQIP
+782,Phosphorus Removal System,EQIP
+798,Seasonal High Tunnel System for Crops,EQIP
+801,AMENDING SOIL PROPERTIES WITH GYPSIFEROUS PRODUCTS,EQIP
+803,Water Well Disinfection,EQIP
+805,Amending Soil Properties with Lime,EQIP
+808,Soil Carbon Amendment,EQIP
+809,Conservation Harvest Management,EQIP
+810,Annual Forages for Grazing Systems,EQIP
+812,Raised Beds,EQIP
+815,Groundwater Recharge Basin or Trench,EQIP
+817,On-Farm Recharge,EQIP
+818,Water Conservation System,EQIP
+821,Low Tunnel Systems,EQIP
+823,Organic Management,EQIP
+AGLAND,Associated Ag Land,CSP
+CROP,Cropland Annual Payment,CSP
+ERP,Equitable Relief Payment,CSP
+EUP,Erroneous Underpayment,CSP
+FARM,Farmstead,CSP
+MINPAY,Minimum Payment Adjustment,EQIP
+NIPF,Non-Industrial Private Forest Land Annual Payment,CSP
+OTP,Other Payment,CSP
+Organic,Crop Bundle  (21 - Crop Bundle,CSP
+PAST,Pasture Annual Payment,CSP
+PCROP,Pastured Cropland Annual Payment,CSP
+RANGE,Rangeland Annual Payment,CSP
+RCCR,Supplemental Payment,CSP
+RCCR98,Supplemental Payment Improved,CSP

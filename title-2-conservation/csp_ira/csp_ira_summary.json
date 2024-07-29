@@ -1,0 +1,184 @@
+{
+    "2023": [
+        {
+            "totalPaymentInDollars": 165960989.0,
+            "practices": [
+                {
+                    "practiceName": "Grazing Bundle 2 - Range and Pasture (000)",
+                    "totalPaymentInDollars": 3520668.0,
+                    "totalPaymentInPercentageNationwide": 2.12
+                },
+                {
+                    "practiceName": "Existing Activity Payment-Land Use (300)",
+                    "totalPaymentInDollars": 74737463.0,
+                    "totalPaymentInPercentageNationwide": 45.03
+                },
+                {
+                    "practiceName": "Brush Management (314)",
+                    "totalPaymentInDollars": 158426.0,
+                    "totalPaymentInPercentageNationwide": 0.1
+                },
+                {
+                    "practiceName": "Herbaceous Weed Treatment (315)",
+                    "totalPaymentInDollars": 215641.0,
+                    "totalPaymentInPercentageNationwide": 0.13
+                },
+                {
+                    "practiceName": "Conservation Cover (327)",
+                    "totalPaymentInDollars": 810159.0,
+                    "totalPaymentInPercentageNationwide": 0.49
+                },
+                {
+                    "practiceName": "Conservation Crop Rotation (328)",
+                    "totalPaymentInDollars": 3051882.0,
+                    "totalPaymentInPercentageNationwide": 1.84
+                },
+                {
+                    "practiceName": "Residue and Tillage Management, No Till (329)",
+                    "totalPaymentInDollars": 2262419.0,
+                    "totalPaymentInPercentageNationwide": 1.36
+                },
+                {
+                    "practiceName": "Prescribed Burning (338)",
+                    "totalPaymentInDollars": 55053.0,
+                    "totalPaymentInPercentageNationwide": 0.03
+                },
+                {
+                    "practiceName": "Cover Crop (340)",
+                    "totalPaymentInDollars": 6963338.0,
+                    "totalPaymentInPercentageNationwide": 4.2
+                },
+                {
+                    "practiceName": "Critical Area Planting (342)",
+                    "totalPaymentInDollars": 96.0,
+                    "totalPaymentInPercentageNationwide": 0.0
+                },
+                {
+                    "practiceName": "Residue and Tillage Management, Reduced Till (345)",
+                    "totalPaymentInDollars": 3823700.0,
+                    "totalPaymentInPercentageNationwide": 2.3
+                },
+                {
+                    "practiceName": "Windbreak/Shelterbelt Establishment and Renovation (380)",
+                    "totalPaymentInDollars": 991.0,
+                    "totalPaymentInPercentageNationwide": 0.0
+                },
+                {
+                    "practiceName": "Fence (382)",
+                    "totalPaymentInDollars": 25994.0,
+                    "totalPaymentInPercentageNationwide": 0.02
+                },
+                {
+                    "practiceName": "Woody Residue Treatment (384)",
+                    "totalPaymentInDollars": 1975.0,
+                    "totalPaymentInPercentageNationwide": 0.0
+                },
+                {
+                    "practiceName": "Field Border (386)",
+                    "totalPaymentInDollars": 156028.0,
+                    "totalPaymentInPercentageNationwide": 0.09
+                },
+                {
+                    "practiceName": "Riparian Forest Buffer (391)",
+                    "totalPaymentInDollars": 2393029.0,
+                    "totalPaymentInPercentageNationwide": 1.44
+                },
+                {
+                    "practiceName": "Filter Strip (393)",
+                    "totalPaymentInDollars": 34715.0,
+                    "totalPaymentInPercentageNationwide": 0.02
+                },
+                {
+                    "practiceName": "Wildlife Habitat Planting (420)",
+                    "totalPaymentInDollars": 609967.0,
+                    "totalPaymentInPercentageNationwide": 0.37
+                },
+                {
+                    "practiceName": "Irrigation Water Management (449)",
+                    "totalPaymentInDollars": 71099.0,
+                    "totalPaymentInPercentageNationwide": 0.04
+                },
+                {
+                    "practiceName": "Access Control (472)",
+                    "totalPaymentInDollars": 33687.0,
+                    "totalPaymentInPercentageNationwide": 0.02
+                },
+                {
+                    "practiceName": "Mulching (484)",
+                    "totalPaymentInDollars": 102610.0,
+                    "totalPaymentInPercentageNationwide": 0.06
+                },
+                {
+                    "practiceName": "Tree/Shrub Site Preparation (490)",
+                    "totalPaymentInDollars": 167936.0,
+                    "totalPaymentInPercentageNationwide": 0.1
+                },
+                {
+                    "practiceName": "Forage Harvest Management (511)",
+                    "totalPaymentInDollars": 102775.0,
+                    "totalPaymentInPercentageNationwide": 0.06
+                },
+                {
+                    "practiceName": "Pasture and Hay Planting (512)",
+                    "totalPaymentInDollars": 531663.0,
+                    "totalPaymentInPercentageNationwide": 0.32
+                },
+                {
+                    "practiceName": "Livestock Pipeline (516)",
+                    "totalPaymentInDollars": 12181.0,
+                    "totalPaymentInPercentageNationwide": 0.01
+                },
+                {
+                    "practiceName": "Prescribed Grazing (528)",
+                    "totalPaymentInDollars": 17169880.0,
+                    "totalPaymentInPercentageNationwide": 10.35
+                },
+                {
+                    "practiceName": "Range Planting (550)",
+                    "totalPaymentInDollars": 65736.0,
+                    "totalPaymentInPercentageNationwide": 0.04
+                },
+                {
+                    "practiceName": "Livestock Shelter Structure (576)",
+                    "totalPaymentInDollars": 9843.0,
+                    "totalPaymentInPercentageNationwide": 0.01
+                },
+                {
+                    "practiceName": "Nutrient Management (590)",
+                    "totalPaymentInDollars": 23068366.0,
+                    "totalPaymentInPercentageNationwide": 13.9
+                },
+                {
+                    "practiceName": "Pest Management Conservation System (595)",
+                    "totalPaymentInDollars": 2780515.0,
+                    "totalPaymentInPercentageNationwide": 1.68
+                },
+                {
+                    "practiceName": "Tree/Shrub Establishment (612)",
+                    "totalPaymentInDollars": 12893059.0,
+                    "totalPaymentInPercentageNationwide": 7.77
+                },
+                {
+                    "practiceName": "Watering Facility (614)",
+                    "totalPaymentInDollars": 3200.0,
+                    "totalPaymentInPercentageNationwide": 0.0
+                },
+                {
+                    "practiceName": "Upland Wildlife Habitat Management (645)",
+                    "totalPaymentInDollars": 216357.0,
+                    "totalPaymentInPercentageNationwide": 0.13
+                },
+                {
+                    "practiceName": "Structures for Wildlife (649)",
+                    "totalPaymentInDollars": 651.0,
+                    "totalPaymentInPercentageNationwide": 0.0
+                },
+                {
+                    "practiceName": "Forest Stand Improvement (666)",
+                    "totalPaymentInDollars": 9909887.0,
+                    "totalPaymentInPercentageNationwide": 5.97
+                }
+            ]
+        }
+    ]
+}
