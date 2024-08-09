@@ -541,8 +541,8 @@ class CspIraParser:
 
             future_data = {
                 "state": state_abbr,
-                "totalPaymentInDollars": 0,
-                "totalPaymentPercentageNationwide": 0,
+                "predictedTotalPaymentInDollars": 0,
+                "predictedTotalPaymentPercentageNationwide": 0,
                 "practices": []
             }
 
@@ -558,20 +558,21 @@ class CspIraParser:
 
                         practice_data = {
                             "practiceName": practice_name,
-                            "totalPaymentInDollars": 0
+                            "predictedTotalPaymentInDollars": 0
                         }
                         dollar_values = df1[df1['state'] == state][column]
 
                         if not dollar_values.empty:
-                            practice_data["totalPaymentInDollars"] = float(
+                            practice_data["predictedTotalPaymentInDollars"] = float(
                                 dollar_values.sum())
-                            future_data["totalPaymentInDollars"] += practice_data["totalPaymentInDollars"]
+                            future_data["predictedTotalPaymentInDollars"] += \
+                                practice_data["predictedTotalPaymentInDollars"]
 
                         future_data["practices"].append(practice_data)
 
             # round each state's total payment to 2 decimal places
-            future_data["totalPaymentInDollars"] = \
-                round(future_data["totalPaymentInDollars"], 2)
+            future_data["predictedTotalPaymentInDollars"] = \
+                round(future_data["predictedTotalPaymentInDollars"], 2)
 
             # sort year_data by practice name's number
             future_data["practices"].sort(key=lambda x: self.extract_practice_number_clean(x["practiceName"]))
@@ -579,19 +580,19 @@ class CspIraParser:
             output[future_year].append(future_data)
 
             # calculate total payment percentage nationwide for payment for each year
-            total_payment = sum([output[future_year][i]["totalPaymentInDollars"]
+            total_payment = sum([output[future_year][i]["predictedTotalPaymentInDollars"]
                                  for i in range(len(output[future_year]))])
 
             for state_data in output[future_year]:
                 # avoid division by zero
                 if total_payment != 0:
-                    state_data["totalPaymentPercentageNationwide"] = \
-                        round((state_data["totalPaymentInDollars"] / total_payment) * 100, 2)
+                    state_data["predictedTotalPaymentPercentageNationwide"] = \
+                        round((state_data["predictedTotalPaymentInDollars"] / total_payment) * 100, 2)
                 else:
-                    state_data["totalPaymentPercentageNationwide"] = 0
+                    state_data["predictedTotalPaymentPercentageNationwide"] = 0
 
         # sort the predicted year by total payment in dollars
-        output[future_year].sort(key=lambda x: x['totalPaymentInDollars'], reverse=True)
+        output[future_year].sort(key=lambda x: x['predictedTotalPaymentInDollars'], reverse=True)
 
         for state in output[future_year]:
             for practice in state["practices"]:
