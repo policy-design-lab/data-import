@@ -458,6 +458,8 @@ class CspIraParser:
             else:
                 practice_data["totalPracticeInstanceNationwide"] = 0
 
+        output[year] = output[year][0]
+
         ###########################
         # create future year data #
         ###########################
@@ -512,6 +514,8 @@ class CspIraParser:
                     round((practice_data["totalPaymentInDollars"] / total_payment) * 100, 2)
             else:
                 practice_data["totalPaymentInPercentageNationwide"] = 0
+
+        output[future_year] = output[future_year][0]
 
         return json.dumps(output, indent=4)
 
@@ -630,14 +634,14 @@ class CspIraParser:
             json_file.write(unique_practices_data)
 
         # create state distribution json
-        # state_distribution_data = self.create_state_distribution(df2, df3, df4, df5)
-        # with open(os.path.join(self.data_folder, "csp_ira_state_distribution.json"), "w") as json_file:
-        #     json_file.write(state_distribution_data)
+        state_distribution_data = self.create_state_distribution(df2, df3, df4, df5)
+        with open(os.path.join(self.data_folder, "csp_ira_state_distribution.json"), "w") as json_file:
+            json_file.write(state_distribution_data)
 
         # create summary json
-        # summary_data = self.create_summary(df2, df3, df4, df5)
-        # with open(os.path.join(self.data_folder, "csp_ira_summary.json"), "w") as json_file:
-        #     json_file.write(summary_data)
+        summary_data = self.create_summary(df2, df3, df4, df5)
+        with open(os.path.join(self.data_folder, "csp_ira_summary.json"), "w") as json_file:
+            json_file.write(summary_data)
 
         # create aggregated prediction json
         aggregated_prediction_data = self.create_aggregated_prediction(df5, df4)
