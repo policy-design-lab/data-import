@@ -464,7 +464,7 @@ class CspIraParser:
         # create future year data #
         ###########################
         future_data = {
-            "totalPaymentInDollars": 0,
+            "predictedTotalPaymentInDollars": 0,
             "practices": []
         }
 
@@ -480,22 +480,22 @@ class CspIraParser:
 
                     practice_data = {
                         "practiceName": practice_name,
-                        "totalPaymentInDollars": 0,
-                        "totalPaymentInPercentageNationwide": 0,
+                        "predictedTotalPaymentInDollars": 0,
+                        "predictedTotalPaymentInPercentageNationwide": 0,
                     }
                     dollar_values = df4[column]
 
                     if not dollar_values.empty:
-                        practice_data["totalPaymentInDollars"] = float(dollar_values.sum())
-                        future_data["totalPaymentInDollars"] += practice_data["totalPaymentInDollars"]
+                        practice_data["predictedTotalPaymentInDollars"] = float(dollar_values.sum())
+                        future_data["predictedTotalPaymentInDollars"] += practice_data["predictedTotalPaymentInDollars"]
                         # round practice data to 2 decimal places
-                        practice_data["totalPaymentInDollars"] = round(practice_data["totalPaymentInDollars"], 2)
+                        practice_data["predictedTotalPaymentInDollars"] = round(practice_data["predictedTotalPaymentInDollars"], 2)
 
                     future_data["practices"].append(practice_data)
 
         # round each state's total payment to 2 decimal places
-        future_data["totalPaymentInDollars"] = \
-            round(future_data["totalPaymentInDollars"], 2)
+        future_data["predictedTotalPaymentInDollars"] = \
+            round(future_data["predictedTotalPaymentInDollars"], 2)
 
         # sort year_data by practice name's number
         future_data["practices"].sort(key=lambda x: self.extract_practice_number_clean(x["practiceName"]))
@@ -503,17 +503,17 @@ class CspIraParser:
         output[future_year].append(future_data)
 
         # calculate total payment percentage nationwide for payment for each year
-        total_payment = sum([output[future_year][i]["totalPaymentInDollars"]
+        total_payment = sum([output[future_year][i]["predictedTotalPaymentInDollars"]
                              for i in range(len(output[future_year]))])
 
         # add total payment in percentage nationwide values
         for practice_data in output[future_year][0]["practices"]:
             # avoid division by zero
             if total_payment != 0:
-                practice_data["totalPaymentInPercentageNationwide"] = \
-                    round((practice_data["totalPaymentInDollars"] / total_payment) * 100, 2)
+                practice_data["predictedTotalPaymentInPercentageNationwide"] = \
+                    round((practice_data["predictedTotalPaymentInDollars"] / total_payment) * 100, 2)
             else:
-                practice_data["totalPaymentInPercentageNationwide"] = 0
+                practice_data["predictedTotalPaymentInPercentageNationwide"] = 0
 
         output[future_year] = output[future_year][0]
 
