@@ -36,6 +36,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Generate list of practice names for each year for EQIP IRA
   data [#105](https://github.com/policy-design-lab/data-import/issues/105)
 - Aggregated predicted data for EQIP IRA [#109](https://github.com/policy-design-lab/data-import/issues/109)
+- CSP IRA fiscal year data [#125](https://github.com/policy-design-lab/data-import/issues/125)
+- CSP IRA future year data [#126](https://github.com/policy-design-lab/data-import/issues/126)
+- CSP IRA practice name list [#127](https://github.com/policy-design-lab/data-import/issues/127)
+- CSP IRA future aggregated data [#128](https://github.com/policy-design-lab/data-import/issues/128)
 
 ### Changed
 
