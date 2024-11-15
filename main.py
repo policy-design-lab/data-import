@@ -4,6 +4,7 @@ from data_parser import DataParser
 from parsers.acep_parser import AcepParser
 from parsers.dairy_disaster_parser import DairyDisasterParser
 from parsers.eqip_ira_parser import EqipIraParser
+from parsers.house_outlay_parser import HouseOutlayParser
 from parsers.rcpp_parser import RcppParser
 
 if __name__ == '__main__':
@@ -55,3 +56,9 @@ if __name__ == '__main__':
                                     "title-2-conservation/eqip_ira/20231106-2024_2031-EQIPextrafund-project-by-practice-MAX-clean.xls",
                                     "title-2-conservation/eqip_ira/20240702_BA_EQIP_IRA_base2023_value.xlsx")
     eqip_ira_parser.parse_and_process()
+
+    house_outlay_parser = HouseOutlayParser("2023", 2024, 2033,
+                                    "title-2-conservation/house_outlay",
+                                    "title-2-conservation/house_outlay/Practice FIPS Download_modified.csv",
+                                    "title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx")
+    house_outlay_parser.parse_and_process()
