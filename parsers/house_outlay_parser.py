@@ -8,9 +8,9 @@ import pandas as pd
 
 
 class HouseOutlayParser:
-    def __init__(self, fiscal_year, start_year, end_year, data_folder, total_table_filepath, future_max_filepath):
-        self.total_table_filepath = total_table_filepath
+    def __init__(self, fiscal_year, start_year, end_year, data_folder, future_max_filepath, practice_code_data):
         self.future_max_filepath = future_max_filepath
+        self.practice_code_data = practice_code_data
         self.fiscal_year = int(fiscal_year)
         self.start_year = start_year
         self.end_year = end_year
@@ -66,121 +66,29 @@ class HouseOutlayParser:
         return self.state_name_to_abbreviation.get(state_name, state_name)
 
     def create_house_outlay_max(self, df1, df2):
-        states = df1['STATE'].unique()
-        state2 = df2['state'].unique()
+        states = df2['state'].unique()
 
         # check if the state is 50 us states
-        if len(states) > 50 or len(state2) > 50:
+        if len(states) > 50:
             print("There are more than 50 states in the data, Only 50 states will be processed")
             states = [state for state in states if state in self.us_50_states]
 
         # remove the state that is not in the 50 states
-        df1 = df1[df1['STATE'].isin(states)]
         df2 = df2[df2['state'].isin(states)]
 
-        # check the unique states in both df1 and df2
-        if len(df1['STATE'].unique()) != 50:
-            print("The state for the first table is not 50")
-            print("Exit state distribution function")
-            sys.exit()
-
+        # check the unique states
         if len(df2['state'].unique()) != 50:
             print("The state for the second table is not 50")
             print("Exit state distribution function")
             sys.exit()
 
-        # only select the 2023 from fiscal year for df1
-        df1 = df1[df1['FISCAL YEAR'] == str(self.fiscal_year)]
-
-        # remove the total row for practice name in df1
-        df1 = df1[df1['PRACTICE NAME'].str.lower() != "total"]
-
         output = {str(year): [] for year in range(self.fiscal_year, self.end_year + 1)}
-
-        for state in states:
-            state_abbr = self.replace_state_name_with_abbreviation(state)
-            practices = df1[df1['STATE'] == state]['PRACTICE NAME'].unique()
-
-            year_data_2023 = {
-                "state": state_abbr,
-                "totalPaymentInDollars": 0,
-                "totalPracticeInstanceCount": 0,
-                "totalPaymentPercentageNationwide": 0,
-                "totalPracticeInstancePercentageNationwide": 0,
-                "practices": []
-            }
-
-            for practice in practices:
-                practice_number = df1[(df1['STATE'] == state) &
-                                      (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
-                practice_data = {
-                    "practiceName": practice,
-                    "practiceInstanceCount": 0,
-                    "totalPaymentInDollars": 0
-                    # "2023PaymentInDollars": 0
-                }
-
-                total_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
-                        df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
-                if not total_payment.empty:
-                    practice_data['totalPaymentInDollars'] = float(total_payment.values[0])
-                    year_data_2023['totalPaymentInDollars'] += practice_data['totalPaymentInDollars']
-
-                practice_instance_count = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
-                        df1['FISCAL YEAR'] == str(self.fiscal_year))]['PRACTICE INSTANCE COUNT']
-                if not practice_instance_count.empty:
-                    practice_data['practiceInstanceCount'] = int(practice_instance_count.values[0])
-                    year_data_2023['totalPracticeInstanceCount'] += practice_data['practiceInstanceCount']
-
-                year_payment = df1[(df1['STATE'] == state) & (df1['PRACTICE NAME'] == practice) & (
-                        df1['FISCAL YEAR'] == str(self.fiscal_year))]['DOLLARS OBLIGATED']
-                # if not year_payment.empty:
-                # practice_data['2023PaymentInDollars'] = float(year_payment.values[0])
-
-                year_data_2023["practices"].append(practice_data)
-
-            # sort year_data_2023's practices by practice name's practice number
-            year_data_2023["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
-
-            output[str(self.fiscal_year)].append(year_data_2023)
-
-        # calculate total payment percentage nationwide
-        total_payment = df1[
-            (df1['FISCAL YEAR'] == str(self.fiscal_year)) &
-            (df1['PRACTICE NAME'].str.lower() != "total")
-            ]['DOLLARS OBLIGATED'].sum()
-
-        for state_data in output[str(self.fiscal_year)]:
-            # avoid division by zero
-            if total_payment != 0:
-                state_data["totalPaymentPercentageNationwide"] = \
-                    round((state_data["totalPaymentInDollars"] / total_payment) * 100, 2)
-            else:
-                state_data["totalPaymentPercentageNationwide"] = 0
-
-        # calculate total practice instance percentage nationwide
-        total_instance_count = df1[
-            (df1['FISCAL YEAR'] == str(self.fiscal_year)) &
-            (df1['PRACTICE NAME'].str.lower() != "total")
-            ]['PRACTICE INSTANCE COUNT'].sum()
-
-        for state_data in output[str(self.fiscal_year)]:
-            # avoid division by zero
-            if total_instance_count != 0:
-                state_data["totalPracticeInstancePercentageNationwide"] = \
-                    round((state_data["totalPracticeInstanceCount"] / total_instance_count) * 100, 2)
-            else:
-                state_data["totalPracticeInstancePercentageNationwide"] = 0
 
         # create future year data
         for year in range(self.start_year, self.end_year + 1):
             for state in states:
                 state_abbr = self.replace_state_name_with_abbreviation(state)
-                # if you only want to contain the practices that are in the state in the year
-                if self.practices_in_state:
-                    practices = df1[df1['STATE'] == state]['PRACTICE NAME'].unique()
-                else:
-                    practices = self.unique_practices
+                practices = df1['practice_name'].unique()
 
                 year_data = {
                     "state": state_abbr,
@@ -192,11 +100,7 @@ class HouseOutlayParser:
                 }
 
                 for practice in practices:
-                    if self.practices_in_state:
-                        practice_number = df1[(df1['STATE'] == state) &
-                                              (df1['PRACTICE NAME'] == practice)]['practice_number'].values[0]
-                    else:
-                        practice_number = re.search(r'\((\d+)\)', practice).group(1)
+                    practice_number = df1.loc[df1['practice_name'] == practice, 'practice_code'].values[0]
                     practice_data = {
                         "practiceName": practice,
                         "predictedMinimumTotalPaymentInDollars": 0,
@@ -204,9 +108,9 @@ class HouseOutlayParser:
                     }
 
                     if f"p_{practice_number}" in df2.columns:
-                        min_values = df2[(df2['state'] == state) & (df2['year'] == year)][f"p_{practice_number}"]
-                        if not min_values.empty:
-                            practice_data["predictedMaximumTotalPaymentInDollars"] = float(min_values.values[0])
+                        max_values = df2[(df2['state'] == state) & (df2['year'] == year)][f"p_{practice_number}"]
+                        if not max_values.empty:
+                            practice_data["predictedMaximumTotalPaymentInDollars"] = float(max_values.values[0])
                             year_data["predictedMaximumTotalPaymentInDollars"] \
                                 += practice_data["predictedMaximumTotalPaymentInDollars"]
 
@@ -217,7 +121,10 @@ class HouseOutlayParser:
                     round(year_data["predictedMaximumTotalPaymentInDollars"], 2)
 
                 # sort year_data's practices by practice name's practice number
-                year_data["practices"].sort(key=lambda x: self.extract_practice_number(x["practiceName"]))
+                year_data["practices"].sort(
+                    key=lambda x: (self.extract_practice_number(x["practiceName"]) is None,
+                                   self.extract_practice_number(x["practiceName"]))
+                )
 
                 output[str(year)].append(year_data)
 
@@ -260,34 +167,15 @@ class HouseOutlayParser:
         return json.dumps(output, indent=4)
 
     def parse_and_process(self):
-        df1 = pd.read_csv(self.total_table_filepath)
-        df2 = pd.read_excel(self.future_max_filepath)
+        df1 = pd.read_excel(self.future_max_filepath)
+        df2 = pd.read_csv(self.practice_code_data)
 
         convert_nan_to_zero = True
 
         if convert_nan_to_zero:
             df1.fillna(0, inplace=True)
-            df2.fillna(0, inplace=True)
 
-        # remove state name "Total" rows
-        df1 = df1[df1['STATE'] != 'Total']
-
-        # remove rows with "Total" in the "Practice Name" column
-        df1 = df1[~df1['PRACTICE NAME'].str.match("Total")]
-
-        # create unique practices list
-        self.unique_practices = df1['PRACTICE NAME'].unique()
-
-        df1['practice_number'] = df1['PRACTICE NAME'].apply(self.extract_practice_number)
-        df1['practice_number'] = df1['practice_number'].fillna(0).astype(int)
-
-        df1['PRACTICE INSTANCE COUNT'] = pd.to_numeric(df1['PRACTICE INSTANCE COUNT'].astype(str).str.
-                                                       replace(",", ""), errors='coerce').fillna(0).astype(int)
-
-        df1['DOLLARS OBLIGATED'] = pd.to_numeric(df1['DOLLARS OBLIGATED'].astype(str).str.replace(",", "").str.
-                                                 replace("$", "", regex=False), errors='coerce').fillna(0).astype(float)
-
-        house_outlay_max_data = self.create_house_outlay_max(df1, df2)
+        house_outlay_max_data = self.create_house_outlay_max(df2, df1)
         with open(os.path.join(self.data_folder, "house_outlay_max.json"), "w") as json_file:
             json_file.write(house_outlay_max_data)
 
@@ -296,12 +184,13 @@ class HouseOutlayParser:
 if __name__ == '__main__':
     fiscal_year = "2023"
     start_year = 2024
-    end_year = 2031
+    end_year = 2033
     total_table_filepath = \
         "../title-2-conservation/house_outlay/Practice FIPS Download_modified.csv"
     future_max_filepath = \
         "../title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx"
+    practice_code_data = "../title-2-conservation/common/merged_practice_standards.csv"
     house_outlay_parser = HouseOutlayParser(
-        fiscal_year, start_year, end_year, "../title-2-conservation/house_outlay/", total_table_filepath,
-        future_max_filepath)
+        fiscal_year, start_year, end_year, "../title-2-conservation/house_outlay/",
+        future_max_filepath, practice_code_data)
     house_outlay_parser.parse_and_process()
