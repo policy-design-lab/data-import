@@ -179,8 +179,6 @@ class HouseOutlayParser:
         with open(os.path.join(self.data_folder, "house_outlay_max.json"), "w") as json_file:
             json_file.write(house_outlay_max_data)
 
-
-
 if __name__ == '__main__':
     fiscal_year = "2023"
     start_year = 2024
