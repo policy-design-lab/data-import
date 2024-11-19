@@ -300,7 +300,7 @@ if __name__ == '__main__':
     total_table_filepath = \
         "../title-2-conservation/house_outlay/Practice FIPS Download_modified.csv"
     future_max_filepath = \
-        "../title-2-conservation/house_outlay/20231106-2024_2031-EQIPextrafund-project-by-practice-MAX-clean.xls"
+        "../title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx"
     house_outlay_parser = HouseOutlayParser(
         fiscal_year, start_year, end_year, "../title-2-conservation/house_outlay/", total_table_filepath,
         future_max_filepath)
