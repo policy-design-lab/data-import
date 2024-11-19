@@ -57,11 +57,6 @@ class HouseOutlayParser:
         match = re.search(r'\((\d+)\)', practice_name)
         return int(match.group(1)) if match else None
 
-    def convert_dollars(self, in_val):
-        if isinstance(in_val, str):
-            return int(in_val.replace("$", "").replace(",", ""))
-        return in_val
-
     def replace_state_name_with_abbreviation(self, state_name):
         return self.state_name_to_abbreviation.get(state_name, state_name)
 
