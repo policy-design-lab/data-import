@@ -183,8 +183,6 @@ if __name__ == '__main__':
     fiscal_year = "2023"
     start_year = 2024
     end_year = 2033
-    total_table_filepath = \
-        "../title-2-conservation/house_outlay/Practice FIPS Download_modified.csv"
     future_max_filepath = \
         "../title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx"
     practice_code_data = "../title-2-conservation/common/merged_practice_standards.csv"
