@@ -45,12 +45,15 @@ practice_code,practice_name,source
 20 - Soil Health Assessment,Crop Bundle,CSP
 201,Edge-of-Field Water Quality Monitoring-Data Collection and Evaluation,EQIP
 202,Edge-of-Field Water Quality Monitoring-System Installation,EQIP
+206,Feed and Forage Analysis,EQIP
 207,Site Assessment and Soil Testing for Contaminants Activity,EQIP
 216,Soil Health Testing,EQIP
 217,Soil and Source Testing for Nutrient Management,EQIP
 222,Indigenous Stewardship Methods Evaluation,EQIP
 223,Forest Management Assessment,EQIP
 224,Aquifer Flow Test,EQIP
+226,Waste Facility Site Suitability and Feasibility Assessment,EQIP
+227,Evaluation of Existing Waste Storage Facility Components,EQIP
 228,Agricultural Energy Assessment,EQIP
 23 - Pheasant and quail habitat,Crop Bundle,CSP
 24 - Cropland Soil Health Management System,Crop Bundle,CSP
@@ -256,6 +259,7 @@ practice_code,practice_name,source
 775,Drainage Ditch Cover,EQIP
 782,Phosphorus Removal System,EQIP
 798,Seasonal High Tunnel System for Crops,EQIP
+800,Controlling Existing Flowing Wells,EQIP
 801,AMENDING SOIL PROPERTIES WITH GYPSIFEROUS PRODUCTS,EQIP
 803,Water Well Disinfection,EQIP
 805,Amending Soil Properties with Lime,EQIP
