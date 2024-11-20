@@ -53,9 +53,10 @@ class HouseOutlayParser:
 
         self.state_name_to_abbreviation = {v: k for k, v in self.us_state_abbreviation.items()}
 
-    def extract_practice_number(self, practice_name):
-        match = re.search(r'\((\d+)\)', practice_name)
-        return int(match.group(1)) if match else None
+    def extract_practice_number(self, practice_name, practices):
+        filtered_practices = practices[practices['practice_name'] == practice_name]
+        practice_code = filtered_practices.iloc[0]['practice_code'] if not filtered_practices.empty else None
+        return practice_code
 
     def replace_state_name_with_abbreviation(self, state_name):
         return self.state_name_to_abbreviation.get(state_name, state_name)
@@ -83,7 +84,6 @@ class HouseOutlayParser:
         for year in range(self.start_year, self.end_year + 1):
             for state in states:
                 state_abbr = self.replace_state_name_with_abbreviation(state)
-                practices = df1['practice_name'].unique()
 
                 year_data = {
                     "state": state_abbr,
@@ -94,8 +94,8 @@ class HouseOutlayParser:
                     "practices": []
                 }
 
-                for practice in practices:
-                    practice_number = df1.loc[df1['practice_name'] == practice, 'practice_code'].values[0]
+                for practice in df1["practice_name"].unique():
+                    practice_number = self.extract_practice_number(practice, df1)
                     practice_data = {
                         "practiceName": practice,
                         "predictedMinimumTotalPaymentInDollars": 0,
@@ -116,10 +116,7 @@ class HouseOutlayParser:
                     round(year_data["predictedMaximumTotalPaymentInDollars"], 2)
 
                 # sort year_data's practices by practice name's practice number
-                year_data["practices"].sort(
-                    key=lambda x: (self.extract_practice_number(x["practiceName"]) is None,
-                                   self.extract_practice_number(x["practiceName"]))
-                )
+                year_data["practices"].sort(key=lambda x: (self.extract_practice_number(x["practiceName"], df1)))
 
                 output[str(year)].append(year_data)
 
