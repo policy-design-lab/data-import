@@ -53,9 +53,14 @@ class HouseOutlayParser:
 
         self.state_name_to_abbreviation = {v: k for k, v in self.us_state_abbreviation.items()}
 
-    def extract_practice_number(self, practice_name, practices):
+    def extract_practice_code(self, practice_name, practices):
         filtered_practices = practices[practices['practice_name'] == practice_name]
         practice_code = filtered_practices.iloc[0]['practice_code'] if not filtered_practices.empty else None
+        return practice_code
+
+    def extract_practice_code_clean(self, practice_name):
+        match = re.search(r'\((.*?)\)', practice_name)
+        practice_code = match.group(1) if match else None
         return practice_code
 
     def replace_state_name_with_abbreviation(self, state_name):
@@ -95,15 +100,15 @@ class HouseOutlayParser:
                 }
 
                 for practice in df1["practice_name"].unique():
-                    practice_number = self.extract_practice_number(practice, df1)
+                    practice_code = self.extract_practice_code(practice, df1)
                     practice_data = {
-                        "practiceName": practice,
+                        "practiceName": f"{practice} ({practice_code})",
                         "predictedMinimumTotalPaymentInDollars": 0,
                         "predictedMaximumTotalPaymentInDollars": 0
                     }
 
-                    if f"p_{practice_number}" in df2.columns:
-                        max_values = df2[(df2['state'] == state) & (df2['year'] == year)][f"p_{practice_number}"]
+                    if f"p_{practice_code}" in df2.columns:
+                        max_values = df2[(df2['state'] == state) & (df2['year'] == year)][f"p_{practice_code}"]
                         if not max_values.empty:
                             practice_data["predictedMaximumTotalPaymentInDollars"] = float(max_values.values[0])
                             year_data["predictedMaximumTotalPaymentInDollars"] \
@@ -116,7 +121,7 @@ class HouseOutlayParser:
                     round(year_data["predictedMaximumTotalPaymentInDollars"], 2)
 
                 # sort year_data's practices by practice name's practice number
-                year_data["practices"].sort(key=lambda x: (self.extract_practice_number(x["practiceName"], df1)))
+                year_data["practices"].sort(key=lambda x: (self.extract_practice_code_clean(x["practiceName"])))
 
                 output[str(year)].append(year_data)
 
