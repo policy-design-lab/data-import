@@ -59,6 +59,6 @@ if __name__ == '__main__':
 
     house_outlay_parser = HouseOutlayParser("2023", 2024, 2033,
                                     "title-2-conservation/house_outlay",
-                                    "title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx",
-                                    "title-2-conservation/common/merged_practice_standards.csv")
+                                    "title-2-conservation/common/merged_practice_standards.csv",
+                                    "title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx")
     house_outlay_parser.parse_and_process()
