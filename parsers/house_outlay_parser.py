@@ -59,7 +59,7 @@ class HouseOutlayParser:
     def replace_state_name_with_abbreviation(self, state_name):
         return self.state_name_to_abbreviation.get(state_name, state_name)
 
-    def create_house_outlay_max(self, df1, df2):
+    def create_house_outlay_max_by_year(self, df1, df2):
         states = df2['state'].unique()
 
         if len(states) > 50:
@@ -139,6 +139,86 @@ class HouseOutlayParser:
                             round((state_data["predictedMaximumTotalPaymentInDollars"] / total_payment) * 100, 2)
                     else:
                         state_data["predictedMaximumTotalPaymentPercentageNationwide"] = 0
+
+        return json.dumps(output, indent=4)
+
+    def create_house_outlay_max(self, df1, df2):
+        future_year = str(self.start_year) + "-" + str(self.end_year)
+        states = df2['state'].unique()
+
+        if len(states) > 50:
+            print("There are more than 50 states in the payment data, Only 50 states will be processed")
+            states = [state for state in states if state in self.us_50_states]
+
+        df2 = df2[df2['state'].isin(states)]
+
+        if len(df2['state'].unique()) != 50:
+            print("The state for the house outlay max table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        output = {future_year: []}
+
+        ###########################
+        # create future year data #
+        ###########################
+
+        for state in states:
+            state_abbr = self.replace_state_name_with_abbreviation(state)
+            state_data = {
+                "state": state_abbr,
+                "predictedMaximumTotalPaymentInDollars": 0,
+                "predictedMaximumTotalPaymentPercentageNationwide": 0,
+                "practices": []
+            }
+
+            for column in df2.columns:
+                if column.startswith("p_"):
+                    # Extract practice_code from the column name
+                    practice_code = column[2:]
+
+                    if practice_code in df1['practice_code'].values:
+                        practice_name = df1.loc[df1['practice_code'] == practice_code, 'practice_name'].values[0]
+                        # Add number to the practice name
+                        practice_name = f"{practice_name} ({practice_code})"
+
+                        practice_data = {
+                            "practiceName": practice_name,
+                            "predictedMaximumTotalPaymentInDollars": 0,
+                        }
+
+                        # Sum up max values for all future years
+                        for year in range(self.start_year, self.end_year + 1):
+                            max_values = df2[(df2['state'] == state) & (df2['year'] == year)][column]
+                            if not max_values.empty:
+                                practice_data["predictedMaximumTotalPaymentInDollars"] = float(max_values.values[0])
+                                state_data["predictedMaximumTotalPaymentInDollars"] += practice_data["predictedMaximumTotalPaymentInDollars"]
+
+                        # round practice data to 2 decimal places
+                        practice_data["predictedMaximumTotalPaymentInDollars"] = round(practice_data["predictedMaximumTotalPaymentInDollars"], 2)
+                        state_data["practices"].append(practice_data)
+
+            # round each state's total payment to 2 decimal places
+            state_data["predictedMaximumTotalPaymentInDollars"] = \
+                round(state_data["predictedMaximumTotalPaymentInDollars"], 2)
+
+            # sort year_data by practice name's number
+            state_data["practices"].sort(key=lambda x: self.extract_practice_number_clean(x["practiceName"]))
+
+            output[future_year].append(state_data)
+
+            # calculate total payment percentage nationwide for payment for each year
+            total_payment = sum([output[future_year][i]["predictedMaximumTotalPaymentInDollars"]
+                                 for i in range(len(output[future_year]))])
+
+            # add total payment in percentage nationwide values
+            for state_data in output[future_year]:
+                # avoid division by zero
+                if total_payment != 0:
+                    state_data["predictedMaximumTotalPaymentPercentageNationwide"] = \
+                        round((state_data["predictedMaximumTotalPaymentInDollars"] / total_payment) * 100, 2)
+                else:
+                    state_data["predictedMaximumTotalPaymentPercentageNationwide"] = 0
 
         return json.dumps(output, indent=4)
 
