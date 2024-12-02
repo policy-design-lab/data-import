@@ -222,6 +222,46 @@ class HouseOutlayParser:
 
         return json.dumps(output, indent=4)
 
+    def create_unique_practices(self, df1, df2):
+        future_year = str(self.start_year) + "-" + str(self.end_year)
+        output = {future_year: []}
+
+        # create unique practices data for the future year
+        states = df2['state'].unique()
+
+        # check if the state is 50 us states
+        if len(states) > 50:
+            print("There are more than 50 states in the future data, Only 50 states will be processed")
+            states = [state for state in states if state in self.us_50_states]
+
+        # remove the state that is not in the 50 states
+        df2 = df2[df2['state'].isin(states)]
+
+        # check the unique states in df1
+        if len(df2['state'].unique()) != 50:
+            print("The state for the future data table is not 50")
+            print("Exit state distribution function")
+            sys.exit()
+
+        future_data = []
+        for column in df2.columns:
+            if column.startswith("p_"):
+                # Extract practice_code from the column name
+                practice_code = column[2:]
+
+                if practice_code in df1['practice_code'].values:
+                    practice_name = df1.loc[df1['practice_code'] == practice_code, 'practice_name'].values[0]
+                    # Add number to the practice name
+                    practice_name = f"{practice_name} ({practice_code})"
+                    future_data.append(practice_name)
+
+        # sort year_data by practice name's number
+        future_data.sort(key=lambda x: self.extract_practice_number(x))
+
+        output[future_year] = future_data
+
+        return json.dumps(output, indent=4)
+
     def parse_and_process(self):
         df1 = pd.read_csv(self.practice_code_data)
         df2 = pd.read_excel(self.house_outlay_max_data)
@@ -230,6 +270,11 @@ class HouseOutlayParser:
 
         if convert_nan_to_zero:
             df2.fillna(0, inplace=True)
+
+        # dump unique practices to a json file
+        unique_practices_data = self.create_unique_practices(df1, df2)
+        with open(os.path.join(self.data_folder, "house_outlay_practices.json"), "w") as json_file:
+            json_file.write(unique_practices_data)
 
         # create house outlay max json
         house_outlay_max_data = self.create_house_outlay_max(df1, df2)
