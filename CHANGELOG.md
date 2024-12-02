@@ -41,6 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CSP IRA practice name list [#127](https://github.com/policy-design-lab/data-import/issues/127)
 - CSP IRA future aggregated data [#128](https://github.com/policy-design-lab/data-import/issues/128)
 - Support house change data [#131](https://github.com/policy-design-lab/data-import/issues/131)
+- Add practice names to house outlay parser [133](https://github.com/policy-design-lab/data-import/issues/133)
 
 ### Changed
 
