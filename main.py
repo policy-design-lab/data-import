@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
     dairy_disaster_parser.parse_and_process()
 
-    eqip_ira_parser = EqipIraParser("2023", 2024, 2031,
+    eqip_ira_parser = EqipIraParser(2023, 2024, 2031,
                                     "title-2-conservation/eqip_ira",
                                     "title-2-conservation/eqip_ira/Practice FIPS Download_modified.csv",
                                     "title-2-conservation/eqip_ira/2024_2031_EQIP_IRA_base2023_value.xls",
@@ -57,7 +57,7 @@ if __name__ == '__main__':
                                     "title-2-conservation/eqip_ira/20240702_BA_EQIP_IRA_base2023_value.xlsx")
     eqip_ira_parser.parse_and_process()
 
-    house_outlay_parser = HouseOutlayParser("2023", 2024, 2033,
+    house_outlay_parser = HouseOutlayParser(2023, 2024, 2033,
                                     "title-2-conservation/house_outlay",
                                     "title-2-conservation/common/merged_practice_standards.csv",
                                     "title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx")
