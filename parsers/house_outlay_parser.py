@@ -2,6 +2,7 @@ import json
 import os
 import re
 import sys
+
 import pandas as pd
 
 
@@ -111,10 +112,12 @@ class HouseOutlayParser:
                             max_values = df2[(df2['state'] == state) & (df2['year'] == year)][column]
 
                             if not max_values.empty:
-                                practice_data["predictedMaximumTotalPaymentInDollars"] = float(max_values.values[0])
-                                year_data["predictedMaximumTotalPaymentInDollars"] += practice_data["predictedMaximumTotalPaymentInDollars"]
+                                practice_data["predictedMaximumTotalPaymentInDollars"] += float(max_values.values[0])
+                                year_data["predictedMaximumTotalPaymentInDollars"] += practice_data[
+                                    "predictedMaximumTotalPaymentInDollars"]
                                 # round practice data to 2 decimal places
-                                practice_data["predictedMaximumTotalPaymentInDollars"] = round(practice_data["predictedMaximumTotalPaymentInDollars"], 2)
+                                practice_data["predictedMaximumTotalPaymentInDollars"] = round(
+                                    practice_data["predictedMaximumTotalPaymentInDollars"], 2)
 
                             year_data["practices"].append(practice_data)
 
@@ -191,11 +194,13 @@ class HouseOutlayParser:
                         for year in range(self.start_year, self.end_year + 1):
                             max_values = df2[(df2['state'] == state) & (df2['year'] == year)][column]
                             if not max_values.empty:
-                                practice_data["predictedMaximumTotalPaymentInDollars"] = float(max_values.values[0])
-                                state_data["predictedMaximumTotalPaymentInDollars"] += practice_data["predictedMaximumTotalPaymentInDollars"]
+                                max_value = float(max_values.values[0])
+                                practice_data["predictedMaximumTotalPaymentInDollars"] += max_value
+                                state_data["predictedMaximumTotalPaymentInDollars"] += max_value
 
                         # round practice data to 2 decimal places
-                        practice_data["predictedMaximumTotalPaymentInDollars"] = round(practice_data["predictedMaximumTotalPaymentInDollars"], 2)
+                        practice_data["predictedMaximumTotalPaymentInDollars"] = round(
+                            practice_data["predictedMaximumTotalPaymentInDollars"], 2)
                         state_data["practices"].append(practice_data)
 
             # round each state's total payment to 2 decimal places
