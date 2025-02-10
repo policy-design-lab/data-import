@@ -259,6 +259,8 @@ class HouseOutlayParser:
                     # Add number to the practice name
                     practice_name = f"{practice_name} ({practice_code})"
                     future_data.append(practice_name)
+                else:
+                    print("Practice code missing in the merged practice standards CSV file: " + practice_code)
 
         # sort year_data by practice name's number
         future_data.sort(key=lambda x: self.extract_practice_number(x))
@@ -269,7 +271,7 @@ class HouseOutlayParser:
 
     def parse_and_process(self):
         df1 = pd.read_csv(self.practice_code_data)
-        df2 = pd.read_excel(self.house_outlay_max_data)
+        df2 = pd.read_csv(self.house_outlay_max_data)
 
         convert_nan_to_zero = True
 
