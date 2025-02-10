@@ -40,6 +40,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CSP IRA future year data [#126](https://github.com/policy-design-lab/data-import/issues/126)
 - CSP IRA practice name list [#127](https://github.com/policy-design-lab/data-import/issues/127)
 - CSP IRA future aggregated data [#128](https://github.com/policy-design-lab/data-import/issues/128)
+- Support house change data [#131](https://github.com/policy-design-lab/data-import/issues/131)
+- Add practice names to house outlay parser [133](https://github.com/policy-design-lab/data-import/issues/133)
 
 ### Changed
 
@@ -110,3 +112,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Excel formula error in consolidated_data.xlsx [#96](https://github.com/policy-design-lab/data-import/issues/96)
 - Wrong entry in EQIP IRA state distribution json
   files [#107](https://github.com/policy-design-lab/data-import/issues/107)
+- Fix bug in calculating sum of dollar amounts associated with individual practice
+  codes. [#134](https://github.com/policy-design-lab/data-import/issues/134)
