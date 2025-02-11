@@ -287,15 +287,3 @@ class HouseOutlayParser:
         house_outlay_max_data = self.create_house_outlay_max(df1, df2)
         with open(os.path.join(self.data_folder, "house_outlay_max.json"), "w") as json_file:
             json_file.write(house_outlay_max_data)
-
-
-if __name__ == '__main__':
-    fiscal_year = "2023"
-    start_year = 2024
-    end_year = 2033
-    practice_code_data = "../title-2-conservation/common/merged_practice_standards.csv"
-    house_outlay_max_data = "../title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx"
-    house_outlay_parser = HouseOutlayParser(
-        fiscal_year, start_year, end_year, "../title-2-conservation/house_outlay",
-        practice_code_data, house_outlay_max_data)
-    house_outlay_parser.parse_and_process()
