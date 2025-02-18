@@ -15,10 +15,12 @@ class ArcPlcParser:
     def parse_and_process(self):
         # Generate Current Json file
         current_df = self.process_df(self.current_farmbill_data)
+        #current_df.to_csv(os.path.join(self.data_folder, "current_df.csv"), index=False)
         self.generate_output(current_df, "current")
 
         # Generate Proposed Json file
         proposed_df = self.process_df(self.proposed_farmbill_data)
+        #proposed_df.to_csv(os.path.join(self.data_folder, "proposed_df.csv"), index=False)
         self.generate_output(proposed_df, "proposed")
 
     def process_df(self, data_path):
@@ -26,8 +28,8 @@ class ArcPlcParser:
         df = pd.read_csv(data_path)
         baseacres_df = pd.read_csv(self.baseacres_commodity_data)
 
-        # Filter out so we have only the mean for PmtPerAc, other attributes aren't needed
-        new_df = df[(df['attribute'] == 'mean') & (df['element'] == 'PmtPerAc')]
+        # Filter out so we have only the mean and median for PmtPerAc, other attributes aren't needed
+        new_df = df[(df['attribute'].isin(['mean', 'median'])) & (df['element'] == 'PmtPerAc')]
 
         # Merge state info
         new_df["countyfips"] = new_df["countyfips"].astype(str)
@@ -143,32 +145,32 @@ class ArcPlcParser:
                         commodities = {}
                         county_total_payment = 0
 
-                        # Compute mean and median PaymentRatePerAcre per commodity-program pair
-                        payment_stats = scenario_df.groupby(["commodity", "program"])["value"].agg(
-                            meanPaymentRateInDollarsPerAcre="mean",
-                            medianPaymentRateInDollarsPerAcre="median"
-                        ).reset_index()
-
-                        # Merge computed mean and median rates back into scenario_df
-                        scenario_df = scenario_df.merge(payment_stats, on=["commodity", "program"], how="left")
-
                         for commodity, commodity_df in scenario_df.groupby("commodity"):
                             programs = []
+                            commodity_total_baseacres = 0
+
                             for program, program_df in commodity_df.groupby("program"):
-                                program_payment = round((program_df["Enrolled Base"] * program_df["value"]).sum(), 2)
+                                # Use mean enrolled base for calculation
+                                baseacres = program_df.loc[program_df["attribute"] == "mean", "Enrolled Base"].iloc[0]
+                                commodity_total_baseacres += baseacres
+
+                                meanPaymentRateInDollarsPerAcre = program_df.loc[program_df["attribute"] == "mean", "value"].iloc[0]
+                                medianPaymentRateInDollarsPerAcre = program_df.loc[program_df["attribute"] == "median", "value"].iloc[0]
+
+                                program_payment = round(baseacres * meanPaymentRateInDollarsPerAcre, 2)
                                 county_total_payment += program_payment
 
                                 programs.append({
                                     "programName": program,
-                                    "baseAcres": int(program_df["Enrolled Base"].sum()),
-                                    "meanPaymentRateInDollarsPerAcre": round(program_df["meanPaymentRateInDollarsPerAcre"].iloc[0], 2),
-                                    "medianPaymentRateInDollarsPerAcre": {},  # Leave empty for now
+                                    "baseAcres": round(baseacres, 1),
+                                    "meanPaymentRateInDollarsPerAcre": round(meanPaymentRateInDollarsPerAcre, 2),
+                                    "medianPaymentRateInDollarsPerAcre": round(medianPaymentRateInDollarsPerAcre, 2),
                                     "totalPaymentInDollars": round(program_payment, 2)
                                 })
 
                             commodities[commodity] = {
                                 "commodityName": commodity,
-                                "baseAcres": int(commodity_df["Enrolled Base"].sum()),
+                                "baseAcres": round(commodity_total_baseacres, 1),
                                 "programs": programs
                             }
 
