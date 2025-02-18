@@ -1,5 +1,7 @@
 import json
 import os
+
+import numpy as np
 import pandas as pd
 
 class ArcPlcParser:
@@ -11,32 +13,60 @@ class ArcPlcParser:
         self.data_folder = data_folder
 
     def parse_and_process(self):
-        # Load CVS files
-        df1 = pd.read_csv(self.current_farmbill_data)
-        df2 = pd.read_csv(self.proposed_farmbill_data)
-        df3 = pd.read_csv(self.baseacres_commodity_data)
+        # Generate Current Json file
+        current_df = self.process_df(self.current_farmbill_data)
+        self.generate_output(current_df, "current")
 
-        # Combine the two scenarios into a single data frame
-        df = pd.concat([df1, df2], ignore_index=True)
+        # Generate Proposed Json file
+        proposed_df = self.process_df(self.proposed_farmbill_data)
+        self.generate_output(proposed_df, "proposed")
+
+    def process_df(self, data_path):
+        # Load CVS files
+        df = pd.read_csv(data_path)
+        baseacres_df = pd.read_csv(self.baseacres_commodity_data)
 
         # Filter out so we have only the mean for PmtPerAc, other attributes aren't needed
-        new_df = df[(df['attribute']=='mean') & (df['element']=='PmtPerAc')]
+        new_df = df[(df['attribute'] == 'mean') & (df['element'] == 'PmtPerAc')]
 
-        # For sanity check, print what's remaining to a CSV
-        combined_data = os.path.join(self.data_folder, "combined_data.csv")
-        new_df.to_csv(combined_data, index=False)
-
-        # Merge base acres and state info
+        # Merge state info
         new_df["countyfips"] = new_df["countyfips"].astype(str)
-        df3["ST_CTY"] = df3["ST_CTY"].astype(str)
+        new_df["program"] = new_df["program"].str.replace('-', '')
+        baseacres_df["ST_CTY"] = baseacres_df["ST_CTY"].astype(str)
 
         new_df = new_df.merge(
-            df3,
+            baseacres_df,
             how="left",
             left_on=["countyfips", "commodity", "program"],
             right_on=["ST_CTY", "Crop Name", "Program"]
         )
 
+        # Split PLC values
+        split_plc = {
+            'Corn': np.array([0.564, 0.641, 0.564, 0.538, 0.564, 0.538, 0.513, 0.538, 0.538, 0.487]),
+            'Peanuts': np.array([0.99] * 10),
+            'Rice': np.array([0.99] * 10),
+            'Cotton': np.array([0.995, 0.99, 0.99, 0.99, 0.995, 0.995, 0.99, 0.99, 0.99, 0.99]),
+            'Soybeans': np.array([0.205, 0.205, 0.179, 0.205, 0.282, 0.282, 0.256, 0.256, 0.308, 0.282]),
+            'Wheat': np.array([0.205, 0.308, 0.615, 0.718, 0.615, 0.538, 0.615, 0.615, 0.667, 0.692])
+        }
+
+        # Total Base Acres
+        cbo_total_baseacres = {
+            'Corn': np.array([94, 94.5, 94.5, 94.5, 94.5, 94.5, 94.5, 94.5, 94.5, 94.5]) * 1e6,
+            'Peanuts': np.array([2.448] * 10) * 1e6,
+            'Rice': np.array([4.646] * 10) * 1e6,
+            'Cotton': np.array([10, 11.2, 12.2, 12.8, 12.8, 12.8, 12.8, 12.8, 12.8, 12.8]) * 1e6,
+            'Soybeans': np.array([53.5] * 10) * 1e6,
+            'Wheat': np.array([61.8] * 10) * 1e6
+        }
+
+        # Apply Enrolled Base
+        new_df['Enrolled Base'] = new_df.apply(lambda row: self.assign_enrolled_base(row, split_plc, cbo_total_baseacres), axis=1)
+
+        return new_df
+
+    def generate_output(self, df, scenario):
         # Convert state names to abbreviations
         state_abbreviation_mapping = {
             "Alabama": "AL",
@@ -91,12 +121,12 @@ class ArcPlcParser:
             "Wisconsin": "WI",
             "Wyoming": "WY"
         }
-        new_df["state"] = new_df["State Name"].map(state_abbreviation_mapping)
+        df["state"] = df["State Name"].map(state_abbreviation_mapping)
 
         # Dictionary to store results by year
         result = {}
 
-        for year, year_df in new_df.groupby("my"):
+        for year, year_df in df.groupby("my"):
             # Convert year to an integer
             year_int = int(year)
             if year_int not in result:
@@ -125,21 +155,20 @@ class ArcPlcParser:
                         for commodity, commodity_df in scenario_df.groupby("commodity"):
                             programs = []
                             for program, program_df in commodity_df.groupby("program"):
-                                program_payment = (program_df["Enrolled Base"] * program_df["value"]).sum()
+                                program_payment = round((program_df["Enrolled Base"] * program_df["value"]).sum(), 2)
                                 county_total_payment += program_payment
 
                                 programs.append({
                                     "programName": program,
-                                    "baseAcres": program_df["Enrolled Base"].sum(),
-                                    "meanPaymentRateInDollarsPerAcre": program_df["meanPaymentRateInDollarsPerAcre"].iloc[0],
-                                    "medianPaymentRateInDollarsPerAcre":
-                                        program_df["medianPaymentRateInDollarsPerAcre"].iloc[0],
-                                    "totalPaymentInDollars": program_payment
+                                    "baseAcres": int(program_df["Enrolled Base"].sum()),
+                                    "meanPaymentRateInDollarsPerAcre": round(program_df["meanPaymentRateInDollarsPerAcre"].iloc[0], 2),
+                                    "medianPaymentRateInDollarsPerAcre": {},  # Leave empty for now
+                                    "totalPaymentInDollars": round(program_payment, 2)
                                 })
 
                             commodities[commodity] = {
                                 "commodityName": commodity,
-                                "baseAcres": commodity_df["Enrolled Base"].sum(),
+                                "baseAcres": int(commodity_df["Enrolled Base"].sum()),
                                 "programs": programs
                             }
 
@@ -157,23 +186,42 @@ class ArcPlcParser:
                     })
 
                 result[year_int].append({
-                    "state": state,
-                    "totalPaymentInDollars": state_total_payment,
-                    "counties": state_counties
-                })
+                        "state": state,
+                        "totalPaymentInDollars": round(state_total_payment, 2),
+                        "counties": state_counties
+                    })
 
         # Convert to JSON format
         json_output = json.dumps(result, indent=2, sort_keys=True)
 
-        with open(os.path.join(self.data_folder, "arc_pls_payments.json"), "w") as json_file:
+        with open(os.path.join(self.data_folder, f"arc_pls_payments_{scenario}.json"), "w") as json_file:
             json_file.write(json_output)
+
+    # Assign 'Enrolled Base'
+    def assign_enrolled_base(self, row, split_plc, cbo_total_baseacres):
+        if pd.isna(row['my']):  # Handle missing years
+            return np.nan
+
+        try:
+            year_index = int(row['my']) - 2024  # Convert to index
+            if row['commodity'] in split_plc and 0 <= year_index < len(split_plc[row['commodity']]):
+                if row['program'] == 'PLC':
+                    return cbo_total_baseacres[row['commodity']][year_index] * split_plc[row['commodity']][year_index]
+                elif row['program'] == 'ARCCO':
+                    return cbo_total_baseacres[row['commodity']][year_index] * (1 - split_plc[row['commodity']][year_index])
+        except (ValueError, KeyError, IndexError):
+            return np.nan  # Handle unexpected errors safely
+
+        return np.nan  # Default for unmatched cases
+
 
 if __name__ == '__main__':
     # Get this data from the box folder, I left it out because these are very large files
     # TODO consider making these files input parameters so this can later be used as part of a workflow
+    # NOTE: Since these are big files, please find them in Box
     current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB.csv"
     proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB.csv"
-    baseacres_commodity_data = "../title-1-commodities/baseacres_commodity_county_program.csv"
+    baseacres_commodity_data = "../title-1-commodities/arcplc_model/2024_enrolled_base_county_crop_program.csv"
 
     arcplc_parser = ArcPlcParser("../title-1-commodities/arcplc_model", current_farmbill_data, proposed_farmbill_data, baseacres_commodity_data)
     arcplc_parser.parse_and_process()
