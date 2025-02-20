@@ -176,7 +176,7 @@ class ArcPlcParser:
 
                         county_scenarios[scenario] = {
                             "scenarioName": scenario,
-                            "totalPaymentInDollars": county_total_payment,
+                            "totalPaymentInDollars": round(county_total_payment, 2),
                             "commodities": list(commodities.values())
                         }
 
