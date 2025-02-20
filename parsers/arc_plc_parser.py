@@ -1,3 +1,4 @@
+import gzip
 import json
 import os
 
@@ -194,10 +195,11 @@ class ArcPlcParser:
                     })
 
         # Convert to JSON format
-        json_output = json.dumps(result, indent=2, sort_keys=True)
+        json_output = json.dumps(result, indent=2, sort_keys=True).encode('utf-8')  # Ensure it's encoded as bytes
 
-        with open(os.path.join(self.data_folder, f"arc_pls_payments_{scenario}.json"), "w") as json_file:
-            json_file.write(json_output)
+        # Compress and save using GZIP
+        with gzip.open(os.path.join(self.data_folder, f"arc_pls_payments_{scenario}.json.gz"), "wb") as gzip_file:
+            gzip_file.write(json_output)
 
     # Assign 'Enrolled Base'
     def assign_enrolled_base(self, row, split_plc, cbo_total_baseacres):
