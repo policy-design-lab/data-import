@@ -29,8 +29,8 @@ class ArcPlcParser:
         df = pd.read_csv(data_path)
         baseacres_df = pd.read_csv(self.baseacres_commodity_data)
 
-        # Filter out so we have only the mean and median for PmtPerAc, other attributes aren't needed
-        new_df = df[(df['attribute'].isin(['mean', 'median'])) & (df['element'] == 'PmtPerAc')]
+        # Filter out so we have only the mean and median for PmtPerAc and TotalPmt, other attributes aren't needed
+        new_df = df[(df['attribute'].isin(['mean', 'median'])) & (df['element'].isin(['PmtPerAc', 'TotalPmt']))]
 
         # Merge state info
         new_df["countyfips"] = new_df["countyfips"].astype(str)
@@ -70,6 +70,8 @@ class ArcPlcParser:
         return new_df
 
     def generate_output(self, df, scenario):
+        # sanity check
+        df.to_csv(os.path.join(self.data_folder, f"sanity_check_{scenario}.csv"), index=False)
         # Convert state names to abbreviations
         state_abbreviation_mapping = {
             "Alabama": "AL",
@@ -151,14 +153,29 @@ class ArcPlcParser:
                             commodity_total_baseacres = 0
 
                             for program, program_df in commodity_df.groupby("program"):
+                                if program == "ARCCO":
+                                    program = "ARC-CO"
+
+                                meanPaymentRateInDollarsPerAcre = program_df.loc[
+                                    (program_df["attribute"] == "mean") & (program_df["element"] == "PmtPerAc"),
+                                    "value"
+                                ].iloc[0]
+
+                                medianPaymentRateInDollarsPerAcre = program_df.loc[
+                                    (program_df["attribute"] == "median") & (program_df["element"] == "PmtPerAc"),
+                                    "value"
+                                ].iloc[0]
+
+                                meanTotalPaymentInDollars = program_df.loc[
+                                    (program_df["attribute"] == "mean") & (program_df["element"] == "TotalPmt"),
+                                    "value"
+                                ].iloc[0]
+
                                 # Use mean enrolled base for calculation
-                                baseacres = program_df.loc[program_df["attribute"] == "mean", "Enrolled Base"].iloc[0]
+                                baseacres = meanTotalPaymentInDollars/meanPaymentRateInDollarsPerAcre
                                 commodity_total_baseacres += baseacres
 
-                                meanPaymentRateInDollarsPerAcre = program_df.loc[program_df["attribute"] == "mean", "value"].iloc[0]
-                                medianPaymentRateInDollarsPerAcre = program_df.loc[program_df["attribute"] == "median", "value"].iloc[0]
-
-                                program_payment = round(baseacres * meanPaymentRateInDollarsPerAcre, 2)
+                                program_payment = round(meanTotalPaymentInDollars, 2)
                                 county_total_payment += program_payment
 
                                 programs.append({
@@ -223,8 +240,8 @@ if __name__ == '__main__':
     # Get this data from the box folder, I left it out because these are very large files
     # TODO consider making these files input parameters so this can later be used as part of a workflow
     # NOTE: Since these are big files, please find them in Box
-    current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB.csv"
-    proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB.csv"
+    current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB0204.csv"
+    proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB0204.csv"
     baseacres_commodity_data = "../title-1-commodities/arcplc_model/2024_enrolled_base_county_crop_program.csv"
 
     arcplc_parser = ArcPlcParser("../title-1-commodities/arcplc_model", current_farmbill_data, proposed_farmbill_data, baseacres_commodity_data)
