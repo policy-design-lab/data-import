@@ -172,7 +172,12 @@ class ArcPlcParser:
                                 ].iloc[0]
 
                                 # Use mean enrolled base for calculation
-                                baseacres = meanTotalPaymentInDollars/meanPaymentRateInDollarsPerAcre
+                                baseacres = meanTotalPaymentInDollars / meanPaymentRateInDollarsPerAcre if meanPaymentRateInDollarsPerAcre else np.nan
+
+                                # Handle NaN case
+                                if np.isnan(baseacres):
+                                    baseacres = 0
+
                                 commodity_total_baseacres += baseacres
 
                                 program_payment = round(meanTotalPaymentInDollars, 2)
