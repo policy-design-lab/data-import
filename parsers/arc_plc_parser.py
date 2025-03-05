@@ -33,9 +33,9 @@ class ArcPlcParser:
         new_df = df[(df['attribute'].isin(['mean', 'median'])) & (df['element'].isin(['PmtPerAc', 'TotalPmt']))]
 
         # Merge state info
-        new_df["countyfips"] = new_df["countyfips"].astype(str)
+        new_df["countyfips"] = new_df["countyfips"].astype(str).str.zfill(5)
         new_df["program"] = new_df["program"].str.replace('-', '')
-        baseacres_df["ST_CTY"] = baseacres_df["ST_CTY"].astype(str)
+        baseacres_df["ST_CTY"] = baseacres_df["ST_CTY"].astype(str).str.zfill(5)
 
         new_df = new_df.merge(
             baseacres_df,
