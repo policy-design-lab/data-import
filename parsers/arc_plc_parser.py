@@ -76,9 +76,10 @@ class ArcPlcParser:
                             programs = []
                             commodity_total_baseacres = 0
 
+                            # First, gather all data and calculate baseacres
+                            baseacres_list = []
                             for program, program_df in commodity_df.groupby("program"):
-                                if program == "ARCCO":
-                                    program = "ARC-CO"
+                                program_name = "ARC-CO" if program == "ARCCO" else program
 
                                 meanPaymentRateInDollarsPerAcre = program_df.loc[
                                     (program_df["attribute"] == "mean") & (program_df["element"] == "PmtPerAc"),
@@ -95,24 +96,35 @@ class ArcPlcParser:
                                     "value"
                                 ].iloc[0]
 
-                                # Use mean enrolled base for calculation
-                                baseacres = meanTotalPaymentInDollars / meanPaymentRateInDollarsPerAcre if meanPaymentRateInDollarsPerAcre else np.nan
+                                baseacres = meanTotalPaymentInDollars / meanPaymentRateInDollarsPerAcre if meanPaymentRateInDollarsPerAcre else 0
+                                baseacres = 0 if np.isnan(baseacres) else baseacres
 
-                                # Handle NaN case
-                                if np.isnan(baseacres):
-                                    baseacres = 0
+                                baseacres_list.append({
+                                    "programName": program_name,
+                                    "baseAcres": baseacres,
+                                    "meanPaymentRateInDollarsPerAcre": meanPaymentRateInDollarsPerAcre,
+                                    "medianPaymentRateInDollarsPerAcre": medianPaymentRateInDollarsPerAcre,
+                                    "meanTotalPaymentInDollars": meanTotalPaymentInDollars
+                                })
 
                                 commodity_total_baseacres += baseacres
 
-                                program_payment = round(meanTotalPaymentInDollars, 2)
+                            # Now create the final program data with percentages
+                            for item in baseacres_list:
+                                percentage = (item[
+                                                  "baseAcres"] / commodity_total_baseacres * 100) if commodity_total_baseacres else 0
+                                program_payment = round(item["meanTotalPaymentInDollars"], 2)
                                 county_total_payment += program_payment
 
                                 programs.append({
-                                    "programName": program,
-                                    "baseAcres": round(baseacres, 1),
-                                    "meanPaymentRateInDollarsPerAcre": round(meanPaymentRateInDollarsPerAcre, 2),
-                                    "medianPaymentRateInDollarsPerAcre": round(medianPaymentRateInDollarsPerAcre, 2),
-                                    "totalPaymentInDollars": round(program_payment, 2)
+                                    "programName": item["programName"],
+                                    "baseAcres": round(item["baseAcres"], 1),
+                                    "percentageOfCommodityBaseAcres": round(percentage, 2),
+                                    "meanPaymentRateInDollarsPerAcre": round(item["meanPaymentRateInDollarsPerAcre"],
+                                                                             2),
+                                    "medianPaymentRateInDollarsPerAcre": round(
+                                        item["medianPaymentRateInDollarsPerAcre"], 2),
+                                    "totalPaymentInDollars": program_payment
                                 })
 
                             commodities[commodity] = {
