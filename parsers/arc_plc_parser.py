@@ -93,6 +93,9 @@ class ArcPlcParser:
 
         for year_str, year_group in processed_df.groupby("my"):
             model_year = int(year_str)
+            if not (self.start_year <= model_year <= self.end_year):
+                continue
+
             output_by_year.setdefault(model_year, [])
 
             for state_abbr, state_group in year_group.groupby("state"):
@@ -110,11 +113,7 @@ class ArcPlcParser:
 
                             for prog_key, prog_group in commodity_group.groupby("program"):
                                 program_name = "ARC-CO" if prog_key == "ARCCO" else prog_key
-                                if not prog_group.empty:
-                                    val = prog_group["Program_Base"].iloc[0]
-                                    base_acres = 0 if pd.isna(val) else val
-                                else:
-                                    base_acres = 0
+                                base_acres = prog_group["Program_Base"].iloc[0]
                                 pct_of_commodity = (
                                         base_acres / county_total_base_acres * 100) if county_total_base_acres else 0
 
@@ -126,6 +125,7 @@ class ArcPlcParser:
                                     (prog_group.attribute == "median") & (prog_group.element == "PmtPerAc"),
                                     "value"
                                 ].iloc[0]
+
                                 total_pay = mean_rate * base_acres
 
                                 program_entries.append({
@@ -190,8 +190,8 @@ if __name__ == '__main__':
     # TODO consider making these files input parameters so this can later be used as part of a workflow
     # NOTE: Since these are big files, please find them in Box
     fiscal_year = 2025
-    start_year = 2026
-    end_year = 2036
+    start_year = 2025
+    end_year = 2035
     current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB06-24-2025.csv"
     proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB06-24-2025.csv"
 

@@ -64,7 +64,7 @@ if __name__ == '__main__':
                                     "title-2-conservation/house_outlay/20241013_max_house_minus_baseline_ira_outlay.xlsx")
     house_outlay_parser.parse_and_process()
 
-    arc_plc_parser = ArcPlcParser(2025, 2026, 2036,
+    arc_plc_parser = ArcPlcParser(2025, 2025, 2035,
                                             "title-1-commodities/arcplc_model",
                                             "title-1-commodities/arcplc_model/CSVResultsCurrentFB06-05-2025.csv",
                                             "title-1-commodities/arcplc_model/CSVResultsProposedFB06-05-2025.csv")
