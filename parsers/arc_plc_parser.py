@@ -110,7 +110,11 @@ class ArcPlcParser:
 
                             for prog_key, prog_group in commodity_group.groupby("program"):
                                 program_name = "ARC-CO" if prog_key == "ARCCO" else prog_key
-                                base_acres = prog_group["Program_Base"].iloc[0]
+                                if not prog_group.empty:
+                                    val = prog_group["Program_Base"].iloc[0]
+                                    base_acres = 0 if pd.isna(val) else val
+                                else:
+                                    base_acres = 0
                                 pct_of_commodity = (
                                         base_acres / county_total_base_acres * 100) if county_total_base_acres else 0
 
