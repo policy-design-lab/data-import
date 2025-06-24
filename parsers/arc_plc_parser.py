@@ -122,10 +122,7 @@ class ArcPlcParser:
                                     (prog_group.attribute == "median") & (prog_group.element == "PmtPerAc"),
                                     "value"
                                 ].iloc[0]
-                                total_pay = prog_group.loc[
-                                    (prog_group.attribute == "mean") & (prog_group.element == "TotalPmt"),
-                                    "value"
-                                ].iloc[0]
+                                total_pay = mean_rate * base_acres
 
                                 program_entries.append({
                                     "programName": program_name,
@@ -191,8 +188,8 @@ if __name__ == '__main__':
     fiscal_year = 2025
     start_year = 2026
     end_year = 2036
-    current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB06-05-2025.csv"
-    proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB06-05-2025.csv"
+    current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB06-24-2025.csv"
+    proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB06-24-2025.csv"
 
     arcplc_parser = ArcPlcParser(fiscal_year, start_year, end_year,
                                  "../title-1-commodities/arcplc_model",
