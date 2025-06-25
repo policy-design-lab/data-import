@@ -126,7 +126,10 @@ class ArcPlcParser:
                                     "value"
                                 ].iloc[0]
 
-                                total_pay = mean_rate * base_acres
+                                total_pay = prog_group.loc[
+                                    (prog_group.attribute == "mean") & (prog_group.element == "TotalPmt"),
+                                    "value"
+                                ].iloc[0]
 
                                 program_entries.append({
                                     "programName": program_name,
