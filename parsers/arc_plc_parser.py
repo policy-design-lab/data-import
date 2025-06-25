@@ -37,6 +37,7 @@ class ArcPlcParser:
         df['fbill'] = df['fbill'].astype(str).str.strip()
         df['countyfips'] = df['countyfips'].astype(str).str.zfill(5)
         df['commodity'] = df['commodity'].astype(str).str.strip()
+        df['commodity'] = df['commodity'].replace({'Cotton': 'Seed Cotton'})
         df['program'] = df['program'].str.strip()
         df['state'] = df['countyfips'].apply(self.fips_to_state_abbr).astype("string")
 
