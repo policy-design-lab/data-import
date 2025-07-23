@@ -7,13 +7,14 @@ import us
 
 class ArcPlcParser:
     def __init__(self, fiscal_year, start_year, end_year,
-                 data_folder, current_farmbill_data, proposed_farmbill_data):
+                 data_folder, current_farmbill_data, proposed_farmbill_data, current_farmbill_obbba_data):
         print("init ArcPlcParser")
         self.fiscal_year = fiscal_year
         self.start_year = start_year
         self.end_year = end_year
         self.current_farmbill_data = current_farmbill_data
         self.proposed_farmbill_data = proposed_farmbill_data
+        self.current_farmbill_obbba_data = current_farmbill_obbba_data
         self.data_folder = data_folder
 
     def parse_and_process(self):
@@ -24,6 +25,10 @@ class ArcPlcParser:
         # Generate Proposed Json file
         proposed_df = self.process_df(self.proposed_farmbill_data)
         self.generate_output(proposed_df, "proposed")
+
+        # Generate Current OBBBA Json file
+        current_obbba_df = self.process_df(self.current_farmbill_obbba_data)
+        self.generate_output(current_obbba_df, "current_obbba")
 
         # Sanity Check
         # current_df.to_csv(os.path.join(self.data_folder, "sanity_check_current_df.csv"), index=False)
@@ -196,10 +201,11 @@ if __name__ == '__main__':
     fiscal_year = 2025
     start_year = 2025
     end_year = 2035
-    current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB06-24-2025.csv"
-    proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB06-24-2025.csv"
+    current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB06-27-2025.csv"
+    proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB06-27-2025.csv"
+    current_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsOBBBAFB07-23-2025.csv"
 
     arcplc_parser = ArcPlcParser(fiscal_year, start_year, end_year,
                                  "../title-1-commodities/arcplc_model",
-                                 current_farmbill_data, proposed_farmbill_data)
+                                 current_farmbill_data, proposed_farmbill_data, current_farmbill_obbba_data)
     arcplc_parser.parse_and_process()
