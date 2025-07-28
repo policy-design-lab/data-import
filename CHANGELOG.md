@@ -101,6 +101,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   data [#123](https://github.com/policy-design-lab/data-import/issues/123)
 - Update House Outlay Comparison Results CSV and generate JSON
   files. [#135](https://github.com/policy-design-lab/data-import/issues/135)
+- Rename totalCounts with totalRecipientCount. [#140](https://github.com/policy-design-lab/data-import/issues/140)
 
 ### Fixed
 
