@@ -7,7 +7,7 @@ import us
 
 class ArcPlcParser:
     def __init__(self, fiscal_year, start_year, end_year,
-                 data_folder, current_farmbill_data, proposed_farmbill_data, current_farmbill_obbba_data):
+                 data_folder, current_farmbill_data, proposed_farmbill_data, current_farmbill_obbba_data, proposed_farmbill_obbba_data):
         print("init ArcPlcParser")
         self.fiscal_year = fiscal_year
         self.start_year = start_year
@@ -15,6 +15,7 @@ class ArcPlcParser:
         self.current_farmbill_data = current_farmbill_data
         self.proposed_farmbill_data = proposed_farmbill_data
         self.current_farmbill_obbba_data = current_farmbill_obbba_data
+        self.proposed_farmbill_obbba_data = proposed_farmbill_obbba_data
         self.data_folder = data_folder
 
     def parse_and_process(self):
@@ -29,6 +30,10 @@ class ArcPlcParser:
         # Generate Current OBBBA Json file
         current_obbba_df = self.process_df(self.current_farmbill_obbba_data)
         self.generate_output(current_obbba_df, "current_obbba")
+
+        # Generate Proposed OBBBA Json file
+        current_obbba_df = self.process_df(self.current_farmbill_obbba_data)
+        self.generate_output(current_obbba_df, "proposed_obbba")
 
         # Sanity Check
         # current_df.to_csv(os.path.join(self.data_folder, "sanity_check_current_df.csv"), index=False)
@@ -203,9 +208,10 @@ if __name__ == '__main__':
     end_year = 2035
     current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB06-27-2025.csv"
     proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB06-27-2025.csv"
-    current_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsOBBBAFB07-23-2025.csv"
+    current_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsOBBBAFB08-04-2025.csv"
+    proposed_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB08-04-2025.csv"
 
     arcplc_parser = ArcPlcParser(fiscal_year, start_year, end_year,
                                  "../title-1-commodities/arcplc_model",
-                                 current_farmbill_data, proposed_farmbill_data, current_farmbill_obbba_data)
+                                 current_farmbill_data, proposed_farmbill_data, current_farmbill_obbba_data, proposed_farmbill_obbba_data)
     arcplc_parser.parse_and_process()
