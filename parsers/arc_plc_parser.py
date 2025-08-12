@@ -32,8 +32,8 @@ class ArcPlcParser:
         self.generate_output(current_obbba_df, "current_obbba")
 
         # Generate Proposed OBBBA Json file
-        current_obbba_df = self.process_df(self.current_farmbill_obbba_data)
-        self.generate_output(current_obbba_df, "proposed_obbba")
+        proposed_obbba_df = self.process_df(self.proposed_farmbill_obbba_data)
+        self.generate_output(proposed_obbba_df, "proposed_obbba")
 
         # Sanity Check
         # current_df.to_csv(os.path.join(self.data_folder, "sanity_check_current_df.csv"), index=False)
