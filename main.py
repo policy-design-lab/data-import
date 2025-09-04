@@ -66,6 +66,8 @@ if __name__ == '__main__':
 
     arc_plc_parser = ArcPlcParser(2025, 2025, 2035,
                                             "title-1-commodities/arcplc_model",
-                                            "title-1-commodities/arcplc_model/CSVResultsCurrentFB06-05-2025.csv",
-                                            "title-1-commodities/arcplc_model/CSVResultsProposedFB06-05-2025.csv")
+                                            "title-1-commodities/arcplc_model/CSVResultsCurrentFB06-27-2025.csv",
+                                            "title-1-commodities/arcplc_model/CSVResultsProposedFB06-27-2025.csv",
+                                  "../title-1-commodities/arcplc_model/CSVResultsOBBBAFB08-04-2025.csv",
+                                  "../title-1-commodities/arcplc_model/CSVResultsProposedFB08-04-2025.csv")
     arc_plc_parser.parse_and_process()
