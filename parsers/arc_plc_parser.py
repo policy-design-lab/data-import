@@ -70,7 +70,7 @@ class ArcPlcParser:
 
         # payments rows
         pay = (
-            df.query("attribute in ['mean','median'] and element in ['PmtPerAc','TotalPmt']")
+            df.query("attribute in ['mean'] and element in ['PmtPerAc','TotalPmt']")
             .loc[:, ['my', 'fbill', 'state', 'countyfips', 'commodity', 'program', 'attribute', 'element', 'value']]
         )
 
@@ -132,10 +132,6 @@ class ArcPlcParser:
                                     (prog_group.attribute == "mean") & (prog_group.element == "PmtPerAc"),
                                     "value"
                                 ].iloc[0]
-                                median_rate = prog_group.loc[
-                                    (prog_group.attribute == "median") & (prog_group.element == "PmtPerAc"),
-                                    "value"
-                                ].iloc[0]
 
                                 total_pay = prog_group.loc[
                                     (prog_group.attribute == "mean") & (prog_group.element == "TotalPmt"),
@@ -147,7 +143,6 @@ class ArcPlcParser:
                                     "baseAcres": round(base_acres, 2),
                                     "percentageOfCommodityBaseAcres": round(pct_of_commodity, 2),
                                     "meanPaymentRateInDollarsPerAcre": round(mean_rate, 2),
-                                    "medianPaymentRateInDollarsPerAcre": round(median_rate, 2),
                                     "totalPaymentInDollars": round(total_pay, 2),
                                 })
 
@@ -208,8 +203,8 @@ if __name__ == '__main__':
     end_year = 2035
     current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB06-27-2025.csv"
     proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB06-27-2025.csv"
-    current_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsOBBBAFB08-04-2025.csv"
-    proposed_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB08-04-2025.csv"
+    current_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsFB2018FB10-23-2025.csv"
+    proposed_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsOBBBAFB10-23-2025.csv"
 
     arcplc_parser = ArcPlcParser(fiscal_year, start_year, end_year,
                                  "../title-1-commodities/arcplc_model",
