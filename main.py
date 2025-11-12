@@ -2,6 +2,7 @@ import os
 
 from data_parser import DataParser
 from parsers.acep_parser import AcepParser
+from parsers.arc_plc_parser import ArcPlcParser
 from parsers.dairy_disaster_parser import DairyDisasterParser
 from parsers.eqip_ira_parser import EqipIraParser
 from parsers.house_outlay_parser import HouseOutlayParser
@@ -62,3 +63,11 @@ if __name__ == '__main__':
                                             "title-2-conservation/common/merged_practice_standards.csv",
                                             "title-2-conservation/house_outlay/20250203_max_house_minus_baseline_ira_outlay.csv")
     house_outlay_parser.parse_and_process()
+
+    arc_plc_parser = ArcPlcParser(2025, 2025, 2035,
+                                            "title-1-commodities/arcplc_model",
+                                            "title-1-commodities/arcplc_model/CSVResultsCurrentFB06-27-2025.csv",
+                                            "title-1-commodities/arcplc_model/CSVResultsProposedFB06-27-2025.csv",
+                                  "title-1-commodities/arcplc_model/CSVResultsFB2018FB10-23-2025.csv",
+                                  "title-1-commodities/arcplc_model/CSVResultsOBBBAFB10-23-2025.csv")
+    arc_plc_parser.parse_and_process()
