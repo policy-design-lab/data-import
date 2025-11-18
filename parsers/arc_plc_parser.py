@@ -203,8 +203,8 @@ if __name__ == '__main__':
     end_year = 2035
     current_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsCurrentFB06-27-2025.csv"
     proposed_farmbill_data = "../title-1-commodities/arcplc_model/CSVResultsProposedFB06-27-2025.csv"
-    current_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsFB2018FB11-17-2025.csv"
-    proposed_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsOBBBAFB11-17-2025.csv"
+    current_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsFB2018FB11-18-2025.csv"
+    proposed_farmbill_obbba_data = "../title-1-commodities/arcplc_model/CSVResultsOBBBAFB11-18-2025.csv"
 
     arcplc_parser = ArcPlcParser(fiscal_year, start_year, end_year,
                                  "../title-1-commodities/arcplc_model",
