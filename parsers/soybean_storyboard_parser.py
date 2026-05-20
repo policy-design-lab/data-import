@@ -6,7 +6,8 @@ import json
 class SoybeanStoryboardParser:
 
     def __init__(self, pork_poultry_filepath, us_planted_acres_filepaths, br_planted_acres_filepath,
-                 soybean_production_filepath, soybean_exports_filepath, soybean_imports_filepath, soybean_consumption_filepath):
+                 soybean_production_filepath, soybean_exports_filepath, soybean_imports_filepath,
+                 soybean_consumption_filepath, gdp_filepath, population_filepath, urban_population_filepath):
         self.pork_poultry_filepath = pork_poultry_filepath
         self.us_planted_acres_filepaths = us_planted_acres_filepaths
         self.br_planted_acres_filepath = br_planted_acres_filepath
@@ -14,6 +15,9 @@ class SoybeanStoryboardParser:
         self.soybean_exports_filepath = soybean_exports_filepath
         self.soybean_imports_filepath = soybean_imports_filepath
         self.soybean_consumption_filepath = soybean_consumption_filepath
+        self.gdp_filepath = gdp_filepath
+        self.population_filepath = population_filepath
+        self.urban_population_filepath = urban_population_filepath
 
     def parse_china_demand(self, filepath: str) -> dict[str, pd.DataFrame]:
         df = pd.read_csv(filepath)
@@ -253,6 +257,56 @@ class SoybeanStoryboardParser:
 
         return soybean_market_balance_df
 
+    def parse_socioeconomic_data(self, gdp_filepath, population_filepath, urban_population_filepath):
+        gdp_df = pd.read_csv(gdp_filepath, skiprows=4)
+        population_df = pd.read_csv(population_filepath, skiprows=4)
+        urban_population_df = pd.read_csv(urban_population_filepath, skiprows=4)
+        gdp_df.drop(columns=['Country Code', 'Indicator Name', 'Indicator Code'], inplace=True)
+        gdp_df = gdp_df.dropna(axis=1, how='all')
+
+        population_df.drop(columns=['Country Code', 'Indicator Name', 'Indicator Code'], inplace=True)
+        population_df = population_df.dropna(axis=1, how='all')
+
+        urban_population_df.drop(columns=['Country Code', 'Indicator Name', 'Indicator Code'], inplace=True)
+        urban_population_df = urban_population_df.dropna(axis=1, how='all')
+
+        # Filter for the three countries
+        countries = ['China']
+        gdp_filtered_df = gdp_df[gdp_df['Country Name'].isin(countries)]
+        population_filtered_df = population_df[population_df['Country Name'].isin(countries)]
+        urban_population_filtered_df = urban_population_df[urban_population_df['Country Name'].isin(countries)]
+
+        # Reshape from wide to long format
+        gdp_filtered_df = gdp_filtered_df.melt(
+            id_vars='Country Name',
+            var_name='Year',
+            value_name='gdp_per_capita',
+        )
+
+        population_filtered_df = population_filtered_df.melt(
+            id_vars='Country Name',
+            var_name='Year',
+            value_name='total_population'
+        )
+
+        population_filtered_df['total_population'] = population_filtered_df['total_population'].astype(int)
+
+        urban_population_filtered_df = urban_population_filtered_df.melt(
+            id_vars='Country Name',
+            var_name='Year',
+            value_name='urban_population_percent'
+        )
+
+        socioeconomic_df = reduce(
+            lambda left, right: left.merge(right, on=['Year', 'Country Name'], how='left'), [gdp_filtered_df, population_filtered_df, urban_population_filtered_df])
+
+        socioeconomic_df['urban_population'] = (socioeconomic_df['total_population'] * (socioeconomic_df[
+                                                                                            'urban_population_percent'] / 100)).round().astype(int)
+
+        socioeconomic_df.drop(columns=['Country Name', 'urban_population_percent'], inplace=True)
+
+        return socioeconomic_df
+
     def parse_and_process(self):
         pork_poultry_demand = self.parse_china_demand(self.pork_poultry_filepath)
         pork_df = pork_poultry_demand["pork"]
@@ -341,6 +395,9 @@ class SoybeanStoryboardParser:
 
         market_balance.to_csv("soybeans_marketbalance_data.csv", index=False)
 
+        # Socioeconomic data
+        china_socioeconomic_df = self.parse_socioeconomic_data(self.gdp_filepath, self.population_filepath, self.urban_population_filepath)
+        china_socioeconomic_df.to_csv("china_socioeconomic_data.csv", index=False)
 
 
 if __name__ == '__main__':
@@ -360,8 +417,13 @@ if __name__ == '__main__':
     soybean_imports = "../storyboard/market_balance/soybean_imports_1999_2025.csv"
     soybean_consumption = "../storyboard/market_balance/soybean_domestic_consumption_1999_2025.csv"
 
+    gdp_data = "../storyboard/world_bank/API_NY.GDP.PCAP.CD_DS2_en_csv_v2_121663.csv"
+    population_data = "../storyboard/world_bank/API_SP.POP.TOTL_DS2_en_csv_v2_127039.csv"
+    urban_population_data = "../storyboard/world_bank/API_SP.URB.TOTL.IN.ZS_DS2_en_csv_v2_121583.csv"
+
     storyboard_parser = SoybeanStoryboardParser(pork_poultry_data, us_planted_acres_data, br_planted_acres_data,
-                                                soybean_production, soybean_exports, soybean_imports, soybean_consumption)
+                                                soybean_production, soybean_exports, soybean_imports,
+                                                soybean_consumption, gdp_data, population_data, urban_population_data)
     storyboard_parser.parse_and_process()
 
 
