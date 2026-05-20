@@ -1,13 +1,19 @@
 from pathlib import Path
 import pandas as pd
+from functools import reduce
 import json
 
 class SoybeanStoryboardParser:
 
-    def __init__(self, pork_poultry_filepath, us_planted_acres_filepaths, br_planted_acres_filepath):
+    def __init__(self, pork_poultry_filepath, us_planted_acres_filepaths, br_planted_acres_filepath,
+                 soybean_production_filepath, soybean_exports_filepath, soybean_imports_filepath, soybean_consumption_filepath):
         self.pork_poultry_filepath = pork_poultry_filepath
         self.us_planted_acres_filepaths = us_planted_acres_filepaths
         self.br_planted_acres_filepath = br_planted_acres_filepath
+        self.soybean_production_filepath = soybean_production_filepath
+        self.soybean_exports_filepath = soybean_exports_filepath
+        self.soybean_imports_filepath = soybean_imports_filepath
+        self.soybean_consumption_filepath = soybean_consumption_filepath
 
     def parse_china_demand(self, filepath: str) -> dict[str, pd.DataFrame]:
         df = pd.read_csv(filepath)
@@ -124,6 +130,129 @@ class SoybeanStoryboardParser:
 
         return soybeans_df
 
+    def parse_market_balance(self, soybean_production_filepath, soybean_exports_filepath, soybean_imports_filepath,
+                             soybean_consumption_filepath):
+        # Load the data
+        soy_production_df = pd.read_csv(soybean_production_filepath)
+        soy_exports_df = pd.read_csv(soybean_exports_filepath)
+        soy_imports_df = pd.read_csv(soybean_imports_filepath)
+        soy_consumption_df = pd.read_csv(soybean_consumption_filepath)
+
+        # Reshape form wide to long format so we can compute total imports worldwide
+        soy_imports_df = soy_imports_df.melt(
+            id_vars='Country',
+            var_name='Year',
+            value_name='importsMT'
+        )
+
+        # Compute percentage worldwide for the imports
+        soy_imports_df['importPercentageWorldwide'] = (soy_imports_df['importsMT'] / soy_imports_df.groupby('Year')[
+            'importsMT'].transform('sum') * 100
+        )
+
+        # Filter for the three countries
+        countries = ['United States of America', 'Brazil', 'China', 'Argentina']
+        production_filtered_df = soy_production_df[soy_production_df['Country'].isin(countries)]
+        exports_filtered_df = soy_exports_df[soy_exports_df['Country'].isin(countries)]
+        imports_filtered_df = soy_imports_df[soy_imports_df['Country'].isin(countries)]
+        consumption_filtered_df = soy_consumption_df[soy_consumption_df['Country'].isin(countries)]
+
+        # Reshape from wide to long format
+        production_filtered_df = production_filtered_df.melt(
+            id_vars='Country',
+            var_name='Year',
+            value_name='productionMT'
+        )
+        exports_filtered_df = exports_filtered_df.melt(
+            id_vars='Country',
+            var_name='Year',
+            value_name='exportsMT'
+        )
+
+        consumption_filtered_df = consumption_filtered_df.melt(
+            id_vars='Country',
+            var_name='Year',
+            value_name='consumptionMT'
+        )
+        
+        soybean_market_balance_dfs = [production_filtered_df, exports_filtered_df, imports_filtered_df, consumption_filtered_df]
+
+        soybean_market_balance_df = reduce(
+            lambda left, right: left.merge(right, on=['Country', 'Year'], how='left'),
+            soybean_market_balance_dfs
+        )
+
+        # Convert Year to integer
+        soybean_market_balance_df['Year'] = soybean_market_balance_df['Year'].astype(int)
+
+        soybean_market_balance_df = soybean_market_balance_df.sort_values(['Country', 'Year']).reset_index(drop=True)
+
+        # Define beginning stocks for 1999
+        beginning_stocks = {
+            'United States of America': 9484000,
+            'Brazil': 8086000,
+            'China': 1904000,
+            'Argentina': 7145000,
+        }
+
+        country_codes = {
+            'United States of America': 'US',
+            'Brazil': 'BR',
+            'China': 'CN',
+            'Argentina': 'AR',
+        }
+        soybean_market_balance_df['code'] = soybean_market_balance_df['Country'].map(country_codes)
+
+        soybean_market_balance_df['Beginning_Stock'] = soybean_market_balance_df['Country'].map(beginning_stocks)
+
+        # Compute ending stock row by row, carrying forward the previous year's ending stock
+        def compute_ending_stocks(group):
+            for i, idx in enumerate(group.index):
+                if i == 0:
+                    # First year: use the static beginning stock
+                    beg = group.loc[idx, 'Beginning_Stock']
+                else:
+                    # Subsequent years: beginning stock = prior year's ending stock
+                    beg = group.loc[prev_idx, 'endingStockMT']
+
+                group.loc[idx, 'endingStockMT'] = (
+                        beg
+                        + group.loc[idx, 'productionMT']
+                        + group.loc[idx, 'importsMT']
+                        - group.loc[idx, 'exportsMT']
+                        - group.loc[idx, 'consumptionMT']
+                )
+                prev_idx = idx
+            return group
+
+        soybean_market_balance_df = soybean_market_balance_df.groupby('Country', group_keys=False).apply(
+            compute_ending_stocks)
+
+        soybean_market_balance_df = soybean_market_balance_df.drop(columns=['Beginning_Stock'])
+
+        # Add Production, Import, Exports and Consumption column in bushels
+        TONS_TO_BUSHELS = 36.7437
+        cols_to_convert = ['productionMT', 'importsMT', 'exportsMT', 'consumptionMT', 'endingStockMT']
+
+        for col in cols_to_convert:
+            soybean_market_balance_df[f'{col}Bushels'] = soybean_market_balance_df[col] * TONS_TO_BUSHELS
+
+        # Final cleanup for column matching
+        soybean_market_balance_df.rename(columns={'Country' : 'country', 'productionMTBushels': 'productionBushels',
+                                                  'exportsMTBushels': 'exportsBushels', 'importsMTBushels':
+                                                      'importsBushels', 'consumptionMTBushels': 'consumptionBushels',
+                                                  'endingStockMTBushels': 'endingStockBushels'}, inplace=True)
+        soybean_market_balance_df['commodityName'] = 'soybeans'
+
+        soybean_market_balance_df = soybean_market_balance_df[['Year', 'country', 'code', 'commodityName',
+                                                               'productionMT', 'productionBushels', 'exportsMT',
+                                                               'exportsBushels', 'importsMT', 'importsBushels',
+                                                               'consumptionMT', 'consumptionBushels',
+                                                               'importPercentageWorldwide', 'endingStockMT',
+                                                               'endingStockBushels']]
+
+        return soybean_market_balance_df
+
     def parse_and_process(self):
         pork_poultry_demand = self.parse_china_demand(self.pork_poultry_filepath)
         pork_df = pork_poultry_demand["pork"]
@@ -207,6 +336,12 @@ class SoybeanStoryboardParser:
         with open('brazil_plantedacres_soybeans_2005_2024.json', 'w', encoding='utf-8') as f:
             json.dump(final_output, f, ensure_ascii=False, indent=3)
 
+        market_balance = self.parse_market_balance(self.soybean_production_filepath, self.soybean_exports_filepath,
+                                                   self.soybean_imports_filepath, self.soybean_consumption_filepath)
+
+        market_balance.to_csv("soybeans_marketbalance_data.csv", index=False)
+
+
 
 if __name__ == '__main__':
     # Pork and Poultry Demand
@@ -220,7 +355,13 @@ if __name__ == '__main__':
 
     br_planted_acres_data = "../storyboard/planted_acres/BR/Brazil_soy_data_city.csv"
 
-    storyboard_parser = SoybeanStoryboardParser(pork_poultry_data, us_planted_acres_data, br_planted_acres_data)
+    soybean_production = "../storyboard/market_balance/soybean_production_1999_2025.csv"
+    soybean_exports = "../storyboard/market_balance/soybean_exports_1999_2025.csv"
+    soybean_imports = "../storyboard/market_balance/soybean_imports_1999_2025.csv"
+    soybean_consumption = "../storyboard/market_balance/soybean_domestic_consumption_1999_2025.csv"
+
+    storyboard_parser = SoybeanStoryboardParser(pork_poultry_data, us_planted_acres_data, br_planted_acres_data,
+                                                soybean_production, soybean_exports, soybean_imports, soybean_consumption)
     storyboard_parser.parse_and_process()
 
 
